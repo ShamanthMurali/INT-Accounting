@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T22:44:03.448Z" agent="5.0 (X11)" etag="1Eenz0wGsRX35yrViJ8U" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T22:52:20.293Z" agent="5.0 (X11)" etag="Nz13CaVI2Ga9JlQk7Zrk" version="14.3.2" type="github">
   <diagram id="I7_z0FoWht9eGq-qSi0n" name="Page-1">
     <mxGraphModel dx="1571" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,7 +199,10 @@
         <mxCell id="b9Rnooc1hcWA-0569T8s-22" value="&lt;div&gt;measurements of elements &lt;br&gt;&lt;/div&gt;&lt;div&gt;of financial statements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b9Rnooc1hcWA-0569T8s-24" value="&lt;div&gt;Net realisable value&lt;/div&gt;&lt;div&gt;(NRV)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b9Rnooc1hcWA-0569T8s-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9Rnooc1hcWA-0569T8s-24" target="b9Rnooc1hcWA-0569T8s-36" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-24" value="&lt;div&gt;&amp;nbsp;&amp;nbsp; Net realisable value&lt;/div&gt;&lt;div&gt;(NRV)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="730" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b9Rnooc1hcWA-0569T8s-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9Rnooc1hcWA-0569T8s-25" target="b9Rnooc1hcWA-0569T8s-34" visible="0">
@@ -220,8 +223,17 @@
         <mxCell id="b9Rnooc1hcWA-0569T8s-32" value="Historical&amp;nbsp; cost&amp;nbsp; means&amp;nbsp; acquisition&amp;nbsp; price.&amp;nbsp; For&amp;nbsp; example,&amp;nbsp; the businessman&amp;nbsp; paid ` 7,00,000&amp;nbsp; to&amp;nbsp; purchase&amp;nbsp; the&amp;nbsp; machine,&amp;nbsp; its&amp;nbsp; acquisition&amp;nbsp; price including installation charges is ` 8,00,000. The historical cost of machine would be ` 8,00,000. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="365" y="780" width="290" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9Rnooc1hcWA-0569T8s-34" target="b9Rnooc1hcWA-0569T8s-38" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b9Rnooc1hcWA-0569T8s-34" value="Assets are carried&amp;nbsp; at the amount of cash or cash equivalent that would have to be paid if the same or an equivalent asset was acquired currently. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="495" y="800" width="310" height="50" as="geometry" />
+          <mxGeometry x="495" y="780" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-36" value="&amp;nbsp;the amount of cash or cash equivalents&amp;nbsp; currently&amp;nbsp; realisable&amp;nbsp; on&amp;nbsp; sale&amp;nbsp; of&amp;nbsp; the&amp;nbsp; asset&amp;nbsp; in&amp;nbsp; an&amp;nbsp; orderly&amp;nbsp; disposal. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="630" y="780" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-38" value="it is not same as nrv because nrv is the money you can realise by selling second hand(rough). but current value is the sum to buy new" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="495" y="850" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
