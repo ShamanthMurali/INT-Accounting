@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T15:50:19.996Z" agent="5.0 (X11)" etag="yNc-abI05nPpVUONNC7t" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T16:45:02.099Z" agent="5.0 (X11)" etag="S4myR1WjJGXiS5Dhewn7" version="14.3.2" type="github">
   <diagram id="8q87sO1Gwuv1NfBpuQD0" name="Page-1">
     <mxGraphModel dx="1253" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,11 +19,56 @@
         <mxCell id="auHi0LfyUBTsnvpMi2V3-2" value="Accounting Standards are written policy documents, covering guidelines&lt;br&gt;relating to Issues in Financial Reporting." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="440" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-4" target="auHi0LfyUBTsnvpMi2V3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="auHi0LfyUBTsnvpMi2V3-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. uniformity/ standardisation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;u&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2. Disclosure of relevant information&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. comparability&lt;/div&gt;&lt;div&gt;a. int&lt;u&gt;ra&lt;/u&gt;-enterprise(comparison&amp;nbsp; of financial&amp;nbsp; statements of&amp;nbsp; same&amp;nbsp; enterprise&amp;nbsp; over a&amp;nbsp; number&amp;nbsp; of&amp;nbsp; years.)&lt;/div&gt;&lt;div&gt;b.&amp;nbsp; int&lt;u&gt;er&lt;/u&gt;-enterprise(comparison of financial statements of different enterprises for same accounting period.)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="280" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-5" target="auHi0LfyUBTsnvpMi2V3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="auHi0LfyUBTsnvpMi2V3-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. It is rigid and does not allow flexibility in applying standards.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Differences in AS are bound because of differences in traditions and legal system&lt;br&gt;from one country to another.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Standards cannot override the law.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. The choice between alternate accounting treatment in a particular situation is&lt;br&gt;eliminated.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="440" y="140" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-8" target="auHi0LfyUBTsnvpMi2V3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-8" value="no. of Accounting Standards = 27" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-11" target="auHi0LfyUBTsnvpMi2V3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-11" target="auHi0LfyUBTsnvpMi2V3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-11" value="There are two sets of accounting standards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-12" target="auHi0LfyUBTsnvpMi2V3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-12" value="&lt;div&gt;Indian GAAP/&lt;/div&gt;&lt;div&gt;existing AS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-13" target="auHi0LfyUBTsnvpMi2V3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-13" value="Ind AS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-18" value="Applicable to small and large firms operating within the country" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auHi0LfyUBTsnvpMi2V3-20" target="auHi0LfyUBTsnvpMi2V3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-20" value="follows IFRS or international accounting standards" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="auHi0LfyUBTsnvpMi2V3-22" value="&lt;div&gt;For companies operating in a global scale.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="670" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
