@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T21:33:30.915Z" agent="5.0 (X11)" etag="i4k-6gvtwi_zClR1m7QY" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T22:21:20.099Z" agent="5.0 (X11)" etag="GEoFVacqPC_iwLMAyGF6" version="14.3.2" type="github">
   <diagram id="I7_z0FoWht9eGq-qSi0n" name="Page-1">
-    <mxGraphModel dx="1484" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,10 +145,16 @@
         <mxCell id="IMK8aK7pSHEPP-X_xxwW-35" value="Assets" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="80" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-36" value="Liability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b9Rnooc1hcWA-0569T8s-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-36" target="b9Rnooc1hcWA-0569T8s-15" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-36" value="Liability" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="220" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-37" value="Equity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b9Rnooc1hcWA-0569T8s-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-37" target="b9Rnooc1hcWA-0569T8s-20" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-37" value="Equity" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="360" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMK8aK7pSHEPP-X_xxwW-38" value="Income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -165,6 +171,18 @@
         </mxCell>
         <mxCell id="b9Rnooc1hcWA-0569T8s-12" value="&lt;div&gt;1. It should generate future economic benefit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. the asset must be controlled by the enterprise(ownership is not compulsory{rent,lease}. but is subject to conditions) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. its economics benefit must be derived for more than a year. if it is less than a year then it is not an asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. it should have a cost value that is measurable reliably.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-75" y="820" width="430" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9Rnooc1hcWA-0569T8s-15" target="b9Rnooc1hcWA-0569T8s-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-15" value="Recognition criteria for Liabilities?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="160" y="780" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-18" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. The liabilities result from past event or transaction&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The entity has a legal obligation on those transactions or event&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;3. There will be economic outflow from an entity when they are settled.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="120" y="820" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-20" value="Equity is the excess of aggregate assets of an enterprise over its aggregate liabilities. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="280" y="780" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
