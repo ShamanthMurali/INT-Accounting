@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T17:40:24.110Z" agent="5.0 (X11)" etag="cAQZ9MDwVp31eRslFr5S" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T21:33:30.915Z" agent="5.0 (X11)" etag="i4k-6gvtwi_zClR1m7QY" version="14.3.2" type="github">
   <diagram id="I7_z0FoWht9eGq-qSi0n" name="Page-1">
-    <mxGraphModel dx="714" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-1" target="IMK8aK7pSHEPP-X_xxwW-2">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-1" target="IMK8aK7pSHEPP-X_xxwW-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-1" value="&amp;nbsp;Framework for Preparation and Presentation of Financial Statements " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-1" value="&amp;nbsp;Framework for Preparation and Presentation of Financial Statements " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-2" target="IMK8aK7pSHEPP-X_xxwW-5">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-2" target="IMK8aK7pSHEPP-X_xxwW-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-2" target="IMK8aK7pSHEPP-X_xxwW-4">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-2" target="IMK8aK7pSHEPP-X_xxwW-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-2" target="IMK8aK7pSHEPP-X_xxwW-3">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-2" target="IMK8aK7pSHEPP-X_xxwW-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-2" value="Financial statements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-2" value="Financial statements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-3" target="IMK8aK7pSHEPP-X_xxwW-10">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-3" target="IMK8aK7pSHEPP-X_xxwW-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="280" />
@@ -42,34 +42,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-3" value="cash flow statement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-3" value="cash flow statement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-4" target="IMK8aK7pSHEPP-X_xxwW-8">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-4" target="IMK8aK7pSHEPP-X_xxwW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-4" value="Profit and loss account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-4" value="Profit and loss account" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-5" target="IMK8aK7pSHEPP-X_xxwW-6">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-5" target="IMK8aK7pSHEPP-X_xxwW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-5" value="Balance sheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-5" value="Balance sheet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-6" value="portrays&amp;nbsp; value&amp;nbsp; of&amp;nbsp; economic&amp;nbsp; resources&amp;nbsp; controlled&amp;nbsp; by&amp;nbsp; an&amp;nbsp; enterprise.&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-6" value="portrays&amp;nbsp; value&amp;nbsp; of&amp;nbsp; economic&amp;nbsp; resources&amp;nbsp; controlled&amp;nbsp; by&amp;nbsp; an&amp;nbsp; enterprise.&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="140" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-8" value="&amp;nbsp;presents&amp;nbsp; the&amp;nbsp; result&amp;nbsp; of&amp;nbsp; operations&amp;nbsp; of&amp;nbsp; an&amp;nbsp; enterprise&amp;nbsp; for&amp;nbsp; an&amp;nbsp; accounting&amp;nbsp; period," style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-8" value="&amp;nbsp;presents&amp;nbsp; the&amp;nbsp; result&amp;nbsp; of&amp;nbsp; operations&amp;nbsp; of&amp;nbsp; an&amp;nbsp; enterprise&amp;nbsp; for&amp;nbsp; an&amp;nbsp; accounting&amp;nbsp; period," style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="200" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-10" value="&amp;nbsp;shows&amp;nbsp; the&amp;nbsp; way&amp;nbsp; an&amp;nbsp; enterprise&amp;nbsp; has&amp;nbsp; generated&amp;nbsp; cash&amp;nbsp; and&amp;nbsp; the&amp;nbsp; way&amp;nbsp; they&amp;nbsp; have&amp;nbsp; been&amp;nbsp; used&amp;nbsp; in&amp;nbsp; an&amp;nbsp; accounting&amp;nbsp; period&amp;nbsp; and&amp;nbsp; helps&amp;nbsp; in&amp;nbsp; evaluating&amp;nbsp; the&amp;nbsp; investing, financing and operating activities during the reporting period." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-10" value="&amp;nbsp;shows&amp;nbsp; the&amp;nbsp; way&amp;nbsp; an&amp;nbsp; enterprise&amp;nbsp; has&amp;nbsp; generated&amp;nbsp; cash&amp;nbsp; and&amp;nbsp; the&amp;nbsp; way&amp;nbsp; they&amp;nbsp; have&amp;nbsp; been&amp;nbsp; used&amp;nbsp; in&amp;nbsp; an&amp;nbsp; accounting&amp;nbsp; period&amp;nbsp; and&amp;nbsp; helps&amp;nbsp; in&amp;nbsp; evaluating&amp;nbsp; the&amp;nbsp; investing, financing and operating activities during the reporting period." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="260" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-17">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-20">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="420" />
@@ -77,10 +77,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-21">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-19">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-16" target="IMK8aK7pSHEPP-X_xxwW-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="420" />
@@ -88,53 +88,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-16" value="Fundamental Accounting Assumptions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-16" value="Fundamental Accounting Assumptions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="360" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-17" value="it is assumed in the preparation of financial statements that these concepts are followed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-17" value="it is assumed in the preparation of financial statements that these concepts are followed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="355" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-19" target="IMK8aK7pSHEPP-X_xxwW-32">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-19" target="IMK8aK7pSHEPP-X_xxwW-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-19" value="Consistency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-19" value="Consistency" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-20" target="IMK8aK7pSHEPP-X_xxwW-25">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-20" target="IMK8aK7pSHEPP-X_xxwW-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-20" value="Going concern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-20" value="Going concern" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-21" target="IMK8aK7pSHEPP-X_xxwW-30">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IMK8aK7pSHEPP-X_xxwW-21" target="IMK8aK7pSHEPP-X_xxwW-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-21" value="Accural" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-21" value="Accural" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-25" value="Financial&amp;nbsp;&amp;nbsp; statements&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; normally&amp;nbsp;&amp;nbsp; prepared&amp;nbsp;&amp;nbsp; on&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; assumption that an enterprise will continue in operation in the foreseeable future " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-25" value="Financial&amp;nbsp;&amp;nbsp; statements&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; normally&amp;nbsp;&amp;nbsp; prepared&amp;nbsp;&amp;nbsp; on&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; assumption that an enterprise will continue in operation in the foreseeable future " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="500" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-30" value="revenues&amp;nbsp; and&amp;nbsp; costs&amp;nbsp; are&amp;nbsp; accrued,&amp;nbsp; that&amp;nbsp; is, recognised as they are earned or incurred (and not as money is received or paid) and&amp;nbsp; recorded&amp;nbsp; in&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; statements&amp;nbsp; of&amp;nbsp; the&amp;nbsp; periods&amp;nbsp; to&amp;nbsp; which&amp;nbsp; they&amp;nbsp; relate." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-30" value="revenues&amp;nbsp; and&amp;nbsp; costs&amp;nbsp; are&amp;nbsp; accrued,&amp;nbsp; that&amp;nbsp; is, recognised as they are earned or incurred (and not as money is received or paid) and&amp;nbsp; recorded&amp;nbsp; in&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; statements&amp;nbsp; of&amp;nbsp; the&amp;nbsp; periods&amp;nbsp; to&amp;nbsp; which&amp;nbsp; they&amp;nbsp; relate." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="500" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-32" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; It is assumed that accounting policies are consistent from one period to another.&lt;/div&gt;&lt;div&gt;(not as if you are changing policies every now and then)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-32" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; It is assumed that accounting policies are consistent from one period to another.&lt;/div&gt;&lt;div&gt;(not as if you are changing policies every now and then)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="500" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-34" value="Elements in financial statements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b9Rnooc1hcWA-0569T8s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-34" target="IMK8aK7pSHEPP-X_xxwW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-34" target="IMK8aK7pSHEPP-X_xxwW-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-34" target="IMK8aK7pSHEPP-X_xxwW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-34" target="IMK8aK7pSHEPP-X_xxwW-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-34" target="b9Rnooc1hcWA-0569T8s-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-34" value="Elements in financial statements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-35" value="Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="b9Rnooc1hcWA-0569T8s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMK8aK7pSHEPP-X_xxwW-35" target="b9Rnooc1hcWA-0569T8s-7" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-36" value="Liability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-35" value="Assets" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="80" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-37" value="Equity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-36" value="Liability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMK8aK7pSHEPP-X_xxwW-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-37" value="Equity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IMK8aK7pSHEPP-X_xxwW-38" value="Income" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-1" value="Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9Rnooc1hcWA-0569T8s-7" target="b9Rnooc1hcWA-0569T8s-12" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-7" value="What to classify as an asset?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="55" y="780" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-12" value="&lt;div&gt;1. It should generate future economic benefit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. the asset must be controlled by the enterprise(ownership is not compulsory{rent,lease}. but is subject to conditions) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. its economics benefit must be derived for more than a year. if it is less than a year then it is not an asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. it should have a cost value that is measurable reliably.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-75" y="820" width="430" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
