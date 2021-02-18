@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T22:35:04.235Z" agent="5.0 (X11)" etag="A7BfgIOQI6voSu3OCnZ5" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T22:44:03.448Z" agent="5.0 (X11)" etag="1Eenz0wGsRX35yrViJ8U" version="14.3.2" type="github">
   <diagram id="I7_z0FoWht9eGq-qSi0n" name="Page-1">
-    <mxGraphModel dx="1450" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,14 +202,26 @@
         <mxCell id="b9Rnooc1hcWA-0569T8s-24" value="&lt;div&gt;Net realisable value&lt;/div&gt;&lt;div&gt;(NRV)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b9Rnooc1hcWA-0569T8s-25" value="Current cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b9Rnooc1hcWA-0569T8s-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9Rnooc1hcWA-0569T8s-25" target="b9Rnooc1hcWA-0569T8s-34" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-25" value="Current cost" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="590" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b9Rnooc1hcWA-0569T8s-26" value="Present value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b9Rnooc1hcWA-0569T8s-27" value="Historical cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b9Rnooc1hcWA-0569T8s-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9Rnooc1hcWA-0569T8s-27" target="b9Rnooc1hcWA-0569T8s-32" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-27" value="Historical cost" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="450" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-32" value="Historical&amp;nbsp; cost&amp;nbsp; means&amp;nbsp; acquisition&amp;nbsp; price.&amp;nbsp; For&amp;nbsp; example,&amp;nbsp; the businessman&amp;nbsp; paid ` 7,00,000&amp;nbsp; to&amp;nbsp; purchase&amp;nbsp; the&amp;nbsp; machine,&amp;nbsp; its&amp;nbsp; acquisition&amp;nbsp; price including installation charges is ` 8,00,000. The historical cost of machine would be ` 8,00,000. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="365" y="780" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Rnooc1hcWA-0569T8s-34" value="Assets are carried&amp;nbsp; at the amount of cash or cash equivalent that would have to be paid if the same or an equivalent asset was acquired currently. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="495" y="800" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
