@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T20:03:16.319Z" agent="5.0 (X11)" etag="QD5MLnUI99B7HYN5UVXQ" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T20:11:01.427Z" agent="5.0 (X11)" etag="Ptt5akzbddlp-3amr7Fu" version="14.4.2" type="github">
   <diagram id="DMUBRZHgN32i6XLRUbCx" name="Page-1">
     <mxGraphModel dx="1881" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,6 +337,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="990" as="sourcePoint" />
             <mxPoint x="490" y="939.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3drXSkqy6DKFboHMYDI-68" value="Use L2 instead of L1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e3drXSkqy6DKFboHMYDI-65">
+          <mxGeometry x="0.3686" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e3drXSkqy6DKFboHMYDI-66" value="any NPO or Trust enterprises which is non comercial, then all AS are exempted for them. " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" vertex="1" parent="1">
