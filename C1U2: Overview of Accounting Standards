@@ -1,1 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T20:15:17.166Z" agent="5.0 (X11)" version="14.4.2" etag="xVqIAV66VDMoyjmjk2Gy" type="github"><diagram id="Xaiu3GVk35by8MaD2y5A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-19T20:17:49.620Z" agent="5.0 (X11)" etag="PxqTAuCMMkYt6SLkLlmE" version="14.4.2" type="github">
+  <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
+    <mxGraphModel dx="1012" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1LN1yMJUp_J7Lrd1q6oo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-2" target="1LN1yMJUp_J7Lrd1q6oo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1LN1yMJUp_J7Lrd1q6oo-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Disclosure of Accounting Policies&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="1LN1yMJUp_J7Lrd1q6oo-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="240" y="120" width="320" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
