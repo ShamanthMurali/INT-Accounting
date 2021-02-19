@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T19:42:01.868Z" agent="5.0 (X11)" etag="WloySLaeMfKqtiG14L18" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T20:03:16.319Z" agent="5.0 (X11)" etag="QD5MLnUI99B7HYN5UVXQ" version="14.4.2" type="github">
   <diagram id="DMUBRZHgN32i6XLRUbCx" name="Page-1">
-    <mxGraphModel dx="853" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1881" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,15 +65,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sO2n0iu3DcNw9CbCqT37-18" value="&lt;div&gt;Large non-companies&lt;/div&gt;&lt;div&gt;i.e. partnerships, llps, and NPOs etc.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e3drXSkqy6DKFboHMYDI-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="sO2n0iu3DcNw9CbCqT37-21" target="e3drXSkqy6DKFboHMYDI-4">
+        <mxCell id="e3drXSkqy6DKFboHMYDI-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="sO2n0iu3DcNw9CbCqT37-21" target="e3drXSkqy6DKFboHMYDI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sO2n0iu3DcNw9CbCqT37-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exemptions&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;None&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e3drXSkqy6DKFboHMYDI-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="sO2n0iu3DcNw9CbCqT37-22" target="e3drXSkqy6DKFboHMYDI-4">
+        <mxCell id="e3drXSkqy6DKFboHMYDI-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="sO2n0iu3DcNw9CbCqT37-22" target="e3drXSkqy6DKFboHMYDI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sO2n0iu3DcNw9CbCqT37-22" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exemptions&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;None&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -95,13 +95,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sO2n0iu3DcNw9CbCqT37-30" value="Small and medium size non-companies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e3drXSkqy6DKFboHMYDI-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=4;" edge="1" parent="1" source="sO2n0iu3DcNw9CbCqT37-31" target="e3drXSkqy6DKFboHMYDI-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sO2n0iu3DcNw9CbCqT37-31" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exemptions&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;AS 17, 3&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sO2n0iu3DcNw9CbCqT37-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sO2n0iu3DcNw9CbCqT37-34" target="sO2n0iu3DcNw9CbCqT37-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,11 +149,11 @@
         <mxCell id="e3drXSkqy6DKFboHMYDI-4" value="&lt;div&gt;Category Conditions for &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;LEVEL I&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) Any enterprise listed or in the process of being list in securities of india or outside india(stock market).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) any banking, insurance and finance companies.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3) If &quot;turn over(TO) &amp;gt; 50 crores&quot; in the previous FY then this FY the enterprise will become LEVEL I.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4) Borrowing: including public and long term&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;borrowing &amp;gt; 10 crores&quot; in the previous FY then this FY the enterprise will become LEVEL I.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5) Holding / subsidiary.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="240" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="e3drXSkqy6DKFboHMYDI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e3drXSkqy6DKFboHMYDI-7" value="Category Conditions for&lt;br&gt;&lt;u&gt;&lt;b&gt;LEVEL II&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1) If &quot;turn over(TO) ≤ 50 crores or TO &amp;gt; 10 crores&quot; in the previous FY then this FY the enterprise will become LEVEL II.&lt;br&gt;&lt;br&gt;2) Borrowing: including public and long term&lt;br&gt;&amp;nbsp;&quot;borrowing ≤ 10 crores or&amp;nbsp; borrowing &amp;gt; 1 crore&quot; in the previous FY then this FY the enterprise will become LEVEL II.&lt;br&gt;&lt;br&gt;3) Holding / subsidiary." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="520" width="240" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="e3drXSkqy6DKFboHMYDI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="240" height="360" as="geometry" />
+        <mxCell id="e3drXSkqy6DKFboHMYDI-10" value="Category Conditions for&lt;br&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;LEVEL III&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Other than level I and level II&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="e3drXSkqy6DKFboHMYDI-15" value="Rules" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="107.5" y="900" width="105" height="20" as="geometry">
@@ -332,6 +332,18 @@
         </mxCell>
         <mxCell id="e3drXSkqy6DKFboHMYDI-14" value="&lt;div&gt;in total of borrowing when it comes to interest:&lt;/div&gt;&lt;div&gt;1. only interest due should be taken into count&lt;/div&gt;&lt;div&gt;2. interest accrued but not due should not be counted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;example:&lt;/div&gt;&lt;div&gt;1. total borrowing = 9.5 crore&lt;/div&gt;&lt;div&gt;interest due(interest o/s)=0.6 crore&lt;/div&gt;&lt;div&gt;total borrowing = 10.1 crore&lt;/div&gt;&lt;div&gt;&lt;u&gt;so, in this case the enterprise is considered LEVEL I.&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2. total borrowing = 9.5 crore&lt;div&gt;interest due(interest o/s)=0.1 crore&lt;/div&gt;&lt;div&gt;interest accrued(interest due date has not yet come)=1 crore&lt;/div&gt;&lt;div&gt;total borrowing = 11.6 crore&lt;/div&gt;&lt;div&gt;&lt;u&gt;so, in this case the enterprise is &lt;b&gt;not&lt;/b&gt; LEVEL I.&lt;/u&gt;&lt;/div&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e3drXSkqy6DKFboHMYDI-13">
           <mxGeometry y="40" width="210" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="e3drXSkqy6DKFboHMYDI-65" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.417;entryY=0.778;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="e3drXSkqy6DKFboHMYDI-15" target="e3drXSkqy6DKFboHMYDI-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="990" as="sourcePoint" />
+            <mxPoint x="490" y="939.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3drXSkqy6DKFboHMYDI-66" value="any NPO or Trust enterprises which is non comercial, then all AS are exempted for them. " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" vertex="1" parent="1">
+          <mxGeometry x="660" y="700" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="e3drXSkqy6DKFboHMYDI-67" value="&lt;div&gt;Any one condition is enough&lt;/div&gt;in all levels" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="520" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
