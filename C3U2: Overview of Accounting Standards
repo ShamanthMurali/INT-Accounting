@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T20:33:39.567Z" agent="5.0 (X11)" etag="HvkBjQD6TbitBNO6NK1F" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T22:05:07.250Z" agent="5.0 (X11)" etag="b4FWjYNWrfF4j9yPOGcv" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1043" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,8 +400,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-77" target="aUA01yDdBmGF5Haiwjqg-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-77" target="aUA01yDdBmGF5Haiwjqg-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-77" target="aUA01yDdBmGF5Haiwjqg-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-77" value="CHANGES IN ACCOUNTING POLICIES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="2000" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-79" value="change in accounting policies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-80" value="&lt;div&gt;not change in accounting policy&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Exceptions]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-81" value="Adoption of new accounting policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
