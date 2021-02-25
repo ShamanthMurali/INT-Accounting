@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T20:18:17.808Z" agent="5.0 (X11)" etag="ruvNA-VpLXipV-_PwDF8" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T20:29:39.051Z" agent="5.0 (X11)" etag="uRUK7nQuOXGKeTAlMWjO" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="596" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1787" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,8 +244,14 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-22" value="Operational items and &lt;u&gt;&lt;b&gt;Non-recurring&lt;/b&gt;&lt;/u&gt; in nature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="460" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-24" target="aUA01yDdBmGF5Haiwjqg-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-24" value="&lt;div&gt;Example:&lt;/div&gt;&lt;div&gt;Rent, Salary, Stationery,&lt;br&gt;Wages, etc.&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="520" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-26" target="aUA01yDdBmGF5Haiwjqg-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-26" value="&lt;div&gt;Example:&lt;/div&gt;&lt;div&gt;(a)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The&amp;nbsp; write-down&amp;nbsp; of&amp;nbsp; inventories&amp;nbsp; to&amp;nbsp; net&amp;nbsp; realisable&amp;nbsp; value&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; the&amp;nbsp; reversal&amp;nbsp; of such write-downs &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A&amp;nbsp; restructuring&amp;nbsp; of&amp;nbsp; the&amp;nbsp; activities&amp;nbsp; of&amp;nbsp; an&amp;nbsp; enterprise&amp;nbsp; and&amp;nbsp; the&amp;nbsp; reversal&amp;nbsp; of&amp;nbsp; any&amp;nbsp; provisions for the costs of restructuring &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) Disposals of items of fixed assets &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Disposals of long-term investments &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e) Legislative changes having retrospective application &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f) Litigation settlements&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(g) Other reversals of provisions &lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06060606060606061;" vertex="1" parent="1">
           <mxGeometry x="520" y="520" width="175" height="380" as="geometry" />
@@ -255,6 +261,9 @@
         </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-28" value="&lt;u&gt;&lt;b&gt;Non-Operational&lt;/b&gt;&lt;/u&gt; items and &lt;u&gt;&lt;b&gt;Non-recurring&lt;/b&gt;&lt;/u&gt; in nature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-30" target="aUA01yDdBmGF5Haiwjqg-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-30" value="&lt;div&gt;Example:&lt;/div&gt;&lt;div&gt;–attachment of property of the enterprise&lt;/div&gt;&lt;div&gt;[ when you dont pay property tax the government has the right to recover the amount from property]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;–an earthquake &lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.13333333333333333;" vertex="1" parent="1">
           <mxGeometry x="730" y="435" width="180" height="155" as="geometry" />
@@ -283,6 +292,9 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-39" value="1. Changes due to retrospective effect is not an error, so is &lt;u&gt;&lt;b&gt;not a prior period item&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="660" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-41" target="aUA01yDdBmGF5Haiwjqg-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-41" value="2.Effect of changes in accounting policies are also &lt;u&gt;&lt;b&gt;not a prior period item&lt;/b&gt;&lt;/u&gt; [because it is mistake /error]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="720" width="280" height="50" as="geometry" />
         </mxCell>
@@ -301,14 +313,44 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-44" value="CHANGES IN ACCOUNTING ESTIMATES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="320" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-46" target="aUA01yDdBmGF5Haiwjqg-48">
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-46" target="aUA01yDdBmGF5Haiwjqg-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-46" value="&lt;div&gt;&lt;u&gt;What is an accounting estimate?&lt;/u&gt;&lt;/div&gt;&lt;div&gt;for example: estimation like, life of an asset, provision for bad debts, &lt;br&gt;&lt;/div&gt;estimation of good will etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1385" y="380" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-48" target="aUA01yDdBmGF5Haiwjqg-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-48" value="&lt;div&gt;&lt;u&gt;Revision of an estimate:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;When life of an asset is extended or reduced, when goodwill gets valued higher or lower etc.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="460" width="270" height="50" as="geometry" />
+          <mxGeometry x="1380" y="460" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-50" target="aUA01yDdBmGF5Haiwjqg-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-50" value="When &lt;u&gt;revision of an estimate&lt;/u&gt; is done, a retrospective effect needs to be given." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="530" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-54" target="aUA01yDdBmGF5Haiwjqg-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-54" value="&lt;div&gt;is the item normal or exceptional or extraordinary?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the type of item in the original estimate = to the type of item in the revision of the estimate&lt;/div&gt;&lt;div&gt;ex: if original estimate item is an extraordinary item then, the reivision estimate is also an extraordinary item.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="590" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-61" value="1. Must be disclosed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-63" value="1. Must be disclosed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-64" value="1. Must be disclosed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="615" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-65" value="1. Must be disclosed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-70" value="1. Must be disclosed &lt;u&gt;&lt;b&gt;only if it is highly material in nature&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
