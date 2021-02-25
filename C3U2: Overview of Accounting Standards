@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T19:42:30.817Z" agent="5.0 (X11)" etag="kIobqn-ZRAFzO3fOlwyN" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T19:43:11.594Z" agent="5.0 (X11)" etag="NvQX65G1p_2ZR8oXjJAO" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="715" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -218,10 +218,10 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-17" value="Exceptional items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-20" value="Operational items and &lt;u&gt;&lt;b&gt;recurring&lt;/b&gt;&lt;/u&gt; in nature in nature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-20" value="Operational items and &lt;u&gt;&lt;b&gt;recurring&lt;/b&gt;&lt;/u&gt; in nature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="460" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-22" value="Operational items and &lt;u&gt;&lt;b&gt;Non-recurring&lt;/b&gt;&lt;/u&gt; in nature in nature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-22" value="Operational items and &lt;u&gt;&lt;b&gt;Non-recurring&lt;/b&gt;&lt;/u&gt; in nature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
