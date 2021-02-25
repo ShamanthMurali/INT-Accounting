@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T19:35:21.181Z" agent="5.0 (X11)" etag="IWbHA57V5Ftr-LdqGmer" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T19:36:47.358Z" agent="5.0 (X11)" etag="w4v_egSQqxFjhL8kbChZ" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="715" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,13 +157,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Net&amp;nbsp; Profit&amp;nbsp; or&amp;nbsp; Loss&amp;nbsp; for&amp;nbsp; the&amp;nbsp; Period,&amp;nbsp; Prior&amp;nbsp; Period&amp;nbsp; Items&amp;nbsp; and Changes in Accounting Policies&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="aUA01yDdBmGF5Haiwjqg-2">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="660" y="120" width="320" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="520" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-5" target="aUA01yDdBmGF5Haiwjqg-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -176,8 +173,14 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-5" value="disclosure&amp;nbsp; of&amp;nbsp; certain items in the statement of profit and loss so that all enterprises prepare and present such&amp;nbsp; a&amp;nbsp; statement&amp;nbsp; on&amp;nbsp; a&amp;nbsp; uniform&amp;nbsp; basis." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="520" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-7" target="aUA01yDdBmGF5Haiwjqg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-7" target="aUA01yDdBmGF5Haiwjqg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-7" value="Ordinary activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-8" value="Extraordinary items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="320" width="120" height="40" as="geometry" />
@@ -185,17 +188,29 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-9" value="prior period items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-13" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aUA01yDdBmGF5Haiwjqg-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="810" as="sourcePoint" />
             <mxPoint x="720" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-14" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-14" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aUA01yDdBmGF5Haiwjqg-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="810" as="sourcePoint" />
             <mxPoint x="920" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="340" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-16" value="Normal items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-17" value="Exceptional items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
