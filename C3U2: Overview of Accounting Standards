@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T21:15:40.035Z" agent="5.0 (X11)" etag="Hxmebd7BsdSrKyGn-AsZ" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T19:34:29.240Z" agent="5.0 (X11)" etag="kWOYkZgj76GB6Njf4HDh" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1779" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-4" target="1LN1yMJUp_J7Lrd1q6oo-18" visible="0">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-4" target="1LN1yMJUp_J7Lrd1q6oo-18" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-4" target="1LN1yMJUp_J7Lrd1q6oo-22" visible="0">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-4" target="1LN1yMJUp_J7Lrd1q6oo-22" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="180" />
@@ -21,7 +21,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-4" target="1LN1yMJUp_J7Lrd1q6oo-7" visible="0">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-4" target="1LN1yMJUp_J7Lrd1q6oo-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="180" />
@@ -73,7 +73,7 @@
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-22" target="1LN1yMJUp_J7Lrd1q6oo-24" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-22" target="1LN1yMJUp_J7Lrd1q6oo-40" visible="0">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-22" target="1LN1yMJUp_J7Lrd1q6oo-40" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-22" value="Change in accounting policy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -124,28 +124,66 @@
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-37" value="always w.r.t to the amount of the transaction or size of the transaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1100" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-40" target="AZR4yMhGMulzrJFEDDSg-1" visible="0">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-40" target="AZR4yMhGMulzrJFEDDSg-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-40" value="&lt;div&gt;Step 2:&lt;/div&gt;&lt;div&gt;Disclosure of Changes in Accounting Policies&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="600" y="340" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AZR4yMhGMulzrJFEDDSg-1" target="AZR4yMhGMulzrJFEDDSg-3" visible="0">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AZR4yMhGMulzrJFEDDSg-1" target="AZR4yMhGMulzrJFEDDSg-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-1" value="&lt;div&gt;When an accounting policy has been changed, its&lt;/div&gt;&lt;div&gt;1) Fact of change&lt;/div&gt;&lt;div&gt;2) Reason for change&lt;/div&gt;&lt;div&gt;3)quantifiable effect of change(only if ascertainable)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;must be disclosed in the following manner...&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" visible="0" parent="1">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-1" value="&lt;div&gt;When an accounting policy has been changed, its&lt;/div&gt;&lt;div&gt;1) Fact of change&lt;/div&gt;&lt;div&gt;2) Reason for change&lt;/div&gt;&lt;div&gt;3)quantifiable effect of change(only if ascertainable)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;must be disclosed in the following manner...&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1" visible="0">
           <mxGeometry x="540" y="410" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-3" value="Example" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-3" value="Example" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="620" y="530" width="120" height="40" as="geometry">
             <mxRectangle x="720" y="520" width="480" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-4" value="&lt;b&gt;Question&lt;/b&gt;&lt;br&gt;In the books of M/s Prashant Ltd., closing inventory as on 31.03.2015 amounts to&lt;br&gt;` 1,63,000 (on the basis of FIFO method).&lt;br&gt;The company decides to change from FIFO method to weighted average method for&lt;br&gt;ascertaining the cost of inventory from the year 2014-15. On the basis of weighted&lt;br&gt;average method, closing inventory as on 31.03.2015 amounts to ` 1,47,000.&lt;br&gt;Realisable value of the inventory as on 31.03.2015 amounts to ` 1,95,000. Discuss&lt;br&gt;disclosure requirement of change in accounting policy as per AS1." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AZR4yMhGMulzrJFEDDSg-3">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-4" value="&lt;b&gt;Question&lt;/b&gt;&lt;br&gt;In the books of M/s Prashant Ltd., closing inventory as on 31.03.2015 amounts to&lt;br&gt;` 1,63,000 (on the basis of FIFO method).&lt;br&gt;The company decides to change from FIFO method to weighted average method for&lt;br&gt;ascertaining the cost of inventory from the year 2014-15. On the basis of weighted&lt;br&gt;average method, closing inventory as on 31.03.2015 amounts to ` 1,47,000.&lt;br&gt;Realisable value of the inventory as on 31.03.2015 amounts to ` 1,95,000. Discuss&lt;br&gt;disclosure requirement of change in accounting policy as per AS1." style="rounded=0;whiteSpace=wrap;html=1;" parent="AZR4yMhGMulzrJFEDDSg-3" vertex="1">
           <mxGeometry y="40" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-5" value="&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Answer&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; As per para 22 of AS 1 “Disclosure of Accounting Policies”, any change in an&lt;br&gt;accounting policy which has a material effect should be disclosed in the financial&lt;br&gt;statements. The amount by which any item in the financial statements is affected by&lt;br&gt;such change should also be disclosed to the extent ascertainable. Where such&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;amount is not ascertainable, wholly or in part, the fact should be indicated. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Thus Prashant Ltd. should disclose the change in valuation method of inventory and its&lt;br&gt;effect on financial statements. The company may disclose the change in accounting&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;policy in the following manner:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; In the present year i.e. 2014 -15, the &lt;b&gt;company has changed to weighted average method&lt;/b&gt;,&lt;b&gt; which better reflects the consumption pattern of inventory&lt;/b&gt;, for ascertaining inventory costs from the earlier practice of using FIFO for the purpose. &lt;b&gt;The change in policy has reduced current profit and value of inventory by ` 16,000.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; The company values its inventory at lower of cost and net realisable value. Since net&lt;br&gt;realisable value of all items of inventory in the current year was greater than&lt;br&gt;respective costs, the company valued its inventory at cost. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="AZR4yMhGMulzrJFEDDSg-3">
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-5" value="&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Answer&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; As per para 22 of AS 1 “Disclosure of Accounting Policies”, any change in an&lt;br&gt;accounting policy which has a material effect should be disclosed in the financial&lt;br&gt;statements. The amount by which any item in the financial statements is affected by&lt;br&gt;such change should also be disclosed to the extent ascertainable. Where such&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;amount is not ascertainable, wholly or in part, the fact should be indicated. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Thus Prashant Ltd. should disclose the change in valuation method of inventory and its&lt;br&gt;effect on financial statements. The company may disclose the change in accounting&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;policy in the following manner:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; In the present year i.e. 2014 -15, the &lt;b&gt;company has changed to weighted average method&lt;/b&gt;,&lt;b&gt; which better reflects the consumption pattern of inventory&lt;/b&gt;, for ascertaining inventory costs from the earlier practice of using FIFO for the purpose. &lt;b&gt;The change in policy has reduced current profit and value of inventory by ` 16,000.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; The company values its inventory at lower of cost and net realisable value. Since net&lt;br&gt;realisable value of all items of inventory in the current year was greater than&lt;br&gt;respective costs, the company valued its inventory at cost. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="AZR4yMhGMulzrJFEDDSg-3" vertex="1">
           <mxGeometry y="160" width="480" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-1" target="aUA01yDdBmGF5Haiwjqg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 5&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-2" target="aUA01yDdBmGF5Haiwjqg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Net&amp;nbsp; Profit&amp;nbsp; or&amp;nbsp; Loss&amp;nbsp; for&amp;nbsp; the&amp;nbsp; Period,&amp;nbsp; Prior&amp;nbsp; Period&amp;nbsp; Items&amp;nbsp; and Changes in Accounting Policies&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="aUA01yDdBmGF5Haiwjqg-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="660" y="120" width="320" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-5" target="aUA01yDdBmGF5Haiwjqg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-5" target="aUA01yDdBmGF5Haiwjqg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-5" target="aUA01yDdBmGF5Haiwjqg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-5" value="disclosure&amp;nbsp; of&amp;nbsp; certain items in the statement of profit and loss so that all enterprises prepare and present such&amp;nbsp; a&amp;nbsp; statement&amp;nbsp; on&amp;nbsp; a&amp;nbsp; uniform&amp;nbsp; basis." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-7" value="Ordinary activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-8" value="Extraordinary items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-9" value="prior period items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
