@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T15:41:10.359Z" agent="5.0 (X11)" etag="PCGD9isSYRuWOUa1mH3j" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T16:21:29.787Z" agent="5.0 (X11)" etag="dE9WzGNzdnjG1TdOtqF5" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2315" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -653,17 +653,14 @@
             <mxGeometry x="5340" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-DXxzPPNvHtWj_lPQ7dt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-39" target="-DXxzPPNvHtWj_lPQ7dt-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-DXxzPPNvHtWj_lPQ7dt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-39" target="OoX-HEwOeC7CQ54famQ6-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6215" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 20&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="6160" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-40">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="6060" y="120" width="320" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-41" target="-DXxzPPNvHtWj_lPQ7dt-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1033,6 +1030,46 @@
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-47" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3280" y="550" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-49" target="OoX-HEwOeC7CQ54famQ6-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Earnings per Share &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="OoX-HEwOeC7CQ54famQ6-49">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="6060" y="120" width="320" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-54" value="&lt;u&gt;&lt;b&gt;Earnings per share (EPS) is a financial ratio indicating the amount of profit or loss for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; attributable&amp;nbsp; to&amp;nbsp; each&amp;nbsp; equity&amp;nbsp; share&amp;nbsp; and&lt;/b&gt;&lt;/u&gt;&amp;nbsp; AS&amp;nbsp; 20&amp;nbsp; gives&amp;nbsp; computational methodology for determination and presentation of basic and diluted earnings per share. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6000" y="180" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-57" target="OoX-HEwOeC7CQ54famQ6-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-57" target="OoX-HEwOeC7CQ54famQ6-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-57" value="Definitions" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6160" y="270" width="120" height="40" as="geometry">
+            <mxRectangle x="6160" y="270" width="440" height="570" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-52" value="&lt;div align=&quot;left&quot;&gt;An &lt;u&gt;&lt;b&gt;equity share&lt;/b&gt;&lt;/u&gt; is a share other than a preference share. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;A&amp;nbsp; &lt;u&gt;&lt;b&gt;preference&amp;nbsp; share&lt;/b&gt;&lt;/u&gt;&amp;nbsp; is&amp;nbsp; a&amp;nbsp; share&amp;nbsp; carrying&amp;nbsp; preferential&amp;nbsp; rights&amp;nbsp; to&amp;nbsp; dividends&amp;nbsp; and repayment of capital. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;A &lt;u&gt;&lt;b&gt;financial instrument&lt;/b&gt;&lt;/u&gt; is any contract that gives rise to both a financial asset of one enterprise and a financial liability or equity shares of another enterprise. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;A financial asset is any asset that is -&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; (a.) Cash;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; (b.) A&amp;nbsp; contractual&amp;nbsp; right&amp;nbsp; to&amp;nbsp; receive&amp;nbsp; cash&amp;nbsp; or&amp;nbsp; another&amp;nbsp; financial&amp;nbsp; asset&amp;nbsp; from&amp;nbsp; another enterprise; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; (c.) A contractual right to exchange financial instruments with another enterprise under conditions that are potentially favourable; or &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; (d.) An equity share of another enterprise.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;A&amp;nbsp; &lt;u&gt;&lt;b&gt;financial&amp;nbsp; liability&lt;/b&gt;&lt;/u&gt; is&amp;nbsp; any&amp;nbsp; liability that&amp;nbsp; is&amp;nbsp; a&amp;nbsp; contractual&amp;nbsp; obligation to deliver&amp;nbsp; cash or&amp;nbsp;&amp;nbsp; another&amp;nbsp;&amp;nbsp; financial&amp;nbsp;&amp;nbsp; asset&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; another&amp;nbsp;&amp;nbsp; enterprise&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; exchange&amp;nbsp;&amp;nbsp; financial instruments&amp;nbsp;&amp;nbsp; with&amp;nbsp;&amp;nbsp; another&amp;nbsp;&amp;nbsp; enterprise&amp;nbsp;&amp;nbsp; under&amp;nbsp;&amp;nbsp; conditions&amp;nbsp;&amp;nbsp; that&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; potentially unfavourable. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A &lt;u&gt;&lt;b&gt;potential&amp;nbsp; equity&amp;nbsp; share&lt;/b&gt;&lt;/u&gt; is&amp;nbsp; a&amp;nbsp; financial&amp;nbsp; instrument&amp;nbsp; or&amp;nbsp; other&amp;nbsp; contract that&amp;nbsp; entitles, or may entitle, its holder to equity shares. &#39;&lt;/div&gt;&lt;div&gt;Examples of potential equity shares are:&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;a.Debt instruments or preference shares, that are convertible into equity shares; &lt;br&gt;&lt;/div&gt;&lt;div&gt;b.Share warrants; &lt;br&gt;&lt;/div&gt;&lt;div&gt;c.Options &lt;br&gt;&lt;/div&gt;&lt;div&gt;d.Shares&amp;nbsp; which&amp;nbsp; would&amp;nbsp; be&amp;nbsp; issued&amp;nbsp; upon&amp;nbsp; the&amp;nbsp; satisfaction&amp;nbsp; of&amp;nbsp; certain&amp;nbsp; conditions resulting from contractual arrangements (&lt;b&gt;contingently issuable shares&lt;/b&gt;)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Share warrants or options&lt;/b&gt;&lt;/u&gt; are financial instruments that give the holder the right to acquire equity shares. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Fair&amp;nbsp; value&lt;/b&gt;&lt;/u&gt;&amp;nbsp; is&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; for&amp;nbsp; which&amp;nbsp; an&amp;nbsp; asset&amp;nbsp; could&amp;nbsp; be&amp;nbsp; exchanged,&amp;nbsp; or&amp;nbsp; a&amp;nbsp; liability settled, between knowledgeable, willing parties in an arm’s length transaction. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="OoX-HEwOeC7CQ54famQ6-57">
+          <mxGeometry y="40" width="440" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-60" target="OoX-HEwOeC7CQ54famQ6-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-60" value="Basic Earnings Per Share" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6080" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-61" value="Diluted Earnings Per Share" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6240" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-65" value="&lt;div&gt;`(Net profit (loss) attributable to equity shareholders)/(Weighted average number of equity shares outstanding during the period)`&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5990" y="430" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
