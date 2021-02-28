@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T17:20:24.755Z" agent="5.0 (X11)" etag="dT3isVnIzbpNH-oAWl2u" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T17:27:23.598Z" agent="5.0 (X11)" etag="C8IHGgMGh4zRelXujLjb" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1888" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2629" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1099,6 +1099,14 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-67" value="$$\dfrac{\text{Net profit/loss attributable to equity shareholders}}{\text{Weighted average number of equity shares outstanding during the period(WANES)}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="5837.5" y="420" width="605" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="OoX-HEwOeC7CQ54famQ6-80" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6529" y="550" />
+              <mxPoint x="6370" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-68" value="Calculating Denominator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="6479" y="452" width="100" height="42" as="geometry" />
         </mxCell>
@@ -1110,6 +1118,9 @@
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-72" value="&lt;table dir=&quot;ltr&quot; style=&quot;table-layout: fixed ; font-size: 10pt ; font-family: &amp;quot;arial&amp;quot; ; width: 0px ; border-collapse: collapse ; border: none&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;336&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;EBIT (Earnings before interest and tax)&lt;/td&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;xx&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;(-) Interest&lt;/td&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;(xx)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;(+or-) Prior period items(PPI) / Extraordinary items(EOI)&lt;/td&gt;&lt;td style=&quot;border-bottom: 3px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;xx or (xx)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;EBIT before PPI / EOI&lt;/td&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;xx&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;(-) Taxes&lt;/td&gt;&lt;td style=&quot;border-bottom: 3px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;(xx)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;Earnings after Tax (EAT)&lt;/td&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;xx&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;(-) Preference dividend&lt;/td&gt;&lt;td style=&quot;border-bottom: 3px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;(xx)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom ; font-weight: bold ; text-decoration: underline&quot;&gt;Net profit attributable to equity share holders&lt;/td&gt;&lt;td style=&quot;border-bottom: 3px double #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: bottom&quot;&gt;xxx&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1" visible="0">
           <mxGeometry x="5524" y="530" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-80" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="6310" y="620" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
