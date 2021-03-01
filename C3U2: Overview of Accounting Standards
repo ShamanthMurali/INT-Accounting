@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T16:28:35.053Z" agent="5.0 (X11)" etag="LI-gKwcwRZr7YJhowCTb" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T16:32:19.485Z" agent="5.0 (X11)" etag="9dggtASeO8y05NaZSbK3" version="14.4.3" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2096" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1129,8 +1129,8 @@
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-5" value="`\text{Right factor} = (\text{fair value of shares})/(\text{theoretical ex right price})`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5925" y="930" width="590" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i7AFofp_1ywYH7Vwrbwp-7" value="`\text{Right factor} *\text{non right shares}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6085" y="1030" width="270" height="50" as="geometry" />
+        <mxCell id="i7AFofp_1ywYH7Vwrbwp-7" value="&lt;div&gt;WANES = `\text{Right factor} *\text{non right shares}`&lt;/div&gt;* only upto when the rightshares are issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6047.5" y="1030" width="345" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
