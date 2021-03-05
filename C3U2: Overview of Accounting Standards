@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T19:28:13.729Z" agent="5.0 (X11)" etag="8leur61cmiHVTo15Cava" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T19:39:08.207Z" agent="5.0 (X11)" etag="dJbR7LW4-5Wag-kg-2wh" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1885" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1347" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1752,6 +1752,9 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-7" value="&lt;div&gt;1.going to used in the business&lt;/div&gt;&lt;div&gt;2. to be used for more than one year&lt;/div&gt;&lt;div&gt;3. should not be inventory&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-6">
           <mxGeometry y="40" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-8" target="E-xyRDeZj1eKv_stxh0L-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-8" value="2. It must be &#xa;an Qualifying Asset" style="swimlane;startSize=40;fontStyle=1" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="4720" y="620" width="120" height="40" as="geometry">
             <mxRectangle x="4720" y="620" width="280" height="240" as="alternateBounds" />
@@ -1771,19 +1774,31 @@
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-12" value="Specific&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="4640" y="760" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="4640" y="760" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-12">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-13" value="A borrow that is made specifically for a task i.e. construction of asset, installation etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-12">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-14" target="E-xyRDeZj1eKv_stxh0L-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-21" target="E-xyRDeZj1eKv_stxh0L-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-21" value="when multiple general borrowing is used for an asset the interest rate at which the capitalization is made is calculated by the weighted average(&lt;b&gt;WA&lt;/b&gt;) of the interest rate of all borrowing used." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4770" y="820" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-24" value="&lt;div&gt;e.i.&lt;/div&gt;&lt;div&gt;`WA=(\text{total borrowing cost}/\text{total borrowed funds})*100`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4720" y="940" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-14" value="General&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="4800" y="760" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="4800" y="760" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-14">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-15" value="a borrowing that made generally and is not specific to a task." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-14">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
