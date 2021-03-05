@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T20:20:55.963Z" agent="5.0 (X11)" etag="qDolZOhSVVDMA8O02hPJ" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T20:22:03.129Z" agent="5.0 (X11)" etag="PZdaL2KKoqEZQcZp_jih" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1560" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2092" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -626,11 +626,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 16&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="4720" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w12vRj3HUObTFoQScCb4-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-34" target="w12vRj3HUObTFoQScCb4-238" edge="1">
+        <mxCell id="w12vRj3HUObTFoQScCb4-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-34" target="w12vRj3HUObTFoQScCb4-238" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Borrowing costs&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-34">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="4620" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1721,30 +1721,33 @@
         <mxCell id="w12vRj3HUObTFoQScCb4-234" value="&lt;div&gt;i. The accounting policy adopted for government grants, including the methods of presentation in the financial statements; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii. The&amp;nbsp; nature&amp;nbsp; and&amp;nbsp; extent&amp;nbsp; of&amp;nbsp; government&amp;nbsp; grants&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; the&amp;nbsp; financial statements, including grants of non-monetary assets given at a concessional rate or free of cost. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4300" y="460" width="280" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="w12vRj3HUObTFoQScCb4-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w12vRj3HUObTFoQScCb4-238" target="w12vRj3HUObTFoQScCb4-240" edge="1">
+        <mxCell id="w12vRj3HUObTFoQScCb4-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w12vRj3HUObTFoQScCb4-238" target="w12vRj3HUObTFoQScCb4-240" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w12vRj3HUObTFoQScCb4-238" value="enterprises borrow funds for construction and acquisition of assets. interest and other costs are incured on such funds. AS-16 helps to understand the accounting treatment this borrowing cost i.e.what part of the borrowing cost should be charged or debited to P/L a/c&amp;nbsp; and what part of the cost should be capitalized to the Fixed asset" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w12vRj3HUObTFoQScCb4-238" value="enterprises borrow funds for construction and acquisition of assets. interest and other costs are incured on such funds. AS-16 helps to understand the accounting treatment this borrowing cost i.e.what part of the borrowing cost should be charged or debited to P/L a/c&amp;nbsp; and what part of the cost should be capitalized to the Fixed asset" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4520" y="180" width="520" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-240" target="E-xyRDeZj1eKv_stxh0L-11">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-240" target="E-xyRDeZj1eKv_stxh0L-11" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w12vRj3HUObTFoQScCb4-240" value="&lt;div&gt;&lt;b&gt;What are the borrowing costs?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)interest and commitment charges on bank borrowings&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)amortisation of discounts or premiums relating to borrowings; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)amortisation&amp;nbsp; of&amp;nbsp; ancillary&amp;nbsp; costs [administration costs]&amp;nbsp; incurred&amp;nbsp; in&amp;nbsp; connection&amp;nbsp; with&amp;nbsp; the arrangement&amp;nbsp; of borrowings;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)finance&amp;nbsp; charges&amp;nbsp; in&amp;nbsp; respect&amp;nbsp; of&amp;nbsp; assets&amp;nbsp; acquired&amp;nbsp; under&amp;nbsp; finance&amp;nbsp; leases&amp;nbsp; or&amp;nbsp; under other similar arrangements; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)exchange&amp;nbsp; differences&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; foreign&amp;nbsp; currency&amp;nbsp; borrowings&amp;nbsp; to&amp;nbsp; the&amp;nbsp; extent that they are regarded as an adjustment to interest costs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
+        <mxCell id="w12vRj3HUObTFoQScCb4-240" value="&lt;div&gt;&lt;b&gt;What are the borrowing costs?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)interest and commitment charges on bank borrowings&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)amortisation of discounts or premiums relating to borrowings; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)amortisation&amp;nbsp; of&amp;nbsp; ancillary&amp;nbsp; costs [administration costs]&amp;nbsp; incurred&amp;nbsp; in&amp;nbsp; connection&amp;nbsp; with&amp;nbsp; the arrangement&amp;nbsp; of borrowings;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)finance&amp;nbsp; charges&amp;nbsp; in&amp;nbsp; respect&amp;nbsp; of&amp;nbsp; assets&amp;nbsp; acquired&amp;nbsp; under&amp;nbsp; finance&amp;nbsp; leases&amp;nbsp; or&amp;nbsp; under other similar arrangements; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)exchange&amp;nbsp; differences&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; foreign&amp;nbsp; currency&amp;nbsp; borrowings&amp;nbsp; to&amp;nbsp; the&amp;nbsp; extent that they are regarded as an adjustment to interest costs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4560" y="280" width="440" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-2" target="E-xyRDeZj1eKv_stxh0L-6">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-2" target="E-xyRDeZj1eKv_stxh0L-6" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4780.034482758621" y="959.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;Capitalization criteria&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4685" y="920" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-6" target="E-xyRDeZj1eKv_stxh0L-8">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-2" target="E-xyRDeZj1eKv_stxh0L-8" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-6" value="1. it must be &#xa;an Fixed Asset" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-2" target="E-xyRDeZj1eKv_stxh0L-34" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;Capitalization criteria&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4685" y="920" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-6" value="1. it must be &#xa;an Fixed Asset" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="4720" y="960" width="120" height="40" as="geometry">
             <mxRectangle x="4720" y="560" width="210" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -1752,10 +1755,7 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-7" value="&lt;div&gt;1.going to used in the business&lt;/div&gt;&lt;div&gt;2. to be used for more than one year&lt;/div&gt;&lt;div&gt;3. should not be inventory&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-6">
           <mxGeometry y="40" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-8" target="E-xyRDeZj1eKv_stxh0L-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-8" value="2. It must be &#xa;an Qualifying Asset" style="swimlane;startSize=40;fontStyle=1" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-8" value="2. It must be &#xa;an Qualifying Asset" style="swimlane;startSize=40;fontStyle=1" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="4720" y="1020" width="120" height="40" as="geometry">
             <mxRectangle x="4720" y="620" width="280" height="240" as="alternateBounds" />
           </mxGeometry>
@@ -1763,13 +1763,13 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-9" value="&lt;div&gt;1. an asset that takes substantial period of time to get ready for its&lt;/div&gt;&lt;div&gt;a. intended use&lt;/div&gt;&lt;div&gt;b. sale [inventory][e.g. house built to be sold]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Non qualifying assets&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. any asset that is that can be used immediately after being bought.&lt;/div&gt;&lt;div&gt;e.g. car, mixer, washing machine&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. any inventory that can be produced in a short period &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-8">
           <mxGeometry y="40" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-12">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-12" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-14">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-14" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-28">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-28" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4780" y="580" />
@@ -1777,7 +1777,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-21">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-21" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4780" y="580" />
@@ -1785,10 +1785,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-11" value="Types of Borrowings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-11" value="Types of Borrowings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" visible="0" parent="1">
           <mxGeometry x="4740" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-12" value="Specific&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-12" value="Specific&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="4640" y="600" width="120" height="40" as="geometry">
             <mxRectangle x="4640" y="760" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -1796,19 +1796,19 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-13" value="A borrow that is made specifically for a task i.e. construction of asset, installation etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-12">
           <mxGeometry y="40" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-21" target="E-xyRDeZj1eKv_stxh0L-24">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-21" target="E-xyRDeZj1eKv_stxh0L-24" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-21" value="when multiple general borrowing is used for an asset the interest rate at which the capitalization is made is calculated by the weighted average(&lt;b&gt;WA&lt;/b&gt;) of the interest rate of all borrowing used." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-21" value="when multiple general borrowing is used for an asset the interest rate at which the capitalization is made is calculated by the weighted average(&lt;b&gt;WA&lt;/b&gt;) of the interest rate of all borrowing used." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4785" y="660" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-24" target="E-xyRDeZj1eKv_stxh0L-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-24" value="&lt;div&gt;e.i.&lt;/div&gt;&lt;div&gt;`WA=(\text{total borrowing cost}/\text{total borrowed funds})*100`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-24" value="&lt;div&gt;e.i.&lt;/div&gt;&lt;div&gt;`WA=(\text{total borrowing cost}/\text{total borrowed funds})*100`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4720" y="800" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-14" value="General&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-14" value="General&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="4800" y="600" width="120" height="40" as="geometry">
             <mxRectangle x="4800" y="760" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
@@ -1816,7 +1816,7 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-15" value="a borrowing that made generally and is not specific to a task." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-14">
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-28" target="E-xyRDeZj1eKv_stxh0L-2">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-28" target="E-xyRDeZj1eKv_stxh0L-2" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4700" y="890" />
@@ -1824,13 +1824,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-28" value="no need to calculate WA. use the specified Interest rate only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-28" value="no need to calculate WA. use the specified Interest rate only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4640" y="670" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-38" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-34" target="E-xyRDeZj1eKv_stxh0L-37">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-38" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-34" target="E-xyRDeZj1eKv_stxh0L-37" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-34" target="E-xyRDeZj1eKv_stxh0L-36">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-34" target="E-xyRDeZj1eKv_stxh0L-36" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-40" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E-xyRDeZj1eKv_stxh0L-39">
@@ -1838,43 +1838,43 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-34" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Expenditure on Qualifying Asset is being incurred&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;•&amp;nbsp; Borrowing Costs are incurred &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp; Activities&amp;nbsp; are&amp;nbsp; in&amp;nbsp; progress;&amp;nbsp; such&amp;nbsp; activities&amp;nbsp; include technical/administrative&amp;nbsp; work&amp;nbsp; also.&amp;nbsp; However,&amp;nbsp; it&amp;nbsp; does&amp;nbsp; not&amp;nbsp; include those, which do not result in a change in the condition of the asset.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-34" value="&lt;div&gt;•&amp;nbsp;&amp;nbsp; Expenditure on Qualifying Asset is being incurred&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;•&amp;nbsp; Borrowing Costs are incurred &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp; Activities&amp;nbsp; are&amp;nbsp; in&amp;nbsp; progress;&amp;nbsp; such&amp;nbsp; activities&amp;nbsp; include technical/administrative&amp;nbsp; work&amp;nbsp; also.&amp;nbsp; However,&amp;nbsp; it&amp;nbsp; does&amp;nbsp; not&amp;nbsp; include those, which do not result in a change in the condition of the asset.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4630" y="1080" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-36" target="E-xyRDeZj1eKv_stxh0L-41">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-36" target="E-xyRDeZj1eKv_stxh0L-41" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-36" value="If all the conditions above are &lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt; satisfied." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-36" value="If all the conditions above are &lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt; satisfied." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4920" y="1320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-37" target="E-xyRDeZj1eKv_stxh0L-50">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-37" target="E-xyRDeZj1eKv_stxh0L-50" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-37" value="If all the conditions above are satisfied." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-37" value="If all the conditions above are satisfied." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4530" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-41" value="Dr. the interest to P/L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-41" value="Dr. the interest to P/L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4910" y="1390" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAkQAAAASCAYAAAC6qMGZAAAAa0lEQVR4nO3WMQEAMAyAsB31b7mT0YNEASezuw8AoGyuAwAArhkiACDPEAEAeYYIAMgzRABAniECAPIMEQCQZ4gAgDxDBADkGSIAIM8QAQB5hggAyDNEAECeIQIA8gwRAJBniACAPEMEAOR9oQ4DRiFUxi8AAAAASUVORK5CYII=;" vertex="1" parent="1">
           <mxGeometry x="5190" y="1000" width="580" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-50" target="E-xyRDeZj1eKv_stxh0L-53">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-50" target="E-xyRDeZj1eKv_stxh0L-53" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-50" value="&lt;b&gt;Capitalize&lt;/b&gt; the Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-50" value="&lt;b&gt;Capitalize&lt;/b&gt; the Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4520" y="1380" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-53" target="E-xyRDeZj1eKv_stxh0L-57">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-53" target="E-xyRDeZj1eKv_stxh0L-57" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-53" target="E-xyRDeZj1eKv_stxh0L-58">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-53" target="E-xyRDeZj1eKv_stxh0L-58" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-53" value="But, if the activity got suspended in the middle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-53" value="But, if the activity got suspended in the middle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4520" y="1440" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-62" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-57" target="E-xyRDeZj1eKv_stxh0L-61">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-62" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-57" target="E-xyRDeZj1eKv_stxh0L-61" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4440" y="1580" />
@@ -1882,7 +1882,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-57" target="E-xyRDeZj1eKv_stxh0L-65">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-57" target="E-xyRDeZj1eKv_stxh0L-65" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-69" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E-xyRDeZj1eKv_stxh0L-67">
@@ -1890,16 +1890,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-57" value="Due to &lt;u&gt;&lt;b&gt;avoidable&lt;/b&gt;&lt;/u&gt; reasons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-57" value="Due to &lt;u&gt;&lt;b&gt;avoidable&lt;/b&gt;&lt;/u&gt; reasons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4380" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-58" target="E-xyRDeZj1eKv_stxh0L-63">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-58" target="E-xyRDeZj1eKv_stxh0L-63" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-58" value="Due to &lt;u&gt;&lt;b&gt;unavoidable&lt;/b&gt;&lt;/u&gt; reasons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-58" value="Due to &lt;u&gt;&lt;b&gt;unavoidable&lt;/b&gt;&lt;/u&gt; reasons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4680" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing&lt;/div&gt;&amp;gt;transfer further interest to P/L " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing&lt;/div&gt;&amp;gt;transfer further interest to P/L " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4380" y="1620" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-63" target="E-xyRDeZj1eKv_stxh0L-71">
@@ -1910,54 +1910,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-63" value="&lt;u&gt;&lt;b&gt;continue&lt;/b&gt;&lt;/u&gt; to capitalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-63" value="&lt;u&gt;&lt;b&gt;continue&lt;/b&gt;&lt;/u&gt; to capitalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4680" y="1580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-65" target="E-xyRDeZj1eKv_stxh0L-66">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-65" target="E-xyRDeZj1eKv_stxh0L-66" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-65" value="But, for a temporary period " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-65" value="But, for a temporary period " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4520" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-66" target="E-xyRDeZj1eKv_stxh0L-71">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-66" target="E-xyRDeZj1eKv_stxh0L-71" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-66" value="&lt;u&gt;&lt;b&gt;continue&lt;/b&gt;&lt;/u&gt; to capitalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-66" value="&lt;u&gt;&lt;b&gt;continue&lt;/b&gt;&lt;/u&gt; to capitalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4520" y="1680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-71" target="E-xyRDeZj1eKv_stxh0L-74">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-71" target="E-xyRDeZj1eKv_stxh0L-74" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-71" value="&lt;b&gt;Cessation of capitalization&lt;br&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-71" value="&lt;b&gt;Cessation of capitalization&lt;br&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4600" y="1800" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-74" target="E-xyRDeZj1eKv_stxh0L-76">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-74" target="E-xyRDeZj1eKv_stxh0L-76" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-74" value="When, to stop capitalization." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-74" value="When, to stop capitalization." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4560" y="1900" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-76" target="E-xyRDeZj1eKv_stxh0L-77">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-76" target="E-xyRDeZj1eKv_stxh0L-77" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-76" value="•&amp;nbsp;&amp;nbsp; All activities necessary for making assets ready for intended use/sale are substantially complete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-76" value="•&amp;nbsp;&amp;nbsp; All activities necessary for making assets ready for intended use/sale are substantially complete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4520" y="1940" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-77" target="E-xyRDeZj1eKv_stxh0L-80">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-77" target="E-xyRDeZj1eKv_stxh0L-80" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-77" value="•&amp;nbsp; Items of administrative work or finishing&amp;nbsp; touches to be completed happen to be minor in nature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-77" value="•&amp;nbsp; Items of administrative work or finishing&amp;nbsp; touches to be completed happen to be minor in nature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4520" y="2000" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-83" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-80" target="E-xyRDeZj1eKv_stxh0L-84">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-83" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-80" target="E-xyRDeZj1eKv_stxh0L-84" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4660" y="2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-80" value="•&amp;nbsp; Where&amp;nbsp; an&amp;nbsp; asset&amp;nbsp; is&amp;nbsp; completed&amp;nbsp; “in&amp;nbsp; parts”,&amp;nbsp; and&amp;nbsp; completed&amp;nbsp; part&amp;nbsp; is capable of use, when work on others is in progress, capitalization for completed part should be stopped." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-80" value="•&amp;nbsp; Where&amp;nbsp; an&amp;nbsp; asset&amp;nbsp; is&amp;nbsp; completed&amp;nbsp; “in&amp;nbsp; parts”,&amp;nbsp; and&amp;nbsp; completed&amp;nbsp; part&amp;nbsp; is capable of use, when work on others is in progress, capitalization for completed part should be stopped." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4520" y="2060" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-84" target="E-xyRDeZj1eKv_stxh0L-85">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-84" target="E-xyRDeZj1eKv_stxh0L-85" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4650" y="2240" />
@@ -1965,16 +1965,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-84" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing&lt;/div&gt;&amp;gt;transfer further interest to P/L " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-84" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing&lt;/div&gt;&amp;gt;transfer further interest to P/L " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4600" y="2160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-85" target="E-xyRDeZj1eKv_stxh0L-88">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-85" target="E-xyRDeZj1eKv_stxh0L-88" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-85" value="&lt;b&gt;DISCLOSURE REQUIREMENTS&lt;br&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-85" value="&lt;b&gt;DISCLOSURE REQUIREMENTS&lt;br&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4740" y="2280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-88" value="&lt;div&gt;(a)the accounting policy adopted for borrowing costs; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)the amount of borrowing costs capitalised during the period.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-88" value="&lt;div&gt;(a)the accounting policy adopted for borrowing costs; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)the amount of borrowing costs capitalised during the period.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4620" y="2380" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
