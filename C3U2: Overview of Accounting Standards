@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T19:57:16.956Z" agent="5.0 (X11)" etag="L7qLHxjXg3nJlcn0coyI" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T20:03:34.395Z" agent="5.0 (X11)" etag="eD68vxl5GjUUHgxxmWBq" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1560" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1889,8 +1889,16 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-58" value="Due to &lt;u&gt;&lt;b&gt;unavoidable&lt;/b&gt;&lt;/u&gt; reasons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4680" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E-xyRDeZj1eKv_stxh0L-61" value="&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4380" y="1620" width="120" height="40" as="geometry" />
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-61" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing&lt;/div&gt;&amp;gt;transfer further interest to P/L " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4380" y="1620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-63" target="E-xyRDeZj1eKv_stxh0L-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4740" y="1760" />
+              <mxPoint x="4660" y="1760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-63" value="&lt;u&gt;&lt;b&gt;continue&lt;/b&gt;&lt;/u&gt; to capitalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4680" y="1580" width="120" height="40" as="geometry" />
@@ -1901,8 +1909,46 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-65" value="But, for a temporary period " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4520" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-66" target="E-xyRDeZj1eKv_stxh0L-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-66" value="&lt;u&gt;&lt;b&gt;continue&lt;/b&gt;&lt;/u&gt; to capitalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4520" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-71" target="E-xyRDeZj1eKv_stxh0L-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-71" value="&lt;b&gt;Cessation of capitalization&lt;br&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="1800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-74" target="E-xyRDeZj1eKv_stxh0L-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-74" value="When, to stop capitalization." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="1900" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-76" target="E-xyRDeZj1eKv_stxh0L-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-76" value="•&amp;nbsp;&amp;nbsp; All activities necessary for making assets ready for intended use/sale are substantially complete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="1940" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-77" target="E-xyRDeZj1eKv_stxh0L-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-77" value="•&amp;nbsp; Items of administrative work or finishing&amp;nbsp; touches to be completed happen to be minor in nature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2000" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-83" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-80" target="E-xyRDeZj1eKv_stxh0L-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4660" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-80" value="•&amp;nbsp; Where&amp;nbsp; an&amp;nbsp; asset&amp;nbsp; is&amp;nbsp; completed&amp;nbsp; “in&amp;nbsp; parts”,&amp;nbsp; and&amp;nbsp; completed&amp;nbsp; part&amp;nbsp; is capable of use, when work on others is in progress, capitalization for completed part should be stopped." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2060" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-84" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing&lt;/div&gt;&amp;gt;transfer further interest to P/L " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="2160" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
