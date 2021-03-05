@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T15:17:32.629Z" agent="5.0 (X11)" etag="B2EwP4p6GAGJ2LY8Owya" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T15:21:07.870Z" agent="5.0 (X11)" etag="8Gbq6fgYOcilKM5zWO1_" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2154" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1773" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -954,81 +954,81 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-9" value="c) If an enterprise declares dividend to Share holders after the B/S date then it should not be recognised as a Liability in the B/s date unless a statute requires Such dividend should be disclosed in Notes." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="485" y="610" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-16" target="OoX-HEwOeC7CQ54famQ6-17" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-16" target="OoX-HEwOeC7CQ54famQ6-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;ACCOUNTING FOR GOVERNMENT GRANTS&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="OoX-HEwOeC7CQ54famQ6-16">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="3180" y="120" width="320" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-17" target="OoX-HEwOeC7CQ54famQ6-18" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-17" target="OoX-HEwOeC7CQ54famQ6-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-17" value="Government grants are assistance by government in cash or kind to an enterprise for past or future compliance with certain conditions. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-17" value="Government grants are assistance by government in cash or kind to an enterprise for past or future compliance with certain conditions. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3120" y="210" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-18" target="OoX-HEwOeC7CQ54famQ6-22" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-18" target="OoX-HEwOeC7CQ54famQ6-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-18" value="&lt;div&gt;A government grant is not recognized until there is reasonable assurance that:&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the enterprise will comply with the conditions attaching to it; and&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the grant will be received.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-18" value="&lt;div&gt;A government grant is not recognized until there is reasonable assurance that:&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the enterprise will comply with the conditions attaching to it; and&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the grant will be received.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3120" y="270" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-24" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-25" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-28" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-34" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-22" value="Types of Grants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-22" value="Types of Grants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3290" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="OoX-HEwOeC7CQ54famQ6-30" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="OoX-HEwOeC7CQ54famQ6-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="OoX-HEwOeC7CQ54famQ6-31" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="OoX-HEwOeC7CQ54famQ6-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-24" value="Non-monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-24" value="Non-monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3040" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-25" target="OoX-HEwOeC7CQ54famQ6-47" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-25" target="OoX-HEwOeC7CQ54famQ6-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-25" value="Monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-25" value="Monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3280" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-28" target="OoX-HEwOeC7CQ54famQ6-44" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-28" target="OoX-HEwOeC7CQ54famQ6-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-28" value="Promoters contribution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-28" value="Promoters contribution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3640" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-30" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;free of cost&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-30" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;free of cost&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2960" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-31" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;consession&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-31" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;consession&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3120" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-34" target="OoX-HEwOeC7CQ54famQ6-39" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-34" target="OoX-HEwOeC7CQ54famQ6-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-34" value="Revenue Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-34" value="Revenue Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3440" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-39" value="Where a part of an expense of a company is paid by the government" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-39" value="Where a part of an expense of a company is paid by the government" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3430" y="500" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-44" value="&lt;div&gt;where the government gives grant to the whole project or company.&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e it is not given in terms of a perticular asset, if it is given in terms of a perticular asset then it is &quot;non-monetary grant&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-44" value="&lt;div&gt;where the government gives grant to the whole project or company.&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e it is not given in terms of a perticular asset, if it is given in terms of a perticular asset then it is &quot;non-monetary grant&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="3600" y="500" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-47" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-47" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="3280" y="550" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-49" target="OoX-HEwOeC7CQ54famQ6-54" edge="1" visible="0">
