@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T19:13:44.378Z" agent="5.0 (X11)" etag="CoqJVf0Zy-OxBNQJmMC4" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T19:28:13.729Z" agent="5.0 (X11)" etag="8leur61cmiHVTo15Cava" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1707" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1885" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1727,8 +1727,63 @@
         <mxCell id="w12vRj3HUObTFoQScCb4-238" value="enterprises borrow funds for construction and acquisition of assets. interest and other costs are incured on such funds. AS-16 helps to understand the accounting treatment this borrowing cost i.e.what part of the borrowing cost should be charged or debited to P/L a/c&amp;nbsp; and what part of the cost should be capitalized to the Fixed asset" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4520" y="180" width="520" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-240" target="E-xyRDeZj1eKv_stxh0L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-240" value="&lt;div&gt;&lt;b&gt;What are the borrowing costs?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)interest and commitment charges on bank borrowings&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)amortisation of discounts or premiums relating to borrowings; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)amortisation&amp;nbsp; of&amp;nbsp; ancillary&amp;nbsp; costs [administration costs]&amp;nbsp; incurred&amp;nbsp; in&amp;nbsp; connection&amp;nbsp; with&amp;nbsp; the arrangement&amp;nbsp; of borrowings;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)finance&amp;nbsp; charges&amp;nbsp; in&amp;nbsp; respect&amp;nbsp; of&amp;nbsp; assets&amp;nbsp; acquired&amp;nbsp; under&amp;nbsp; finance&amp;nbsp; leases&amp;nbsp; or&amp;nbsp; under other similar arrangements; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)exchange&amp;nbsp; differences&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; foreign&amp;nbsp; currency&amp;nbsp; borrowings&amp;nbsp; to&amp;nbsp; the&amp;nbsp; extent that they are regarded as an adjustment to interest costs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="4560" y="280" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-2" target="E-xyRDeZj1eKv_stxh0L-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4780.034482758621" y="559.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-2" value="&lt;b&gt;Requirements&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4720" y="520" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-6" target="E-xyRDeZj1eKv_stxh0L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-6" value="1. it must be &#xa;an FixedAsset" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4720" y="560" width="120" height="40" as="geometry">
+            <mxRectangle x="4720" y="560" width="210" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-7" value="&lt;div&gt;1.going to used in the business&lt;/div&gt;&lt;div&gt;2. to be used for more than one year&lt;/div&gt;&lt;div&gt;3. should not be inventory&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-6">
+          <mxGeometry y="40" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-8" value="2. It must be &#xa;an Qualifying Asset" style="swimlane;startSize=40;fontStyle=1" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4720" y="620" width="120" height="40" as="geometry">
+            <mxRectangle x="4720" y="620" width="280" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-9" value="&lt;div&gt;1. an asset that takes substantial period of time to get ready for its&lt;/div&gt;&lt;div&gt;a. intended use&lt;/div&gt;&lt;div&gt;b. sale [inventory][e.g. house built to be sold]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Non qualifying assets&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. any asset that is that can be used immediately after being bought.&lt;/div&gt;&lt;div&gt;e.g. car, mixer, washing machine&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. any inventory that can be produced in a short period &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-8">
+          <mxGeometry y="40" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-11" target="E-xyRDeZj1eKv_stxh0L-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-11" value="Types of Borrowings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="4740" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-12" value="Specific&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4640" y="760" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-12">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-14" value="General&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4800" y="760" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-14">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
