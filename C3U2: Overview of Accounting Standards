@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T16:41:59.678Z" agent="5.0 (X11)" etag="S2azf4rNIjUYXL1hjcXw" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T16:43:45.944Z" agent="5.0 (X11)" etag="6Yrrrr3bLKTuJChwpjGn" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="2096" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -977,6 +977,9 @@
         <mxCell id="w12vRj3HUObTFoQScCb4-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-18" target="w12vRj3HUObTFoQScCb4-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-18" target="w12vRj3HUObTFoQScCb4-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-18" value="&lt;div&gt;A government grant is not recognized until there is reasonable assurance that:&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the enterprise will comply with the conditions attaching to it; and&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the grant will be received.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3120" y="270" width="440" height="80" as="geometry" />
         </mxCell>
@@ -1696,8 +1699,14 @@
         <mxCell id="w12vRj3HUObTFoQScCb4-231" value="&amp;gt;&amp;gt; if there is even more that needs to be refunded the Dr the P/L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4120" y="690" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-233" target="w12vRj3HUObTFoQScCb4-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-233" value="Disclousers" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="4360" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-234" value="&lt;div&gt;i. The accounting policy adopted for government grants, including the methods of presentation in the financial statements; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii. The&amp;nbsp; nature&amp;nbsp; and&amp;nbsp; extent&amp;nbsp; of&amp;nbsp; government&amp;nbsp; grants&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; the&amp;nbsp; financial statements, including grants of non-monetary assets given at a concessional rate or free of cost. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="440" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
