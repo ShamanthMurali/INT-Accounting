@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T16:45:45.109Z" agent="5.0 (X11)" etag="ySfzLI7MuH06rUXRfXwG" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T17:26:28.228Z" agent="5.0 (X11)" etag="uIjabMA6hiYxB6uc9Wc1" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="4410" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,7 +564,7 @@
           <mxGeometry x="2560" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Plant, Property and Equipment&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-22">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="2460" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -575,7 +575,7 @@
           <mxGeometry x="2920" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;The effects of changes in forign exchange rates&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-24">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="2820" y="120" width="320" height="70" as="geometry" />
           </mxCell>
         </UserObject>
@@ -626,8 +626,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 16&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="4720" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-34" target="w12vRj3HUObTFoQScCb4-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Borrowing costs&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-34">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="4620" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -649,7 +652,7 @@
           <mxGeometry x="5440" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Related party disclousers&lt;/b&gt;&lt;/font&gt; " treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-38">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="5340" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1717,6 +1720,15 @@
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-234" value="&lt;div&gt;i. The accounting policy adopted for government grants, including the methods of presentation in the financial statements; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii. The&amp;nbsp; nature&amp;nbsp; and&amp;nbsp; extent&amp;nbsp; of&amp;nbsp; government&amp;nbsp; grants&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; the&amp;nbsp; financial statements, including grants of non-monetary assets given at a concessional rate or free of cost. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4300" y="460" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-238" target="w12vRj3HUObTFoQScCb4-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-238" value="enterprises borrow funds for construction and acquisition of assets. interest and other costs are incured on such funds. AS-16 helps to understand the accounting treatment this borrowing cost i.e.what part of the borrowing cost should be charged or debited to P/L a/c&amp;nbsp; and what part of the cost should be capitalized to the Fixed asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="180" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-240" value="&lt;div&gt;&lt;b&gt;What are the borrowing costs?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)interest and commitment charges on bank borrowings&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)amortisation of discounts or premiums relating to borrowings; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)amortisation&amp;nbsp; of&amp;nbsp; ancillary&amp;nbsp; costs [administration costs]&amp;nbsp; incurred&amp;nbsp; in&amp;nbsp; connection&amp;nbsp; with&amp;nbsp; the arrangement&amp;nbsp; of borrowings;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)finance&amp;nbsp; charges&amp;nbsp; in&amp;nbsp; respect&amp;nbsp; of&amp;nbsp; assets&amp;nbsp; acquired&amp;nbsp; under&amp;nbsp; finance&amp;nbsp; leases&amp;nbsp; or&amp;nbsp; under other similar arrangements; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)exchange&amp;nbsp; differences&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; foreign&amp;nbsp; currency&amp;nbsp; borrowings&amp;nbsp; to&amp;nbsp; the&amp;nbsp; extent that they are regarded as an adjustment to interest costs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="280" width="440" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
