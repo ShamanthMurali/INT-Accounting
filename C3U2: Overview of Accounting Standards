@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T16:04:40.901Z" agent="5.0 (X11)" etag="uL3MzL47dI2npkTU67D-" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T16:06:31.383Z" agent="5.0 (X11)" etag="l9I1RtsZFkcGHu8ot9R3" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1443" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1289,7 +1289,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-14" value="Non-depreciable assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="3360" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-17" target="w12vRj3HUObTFoQScCb4-23">
           <mxGeometry relative="1" as="geometry">
@@ -1321,7 +1321,7 @@
           <mxGeometry x="3120" y="660" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-19" value="e.g. only land" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="660" width="120" height="30" as="geometry" />
+          <mxGeometry x="3360" y="660" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-23" target="w12vRj3HUObTFoQScCb4-57">
           <mxGeometry relative="1" as="geometry" />
