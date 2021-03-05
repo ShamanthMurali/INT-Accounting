@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T16:06:31.383Z" agent="5.0 (X11)" etag="l9I1RtsZFkcGHu8ot9R3" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T16:15:01.004Z" agent="5.0 (X11)" etag="CieoSH9VLSqma3mrNDgW" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1443" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -989,8 +989,8 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-22" target="OoX-HEwOeC7CQ54famQ6-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-22" value="Types of Grants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="3290" y="380" width="100" height="20" as="geometry" />
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-22" value="&lt;div&gt;Types of Grants&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="380" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="w12vRj3HUObTFoQScCb4-6">
           <mxGeometry relative="1" as="geometry" />
@@ -1008,10 +1008,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-28" value="Promoters contribution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3640" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="3730" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-30" target="w12vRj3HUObTFoQScCb4-120">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-30" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;free of cost&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-31" target="w12vRj3HUObTFoQScCb4-126">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-31" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;consession&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2800" y="570" width="120" height="40" as="geometry" />
@@ -1020,13 +1026,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-34" value="Revenue Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3440" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="3530" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-39" target="w12vRj3HUObTFoQScCb4-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-39" value="Where a part of an expense of a company is paid by the government" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3430" y="500" width="140" height="60" as="geometry" />
+          <mxGeometry x="3520" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-44" target="w12vRj3HUObTFoQScCb4-135">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-44" value="&lt;div&gt;where the government gives grant to the whole project or company.&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e it is not given in terms of a perticular asset, if it is given in terms of a perticular asset then it is &quot;non-monetary grant&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="3600" y="500" width="200" height="130" as="geometry" />
+          <mxGeometry x="3690" y="500" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-49" target="OoX-HEwOeC7CQ54famQ6-54" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -1285,7 +1297,7 @@
         <mxCell id="w12vRj3HUObTFoQScCb4-13" value="Depreciable assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3120" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w12vRj3HUObTFoQScCb4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-14" target="w12vRj3HUObTFoQScCb4-19">
+        <mxCell id="w12vRj3HUObTFoQScCb4-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-14" target="w12vRj3HUObTFoQScCb4-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-14" value="Non-depreciable assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1554,6 +1566,51 @@
         </mxCell>
         <mxCell id="w12vRj3HUObTFoQScCb4-119" value="&lt;font style=&quot;font-size: 8px&quot;&gt;(Note 1: the ammortization percentage/proportion is same as the depreciation rate on the FA)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-101">
           <mxGeometry x="190" y="125" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-120" target="w12vRj3HUObTFoQScCb4-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-120" value="Record the asset as profit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-122" target="w12vRj3HUObTFoQScCb4-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-122" value="&lt;div align=&quot;left&quot;&gt;Asset A/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to P/L A/c&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=left;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-124" value="Since it is recived at a nominal price depreciation need not be provided" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-126" target="w12vRj3HUObTFoQScCb4-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-126" value="Record the asset at concessional price" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-128" target="w12vRj3HUObTFoQScCb4-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-128" value="&lt;div&gt;if we recived a 10k asset for 5k then,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Asset a/c Dr.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5k&lt;/div&gt;&lt;div&gt;to bank a/c&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5k&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=left;gradientColor=none;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="690" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-130" value="Dep needs to be provided" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="820" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-132" value="&lt;b&gt;record it to P/L&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-135" value="&lt;b&gt;Credit the GG to capital reserve&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="670" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-138" target="w12vRj3HUObTFoQScCb4-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-138" value="Refund of GG" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4065" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-139" value="If the conditions put by the government are not fulfilled the government may ask for a refund" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="440" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
