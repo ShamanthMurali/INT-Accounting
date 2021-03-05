@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T15:21:07.870Z" agent="5.0 (X11)" etag="8Gbq6fgYOcilKM5zWO1_" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T15:58:31.265Z" agent="5.0 (X11)" etag="Eq5mtxBDGi-k25jDtKP8" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1773" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1443" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -965,6 +965,9 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-17" target="OoX-HEwOeC7CQ54famQ6-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-17" target="w12vRj3HUObTFoQScCb4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-17" value="Government grants are assistance by government in cash or kind to an enterprise for past or future compliance with certain conditions. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3120" y="210" width="440" height="40" as="geometry" />
         </mxCell>
@@ -989,20 +992,17 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-22" value="Types of Grants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3290" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="OoX-HEwOeC7CQ54famQ6-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="OoX-HEwOeC7CQ54famQ6-31" edge="1">
+        <mxCell id="w12vRj3HUObTFoQScCb4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-24" target="w12vRj3HUObTFoQScCb4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-24" value="Non-monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3040" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="2720" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-25" target="OoX-HEwOeC7CQ54famQ6-47" edge="1">
+        <mxCell id="w12vRj3HUObTFoQScCb4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-25" target="w12vRj3HUObTFoQScCb4-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-25" value="Monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3280" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="3200" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-28" target="OoX-HEwOeC7CQ54famQ6-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1011,10 +1011,10 @@
           <mxGeometry x="3640" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-30" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;free of cost&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2960" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="2640" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-31" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;consession&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3120" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="2800" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-34" target="OoX-HEwOeC7CQ54famQ6-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1027,9 +1027,6 @@
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-44" value="&lt;div&gt;where the government gives grant to the whole project or company.&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e it is not given in terms of a perticular asset, if it is given in terms of a perticular asset then it is &quot;non-monetary grant&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="3600" y="500" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-47" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="3280" y="550" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-49" target="OoX-HEwOeC7CQ54famQ6-54" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -1255,6 +1252,305 @@
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-59" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="i7AFofp_1ywYH7Vwrbwp-57" vertex="1">
           <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-2" value="Exceptions" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3620" y="210" width="120" height="40" as="geometry">
+            <mxRectangle x="3620" y="210" width="270" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-3" value="&lt;div&gt;1. gov assistance other than in the form of gov grants&lt;/div&gt;&lt;div&gt;2. gov participation in the ownership of the enterprise&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w12vRj3HUObTFoQScCb4-2">
+          <mxGeometry y="40" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-6" target="OoX-HEwOeC7CQ54famQ6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-6" target="OoX-HEwOeC7CQ54famQ6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-6" value="the grant was recived with the asset itself" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-11" target="w12vRj3HUObTFoQScCb4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-11" target="w12vRj3HUObTFoQScCb4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-11" value="the grant was recived after the purchase of the asset(i.e it was recived seperatly)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-13" target="w12vRj3HUObTFoQScCb4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-13" value="Depreciable assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-14" target="w12vRj3HUObTFoQScCb4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-14" value="Non-depreciable assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-17" target="w12vRj3HUObTFoQScCb4-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3180" y="700" />
+              <mxPoint x="3100" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-27" value="&lt;div&gt;Accounting method&lt;/div&gt;&lt;div&gt;1&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w12vRj3HUObTFoQScCb4-25">
+          <mxGeometry x="0.5588" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-17" target="w12vRj3HUObTFoQScCb4-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3180" y="700" />
+              <mxPoint x="3260" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-28" value="&lt;div&gt;Accounting method&lt;/div&gt;&lt;div&gt;2&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w12vRj3HUObTFoQScCb4-26">
+          <mxGeometry x="0.4943" relative="1" as="geometry">
+            <mxPoint y="5.2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-17" value="e.g. mach, furniture etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-19" value="e.g. only land" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-23" target="w12vRj3HUObTFoQScCb4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-23" value="GG deducted form cost of asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w12vRj3HUObTFoQScCb4-24" target="w12vRj3HUObTFoQScCb4-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-24" value="Deferred GG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-57" value="Treatement" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3040" y="820" width="120" height="40" as="geometry">
+            <mxRectangle x="2680" y="810" width="380" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-58" value="Treatment Disc." style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="w12vRj3HUObTFoQScCb4-57">
+          <mxGeometry y="40" width="30" as="geometry">
+            <mxRectangle y="20" width="250" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-61" value="&lt;div&gt;&amp;gt;&amp;gt; The grant is shown as a deduction from the gross value of the asset concerned in arriving at its book value. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; The grant is thus recognised in the profit and loss statement over the useful life of a depreciable asset by way of a reduced depreciation charge&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Where the&amp;nbsp; grant&amp;nbsp; equals the&amp;nbsp; whole,&amp;nbsp; or&amp;nbsp; virtually the&amp;nbsp; whole,&amp;nbsp; of the&amp;nbsp; cost of the asset, the asset is shown in the balance sheet at a nominal value. &lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w12vRj3HUObTFoQScCb4-58">
+          <mxGeometry y="20" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-59" value="Journal entries" style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="w12vRj3HUObTFoQScCb4-57">
+          <mxGeometry x="30" y="40" width="30" as="geometry">
+            <mxRectangle x="30" y="20" width="180" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-43" value="When the asset is purchased" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-59">
+          <mxGeometry y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-39" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-59">
+          <mxGeometry y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-40" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-39">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-41" value="&lt;div&gt;Fixed asset a/c Dr.&lt;/div&gt;&lt;div&gt;To bank a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-40">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-40">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-48" value="When GG is recived" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-59">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-49" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-59">
+          <mxGeometry y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-49">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-51" value="&lt;div&gt;GG A/c Dr.&lt;/div&gt;&lt;div&gt;To Fixed Asset A/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-50">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-50">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-62" value="depreciation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-59">
+          <mxGeometry y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-63" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-59">
+          <mxGeometry y="190" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-64" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-63">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-65" value="&lt;div&gt;Fixed asset a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;to depreciation a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-64">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-66" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-64">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-60" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" vertex="1" parent="w12vRj3HUObTFoQScCb4-57">
+          <mxGeometry x="60" y="40" width="320" as="geometry">
+            <mxRectangle x="60" y="20" width="30" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-70" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-60">
+          <mxGeometry x="10" y="65" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-70">
+          <mxGeometry width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-72" value="to depreciation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-71">
+          <mxGeometry width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-71">
+          <mxGeometry x="90" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-74" value="P/L" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-60">
+          <mxGeometry x="40" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-75" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-60">
+          <mxGeometry x="160" y="65" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-76" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-75">
+          <mxGeometry width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-77" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-76">
+          <mxGeometry width="20" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-78" value="&lt;div align=&quot;left&quot;&gt;Fixed asset-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)GG-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)Depreciation-xx-XX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="w12vRj3HUObTFoQScCb4-76">
+          <mxGeometry x="20" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-79" value="Balsheet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-60">
+          <mxGeometry x="190" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-80" value="&lt;div&gt;Inner column = xx&lt;/div&gt;&lt;div&gt;outer column = XX&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-60">
+          <mxGeometry x="100" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-82" value="Treatement" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="820" width="530" height="340" as="geometry">
+            <mxRectangle x="3200" y="820" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-83" value="Treatment Disc." style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="w12vRj3HUObTFoQScCb4-82">
+          <mxGeometry y="40" width="30" height="300" as="geometry">
+            <mxRectangle y="40" width="250" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-84" value="&lt;div&gt;&amp;gt;&amp;gt; Grants related to depreciable assets are treated as deferred income which is recognised in the profit and loss statement on a systematic and rational basis over the useful life of the asset.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Grants related to non-depreciable assets are credited to capital reserve under this method, as there is usually no charge to income in respect of such assets.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; If a grant related to a non-depreciable asset requires the fulfilment of certain obligations, the grant is credited to income over the same period over which the cost of meeting such obligations is charged to income.&amp;nbsp; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w12vRj3HUObTFoQScCb4-83">
+          <mxGeometry y="20" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-85" value="Journal entries" style="swimlane;html=1;startSize=20;" vertex="1" parent="w12vRj3HUObTFoQScCb4-82">
+          <mxGeometry x="30" y="40" width="180" height="300" as="geometry">
+            <mxRectangle x="30" y="40" width="30" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-86" value="When the asset is purchased" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-87" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-88" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-87">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-89" value="&lt;div&gt;Fixed asset a/c Dr.&lt;/div&gt;&lt;div&gt;To bank a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-88">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-90" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-88">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-91" value="When GG is recived" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-92" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-93" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-92">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-94" value="&lt;div&gt;Bank A/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;to deferred GG a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-93">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-95" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-93">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-96" value="depreciation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-97" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="190" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-98" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-97">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-99" value="&lt;div&gt;Fixed asset a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;to depreciation a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-98">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-100" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-98">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-114" value="&lt;div&gt;Ammortization on Deferred GG&lt;/div&gt;&lt;div&gt;(In liabilities side of BS)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-115" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-85">
+          <mxGeometry y="260" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-116" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-115">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-117" value="&lt;div&gt;Deferred GG a/c Dr.&lt;/div&gt;&lt;div&gt;to ammortization A/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-116">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-118" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-116">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-101" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" vertex="1" parent="w12vRj3HUObTFoQScCb4-82">
+          <mxGeometry x="210" y="40" width="320" height="300" as="geometry">
+            <mxRectangle x="210" y="40" width="30" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-102" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-101">
+          <mxGeometry x="10" y="65" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-103" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-102">
+          <mxGeometry width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-104" value="to depreciation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-103">
+          <mxGeometry width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-105" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-103">
+          <mxGeometry x="90" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-106" value="P/L" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-101">
+          <mxGeometry x="40" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-107" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="w12vRj3HUObTFoQScCb4-101">
+          <mxGeometry x="160" y="65" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-108" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="w12vRj3HUObTFoQScCb4-107">
+          <mxGeometry width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-109" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-108">
+          <mxGeometry width="20" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-110" value="&lt;div align=&quot;left&quot;&gt;Fixed asset-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)GG-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)Depreciation-xx-XX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="w12vRj3HUObTFoQScCb4-108">
+          <mxGeometry x="20" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-111" value="Balsheet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-101">
+          <mxGeometry x="190" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w12vRj3HUObTFoQScCb4-112" value="&lt;div&gt;Inner column = xx&lt;/div&gt;&lt;div&gt;outer column = XX&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w12vRj3HUObTFoQScCb4-101">
+          <mxGeometry x="100" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
