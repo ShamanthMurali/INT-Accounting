@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T20:05:38.325Z" agent="5.0 (X11)" etag="NSYHmpRl4bev3fY8eAiE" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T20:17:30.314Z" agent="5.0 (X11)" etag="iskr9wXgOvwc5rdVk35h" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1560" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1947,8 +1947,20 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-80" value="•&amp;nbsp; Where&amp;nbsp; an&amp;nbsp; asset&amp;nbsp; is&amp;nbsp; completed&amp;nbsp; “in&amp;nbsp; parts”,&amp;nbsp; and&amp;nbsp; completed&amp;nbsp; part&amp;nbsp; is capable of use, when work on others is in progress, capitalization for completed part should be stopped." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4520" y="2060" width="280" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-84" target="E-xyRDeZj1eKv_stxh0L-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-84" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/u&gt; capitalizing&lt;/div&gt;&amp;gt;transfer further interest to P/L " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4600" y="2160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-85" target="E-xyRDeZj1eKv_stxh0L-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-85" value="&lt;b&gt;DISCLOSURE REQUIREMENTS&lt;br&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4720" y="2280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-88" value="&lt;div&gt;(a)the accounting policy adopted for borrowing costs; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)the amount of borrowing costs capitalised during the period.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="2380" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
