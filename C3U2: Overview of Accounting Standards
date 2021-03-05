@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T19:39:08.207Z" agent="5.0 (X11)" etag="dJbR7LW4-5Wag-kg-2wh" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T19:40:52.120Z" agent="5.0 (X11)" etag="wLQg3JnA9gDB3Ok-8k6Y" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1347" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1707" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1772,6 +1772,9 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-11" value="Types of Borrowings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4740" y="680" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E-xyRDeZj1eKv_stxh0L-12" target="E-xyRDeZj1eKv_stxh0L-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-12" value="Specific&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="4640" y="760" width="120" height="40" as="geometry">
             <mxRectangle x="4640" y="760" width="200" height="110" as="alternateBounds" />
@@ -1787,10 +1790,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-21" value="when multiple general borrowing is used for an asset the interest rate at which the capitalization is made is calculated by the weighted average(&lt;b&gt;WA&lt;/b&gt;) of the interest rate of all borrowing used." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4770" y="820" width="180" height="100" as="geometry" />
+          <mxGeometry x="4785" y="820" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-24" value="&lt;div&gt;e.i.&lt;/div&gt;&lt;div&gt;`WA=(\text{total borrowing cost}/\text{total borrowed funds})*100`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4720" y="940" width="280" height="60" as="geometry" />
+          <mxGeometry x="4720" y="960" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-14" value="General&#xa;borrowing" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="4800" y="760" width="120" height="40" as="geometry">
@@ -1799,6 +1802,9 @@
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-15" value="a borrowing that made generally and is not specific to a task." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E-xyRDeZj1eKv_stxh0L-14">
           <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-xyRDeZj1eKv_stxh0L-28" value="no need to calculate WA. use the specified Interest rate only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4640" y="830" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
