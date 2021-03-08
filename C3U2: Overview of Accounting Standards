@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:53:34.404Z" agent="5.0 (X11)" etag="jp5-9JMJ9Kad0K4x_TN7" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T19:14:56.295Z" agent="5.0 (X11)" etag="ejxf9nrvMw28bGXk5GkB" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1712" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1445" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2748,11 +2748,75 @@
         <mxCell id="pOvbG-Agsa79kmMgz8py-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-67" target="pOvbG-Agsa79kmMgz8py-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-67" target="pOvbG-Agsa79kmMgz8py-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pOvbG-Agsa79kmMgz8py-67" value="an asset is sold to a particular buyer and from the same buyer it is taken on lease" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5700" y="2940" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pOvbG-Agsa79kmMgz8py-69" value="&lt;div&gt;why?&lt;/div&gt;&lt;div&gt;when we are need of funds&lt;/div&gt;&lt;div&gt;we sell it and use the funds and also use the asset but with nominal rent&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6230" y="2920" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-71" target="pOvbG-Agsa79kmMgz8py-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-71" target="pOvbG-Agsa79kmMgz8py-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-71" value="treatment in case of" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5882.5" y="3000" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-72" value="Operating lease" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5967.5" y="3060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-73" target="pOvbG-Agsa79kmMgz8py-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5620" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-73" value="Finance lease" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5560" y="3080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-77" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="5465" y="3140" width="310" height="140" as="geometry">
+            <mxRectangle x="6530" y="1010" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-78" value="rent paid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-77">
+          <mxGeometry x="85" y="10" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-79" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-77">
+          <mxGeometry x="10" y="30" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-79">
+          <mxGeometry width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-81" value="&lt;div&gt;rent a/c Dr.&lt;/div&gt;&lt;div&gt;to bank a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-80">
+          <mxGeometry width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-82" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-80">
+          <mxGeometry x="170" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-83" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-80">
+          <mxGeometry x="230" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-84" value="transfer rent to P/L" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-77">
+          <mxGeometry x="85" y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-85" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-77">
+          <mxGeometry x="10" y="90" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-85">
+          <mxGeometry width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-87" value="&lt;div&gt;P/L a/c Dr.&lt;/div&gt;&lt;div&gt;to rent a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-86">
+          <mxGeometry width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-88" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-86">
+          <mxGeometry x="170" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-89" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-86">
+          <mxGeometry x="230" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
