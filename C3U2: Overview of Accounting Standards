@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T20:20:39.069Z" agent="5.0 (X11)" etag="AXDkBRu230ziPxX2kgQk" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T20:24:38.812Z" agent="5.0 (X11)" etag="EIwYSTUIG9RNUACt5V6M" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1267" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3350" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2998,36 +2998,57 @@
         <mxCell id="pOvbG-Agsa79kmMgz8py-168" value="&lt;div&gt;since, SP&amp;gt;FV.&lt;/div&gt;&lt;div&gt;FV-BV=(8)&lt;/div&gt;&lt;div&gt;[Dr to P/L], 8&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6440" y="3820" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-170" target="pOvbG-Agsa79kmMgz8py-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-171" target="pOvbG-Agsa79kmMgz8py-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-176" value="&lt;div&gt;ammortise loss&lt;/div&gt;5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6510" y="3355" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-177" value="&lt;div&gt;Dr to P/L&lt;/div&gt;9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6510" y="3410" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6510" y="3380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="6493" y="3323" />
+              <mxPoint x="6493" y="3380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-178" target="pOvbG-Agsa79kmMgz8py-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6492" y="3323" />
+              <mxPoint x="6492" y="3352" />
+              <mxPoint x="6326" y="3352" />
+              <mxPoint x="6326" y="3412" />
+              <mxPoint x="6492" y="3412" />
+              <mxPoint x="6492" y="3433" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-178" value="&lt;div&gt;Cr. to P/L &lt;br&gt;&lt;/div&gt;&lt;div&gt;4&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6510" y="3300" width="120" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="pOvbG-Agsa79kmMgz8py-170" value="&lt;div&gt;if loss is &lt;br&gt;&lt;/div&gt;&lt;div&gt;not compensated&lt;/div&gt;" style="swimlane;startSize=45;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="6337.5" y="3390" width="122.5" height="45" as="geometry">
-            <mxRectangle x="6337.5" y="3390" width="249.25" height="122.5" as="alternateBounds" />
+          <mxGeometry x="6350" y="3390" width="122.5" height="45" as="geometry">
+            <mxRectangle x="6350" y="3390" width="249.25" height="122.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOvbG-Agsa79kmMgz8py-175" value="you sold the asset at a loss. but the rent you have agreed to pay is equal to or more than the market price for such rent." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-170">
           <mxGeometry y="45" width="249.25" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="pOvbG-Agsa79kmMgz8py-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-171" target="pOvbG-Agsa79kmMgz8py-178">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pOvbG-Agsa79kmMgz8py-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-171" target="pOvbG-Agsa79kmMgz8py-176">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pOvbG-Agsa79kmMgz8py-171" value="&lt;div&gt;if loss is &lt;br&gt;&lt;/div&gt;&lt;div&gt;compensated&lt;/div&gt;" style="swimlane;startSize=45;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="6337.5" y="3330" width="122.5" height="45" as="geometry">
-            <mxRectangle x="6337.5" y="3330" width="252.5" height="120" as="alternateBounds" />
+          <mxGeometry x="6350" y="3330" width="122.5" height="45" as="geometry">
+            <mxRectangle x="6350" y="3330" width="252.5" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOvbG-Agsa79kmMgz8py-174" value="you sold the asset at a loss. but the rent you have agreed to pay is less than the market price for such rent." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-171">
           <mxGeometry x="0.75" y="42.5" width="249.25" height="77.5" as="geometry" />
-        </mxCell>
-        <mxCell id="pOvbG-Agsa79kmMgz8py-176" value="&lt;div&gt;ammortise loss&lt;/div&gt;5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6500" y="3355" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="pOvbG-Agsa79kmMgz8py-177" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6480" y="3425" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="pOvbG-Agsa79kmMgz8py-178" value="&lt;div&gt;Cr. to P/L &lt;br&gt;&lt;/div&gt;&lt;div&gt;4&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6500" y="3305" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
