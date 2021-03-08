@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:01:21.157Z" agent="5.0 (X11)" etag="XW8CgVMrwiQs6hKZlhuS" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:02:20.162Z" agent="5.0 (X11)" etag="VM6drUGhgGupIwsKBxAH" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1707" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1886" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2322,7 +2322,7 @@
           <mxGeometry x="5407.5" y="2210" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-2" value="&lt;div&gt;Abb. IRR&lt;/div&gt;&lt;div&gt;&amp;gt; Internal rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; implicit rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; economic rate of return(ERR)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5210" y="2210" width="180" height="70" as="geometry" />
+          <mxGeometry x="5207.5" y="2210" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-4" target="5KC44vTDy31V5b7Krxvp-29">
           <mxGeometry relative="1" as="geometry" />
@@ -2394,6 +2394,9 @@
           <mxGeometry x="5247.5" y="2150" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-29" target="5KC44vTDy31V5b7Krxvp-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-29" target="5KC44vTDy31V5b7Krxvp-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-29" value="Unearned finance income = gross investment - PV of gross investment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2559,7 +2562,7 @@
           <mxGeometry x="100" y="10" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-99" value="shows the interest you will earn from the lease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5300" y="2430" width="70" height="80" as="geometry" />
+          <mxGeometry x="5870" y="2430" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="5KC44vTDy31V5b7Krxvp-118" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -2568,6 +2571,9 @@
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-42" target="C2txcmNp7p7fwgr2G4Js-38">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-143" value="shows the interest to pay lessor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5247.5" y="2430" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
