@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T15:18:03.573Z" agent="5.0 (X11)" etag="zuExLOD7TlKJ4egEmDFH" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T15:53:59.414Z" agent="5.0 (X11)" etag="TriT2Dn3MfoTfMfMv9Db" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2093" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1560" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2296,6 +2296,15 @@
         </mxCell>
         <mxCell id="C2txcmNp7p7fwgr2G4Js-48" value="&lt;div&gt;unguaranteed residual value (URV)&lt;/div&gt;&lt;div&gt;e.g. 400&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5520" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-1" target="5KC44vTDy31V5b7Krxvp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-1" value="IRR = [it is the base percentage at which the present value money you are going to make you going to make from a project will be equal to the amount of money you are going to spend on the project today]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5320" y="1600" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-2" value="&lt;div&gt;Abb. IRR&lt;/div&gt;&lt;div&gt;&amp;gt; Internal rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; implicit rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; economic rate of return(ERR)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5120" y="1600" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
