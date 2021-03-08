@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T16:45:07.777Z" agent="5.0 (X11)" etag="80hYRQY1Qvre0XFAzy6i" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T16:51:02.048Z" agent="5.0 (X11)" etag="j3YXWNczHAxd-X2oUMdp" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1707" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2370,7 +2370,13 @@
           <mxGeometry x="5740" y="-280" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-26" value="Gross investment = MLP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5417.5" y="1600" width="165" height="40" as="geometry" />
+          <mxGeometry x="5417.5" y="1590" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-27" value="PV of Gross investment or net investment =lease rentals payable*cumulative discount rate + guaranteed residual value * that years discount rate - [contingent rent - reimbursement charges if any] * that years discount rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5160" y="1660" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-29" value="Unearned finance income = gross investment - PV of gross investment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5300" y="1960" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
