@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:46:06.750Z" agent="5.0 (X11)" etag="KSgcPJtuB4JdraqIHyJr" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:53:34.404Z" agent="5.0 (X11)" etag="jp5-9JMJ9Kad0K4x_TN7" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2321" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1712" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2739,8 +2739,20 @@
         <mxCell id="pOvbG-Agsa79kmMgz8py-58" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Lessor&lt;/b&gt;&lt;/font&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pOvbG-Agsa79kmMgz8py-45">
           <mxGeometry x="85" width="140" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-60" target="pOvbG-Agsa79kmMgz8py-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pOvbG-Agsa79kmMgz8py-60" value="Sale and Lease Back" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="5860" y="2880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOvbG-Agsa79kmMgz8py-67" target="pOvbG-Agsa79kmMgz8py-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-67" value="an asset is sold to a particular buyer and from the same buyer it is taken on lease" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5700" y="2940" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOvbG-Agsa79kmMgz8py-69" value="&lt;div&gt;why?&lt;/div&gt;&lt;div&gt;when we are need of funds&lt;/div&gt;&lt;div&gt;we sell it and use the funds and also use the asset but with nominal rent&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6230" y="2920" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
