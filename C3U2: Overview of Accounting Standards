@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T16:42:05.015Z" agent="5.0 (X11)" etag="NtEDcGgpbjxNBCJxx7lg" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T16:45:07.777Z" agent="5.0 (X11)" etag="80hYRQY1Qvre0XFAzy6i" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1707" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5KC44vTDy31V5b7Krxvp-24" value="&lt;div&gt;&lt;u&gt;Book def.&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;IRR is the annual rate of growth an investment is expected to generate." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5700" y="1720" width="150" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-2" target="1LN1yMJUp_J7Lrd1q6oo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2303,14 +2306,17 @@
         <mxCell id="5KC44vTDy31V5b7Krxvp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-1" target="5KC44vTDy31V5b7Krxvp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-1" target="5KC44vTDy31V5b7Krxvp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-1" value="IRR = [it is the base percentage at which the present value money you are going to make you going to make from a project will be equal to the amount of money you are going to spend on the project today]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5320" y="1600" width="360" height="70" as="geometry" />
+          <mxGeometry x="5320" y="1725" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-2" value="&lt;div&gt;Abb. IRR&lt;/div&gt;&lt;div&gt;&amp;gt; Internal rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; implicit rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; economic rate of return(ERR)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5120" y="1600" width="180" height="70" as="geometry" />
+          <mxGeometry x="5120" y="1725" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-4" value="&lt;div&gt;At IRR&lt;/div&gt;&lt;div&gt;Fair value of asset = PV of Gross investment / net investment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PV of outflow = PV of inflow&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5360" y="1690" width="280" height="120" as="geometry" />
+          <mxGeometry x="5360" y="1815" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KC44vTDy31V5b7Krxvp-6" target="5KC44vTDy31V5b7Krxvp-7">
           <mxGeometry relative="1" as="geometry" />
@@ -2362,6 +2368,9 @@
         </mxCell>
         <mxCell id="5KC44vTDy31V5b7Krxvp-17" value="Fair value accounting is the practice of measuring assets and liabilities at their current market value. The fair value is the amount that the asset could be sold, or a liability settled for a value that is fair to both the buyer and the seller." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5740" y="-280" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5KC44vTDy31V5b7Krxvp-26" value="Gross investment = MLP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5417.5" y="1600" width="165" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
