@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T23:52:16.587Z" agent="5.0 (X11)" etag="PtBCqvvLIw_KSHUSQESn" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T23:56:46.257Z" agent="5.0 (X11)" etag="CgVdUkqYXIPiW8JL8R92" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1711" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -3808,7 +3808,7 @@
         <mxCell id="mqCEWKj17Au6U75BQScQ-287" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-286">
           <mxGeometry width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-288" value="&lt;div align=&quot;left&quot;&gt;Asset a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to Accured depreciation a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to revaluation reserve a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-287">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-288" value="&lt;div align=&quot;left&quot;&gt;Asset a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to Accured depreciation a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to revaluation reserve&lt;sup&gt;***&lt;/sup&gt; a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-287">
           <mxGeometry width="168" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-289" value="&lt;div&gt;467&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-287">
@@ -3823,8 +3823,47 @@
         <mxCell id="mqCEWKj17Au6U75BQScQ-292" value="&lt;div&gt;here the cost and accumulated dep are proportionately restated, so that difference between cost and accumulated dep will be the reval cost&lt;br&gt;&lt;u&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;note&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;1. restated cost&lt;/div&gt;&lt;div&gt;1000=750&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?=1100&lt;/div&gt;&lt;div&gt;=&amp;gt;1467&lt;/div&gt;&lt;div&gt;2. restated depreciation&lt;/div&gt;&lt;div&gt;250 = 750&lt;/div&gt;&lt;div&gt;? = 1100&lt;/div&gt;&lt;div&gt;=&amp;gt; 367&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-291">
           <mxGeometry x="35" y="10" width="285" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-295" target="mqCEWKj17Au6U75BQScQ-297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-295" target="mqCEWKj17Au6U75BQScQ-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-295" value="&lt;div&gt;further&lt;/div&gt;&lt;div&gt;treatment of revaluation reserve&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="1440" width="120" height="50" as="geometry" />
+          <mxGeometry x="2705" y="1440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-297" target="mqCEWKj17Au6U75BQScQ-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-297" value="upward in 1st reval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2625" y="1540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-298" target="mqCEWKj17Au6U75BQScQ-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-298" value="downward in 1st reval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="1540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-299" value="Dr. to P/L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="1580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-301" target="mqCEWKj17Au6U75BQScQ-307">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-301" value="&amp;gt;create reval reserve" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2625" y="1580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-291" target="mqCEWKj17Au6U75BQScQ-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-307" target="mqCEWKj17Au6U75BQScQ-308">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-307" value="downward in 2st reval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2625" y="1640" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-308" value="&lt;div&gt;&amp;gt;first use the reval reserve&lt;/div&gt;&lt;div&gt;&amp;gt;for the rest Dr. to P/L&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2625" y="1680" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
