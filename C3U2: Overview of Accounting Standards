@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T20:11:47.094Z" agent="5.0 (X11)" etag="sIOpwrVHN66Cl4l34xdB" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T20:14:07.734Z" agent="5.0 (X11)" etag="zVGeXlcUb4QMzqjd2myQ" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1563" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -3321,7 +3321,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-78" value="Accounting for Forward Exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3940" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="3950" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-79" target="mqCEWKj17Au6U75BQScQ-81">
           <mxGeometry relative="1" as="geometry" />
@@ -3333,19 +3333,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-80" value="speculating" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4060" y="379" width="120" height="41" as="geometry" />
+          <mxGeometry x="4080" y="379" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-81" target="mqCEWKj17Au6U75BQScQ-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-81" value="to reduce risk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3820" y="441" width="120" height="40" as="geometry" />
+          <mxGeometry x="3820" y="441" width="120" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-82" target="mqCEWKj17Au6U75BQScQ-89">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-82" value="to make profit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4060" y="441" width="120" height="40" as="geometry" />
+          <mxGeometry x="4080" y="440" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-87" value="(a) The premium or discount (difference&lt;br&gt;between the value at spot rate and forward&lt;br&gt;rate) should be amortized over the life of&lt;br&gt;contract.&lt;br&gt;(b) Exchange difference (difference&lt;br&gt;between the value of settlement&lt;br&gt;date / reporting date and value at previous&lt;br&gt;reporting date / inception of the contract) be&lt;br&gt;recognized in P &amp;amp; L of the year.&lt;br&gt;(c) Profit / loss on cancellation / renewal&lt;br&gt;of forward contract be recognized in P &amp;amp; L&lt;br&gt;of the year." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="3752.5" y="500" width="255" height="180" as="geometry" />
+          <mxGeometry x="3752.5" y="481" width="255" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-89" value="(a) No premium or discount is recognized.&lt;br&gt;(b) A gain or loss i.e. the difference between the forward rate as per contract/previous year end valuation rate and the forward rate available at the year end (reporting date) for&lt;br&gt;remaining maturity period should be recognized in the P&amp;amp;L of the period." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="4012.5" y="481" width="255" height="129" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
