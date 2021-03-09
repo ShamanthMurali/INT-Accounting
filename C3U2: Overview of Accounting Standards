@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T20:20:22.145Z" agent="5.0 (X11)" etag="-CkyFCHxI9BFYrQWXgqj" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T22:08:39.732Z" agent="5.0 (X11)" etag="qUkmXCK6JQy5NdFflT0R" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2633" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1563" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,8 +566,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 10&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="2560" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-22" target="mqCEWKj17Au6U75BQScQ-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Plant, Property and Equipment&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-22">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="2460" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3367,6 +3370,62 @@
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
           <mxGeometry x="3307.5" y="-100" width="85" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-96" target="mqCEWKj17Au6U75BQScQ-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-96" value="The recognition of the assets, determination of their carrying amount and depreciation charges and impairment losses to be recognised with respect to assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2375" y="210" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-98" target="mqCEWKj17Au6U75BQScQ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-98" value="PPE are generally fixed assets tangible in nature which are held in business for production or supply of goods and services or for rental to others or for administrative purposes, to be used for more than one accounting period and not held for sale in the normal course of business." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="270" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-105" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-106" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2620" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-100" value="&lt;div&gt;if &lt;br&gt;&lt;/div&gt;&lt;div&gt;asset=&lt;/div&gt;&lt;div&gt;1. biological asset&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. products of bearer plants&lt;/div&gt;&lt;div&gt;3. depleting assets&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2475" y="350" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-103" value="It is not a PPE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-107" value="&lt;u&gt;&lt;b&gt;Biological asset&lt;/b&gt;&lt;/u&gt; is a living animal or plant and its core income producing a set of agricultural activity therefore not covered by PPE." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="350" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-108" value="&lt;u&gt;&lt;b&gt;Bearer plant&lt;/b&gt;&lt;/u&gt; is a plant that is used in the production or supply of agricultural produce, is expected to bear produce for more than a period of 12 months and has a remote likelihood of being sold(will not be sold) as a agricultural produce except for incidental scrap sale." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="420" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-113" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-111" value="&lt;div&gt;if(Recognition criteria) &lt;br&gt;&lt;/div&gt;&lt;div&gt;asset=&lt;/div&gt;&lt;div&gt;1. probable that future economic benefits &lt;br&gt;&lt;/div&gt;&lt;div&gt;associated with the asset will flow to the entity.&lt;/div&gt;&lt;div&gt;2. The cost of the item &lt;br&gt;&lt;/div&gt;&lt;div&gt;can be measured reliably.&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2442.5" y="530" width="355" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-112" value="It is not a PPE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="605" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-114" value="&lt;u&gt;&lt;b&gt;Spare parts&lt;/b&gt;&lt;/u&gt; are usually treated as inventory and recognise in PL account hasn’t been consumed, but major spare parts and standby equipments are treated as PPE, when they are expected to be used over more than one accounting period" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="575" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-116" value="Measurement of Initial Cost of PPE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
