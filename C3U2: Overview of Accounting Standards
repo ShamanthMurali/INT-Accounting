@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T22:08:39.732Z" agent="5.0 (X11)" etag="qUkmXCK6JQy5NdFflT0R" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T22:31:44.635Z" agent="5.0 (X11)" etag="6wOr5HPNJhGLV5ZXJ7ht" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1563" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -3424,8 +3424,95 @@
         <mxCell id="mqCEWKj17Au6U75BQScQ-114" value="&lt;u&gt;&lt;b&gt;Spare parts&lt;/b&gt;&lt;/u&gt; are usually treated as inventory and recognise in PL account hasn’t been consumed, but major spare parts and standby equipments are treated as PPE, when they are expected to be used over more than one accounting period" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2140" y="575" width="260" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-116" target="mqCEWKj17Au6U75BQScQ-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-116" value="Measurement of Initial Cost of PPE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-117" target="mqCEWKj17Au6U75BQScQ-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-117" value="Purchase price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-119" target="mqCEWKj17Au6U75BQScQ-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-119" value="+ import duties +Non-refundable purchased taxes - trade discounts and rebates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1060" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-121" target="mqCEWKj17Au6U75BQScQ-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-121" value="+ cost of Bringing the asset to the location and condition necessary for it to be used in a manner intended by management." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1120" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-122" value="+ estimates of cost of dismantling or decommissioning, removal and site restoration at present value (the cost of removing the asset at the end of its life should also be added)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1180" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-127" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-125" target="mqCEWKj17Au6U75BQScQ-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-125" target="mqCEWKj17Au6U75BQScQ-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-125" value="&lt;div&gt;Are you buying the asset&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-129" target="mqCEWKj17Au6U75BQScQ-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-129" target="mqCEWKj17Au6U75BQScQ-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-129" value="if you are going the to produce / construct the asset on your own" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="980" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-136" target="mqCEWKj17Au6U75BQScQ-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-136" value="** calculate the cost of the asset, the same way you would have calculated if you were to produce and sell the asset." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1070" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-139" target="mqCEWKj17Au6U75BQScQ-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-139" value="+ internal department cost - interdepartmental profit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1130" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-141" target="mqCEWKj17Au6U75BQScQ-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-141" value="+ all directly related expenses(material,labor etc.) wrt to construction/production of the asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1190" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-142" value="- abnormal expenses(wasted material, fire damage etc.) wrt to construction/production of the asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1250" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-145" value="+ borrowing costs as per AS-16" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1310" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-147" target="mqCEWKj17Au6U75BQScQ-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-147" value="in case of bearer plants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2890.5" y="1070" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-149" target="mqCEWKj17Au6U75BQScQ-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-149" value="+ purchase cost(seeds etc.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2895.5" y="1140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-150" target="mqCEWKj17Au6U75BQScQ-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-150" value="+ planting cost (plowing, digging holes etc.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2895.5" y="1200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-153" value="**do not consider the cost required to make the plant grow its revenue exp." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="1260" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
