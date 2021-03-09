@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T20:01:34.531Z" agent="5.0 (X11)" etag="ydVnpuxYxNxmZ0O9RPm8" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T20:02:15.440Z" agent="5.0 (X11)" etag="4w3Mw1CFwMnv9FbyR5sp" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2318" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1563" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3097,16 +3097,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-1" value="foreign currency transaction&lt;br&gt;should be Recognised in the Book&lt;br&gt;by converting or translating it into&lt;br&gt;the Reporting currency i.e. by&lt;br&gt;applying the spot Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="380" width="220" height="90" as="geometry" />
+          <mxGeometry x="2670" y="380" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-2" value="&lt;div&gt;Spot rate = the forign currency exchange rate at that time&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; weekly/monthly average can also be used&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="380" width="200" height="90" as="geometry" />
+          <mxGeometry x="2440" y="380" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-4" target="mqCEWKj17Au6U75BQScQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-4" value="Within FY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2750" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="2720" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-5" target="mqCEWKj17Au6U75BQScQ-8">
           <mxGeometry relative="1" as="geometry" />
@@ -3133,25 +3133,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-11" value="Pain on contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="2640" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-13" value="record at spot rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="580" width="120" height="20" as="geometry" />
+          <mxGeometry x="2640" y="580" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-15" target="mqCEWKj17Au6U75BQScQ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-15" value="contracted at one price but paid later" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2830" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="2800" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-17" target="mqCEWKj17Au6U75BQScQ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-17" value="&lt;div&gt;record the spot rate at the time of payment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; any P/L appearing should be adgusted to the P/L a/c&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="580" width="140" height="90" as="geometry" />
+          <mxGeometry x="2790" y="580" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-19" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="2790" y="690" width="200" height="160" as="geometry">
+          <mxGeometry x="2760" y="690" width="200" height="160" as="geometry">
             <mxRectangle x="2900" y="690" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
