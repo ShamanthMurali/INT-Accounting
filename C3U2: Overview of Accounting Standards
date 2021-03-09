@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T15:38:43.300Z" agent="5.0 (X11)" etag="vzEHsQEsqcs-OWIdt9Jl" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T19:33:12.978Z" agent="5.0 (X11)" etag="_csFs0-VCvyJEI6KcUps" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2629" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1711" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,7 +578,7 @@
           <mxGeometry x="2920" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;The effects of changes in forign exchange rates&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-24">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="2820" y="120" width="320" height="70" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3069,23 +3069,218 @@
         <mxCell id="pOvbG-Agsa79kmMgz8py-174" value="you sold the asset at a loss. but the rent you have agreed to pay is less than the market price for such rent." style="rounded=0;whiteSpace=wrap;html=1;" parent="pOvbG-Agsa79kmMgz8py-171" vertex="1">
           <mxGeometry x="0.75" y="42.5" width="249.25" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="iLACrTjWYaNHQRIljx-X-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="-662.5" y="-120" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="iLACrTjWYaNHQRIljx-X-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="777.5" y="-120" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="iLACrTjWYaNHQRIljx-X-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="435" y="-120" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="iLACrTjWYaNHQRIljx-X-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="5817.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
-          <mxGeometry x="3307.5" y="-100" width="85" height="100" as="geometry" />
+        <mxCell id="iLACrTjWYaNHQRIljx-X-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
+          <mxGeometry x="3297.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="iLACrTjWYaNHQRIljx-X-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="4747.5" y="-100" width="85" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-1" target="mqCEWKj17Au6U75BQScQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-1" target="mqCEWKj17Au6U75BQScQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-1" target="mqCEWKj17Au6U75BQScQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-1" value="very foreign currency transaction&lt;br&gt;should be Recognised in the Book&lt;br&gt;by converting or translating it into&lt;br&gt;the Reporting currency i.e. by&lt;br&gt;applying the spot Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="340" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-2" value="&lt;div&gt;Spot rate = the forign currency exchange rate at that time&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; weekly/monthly average can also be used&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="340" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-4" target="mqCEWKj17Au6U75BQScQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-4" value="Within FY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-5" target="mqCEWKj17Au6U75BQScQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-5" target="mqCEWKj17Au6U75BQScQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-5" value="remains unsettled at the end of the FY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3159" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-7" target="mqCEWKj17Au6U75BQScQ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-7" value="Non monetary items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="359" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-8" target="mqCEWKj17Au6U75BQScQ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-8" value="Monetary Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="359" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-11" target="mqCEWKj17Au6U75BQScQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-11" value="Pain on contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-13" value="record at spot rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-15" target="mqCEWKj17Au6U75BQScQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-15" value="contracted at one price but paid later" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-17" target="mqCEWKj17Au6U75BQScQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-17" value="&lt;div&gt;record the spot rate at the time of payment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; any P/L appearing should be adgusted to the P/L a/c&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="540" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-19" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="650" width="200" height="160" as="geometry">
+            <mxRectangle x="2900" y="690" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-19">
+          <mxGeometry width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-22" value="on sale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-19">
+          <mxGeometry x="60" y="10" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-23" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-19">
+          <mxGeometry x="10" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-23">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-25" value="&lt;div&gt;Debtors &lt;br&gt;&lt;/div&gt;&lt;div&gt;to sale&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-24">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-26" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-24">
+          <mxGeometry x="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-24">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-28" value="On reciving the payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-19">
+          <mxGeometry x="30" y="70" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-29" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-19">
+          <mxGeometry x="10" y="90" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-29">
+          <mxGeometry width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-31" value="&lt;div align=&quot;left&quot;&gt;bank a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;forex loss a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to debtors a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to forex gain a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-30">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-32" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-30">
+          <mxGeometry x="100" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="mqCEWKj17Au6U75BQScQ-30">
+          <mxGeometry x="140" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-35" target="mqCEWKj17Au6U75BQScQ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-35" value="They are money held &amp;amp; assets &amp;amp; liabilities to be received or paid in fixed or determinable amounts of money. E.g. : Cash, Bankbalance,Receivables, Payables, Loans" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="420" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-37" target="mqCEWKj17Au6U75BQScQ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-37" value="They are assets &amp;amp; liabilities other than monetary items i.e. their values are not fixed they may change. .&lt;br&gt;E.g.: FAs, Inventories, Investment in&lt;br&gt;equity shares etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="420" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-39" target="mqCEWKj17Au6U75BQScQ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-39" value="&lt;div&gt;&amp;gt; Convert to closeing rate on the B/S date&lt;/div&gt;&lt;div&gt;&amp;gt; record Gain/Loss in P/L&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-42" target="mqCEWKj17Au6U75BQScQ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-42" value="&lt;div&gt;&amp;gt; record at &lt;u&gt;&lt;b&gt;original cost&lt;/b&gt;&lt;/u&gt; on B/S date&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="570" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-44" target="mqCEWKj17Au6U75BQScQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-44" value="&lt;div&gt;But if NRV is used,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; calculate NRV&lt;/div&gt;&lt;div&gt;&amp;gt; convert the NRV to the exchange in such date.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="640" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-46" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;accounts receivable and inventory are valued at NRV&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="650" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-48" target="mqCEWKj17Au6U75BQScQ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-48" value="Long term monetary items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-50" target="mqCEWKj17Au6U75BQScQ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-50" value="e.g. loans O/S, loans recivable, creditors, debtors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="890" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-53" target="mqCEWKj17Au6U75BQScQ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-53" value="&lt;div&gt;&amp;gt; on B/S date convert to exchange rate as of that day&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="950" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-55" target="mqCEWKj17Au6U75BQScQ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-55" value="&lt;div&gt;treatment of any P/L that arises&lt;/div&gt;&lt;div&gt;as per para 46(A)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="1020" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-57" target="mqCEWKj17Au6U75BQScQ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-57" target="mqCEWKj17Au6U75BQScQ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-65" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mqCEWKj17Au6U75BQScQ-62">
+          <mxGeometry x="-0.4574" relative="1" as="geometry">
+            <mxPoint x="10.66" y="-0.03" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-57" target="mqCEWKj17Au6U75BQScQ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-66" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mqCEWKj17Au6U75BQScQ-63">
+          <mxGeometry x="-0.7205" y="2" relative="1" as="geometry">
+            <mxPoint x="18.310000000000002" y="1.97" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-57" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;that loan is &lt;br&gt;&lt;/div&gt;&lt;div&gt;taken for&lt;/div&gt;&lt;div&gt; a FA&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3090" y="1090" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-58" value="e.g. loan taken to acquire/construct an asset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="1220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-60" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="1280" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mqCEWKj17Au6U75BQScQ-61" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="1280" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
