@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T16:29:54.847Z" agent="5.0 (X11)" etag="62sveYRf8wVnO3pNp3Sm" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T16:45:35.615Z" agent="5.0 (X11)" etag="EphurAeE8kzJFGhU3KhV" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1717" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -4006,50 +4006,62 @@
         <mxCell id="AsyacBQFKjcLMjCf_pFS-47" value="&lt;div&gt;When,&lt;/div&gt;&lt;div&gt;WDV = residual value&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="2800" y="1500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-49" target="AsyacBQFKjcLMjCf_pFS-50">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-49" target="AsyacBQFKjcLMjCf_pFS-50" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3141" y="820" />
+              <mxPoint x="2997" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-49" target="AsyacBQFKjcLMjCf_pFS-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-49" target="AsyacBQFKjcLMjCf_pFS-51" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3141" y="820" />
+              <mxPoint x="3277" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="De-recognition" treeRoot="1" id="AsyacBQFKjcLMjCf_pFS-49">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="3060" y="760" width="120" height="40" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="3081" y="761" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-50" target="AsyacBQFKjcLMjCf_pFS-52">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-50" target="AsyacBQFKjcLMjCf_pFS-52" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-50" target="AsyacBQFKjcLMjCf_pFS-53">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3040" y="900" />
-              <mxPoint x="2900" y="900" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-50" target="AsyacBQFKjcLMjCf_pFS-53" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-50" target="AsyacBQFKjcLMjCf_pFS-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3040" y="900" />
-              <mxPoint x="3180" y="900" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-50" target="AsyacBQFKjcLMjCf_pFS-54" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-50" value="by disposal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="840" width="120" height="40" as="geometry" />
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-50" value="by disposal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2937.5" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-51" value="end of use life" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="840" width="120" height="40" as="geometry" />
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-51" value="end of use life" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3217.5" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-52" value="By entering into a finance lease" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="920" width="120" height="40" as="geometry" />
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-52" target="AsyacBQFKjcLMjCf_pFS-61" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-53" value="By sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="920" width="120" height="40" as="geometry" />
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-52" value="By entering into a finance lease" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2937.5" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-54" value="By donation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3120" y="920" width="120" height="40" as="geometry" />
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-53" target="AsyacBQFKjcLMjCf_pFS-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-53" value="By sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2797.5" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-54" target="AsyacBQFKjcLMjCf_pFS-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-54" value="By donation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3077.5" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-61" value="Gain or&amp;nbsp; loss&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; de-recognition of&amp;nbsp; an&amp;nbsp; item&amp;nbsp; of PPE&amp;nbsp; should&amp;nbsp; be&amp;nbsp; included&amp;nbsp; in the&amp;nbsp; Statement&amp;nbsp; of&amp;nbsp; Profit&amp;nbsp; and&amp;nbsp; Loss&amp;nbsp; when the&amp;nbsp; item&amp;nbsp; is derecognised unless&amp;nbsp; AS&amp;nbsp; 19&amp;nbsp; on Leases,&amp;nbsp; requires&amp;nbsp; otherwise&amp;nbsp; on&amp;nbsp; a&amp;nbsp; sale&amp;nbsp; and&amp;nbsp; leaseback&amp;nbsp; (AS&amp;nbsp; 19&amp;nbsp; on&amp;nbsp; Leases,&amp;nbsp; applies&amp;nbsp; to disposal by a sale and leaseback.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2857.5" y="1000" width="280" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
