@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T17:04:40.041Z" agent="5.0 (X11)" etag="i7N_k0oD2Rum216GOi3W" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T17:05:41.467Z" agent="5.0 (X11)" etag="u4Y6mHb6NikImY0hlctd" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1898" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1568" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,11 +566,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 10&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="2560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-22" target="mqCEWKj17Au6U75BQScQ-96" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-22" target="mqCEWKj17Au6U75BQScQ-96" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Plant, Property and Equipment&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-22">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="2460" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3371,60 +3371,60 @@
         <mxCell id="mqCEWKj17Au6U75BQScQ-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="3307.5" y="-100" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-96" target="mqCEWKj17Au6U75BQScQ-98" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-96" target="mqCEWKj17Au6U75BQScQ-98" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-96" value="The recognition of the assets, determination of their carrying amount and depreciation charges and impairment losses to be recognised with respect to assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-96" value="The recognition of the assets, determination of their carrying amount and depreciation charges and impairment losses to be recognised with respect to assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2375" y="210" width="490" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-98" target="mqCEWKj17Au6U75BQScQ-100" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-98" target="mqCEWKj17Au6U75BQScQ-100" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-98" value="PPE are generally fixed assets tangible in nature which are held in business for production or supply of goods and services or for rental to others or for administrative purposes, to be used for more than one accounting period and not held for sale in the normal course of business." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-98" value="PPE are generally fixed assets tangible in nature which are held in business for production or supply of goods and services or for rental to others or for administrative purposes, to be used for more than one accounting period and not held for sale in the normal course of business." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2360" y="270" width="520" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-105" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-103" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-105" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-103" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-106" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-111" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-106" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-111" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2620" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-107" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-107" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-108" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mqCEWKj17Au6U75BQScQ-100" target="mqCEWKj17Au6U75BQScQ-108" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-100" value="&lt;div&gt;if &lt;br&gt;&lt;/div&gt;&lt;div&gt;asset=&lt;/div&gt;&lt;div&gt;1. biological asset&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. products of bearer plants&lt;/div&gt;&lt;div&gt;3. depleting assets&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-100" value="&lt;div&gt;if &lt;br&gt;&lt;/div&gt;&lt;div&gt;asset=&lt;/div&gt;&lt;div&gt;1. biological asset&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. products of bearer plants&lt;/div&gt;&lt;div&gt;3. depleting assets&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2475" y="350" width="290" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-103" value="It is not a PPE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-103" value="It is not a PPE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2840" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-107" value="&lt;u&gt;&lt;b&gt;Biological asset&lt;/b&gt;&lt;/u&gt; is a living animal or plant and its core income producing a set of agricultural activity therefore not covered by PPE." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-107" value="&lt;u&gt;&lt;b&gt;Biological asset&lt;/b&gt;&lt;/u&gt; is a living animal or plant and its core income producing a set of agricultural activity therefore not covered by PPE." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2140" y="350" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-108" value="&lt;u&gt;&lt;b&gt;Bearer plant&lt;/b&gt;&lt;/u&gt; is a plant that is used in the production or supply of agricultural produce, is expected to bear produce for more than a period of 12 months and has a remote likelihood of being sold(will not be sold) as a agricultural produce except for incidental scrap sale." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-108" value="&lt;u&gt;&lt;b&gt;Bearer plant&lt;/b&gt;&lt;/u&gt; is a plant that is used in the production or supply of agricultural produce, is expected to bear produce for more than a period of 12 months and has a remote likelihood of being sold(will not be sold) as a agricultural produce except for incidental scrap sale." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2140" y="420" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-113" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-112" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-113" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-112" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-114" edge="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-114" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-5">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-210">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-210" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-18">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-18" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-116">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="mqCEWKj17Au6U75BQScQ-116" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2620" y="740" />
@@ -3432,7 +3432,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-49">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-49" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2620" y="740" />
@@ -3440,7 +3440,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-80">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mqCEWKj17Au6U75BQScQ-111" target="AsyacBQFKjcLMjCf_pFS-80" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2620" y="740" />
@@ -3448,19 +3448,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-111" value="&lt;div&gt;if(Recognition criteria) &lt;br&gt;&lt;/div&gt;&lt;div&gt;asset=&lt;/div&gt;&lt;div&gt;1. probable that future economic benefits &lt;br&gt;&lt;/div&gt;&lt;div&gt;associated with the asset will flow to the entity.&lt;/div&gt;&lt;div&gt;2. The cost of the item &lt;br&gt;&lt;/div&gt;&lt;div&gt;can be measured reliably.&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-111" value="&lt;div&gt;if(Recognition criteria) &lt;br&gt;&lt;/div&gt;&lt;div&gt;asset=&lt;/div&gt;&lt;div&gt;1. probable that future economic benefits &lt;br&gt;&lt;/div&gt;&lt;div&gt;associated with the asset will flow to the entity.&lt;/div&gt;&lt;div&gt;2. The cost of the item &lt;br&gt;&lt;/div&gt;&lt;div&gt;can be measured reliably.&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2442.5" y="530" width="355" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-112" value="It is not a PPE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-112" value="It is not a PPE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2840" y="605" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-114" value="&lt;u&gt;&lt;b&gt;Spare parts&lt;/b&gt;&lt;/u&gt; are usually treated as inventory and recognise in PL account hasn’t been consumed, but major spare parts and standby equipments are treated as PPE, when they are expected to be used over more than one accounting period" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-114" value="&lt;u&gt;&lt;b&gt;Spare parts&lt;/b&gt;&lt;/u&gt; are usually treated as inventory and recognise in PL account hasn’t been consumed, but major spare parts and standby equipments are treated as PPE, when they are expected to be used over more than one accounting period" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2140" y="575" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-116" target="mqCEWKj17Au6U75BQScQ-125" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-116" value="&lt;div&gt;Measurement of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Initial Cost of PPE&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-116" value="&lt;div&gt;Measurement of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Initial Cost of PPE&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2240" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-117" target="mqCEWKj17Au6U75BQScQ-168" edge="1" visible="0">
@@ -3739,7 +3739,7 @@
         <mxCell id="mqCEWKj17Au6U75BQScQ-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-210" target="mqCEWKj17Au6U75BQScQ-214" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-210" value="Revaluations" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="mqCEWKj17Au6U75BQScQ-210" value="Revaluations" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2400" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-212" value="&lt;div&gt;Determination of Fair Value&lt;/div&gt;&lt;div&gt;&amp;gt; pro valuers determined&amp;nbsp; from&amp;nbsp; market -based&amp;nbsp; evidence&lt;/div&gt;&lt;div&gt;&amp;gt; if market evidence is not available use income approach&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1" visible="0">
@@ -3909,7 +3909,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Subsequent cost incurred" treeRoot="1" id="AsyacBQFKjcLMjCf_pFS-5">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="1">
             <mxGeometry x="2560" y="760" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3953,7 +3953,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="depreciation" treeRoot="1" id="AsyacBQFKjcLMjCf_pFS-18">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="1">
             <mxGeometry x="2720" y="760" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4056,7 +4056,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="De-recognition" treeRoot="1" id="AsyacBQFKjcLMjCf_pFS-49">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="1">
             <mxGeometry x="2880" y="760" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4110,10 +4110,10 @@
         <mxCell id="AsyacBQFKjcLMjCf_pFS-68" value="&lt;u&gt;&lt;b&gt;Exception&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;An enterprise that in the course of its ordinary activities, routinely sells items of PPE that&amp;nbsp; it&amp;nbsp; had&amp;nbsp; held&amp;nbsp; for&amp;nbsp; rental&amp;nbsp; to&amp;nbsp; others&amp;nbsp; should&amp;nbsp; transfer&amp;nbsp; such&amp;nbsp; assets&amp;nbsp; to&amp;nbsp; inventories&amp;nbsp; at their carrying amount when they cease to be rented and become held for sale. The&amp;nbsp; proceeds&amp;nbsp; from&amp;nbsp; the&amp;nbsp; sale&amp;nbsp; of&amp;nbsp; such&amp;nbsp; assets&amp;nbsp; should&amp;nbsp; be&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; revenue&amp;nbsp; in accordance with AS 9 on Revenue Recognition.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="2750.25" y="1139" width="372.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-80" target="AsyacBQFKjcLMjCf_pFS-82">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-80" target="AsyacBQFKjcLMjCf_pFS-82" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-80" target="AsyacBQFKjcLMjCf_pFS-84">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-80" target="AsyacBQFKjcLMjCf_pFS-84" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3100" y="820" />
@@ -4121,7 +4121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-80" target="AsyacBQFKjcLMjCf_pFS-83">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-80" target="AsyacBQFKjcLMjCf_pFS-83" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3100" y="820" />
@@ -4130,35 +4130,35 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Disclosures" treeRoot="1" id="AsyacBQFKjcLMjCf_pFS-80">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="1">
             <mxGeometry x="3040" y="760" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-82" target="AsyacBQFKjcLMjCf_pFS-90">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-82" target="AsyacBQFKjcLMjCf_pFS-90" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-82" value="Additional Disclosures " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-82" value="Additional Disclosures " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3040" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-83" target="AsyacBQFKjcLMjCf_pFS-92">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-83" target="AsyacBQFKjcLMjCf_pFS-92" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-83" value="Disclosures related to Revalued Assets " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-83" value="Disclosures related to Revalued Assets " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3530" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-84" target="AsyacBQFKjcLMjCf_pFS-88">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-84" target="AsyacBQFKjcLMjCf_pFS-88" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-84" value="General Disclosures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-84" value="General Disclosures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="2550" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-88" value="&lt;div align=&quot;left&quot;&gt;(a)The&amp;nbsp; measurement&amp;nbsp; bases&amp;nbsp; (i.e.,&amp;nbsp; cost&amp;nbsp; model&amp;nbsp; or&amp;nbsp; revaluation&amp;nbsp; model)&amp;nbsp; used&amp;nbsp; for determining the gross carrying amount;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(b)The depreciation methods used;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(c)The useful lives or the depreciation rates used. In case the useful lives or the depreciation rates used are different from those specified&amp;nbsp; in&amp;nbsp; the&amp;nbsp; statute&amp;nbsp; governing&amp;nbsp; the&amp;nbsp; enterprise,&amp;nbsp; it&amp;nbsp; should&amp;nbsp; make&amp;nbsp; a&amp;nbsp; specific mention of that fact;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(d)The&amp;nbsp; gross&amp;nbsp; carrying&amp;nbsp; amount&amp;nbsp; and&amp;nbsp; the&amp;nbsp; accumulated&amp;nbsp; depreciation&amp;nbsp; (aggregated with accumulated impairment losses) at the beginning and end of the period; and&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(e)A&amp;nbsp; reconciliation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; carrying&amp;nbsp; amount&amp;nbsp; at&amp;nbsp; the&amp;nbsp; beginning&amp;nbsp; and&amp;nbsp; end&amp;nbsp; of&amp;nbsp; the period showing:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(i)&amp;nbsp; additions &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(ii)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; assets retired from active use and held for disposal &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(iii)&amp;nbsp;&amp;nbsp;&amp;nbsp; acquisitions through business combinations &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(iv)&amp;nbsp;&amp;nbsp;&amp;nbsp; increases or decreases resulting from revaluations and from impairment losses&amp;nbsp;&amp;nbsp; recognised&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; reversed&amp;nbsp;&amp;nbsp; directly&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; revaluation&amp;nbsp;&amp;nbsp; surplus&amp;nbsp;&amp;nbsp; in accordance with AS 28 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(v)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; impairment&amp;nbsp; losses&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; the&amp;nbsp; statement&amp;nbsp; of&amp;nbsp; profit&amp;nbsp; and&amp;nbsp; loss&amp;nbsp; in accordance with AS 28 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(vi)&amp;nbsp;&amp;nbsp;&amp;nbsp; impairment&amp;nbsp; losses&amp;nbsp; reversed&amp;nbsp; in&amp;nbsp; the&amp;nbsp; statement&amp;nbsp; of&amp;nbsp; profit&amp;nbsp; and&amp;nbsp; loss&amp;nbsp; in accordance with AS 28 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(vii)&amp;nbsp;&amp;nbsp; depreciation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; (viii)&amp;nbsp;&amp;nbsp; net&amp;nbsp; exchange&amp;nbsp; differences&amp;nbsp; arising&amp;nbsp; on&amp;nbsp; the&amp;nbsp; translation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; financial statements&amp;nbsp; of&amp;nbsp; a&amp;nbsp; non-integral&amp;nbsp; foreign&amp;nbsp; operation&amp;nbsp; in&amp;nbsp; accordance&amp;nbsp; with&amp;nbsp; AS 11 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(ix)&amp;nbsp;&amp;nbsp;&amp;nbsp; other changes &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" vertex="1" parent="1">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-88" value="&lt;div align=&quot;left&quot;&gt;(a)The&amp;nbsp; measurement&amp;nbsp; bases&amp;nbsp; (i.e.,&amp;nbsp; cost&amp;nbsp; model&amp;nbsp; or&amp;nbsp; revaluation&amp;nbsp; model)&amp;nbsp; used&amp;nbsp; for determining the gross carrying amount;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(b)The depreciation methods used;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(c)The useful lives or the depreciation rates used. In case the useful lives or the depreciation rates used are different from those specified&amp;nbsp; in&amp;nbsp; the&amp;nbsp; statute&amp;nbsp; governing&amp;nbsp; the&amp;nbsp; enterprise,&amp;nbsp; it&amp;nbsp; should&amp;nbsp; make&amp;nbsp; a&amp;nbsp; specific mention of that fact;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(d)The&amp;nbsp; gross&amp;nbsp; carrying&amp;nbsp; amount&amp;nbsp; and&amp;nbsp; the&amp;nbsp; accumulated&amp;nbsp; depreciation&amp;nbsp; (aggregated with accumulated impairment losses) at the beginning and end of the period; and&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(e)A&amp;nbsp; reconciliation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; carrying&amp;nbsp; amount&amp;nbsp; at&amp;nbsp; the&amp;nbsp; beginning&amp;nbsp; and&amp;nbsp; end&amp;nbsp; of&amp;nbsp; the period showing:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(i)&amp;nbsp; additions &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(ii)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; assets retired from active use and held for disposal &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(iii)&amp;nbsp;&amp;nbsp;&amp;nbsp; acquisitions through business combinations &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(iv)&amp;nbsp;&amp;nbsp;&amp;nbsp; increases or decreases resulting from revaluations and from impairment losses&amp;nbsp;&amp;nbsp; recognised&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; reversed&amp;nbsp;&amp;nbsp; directly&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; revaluation&amp;nbsp;&amp;nbsp; surplus&amp;nbsp;&amp;nbsp; in accordance with AS 28 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(v)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; impairment&amp;nbsp; losses&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; the&amp;nbsp; statement&amp;nbsp; of&amp;nbsp; profit&amp;nbsp; and&amp;nbsp; loss&amp;nbsp; in accordance with AS 28 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(vi)&amp;nbsp;&amp;nbsp;&amp;nbsp; impairment&amp;nbsp; losses&amp;nbsp; reversed&amp;nbsp; in&amp;nbsp; the&amp;nbsp; statement&amp;nbsp; of&amp;nbsp; profit&amp;nbsp; and&amp;nbsp; loss&amp;nbsp; in accordance with AS 28 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(vii)&amp;nbsp;&amp;nbsp; depreciation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; (viii)&amp;nbsp;&amp;nbsp; net&amp;nbsp; exchange&amp;nbsp; differences&amp;nbsp; arising&amp;nbsp; on&amp;nbsp; the&amp;nbsp; translation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; financial statements&amp;nbsp; of&amp;nbsp; a&amp;nbsp; non-integral&amp;nbsp; foreign&amp;nbsp; operation&amp;nbsp; in&amp;nbsp; accordance&amp;nbsp; with&amp;nbsp; AS 11 &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(ix)&amp;nbsp;&amp;nbsp;&amp;nbsp; other changes &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" vertex="1" visible="0" parent="1">
           <mxGeometry x="2370" y="900" width="480" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-90" value="&lt;div&gt;(a)The&amp;nbsp; existence&amp;nbsp; and&amp;nbsp; amounts&amp;nbsp; of&amp;nbsp; restrictions&amp;nbsp; on&amp;nbsp; title,&amp;nbsp; and&amp;nbsp; property,&amp;nbsp; plant&amp;nbsp; and equipment pledged as security for liabilities;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)The amount of expenditure recognised in the carrying amount of an item of property, plant and equipment in the course of its construction;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The amount of contractual commitments for the acquisition of property, plant and equipment;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)If it is not disclosed separately on the face of the statement of profit and loss, the&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; compensation&amp;nbsp; from third parties&amp;nbsp; for&amp;nbsp; items&amp;nbsp; of&amp;nbsp; property,&amp;nbsp; plant and&amp;nbsp; equipment&amp;nbsp; that&amp;nbsp; were&amp;nbsp; impaired,&amp;nbsp; lost&amp;nbsp; or&amp;nbsp; given&amp;nbsp; up&amp;nbsp; that&amp;nbsp; is&amp;nbsp; included&amp;nbsp; in&amp;nbsp; the statement of profit and loss; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The amount of assets retired from active use and held for disposal.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" vertex="1" parent="1">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-90" value="&lt;div&gt;(a)The&amp;nbsp; existence&amp;nbsp; and&amp;nbsp; amounts&amp;nbsp; of&amp;nbsp; restrictions&amp;nbsp; on&amp;nbsp; title,&amp;nbsp; and&amp;nbsp; property,&amp;nbsp; plant&amp;nbsp; and equipment pledged as security for liabilities;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)The amount of expenditure recognised in the carrying amount of an item of property, plant and equipment in the course of its construction;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The amount of contractual commitments for the acquisition of property, plant and equipment;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)If it is not disclosed separately on the face of the statement of profit and loss, the&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; compensation&amp;nbsp; from third parties&amp;nbsp; for&amp;nbsp; items&amp;nbsp; of&amp;nbsp; property,&amp;nbsp; plant and&amp;nbsp; equipment&amp;nbsp; that&amp;nbsp; were&amp;nbsp; impaired,&amp;nbsp; lost&amp;nbsp; or&amp;nbsp; given&amp;nbsp; up&amp;nbsp; that&amp;nbsp; is&amp;nbsp; included&amp;nbsp; in&amp;nbsp; the statement of profit and loss; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The amount of assets retired from active use and held for disposal.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" vertex="1" visible="0" parent="1">
           <mxGeometry x="2860" y="900" width="480" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-92" value="&lt;div&gt;(a)The effective date of the revaluation;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Whether an independent valuer was involved;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The methods and significant assumptions applied in estimating fair values of the items;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)The&amp;nbsp; extent&amp;nbsp; to&amp;nbsp; which&amp;nbsp; fair&amp;nbsp; values&amp;nbsp; of&amp;nbsp; the&amp;nbsp; items&amp;nbsp; were&amp;nbsp; determined&amp;nbsp; directly&amp;nbsp; by reference&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; observable&amp;nbsp;&amp;nbsp; prices&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; active&amp;nbsp;&amp;nbsp; market&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; recent&amp;nbsp;&amp;nbsp; market transactions on arm’s length terms or were estimated using other valuation techniques; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The&amp;nbsp; revaluation&amp;nbsp; surplus,&amp;nbsp; indicating&amp;nbsp; the&amp;nbsp; change&amp;nbsp; for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; and&amp;nbsp; any restrictions on the distribution of the balance to shareholders.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" vertex="1" parent="1">
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-92" value="&lt;div&gt;(a)The effective date of the revaluation;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Whether an independent valuer was involved;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The methods and significant assumptions applied in estimating fair values of the items;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)The&amp;nbsp; extent&amp;nbsp; to&amp;nbsp; which&amp;nbsp; fair&amp;nbsp; values&amp;nbsp; of&amp;nbsp; the&amp;nbsp; items&amp;nbsp; were&amp;nbsp; determined&amp;nbsp; directly&amp;nbsp; by reference&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; observable&amp;nbsp;&amp;nbsp; prices&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; active&amp;nbsp;&amp;nbsp; market&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; recent&amp;nbsp;&amp;nbsp; market transactions on arm’s length terms or were estimated using other valuation techniques; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The&amp;nbsp; revaluation&amp;nbsp; surplus,&amp;nbsp; indicating&amp;nbsp; the&amp;nbsp; change&amp;nbsp; for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; and&amp;nbsp; any restrictions on the distribution of the balance to shareholders.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3350" y="900" width="480" height="210" as="geometry" />
         </mxCell>
       </root>
