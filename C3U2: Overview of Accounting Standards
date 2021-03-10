@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T17:05:41.467Z" agent="5.0 (X11)" etag="u4Y6mHb6NikImY0hlctd" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T17:05:56.451Z" agent="5.0 (X11)" etag="j-YwYMQ-TdcA6TTHgVgy" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1568" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -4160,6 +4160,9 @@
         </mxCell>
         <mxCell id="AsyacBQFKjcLMjCf_pFS-92" value="&lt;div&gt;(a)The effective date of the revaluation;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Whether an independent valuer was involved;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The methods and significant assumptions applied in estimating fair values of the items;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)The&amp;nbsp; extent&amp;nbsp; to&amp;nbsp; which&amp;nbsp; fair&amp;nbsp; values&amp;nbsp; of&amp;nbsp; the&amp;nbsp; items&amp;nbsp; were&amp;nbsp; determined&amp;nbsp; directly&amp;nbsp; by reference&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; observable&amp;nbsp;&amp;nbsp; prices&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; active&amp;nbsp;&amp;nbsp; market&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; recent&amp;nbsp;&amp;nbsp; market transactions on arm’s length terms or were estimated using other valuation techniques; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The&amp;nbsp; revaluation&amp;nbsp; surplus,&amp;nbsp; indicating&amp;nbsp; the&amp;nbsp; change&amp;nbsp; for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; and&amp;nbsp; any restrictions on the distribution of the balance to shareholders.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" vertex="1" visible="0" parent="1">
           <mxGeometry x="3350" y="900" width="480" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-94" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="2580" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
