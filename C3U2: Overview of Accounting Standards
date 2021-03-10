@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T15:54:56.856Z" agent="5.0 (X11)" etag="gmnIg8qxhRCEcovC585_" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T16:07:07.161Z" agent="5.0 (X11)" etag="wVurIW-0aHWSGck1v-S6" version="14.4.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1568" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1717" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3913,9 +3913,29 @@
         <mxCell id="AsyacBQFKjcLMjCf_pFS-15" value="&amp;gt; capitalize it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="2865" y="1060" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-18" target="AsyacBQFKjcLMjCf_pFS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-18" target="AsyacBQFKjcLMjCf_pFS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="depreciation" treeRoot="1" id="AsyacBQFKjcLMjCf_pFS-18">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="2920" y="760" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AsyacBQFKjcLMjCf_pFS-19" target="AsyacBQFKjcLMjCf_pFS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-19" value="Component method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AsyacBQFKjcLMjCf_pFS-20" value="&lt;div&gt;when different components of the assets have different life. they shall be depreciated differently&lt;/div&gt;&lt;b&gt;Example&lt;/b&gt;: It may be appropriate to depreciate separately the airframe and engines of an aircraft, whether owned or subject to a finance lease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="900" width="240" height="110" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;other methods&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(ca foundation)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" link="https://www.google.com/url?q=https%3A%2F%2Fviewer.diagrams.net%2F%3Fhighlight%3D0000ff%26edit%3Dhttps%253A%252F%252Fapp.diagrams.net%252F%2523HShamanthMurali%25252FCF-Accounts%25252Fmaster%25252FConcept%252520and%252520accounting%252520depreciation%26layers%3D1%26nav%3D1%26title%3DConcept%2520and%2520accounting%2520depreciation%23Uhttps%253A%252F%252Fraw.githubusercontent.com%252FShamanthMurali%252FCF-Accounts%252Fmaster%252FConcept%252520and%252520accounting%252520depreciation&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEd5dBhak83jl2OQKlZTkZEpp719g" id="AsyacBQFKjcLMjCf_pFS-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="3020" y="840" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
