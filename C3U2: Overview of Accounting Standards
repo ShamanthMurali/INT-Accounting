@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T20:19:54.499Z" agent="5.0 (X11)" etag="SxZ9Vzf7pvmzwPl0hbZO" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T20:35:39.063Z" agent="5.0 (X11)" etag="N3JfKsRXXnpigCVUunBh" version="14.4.7" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1713" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -4837,51 +4837,70 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-268" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="4680" y="1211" width="600" height="350" as="geometry">
+          <mxGeometry x="4680" y="1211" width="640" height="610" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-269" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry width="600" height="350" as="geometry" />
+          <mxGeometry width="640" height="610" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-270" value="&lt;div&gt;2. result lest&lt;/div&gt;&lt;div&gt;(Profit or loss test)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
           <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-271" value="total = total profits of all segments " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry x="10" y="160" width="230" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-273" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry x="470" y="105" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="305.01" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-284" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-274" target="lLgTNpdpPaJ2b0qCUW8V-281">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-295" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-274" target="lLgTNpdpPaJ2b0qCUW8V-279">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-274" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;segment profit &amp;gt;= 10% of total&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry x="180" y="70" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-270" target="lLgTNpdpPaJ2b0qCUW8V-274">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-274" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;segment profit/losses &amp;gt; segment value&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+          <mxGeometry x="180" y="270.01" width="260" height="109.99" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-276" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-274" target="lLgTNpdpPaJ2b0qCUW8V-273">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-278" value="total = total losses of all segments " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry x="10" y="309" width="230" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-279" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry x="10" y="254" width="120" height="40" as="geometry" />
+          <mxGeometry x="20" y="305.01" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-280" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry x="470" y="254" width="120" height="40" as="geometry" />
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-290" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-286" target="lLgTNpdpPaJ2b0qCUW8V-288">
+          <mxGeometry x="0.2591" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="109" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-281" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;segment loss &amp;gt;= 10% of total&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
-          <mxGeometry x="180" y="219" width="240" height="110" as="geometry" />
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-291" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-286" target="lLgTNpdpPaJ2b0qCUW8V-289">
+          <mxGeometry x="0.3941" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-282" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="lLgTNpdpPaJ2b0qCUW8V-281" target="lLgTNpdpPaJ2b0qCUW8V-280" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-286" value="&lt;div&gt;if&lt;/div&gt;&lt;div&gt;total profits &amp;gt; total losses&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+          <mxGeometry x="195" y="69" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-270" target="lLgTNpdpPaJ2b0qCUW8V-286">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4980.000000000001" y="1261" as="sourcePoint" />
+            <mxPoint x="4980.000000000001" y="1390.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-288" target="lLgTNpdpPaJ2b0qCUW8V-274">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-283" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="lLgTNpdpPaJ2b0qCUW8V-281" target="lLgTNpdpPaJ2b0qCUW8V-279" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-288" value="segment value = total profits * 10%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+          <mxGeometry x="80" y="189" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLgTNpdpPaJ2b0qCUW8V-268" source="lLgTNpdpPaJ2b0qCUW8V-289" target="lLgTNpdpPaJ2b0qCUW8V-274">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-289" value="segment value = total losses * 10%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+          <mxGeometry x="410" y="189" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-296" value="Segment profit/loss = profit or loss(ignore - ) of individual segments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+          <mxGeometry x="115" y="399" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-297" value="&lt;div&gt;E.g. &lt;br&gt;&lt;/div&gt;&lt;div&gt;a = 40 profit&lt;/div&gt;&lt;div&gt;b = 20 loss&lt;/div&gt;&lt;div&gt;c = 50 loss&lt;/div&gt;&lt;div&gt;d = 5 profit&lt;/div&gt;&lt;div&gt;e = 6 loss&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; total profits = 45, total loss = 76&lt;/div&gt;&lt;div&gt;&amp;gt; since loss is greater, 76*10%=7.6&lt;/div&gt;&lt;div&gt;&amp;gt;hence segment value = 7.6&lt;/div&gt;&lt;div&gt;&amp;gt; individual segment calculation&lt;/div&gt;&lt;div&gt;a &amp;gt; 7.6, TRUE, =re-portable&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lLgTNpdpPaJ2b0qCUW8V-268">
+          <mxGeometry x="60" y="439" width="470" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
