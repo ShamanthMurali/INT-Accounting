@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T21:15:41.163Z" agent="5.0 (X11)" etag="sb42WTLmNcXcpMG5xbUm" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T21:22:46.097Z" agent="5.0 (X11)" etag="9zJ_n4atnlCqtM2WOUJ9" version="14.4.7" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1713" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1893" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4768,13 +4768,13 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-236" value="&lt;div&gt;GEOGRAPHICAL&lt;/div&gt;&lt;div&gt;SEGMENT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5280" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-239" target="lLgTNpdpPaJ2b0qCUW8V-244">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-239" target="lLgTNpdpPaJ2b0qCUW8V-354">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-239" value="Business segment is a distinguishable unit of an enterprise engaged in providing products or services within a particular economic environment. Further, it is subject to risk and returns that are different from units operating in other economic environments." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5200" y="580" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-240" target="lLgTNpdpPaJ2b0qCUW8V-244">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-240" target="lLgTNpdpPaJ2b0qCUW8V-354">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-240" value="Business segment is a distinguishable unit of an entreprise engaged in providing individual product or service or a group of related products or services. Further, it is subject to risk and returns that are different from those of other business segments." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -4783,23 +4783,17 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-244" target="lLgTNpdpPaJ2b0qCUW8V-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-244" value="&lt;u&gt;&lt;b&gt;What to report&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5080" y="720" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-247" value="&lt;div&gt;&lt;b&gt;Primary&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;re-portable segment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4615" y="740" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-248" value="&lt;div&gt;&lt;b&gt;secondary&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;re-portable segment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4800" y="740" width="120" height="40" as="geometry" />
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-244" value="&lt;u&gt;&lt;b&gt;What is a reportable segment&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5050" y="870" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-255">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-251" value="First it must pass &lt;u&gt;&lt;b&gt;any of the&lt;/b&gt;&lt;/u&gt; three tests, individually." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5040" y="760" width="200" height="40" as="geometry" />
+          <mxGeometry x="5040" y="910" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-254" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="4840" y="830" width="600" height="250" as="geometry">
+          <mxGeometry x="4840" y="980" width="600" height="250" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4831,7 +4825,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-268" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="1110" width="660" height="430" as="geometry">
+          <mxGeometry x="4810" y="1260" width="660" height="430" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4908,7 +4902,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-323" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="4832" y="1567" width="600" height="250" as="geometry">
+          <mxGeometry x="4832" y="1717" width="600" height="250" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4946,13 +4940,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-334" value="second it &lt;b&gt;must pass&lt;/b&gt; overall test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5032" y="1850" width="200" height="40" as="geometry" />
+          <mxGeometry x="5032" y="2000" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-324" target="lLgTNpdpPaJ2b0qCUW8V-334">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-336" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="4832" y="1910" width="600" height="250" as="geometry">
+          <mxGeometry x="4832" y="2060" width="600" height="250" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4991,17 +4985,41 @@
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-340">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5130.000000000001" y="1969.9999999999995" as="targetPoint" />
+            <mxPoint x="5130.000000000001" y="2119.9999999999995" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4902" y="1970" />
+              <mxPoint x="4902" y="2120" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-350" target="lLgTNpdpPaJ2b0qCUW8V-358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-350" value="but if the manager designates any segment to be reportable even if it does not satisfy any of the conditions, then it becomes reportable." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4871" y="2190" width="520" height="50" as="geometry" />
+          <mxGeometry x="4871" y="2340" width="520" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-348" target="lLgTNpdpPaJ2b0qCUW8V-350">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-354" target="lLgTNpdpPaJ2b0qCUW8V-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-354" value="&lt;div&gt;business has the choice to select one of the segment as their &lt;u&gt;&lt;b&gt;primary segment.&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects business segmentation as primary, then geographical segment will become secondary&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects geographical segmentation as primary, then business segment will become secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4960" y="720" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-358" target="lLgTNpdpPaJ2b0qCUW8V-360">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-358" target="lLgTNpdpPaJ2b0qCUW8V-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-358" value="&lt;b&gt;Disclosures &lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5071" y="2430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-360" value="&lt;div&gt;For primary segments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="4800" y="2510" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-361" value="&lt;div&gt;For secondary segments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="5140" y="2510" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
