@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T22:28:01.024Z" agent="5.0 (X11)" etag="Y_oOl_yo8nY4jP2OLGUY" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T22:28:54.456Z" agent="5.0 (X11)" etag="1pzqVZM64uh-92uLZdtv" version="14.4.7" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="3066" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,11 +641,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 17&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="5080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-36" target="lLgTNpdpPaJ2b0qCUW8V-228" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-36" target="lLgTNpdpPaJ2b0qCUW8V-228" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Segment reporting&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-36">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="4980" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4735,79 +4735,79 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-227" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="5457.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-228" target="lLgTNpdpPaJ2b0qCUW8V-230" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-228" target="lLgTNpdpPaJ2b0qCUW8V-230" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-228" value="&lt;div&gt;An enterprise deals in multiple Products/Services and operates in different Geographical areas,&amp;nbsp; which&amp;nbsp; expose&amp;nbsp; to Significantly&amp;nbsp; different&amp;nbsp; risk&amp;nbsp; and rewards/returns.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Information about&amp;nbsp; Multiple&amp;nbsp; Products/Services&amp;nbsp; and&amp;nbsp; operations&amp;nbsp; in&amp;nbsp; different Geographical areasis called Segment Information.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Disclosure of such information is called segment reporting.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-228" value="&lt;div&gt;An enterprise deals in multiple Products/Services and operates in different Geographical areas,&amp;nbsp; which&amp;nbsp; expose&amp;nbsp; to Significantly&amp;nbsp; different&amp;nbsp; risk&amp;nbsp; and rewards/returns.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Information about&amp;nbsp; Multiple&amp;nbsp; Products/Services&amp;nbsp; and&amp;nbsp; operations&amp;nbsp; in&amp;nbsp; different Geographical areasis called Segment Information.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Disclosure of such information is called segment reporting.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4875" y="180" width="530" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-230" target="lLgTNpdpPaJ2b0qCUW8V-233" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-230" target="lLgTNpdpPaJ2b0qCUW8V-233" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-230" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;SEGMENT REPORTING HELPS USERS OF FINANCIAL STATEMENTS :&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.To better understand the PERFORMANCE of the enterprise;&lt;/div&gt;&lt;div&gt;2.To better assess the RISKS AND RETURNS of the enterprise; &lt;br&gt;&lt;/div&gt;&lt;div&gt;3.To make more informed judgements about the enterprise as a whole.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-230" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;SEGMENT REPORTING HELPS USERS OF FINANCIAL STATEMENTS :&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.To better understand the PERFORMANCE of the enterprise;&lt;/div&gt;&lt;div&gt;2.To better assess the RISKS AND RETURNS of the enterprise; &lt;br&gt;&lt;/div&gt;&lt;div&gt;3.To make more informed judgements about the enterprise as a whole.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4930" y="340" width="420" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-233" target="lLgTNpdpPaJ2b0qCUW8V-235" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-233" target="lLgTNpdpPaJ2b0qCUW8V-235" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-233" target="lLgTNpdpPaJ2b0qCUW8V-236" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-233" target="lLgTNpdpPaJ2b0qCUW8V-236" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-233" value="&lt;div&gt;&lt;b&gt;TYPES OF&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SEGMENT&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-233" value="&lt;div&gt;&lt;b&gt;TYPES OF&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SEGMENT&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5080" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-235" target="lLgTNpdpPaJ2b0qCUW8V-240" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-235" target="lLgTNpdpPaJ2b0qCUW8V-240" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-235" value="BUSINESS SEGMENT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-235" value="BUSINESS SEGMENT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4880" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-236" target="lLgTNpdpPaJ2b0qCUW8V-239" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-236" target="lLgTNpdpPaJ2b0qCUW8V-239" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-236" value="&lt;div&gt;GEOGRAPHICAL&lt;/div&gt;&lt;div&gt;SEGMENT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-236" value="&lt;div&gt;GEOGRAPHICAL&lt;/div&gt;&lt;div&gt;SEGMENT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5280" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-239" target="lLgTNpdpPaJ2b0qCUW8V-354" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-239" value="Business segment is a distinguishable unit of an enterprise engaged in providing products or services within a particular economic environment. Further, it is subject to risk and returns that are different from units operating in other economic environments." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-239" value="Business segment is a distinguishable unit of an enterprise engaged in providing products or services within a particular economic environment. Further, it is subject to risk and returns that are different from units operating in other economic environments." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5200" y="580" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-240" target="lLgTNpdpPaJ2b0qCUW8V-354" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-240" target="lLgTNpdpPaJ2b0qCUW8V-354" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-240" value="Business segment is a distinguishable unit of an entreprise engaged in providing individual product or service or a group of related products or services. Further, it is subject to risk and returns that are different from those of other business segments." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-240" value="Business segment is a distinguishable unit of an entreprise engaged in providing individual product or service or a group of related products or services. Further, it is subject to risk and returns that are different from those of other business segments." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4800" y="580" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-244" target="lLgTNpdpPaJ2b0qCUW8V-251" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-244" target="lLgTNpdpPaJ2b0qCUW8V-251" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-244" value="&lt;u&gt;&lt;b&gt;What is a reportable segment&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-244" value="&lt;u&gt;&lt;b&gt;What is a reportable segment&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5050" y="870" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-254">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-254" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-268">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-268" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5160" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-323">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-323" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5200" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-334">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-251" target="lLgTNpdpPaJ2b0qCUW8V-334" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5200" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-251" value="First it must pass &lt;u&gt;&lt;b&gt;any of the&lt;/b&gt;&lt;/u&gt; three tests, individually." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-251" value="First it must pass &lt;u&gt;&lt;b&gt;any of the&lt;/b&gt;&lt;/u&gt; three tests, individually." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5040" y="910" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-254" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-254" value="" style="swimlane;startSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4840" y="980" width="600" height="250" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -4839,7 +4839,7 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-267" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="lLgTNpdpPaJ2b0qCUW8V-254" source="lLgTNpdpPaJ2b0qCUW8V-257" target="lLgTNpdpPaJ2b0qCUW8V-263" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-268" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-268" value="" style="swimlane;startSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4810" y="1260" width="660" height="430" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -4913,7 +4913,7 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-297" value="&lt;div&gt;E.g. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;segments&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a = 40 profit&lt;/div&gt;&lt;div&gt;b = 20 loss&lt;/div&gt;&lt;div&gt;c = 50 loss&lt;/div&gt;&lt;div&gt;d = 5 profit&lt;/div&gt;&lt;div&gt;e = 6 loss&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; total profits = 45, total loss = 76&lt;/div&gt;&lt;div&gt;&amp;gt; since loss is greater, 76*10%=7.6&lt;/div&gt;&lt;div&gt;&amp;gt;hence segment value = 7.6&lt;/div&gt;&lt;div&gt;&amp;gt; individual segment calculation&lt;/div&gt;&lt;div&gt;a &amp;gt; 7.6, TRUE, =re-portable&lt;/div&gt;&lt;div&gt;&lt;div&gt;b &amp;gt; 7.6, TRUE, =re-portable&lt;/div&gt;&lt;div&gt;&lt;div&gt;c &amp;gt; 7.6, TRUE, =re-portable&lt;/div&gt;&lt;div&gt;&lt;div&gt;d &amp;gt; 7.6, FALSE, = dont report&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;e &amp;gt; 7.6, FALSE, =dont report&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lLgTNpdpPaJ2b0qCUW8V-298" vertex="1">
           <mxGeometry y="40" width="200" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-323" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-323" value="" style="swimlane;startSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4832" y="1717" width="600" height="250" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -4945,18 +4945,18 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-332" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="lLgTNpdpPaJ2b0qCUW8V-323" source="lLgTNpdpPaJ2b0qCUW8V-329" target="lLgTNpdpPaJ2b0qCUW8V-327" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-334" target="lLgTNpdpPaJ2b0qCUW8V-336">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-334" target="lLgTNpdpPaJ2b0qCUW8V-336" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-334" target="lLgTNpdpPaJ2b0qCUW8V-350">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-334" target="lLgTNpdpPaJ2b0qCUW8V-350" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5180" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-334" value="second it &lt;b&gt;must pass&lt;/b&gt; overall test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-334" value="second it &lt;b&gt;must pass&lt;/b&gt; overall test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5032" y="2000" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-336" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-336" value="" style="swimlane;startSize=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4832" y="2060" width="600" height="250" as="geometry">
             <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -5002,68 +5002,71 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-350" target="lLgTNpdpPaJ2b0qCUW8V-358" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-350" target="lLgTNpdpPaJ2b0qCUW8V-358" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-350" value="but if the manager designates any segment to be reportable even if it does not satisfy any of the conditions, then it becomes reportable." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-350" value="but if the manager designates any segment to be reportable even if it does not satisfy any of the conditions, then it becomes reportable." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4871" y="2340" width="520" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-354" target="lLgTNpdpPaJ2b0qCUW8V-244" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-354" target="lLgTNpdpPaJ2b0qCUW8V-244" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-354" value="&lt;div&gt;business has the choice to select one of the segment as their &lt;u&gt;&lt;b&gt;primary segment.&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects business segmentation as primary, then geographical segment will become secondary&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects geographical segmentation as primary, then business segment will become secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-354" value="&lt;div&gt;business has the choice to select one of the segment as their &lt;u&gt;&lt;b&gt;primary segment.&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects business segmentation as primary, then geographical segment will become secondary&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects geographical segmentation as primary, then business segment will become secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4960" y="720" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-358" target="lLgTNpdpPaJ2b0qCUW8V-361" edge="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-358" target="lLgTNpdpPaJ2b0qCUW8V-361" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-358" target="1lotJMi-5iSFe4wsB69X-7">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-358" target="1lotJMi-5iSFe4wsB69X-7" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-358" value="&lt;b&gt;Disclosures &lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-358" value="&lt;b&gt;Disclosures &lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5071" y="2430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-360" value="&lt;div&gt;a)Segment Revenue (External + Internal segment)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b)Segment Result&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Segment Assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d)Segment Liabilities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e)Capital expense incurred during the period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f)Depreciation charge for the period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g)Other&amp;nbsp; non-cash&amp;nbsp; expenses&amp;nbsp; during the period. Disclosure required for secondarysegments.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-360" value="&lt;div&gt;a)Segment Revenue (External + Internal segment)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b)Segment Result&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Segment Assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d)Segment Liabilities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e)Capital expense incurred during the period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f)Depreciation charge for the period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g)Other&amp;nbsp; non-cash&amp;nbsp; expenses&amp;nbsp; during the period. Disclosure required for secondarysegments.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4740" y="2590" width="320" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-361" target="1lotJMi-5iSFe4wsB69X-1">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-361" target="1lotJMi-5iSFe4wsB69X-1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-361" target="1lotJMi-5iSFe4wsB69X-4">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-361" target="1lotJMi-5iSFe4wsB69X-4" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-361" value="&lt;div&gt;For &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;secondary segments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-361" value="&lt;div&gt;For &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;secondary segments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5340" y="2510" width="139" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-1" target="1lotJMi-5iSFe4wsB69X-10">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-1" target="1lotJMi-5iSFe4wsB69X-10" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-1" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;geographical segment &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;is secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-1" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;geographical segment &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;is secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="5169" y="2590" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-4" target="1lotJMi-5iSFe4wsB69X-14">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-4" target="1lotJMi-5iSFe4wsB69X-14" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-4" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Business segment &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;is secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-4" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Business segment &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;is secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="5511" y="2590" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-7" target="lLgTNpdpPaJ2b0qCUW8V-360">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-7" target="lLgTNpdpPaJ2b0qCUW8V-360" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-7" value="&lt;div&gt;For &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;primary segments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-7" value="&lt;div&gt;For &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;primary segments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4830" y="2520" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-10" value="&lt;div&gt;•Revenue from external customers by geographical location (must pass revenue test)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Assets by geographical location of assets (must pass asset test)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Fixed Asset acquired during the period&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-10" value="&lt;div&gt;•Revenue from external customers by geographical location (must pass revenue test)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Assets by geographical location of assets (must pass asset test)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Fixed Asset acquired during the period&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
           <mxGeometry x="5079" y="2660" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-12" value="&lt;div&gt;•Segments revenue from external customers.&lt;/div&gt;&lt;div&gt;•Segments assets&lt;/div&gt;&lt;div&gt;•Fixed assets acquired during the period&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-12" value="&lt;div&gt;•Segments revenue from external customers.&lt;/div&gt;&lt;div&gt;•Segments assets&lt;/div&gt;&lt;div&gt;•Fixed assets acquired during the period&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
           <mxGeometry x="5452" y="2770" width="258" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-14" target="1lotJMi-5iSFe4wsB69X-12">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-14" target="1lotJMi-5iSFe4wsB69X-12" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(;( yes you have to apply this condition again on the the segents) &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If a business seg&#39;s&amp;nbsp; external&amp;nbsp; sales&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; external&amp;nbsp; revenue&amp;nbsp; or&amp;nbsp; Business&amp;nbsp; segment assets&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; assets&amp;nbsp; of&amp;nbsp; all&amp;nbsp; business&amp;nbsp; segs,&amp;nbsp; then&amp;nbsp; disclose&amp;nbsp; for&amp;nbsp; those business segments:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(;( yes you have to apply this condition again on the the segents) &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If a business seg&#39;s&amp;nbsp; external&amp;nbsp; sales&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; external&amp;nbsp; revenue&amp;nbsp; or&amp;nbsp; Business&amp;nbsp; segment assets&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; assets&amp;nbsp; of&amp;nbsp; all&amp;nbsp; business&amp;nbsp; segs,&amp;nbsp; then&amp;nbsp; disclose&amp;nbsp; for&amp;nbsp; those business segments:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
           <mxGeometry x="5422" y="2660" width="318" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1lotJMi-5iSFe4wsB69X-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="5097.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
