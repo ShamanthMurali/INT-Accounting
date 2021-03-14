@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T21:36:56.110Z" agent="5.0 (X11)" etag="pPoaUqmx1nqDKrY6Er9B" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T22:30:10.463Z" agent="5.0 (X11)" etag="gJ5F6LoAzYqC9gBGHWLf" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2653" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3650" dy="2534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F1596h3UYdEcuo3h4hQy-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-111" target="F1596h3UYdEcuo3h4hQy-149">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6550" y="1350" as="targetPoint" />
+            <mxPoint x="6550" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-111" target="F1596h3UYdEcuo3h4hQy-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-111" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="6500" y="1090" width="630" height="210" as="geometry">
+          <mxGeometry x="6500" y="1230" width="630" height="210" as="geometry">
             <mxRectangle x="6640" y="1090" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5454,20 +5454,35 @@
         <mxCell id="F1596h3UYdEcuo3h4hQy-36" value="deferred tax mean postponement of tax" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=9;" vertex="1" parent="1">
           <mxGeometry x="6480" y="760" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F1596h3UYdEcuo3h4hQy-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-38" target="F1596h3UYdEcuo3h4hQy-111">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F1596h3UYdEcuo3h4hQy-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-172" target="F1596h3UYdEcuo3h4hQy-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6700" y="1210" />
+              <mxPoint x="6815" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-177" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F1596h3UYdEcuo3h4hQy-113">
+          <mxGeometry x="-0.8496" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-38" value="&lt;div&gt;Deferred tax asset&lt;/div&gt;(DTA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6640" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-39" target="F1596h3UYdEcuo3h4hQy-111">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6940" y="1210" />
+              <mxPoint x="6815" y="1210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-39" value="&lt;div&gt;Deferred tax liability&lt;/div&gt;(DTL)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6880" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-119" value="DTL Treatment" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="6830" y="1350" width="440" height="360" as="geometry" />
+          <mxGeometry x="6830" y="1490" width="440" height="360" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-120" value="Example" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="F1596h3UYdEcuo3h4hQy-119">
           <mxGeometry y="20" width="440" height="110" as="geometry" />
@@ -5527,7 +5542,7 @@
           <mxGeometry x="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-149" value="DTA Treatment" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="6350" y="1350" width="440" height="360" as="geometry" />
+          <mxGeometry x="6350" y="1490" width="440" height="360" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-150" value="Example" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="F1596h3UYdEcuo3h4hQy-149">
           <mxGeometry y="20" width="440" height="110" as="geometry" />
@@ -5587,13 +5602,34 @@
           <mxGeometry x="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-169" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;1. you cannot have both DTA and DTL at the same time.&lt;/div&gt;&lt;div&gt;2. when DTA already exists and DTL arises, the DTA needs to reversed first&lt;br&gt;&lt;/div&gt;&amp;nbsp;and vise versa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6595" y="1750" width="440" height="60" as="geometry" />
+          <mxGeometry x="6595" y="1900" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-122" target="F1596h3UYdEcuo3h4hQy-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-158" target="F1596h3UYdEcuo3h4hQy-169">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-176" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-172" target="F1596h3UYdEcuo3h4hQy-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-172" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;are you &lt;u&gt;&lt;b&gt;certain&lt;/b&gt;&lt;/u&gt; you will make &lt;br&gt;&lt;/div&gt;&lt;div&gt;profits nest year&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6575" y="1080" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-38" target="F1596h3UYdEcuo3h4hQy-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6700" y="1040" as="sourcePoint" />
+            <mxPoint x="6815" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-175" target="F1596h3UYdEcuo3h4hQy-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-175" value="&lt;div&gt;Dont record DTA&lt;/div&gt;&lt;div&gt;yes it will violate matching concept.&lt;/div&gt;&lt;div&gt; and in this case you can.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6230" y="1090" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-179" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Certan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(only in this context)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;must fulfill conditions&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. virtual certainty&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(we can see profits in the future)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;2. convincing evidence&lt;br&gt;&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="6275" y="1170" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
