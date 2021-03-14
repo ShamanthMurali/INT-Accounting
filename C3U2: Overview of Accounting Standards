@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T16:34:07.991Z" agent="5.0 (X11)" etag="ibyJZCHwJ8EtBWUOqmcD" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T17:01:42.523Z" agent="5.0 (X11)" etag="3Gp6juBgcWUnrilgZxzO" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1888" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1561" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -718,11 +718,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 24&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="7600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-50" target="1lotJMi-5iSFe4wsB69X-29" edge="1" visible="0">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-50" target="1lotJMi-5iSFe4wsB69X-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Discontinuing operations&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-50">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="7500" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -5039,10 +5039,10 @@
         <mxCell id="1lotJMi-5iSFe4wsB69X-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="5097.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-29" target="VqcVQYAzMIpbbvkTNwNH-1" visible="0">
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lotJMi-5iSFe4wsB69X-29" target="VqcVQYAzMIpbbvkTNwNH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-29" value="To establish principles for reporting information about discontinuing operations.&amp;nbsp; The standard covers discontinuing operations rather then discontinued operations. The focus of the disclosure of the information is on the operations which the enterprise plans to discontinue rather than disclosing about the operations which are already discontinued. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+        <mxCell id="1lotJMi-5iSFe4wsB69X-29" value="To establish principles for reporting information about discontinuing operations.&amp;nbsp; The standard covers discontinuing operations rather then discontinued operations. The focus of the disclosure of the information is on the operations which the enterprise plans to discontinue rather than disclosing about the operations which are already discontinued. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="7360" y="180" width="600" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E-xyRDeZj1eKv_stxh0L-14" value="General&#xa;borrowing" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
@@ -5077,7 +5077,7 @@
         <mxCell id="E-xyRDeZj1eKv_stxh0L-7" value="&lt;div&gt;1.going to used in the business&lt;/div&gt;&lt;div&gt;2. to be used for more than one year&lt;/div&gt;&lt;div&gt;3. should not be inventory&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="E-xyRDeZj1eKv_stxh0L-6" vertex="1">
           <mxGeometry y="40" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-14" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-1" target="VqcVQYAzMIpbbvkTNwNH-13" visible="0">
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-14" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-1" target="VqcVQYAzMIpbbvkTNwNH-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-1" target="VqcVQYAzMIpbbvkTNwNH-16">
@@ -5088,22 +5088,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-1" value="&lt;div&gt;if&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. disposing of substantially in its entirety such as selling the component(business/geographical segment) in a single transaction or by de-merger or spin off of ownership of the component of the enterprise shareholders or&lt;/div&gt;&lt;div&gt;[if an entire segment is sold of to a buyer or if an entire segment is de-merged from a cos]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2. Disposing of piecemeal, such as by selling off the components assets and setting it’s liabilities individually or&lt;/div&gt;&lt;div&gt;[an entire segment is sold off part by part]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 3. Terminating through abandonment and&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-1" value="&lt;div&gt;if&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. disposing of substantially in its entirety such as selling the component(business/geographical segment) in a single transaction or by de-merger or spin off of ownership of the component of the enterprise shareholders or&lt;/div&gt;&lt;div&gt;[if an entire segment is sold of to a buyer or if an entire segment is de-merged from a cos]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2. Disposing of piecemeal, such as by selling off the components assets and setting it’s liabilities individually or&lt;/div&gt;&lt;div&gt;[an entire segment is sold off part by part]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 3. Terminating through abandonment and&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7160" y="310" width="480" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-13" target="VqcVQYAzMIpbbvkTNwNH-16" visible="0">
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-13" target="VqcVQYAzMIpbbvkTNwNH-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;whats not a discontinuation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Gradual phasing out of product line or class of service. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Discontinuing, even if abruptly, several products within an ongoing line of business. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Shifting of some production or marketing activities for particular line of business from one &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•location to another. Selling a subsidiary whose activities are similar to those of the parent or its other subsidiaries. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Closing of facility to achieve productivity, improvements or other cost savings&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;whats not a discontinuation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Gradual phasing out of product line or class of service. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Discontinuing, even if abruptly, several products within an ongoing line of business. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Shifting of some production or marketing activities for particular line of business from one &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•location to another. Selling a subsidiary whose activities are similar to those of the parent or its other subsidiaries. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Closing of facility to achieve productivity, improvements or other cost savings&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7680" y="310" width="480" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-16" value="" style="swimlane;startSize=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="7450" y="660" width="440" height="200" as="geometry">
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-16" target="VqcVQYAzMIpbbvkTNwNH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="7450" y="660" width="440" height="210" as="geometry">
             <mxRectangle x="7550" y="660" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-4" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-16">
-          <mxGeometry width="440" height="190" as="geometry" />
+          <mxGeometry width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-4">
           <mxGeometry width="440" height="30" as="geometry" />
@@ -5115,25 +5118,25 @@
           <mxGeometry x="220" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-4">
-          <mxGeometry y="30" width="440" height="40" as="geometry" />
+          <mxGeometry y="30" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-8">
-          <mxGeometry width="220" height="40" as="geometry" />
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-9" value="Tata is demerging tata personal vehical and commercial vehicals" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-8">
+          <mxGeometry width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-8">
-          <mxGeometry x="220" width="220" height="40" as="geometry" />
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-10" value="FMCG makes two soap cinthol and breeze. the cos decided to stop making cinthol and make more breeze instead." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-8">
+          <mxGeometry x="220" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-4">
-          <mxGeometry y="70" width="440" height="40" as="geometry" />
+          <mxGeometry y="80" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VqcVQYAzMIpbbvkTNwNH-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-26">
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-27" value="xy entered into contract with y to sell zee division" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-26">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-26">
           <mxGeometry x="220" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-4">
-          <mxGeometry y="110" width="440" height="40" as="geometry" />
+          <mxGeometry y="120" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-23">
           <mxGeometry width="220" height="40" as="geometry" />
@@ -5142,13 +5145,49 @@
           <mxGeometry x="220" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-4">
-          <mxGeometry y="150" width="440" height="40" as="geometry" />
+          <mxGeometry y="160" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-20">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="VqcVQYAzMIpbbvkTNwNH-20">
           <mxGeometry x="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-38" target="VqcVQYAzMIpbbvkTNwNH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;When to start diaclouser&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Entering into an agreement to sell substantially all the assets of the discontinuing operation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Approving and announcing of the discontinuance plan&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7490" y="890" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-33" target="VqcVQYAzMIpbbvkTNwNH-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-33" value="&lt;div&gt;•Description of the discontinuing operation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Business or&amp;nbsp; geographical segments in which it is reported. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Date and nature of initial disclosure event.. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Timing of expected completion of discontinuance. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Carrying amount of total assets and liabilities to be disposed off. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Amount of revenue and expenses attributable to discontinuing operation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Amount of pre-tax profit or loss and tax expense attributable to discontinuing operation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Net cash flows attributable to the operating, investing and financing activities of the discontinuing operation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7480" y="1090" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-35" target="VqcVQYAzMIpbbvkTNwNH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-35" value="Presentation and disclosures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7610" y="1030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-38" value="Stop disclousers once the discontinuation is completed " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7510" y="990" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-30" target="VqcVQYAzMIpbbvkTNwNH-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7670" y="970" as="sourcePoint" />
+            <mxPoint x="7670" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqcVQYAzMIpbbvkTNwNH-40" target="VqcVQYAzMIpbbvkTNwNH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-40" value="if discontinuing operation was by sale then it has to further disclose " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7510" y="1380" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqcVQYAzMIpbbvkTNwNH-42" value="&lt;div&gt;1. Amount of gain or loss recognised on the sale of asset or settlement of liabilities and related income tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Net selling prices from the sale of those net assets for which the enterprise has entered into a binding sale agreements and the expected timing there of and carrying amount of those assets.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7480" y="1430" width="380" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
