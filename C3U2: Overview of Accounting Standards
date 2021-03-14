@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T19:48:54.944Z" agent="5.0 (X11)" etag="EU4E_CsB9_Lii79bmpR1" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T20:31:49.226Z" agent="5.0 (X11)" etag="z9tC7zXoi_d_Nu-E_t3k" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1713" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5267,11 +5267,29 @@
         <mxCell id="F1596h3UYdEcuo3h4hQy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-27" target="F1596h3UYdEcuo3h4hQy-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-27" target="F1596h3UYdEcuo3h4hQy-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-27" value="Deffered tax = it is the difference between tax as per accounts and tax as per Income tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6640" y="840" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-29" target="F1596h3UYdEcuo3h4hQy-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-29" target="F1596h3UYdEcuo3h4hQy-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-29" value="it is created because without it the matching concept is violated. by creating it, it makes the accounts tally" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=9;" vertex="1" parent="1">
           <mxGeometry x="6480" y="815" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-32" value="&lt;div&gt;Tax expense = current tax +- deferred tax&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(as per accounts)=(as per I.T)+(difference)&amp;nbsp; &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="6640" y="900" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Matching concept&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;expense for a period = income for a period&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=9;" vertex="1" parent="1">
+          <mxGeometry x="6220" y="835" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-36" value="deferred tax mean postponement of tax" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=9;" vertex="1" parent="1">
+          <mxGeometry x="6480" y="760" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
