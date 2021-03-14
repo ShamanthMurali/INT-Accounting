@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T19:36:43.843Z" agent="5.0 (X11)" etag="n_Nf2YNqIazcFhDMqMlH" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T19:48:54.944Z" agent="5.0 (X11)" etag="EU4E_CsB9_Lii79bmpR1" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1713" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5258,8 +5258,20 @@
         <mxCell id="F1596h3UYdEcuo3h4hQy-23" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7000" y="630" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-25" target="F1596h3UYdEcuo3h4hQy-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-25" value="&lt;u&gt;&lt;b&gt;Treatment&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6780" y="800" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-27" target="F1596h3UYdEcuo3h4hQy-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-27" value="Deffered tax = it is the difference between tax as per accounts and tax as per Income tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6640" y="840" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-29" value="it is created because without it the matching concept is violated. by creating it, it makes the accounts tally" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=9;" vertex="1" parent="1">
+          <mxGeometry x="6480" y="815" width="135" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
