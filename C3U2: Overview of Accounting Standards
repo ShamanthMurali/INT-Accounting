@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T19:17:07.461Z" agent="5.0 (X11)" etag="DPydxkC-79-p-O4phEVn" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T19:36:43.843Z" agent="5.0 (X11)" etag="n_Nf2YNqIazcFhDMqMlH" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2102" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1713" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5213,11 +5213,53 @@
         <mxCell id="F1596h3UYdEcuo3h4hQy-6" value="Types of differences between Accounting income and I.T Income" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6830" y="320" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-8" target="F1596h3UYdEcuo3h4hQy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Permanent&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;differences&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7000" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-9" target="F1596h3UYdEcuo3h4hQy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Timing &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;differences&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6760" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-13" target="F1596h3UYdEcuo3h4hQy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-13" value="the expenses that might comes in accounts today might come in tax later and vice versa." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="460" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-15" target="F1596h3UYdEcuo3h4hQy-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-15" value="some expenses that might come in accounts will not come in tax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6960" y="460" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-17" target="F1596h3UYdEcuo3h4hQy-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-17" value="&lt;div&gt;*Difference in rate ofdepreciation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Difference in method ofdepreciation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Section 43B items of the Income Tax Act (Outstanding Interest ,Bonus,etc).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Provision for doubtfuldebts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Provision for warranties&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Provision for decrease in value of assets&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Provision for impairment of assets,etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="530" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-19" target="F1596h3UYdEcuo3h4hQy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-19" value="&lt;div&gt;* Penalties and fines&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="6960" y="530" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-21" target="F1596h3UYdEcuo3h4hQy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-21" value="&lt;u&gt;&lt;b&gt;Treatment&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7020" y="590" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-23" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7000" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F1596h3UYdEcuo3h4hQy-25" value="&lt;u&gt;&lt;b&gt;Treatment&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6780" y="800" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
