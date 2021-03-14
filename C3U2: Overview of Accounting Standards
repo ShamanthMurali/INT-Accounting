@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T20:49:09.484Z" agent="5.0 (X11)" etag="yORRes7ZCFPHFlhwkEg_" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T21:13:36.223Z" agent="5.0 (X11)" etag="ynw3l0BulxrP_D3bOZv7" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1720" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1451" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5437,7 +5437,7 @@
         <mxCell id="F1596h3UYdEcuo3h4hQy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-32" target="F1596h3UYdEcuo3h4hQy-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F1596h3UYdEcuo3h4hQy-32" value="&lt;div&gt;Tax expense = current tax +- deferred tax&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(as per accounts)=(as per I.T)+(difference)&amp;nbsp; &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="F1596h3UYdEcuo3h4hQy-32" value="&lt;div&gt;Tax expense = current tax +- deferred tax&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(as per accounts)=(as per I.T)+-(difference)&amp;nbsp; &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="6640" y="900" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F1596h3UYdEcuo3h4hQy-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Matching concept&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;expense for a period = income for a period&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=9;" vertex="1" parent="1">
