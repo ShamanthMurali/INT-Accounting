@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T16:46:17.769Z" agent="5.0 (X11)" etag="T3_hpJoSc1VoygPFreh7" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T18:00:11.872Z" agent="5.0 (X11)" etag="2DxMGcdWhR-EeySyzqTT" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1654" dy="1510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5687,8 +5687,16 @@
             <mxPoint x="147.76" y="2.97" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jFchXzkJ7Akm9nZuozaI-18" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jFchXzkJ7Akm9nZuozaI-14" target="jFchXzkJ7Akm9nZuozaI-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6815" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jFchXzkJ7Akm9nZuozaI-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Reassessment&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;if DTA was not created in PY due to predicted losses in CY&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6715" y="2480" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jFchXzkJ7Akm9nZuozaI-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6675" y="2580" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
