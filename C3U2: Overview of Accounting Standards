@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T19:30:47.382Z" agent="5.0 (X11)" etag="CN2RfzcRQuALXUvjIOmh" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T19:32:17.781Z" agent="5.0 (X11)" etag="GuYNcjpbAQRjhSmybxQw" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="3975" dy="2668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1564" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1234,18 +1234,18 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-44" value="&lt;div&gt;where the government gives grant to the whole project or company.&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e it is not given in terms of a perticular asset, if it is given in terms of a perticular asset then it is &quot;non-monetary grant&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3740" y="540" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-49" target="OoX-HEwOeC7CQ54famQ6-54" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-49" target="OoX-HEwOeC7CQ54famQ6-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Earnings per Share &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="OoX-HEwOeC7CQ54famQ6-49">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="6060" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-57" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-60" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6220" y="340" />
@@ -1253,7 +1253,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-61" edge="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6220" y="340" />
@@ -1261,10 +1261,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-54" value="&lt;u&gt;&lt;b&gt;Earnings per share (EPS) is a financial ratio indicating the amount of profit or loss for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; attributable&amp;nbsp; to&amp;nbsp; each&amp;nbsp; equity&amp;nbsp; share&amp;nbsp; and&lt;/b&gt;&lt;/u&gt;&amp;nbsp; AS&amp;nbsp; 20&amp;nbsp; gives&amp;nbsp; computational methodology for determination and presentation of basic and diluted earnings per share. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-54" value="&lt;u&gt;&lt;b&gt;Earnings per share (EPS) is a financial ratio indicating the amount of profit or loss for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; attributable&amp;nbsp; to&amp;nbsp; each&amp;nbsp; equity&amp;nbsp; share&amp;nbsp; and&lt;/b&gt;&lt;/u&gt;&amp;nbsp; AS&amp;nbsp; 20&amp;nbsp; gives&amp;nbsp; computational methodology for determination and presentation of basic and diluted earnings per share. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6000" y="180" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-57" value="Definitions" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-57" value="Definitions" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="6160" y="270" width="120" height="40" as="geometry">
             <mxRectangle x="6160" y="270" width="440" height="570" as="alternateBounds" />
           </mxGeometry>
@@ -1277,14 +1277,14 @@
             <mxPoint x="6140.034482758621" y="429.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-60" value="Basic Earnings Per Share" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-60" value="&lt;div&gt;Basic Earnings &lt;br&gt;&lt;/div&gt;&lt;div&gt;Per Share&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="6080" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-61" target="i7AFofp_1ywYH7Vwrbwp-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-61" value="Diluted Earnings Per Share" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="7020" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-61" value="&lt;div&gt;Diluted Earnings&lt;/div&gt;&lt;div&gt; Per Share&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="6240" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-67" target="OoX-HEwOeC7CQ54famQ6-70" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
