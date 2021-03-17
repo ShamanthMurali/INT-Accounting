@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T19:33:27.893Z" agent="5.0 (X11)" etag="rSoMtmLVGfMAu18xyftI" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T19:33:50.434Z" agent="5.0 (X11)" etag="lOxU8vBCXgZERLpPNK01" version="14.4.8" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="2321" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1335,16 +1335,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-3" value="`\text{Theoritical Ex-right price} = (\text{value of prior shares} + \text{Value of right shares issued})/(\text{total number of shares issues after right shares})`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5845" y="611.5" width="590" height="80" as="geometry" />
+          <mxGeometry x="5845" y="600" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i7AFofp_1ywYH7Vwrbwp-5" target="i7AFofp_1ywYH7Vwrbwp-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-5" value="`\text{Right factor} = (\text{fair value of shares})/(\text{theoretical ex right price})`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5845" y="711.5" width="590" height="80" as="geometry" />
+          <mxGeometry x="5845" y="700" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-7" value="&lt;div&gt;WANES = `\text{Right factor} *\text{non right shares}`&lt;/div&gt;* only upto when the rightshares are issued" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5967.5" y="811.5" width="345" height="50" as="geometry" />
+          <mxGeometry x="5967.5" y="800" width="345" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i7AFofp_1ywYH7Vwrbwp-9" target="i7AFofp_1ywYH7Vwrbwp-10" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
