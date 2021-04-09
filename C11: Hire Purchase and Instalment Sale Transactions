@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T19:59:44.141Z" agent="5.0 (X11)" etag="d0ki6oOKBYiKXZXXc5MR" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T20:06:52.740Z" agent="5.0 (X11)" etag="hJ2u7E_fAFxoSTp_5BGM" version="14.5.8" type="github">
   <diagram id="DAN6b1e57P_M77BJtaVf" name="Page-1">
-    <mxGraphModel dx="4186" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2736" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,28 +55,28 @@
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-15" value="&lt;div&gt;r=rate of int&lt;/div&gt;&lt;div&gt;n=year&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-680.5" y="137.5" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="-ecpfe2SnfNLGiC4WnQk-17" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Calculator trick&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. press 1 divide `(1+r)`&lt;/div&gt;&lt;div&gt;2.Press &#39;x&#39; twice&lt;/div&gt;&lt;div&gt;3. press =&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-840.5" y="220" width="160" height="70" as="geometry" />
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-17" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Calculator trick&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. press 1 &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. divide by `(1+r)`&lt;/div&gt;&lt;div&gt;3.Press &#39;x&#39; twice&lt;/div&gt;&lt;div&gt;4. press =&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840.5" y="220" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-ecpfe2SnfNLGiC4WnQk-20" target="-ecpfe2SnfNLGiC4WnQk-26" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-760.5" y="360" as="targetPoint" />
+            <mxPoint x="-760.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ecpfe2SnfNLGiC4WnQk-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1. calculation of&amp;nbsp; Internal rate of return&lt;br&gt;&lt;/font&gt;(IRR) or Rate of interest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-935.5" y="320" width="350" height="40" as="geometry" />
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3. calculation of&amp;nbsp; Internal rate of return&lt;br&gt;&lt;/font&gt;(IRR) or Rate of interest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-935.5" y="460" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-26" target="-ecpfe2SnfNLGiC4WnQk-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-26" value="&lt;b&gt;Step 1&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="-820.5" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="-820.5" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-27" target="-ecpfe2SnfNLGiC4WnQk-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-27" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="440" width="559" height="250" as="geometry" />
+          <mxGeometry x="-1040" y="580" width="559" height="250" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-ecpfe2SnfNLGiC4WnQk-27">
           <mxGeometry width="559" height="50" as="geometry" />
@@ -208,28 +208,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-65" value="Required value (RV) = Cash price of the asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-900.5" y="710" width="280" height="40" as="geometry" />
+          <mxGeometry x="-900.5" y="850" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-67" target="-ecpfe2SnfNLGiC4WnQk-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-67" value="&lt;b&gt;Step 2&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="-820.5" y="890" width="120" height="40" as="geometry" />
+          <mxGeometry x="-820.5" y="1030" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-69" value="`\text(IRR)=LR+((HV-RV)/(HV-LV))*\text(diff%)`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-900.5" y="950" width="280" height="80" as="geometry" />
+          <mxGeometry x="-900.5" y="1090" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-71" target="-ecpfe2SnfNLGiC4WnQk-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-71" value="Lower rate(LR) = 8 (in our case)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-900.5" y="770" width="280" height="40" as="geometry" />
+          <mxGeometry x="-900.5" y="910" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-72" target="-ecpfe2SnfNLGiC4WnQk-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-72" value="Difference in % (diff%) = 12%-8% = 4 (in our case also remember take diff as a number not percentage)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-920.5" y="829" width="320" height="40" as="geometry" />
+          <mxGeometry x="-920.5" y="969" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-85" target="-ecpfe2SnfNLGiC4WnQk-87">
           <mxGeometry relative="1" as="geometry" />
@@ -356,6 +356,9 @@
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-121" value="&lt;div&gt;IF&lt;/div&gt;&lt;div&gt;inst are equal&lt;br&gt;&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="760" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-122" target="-ecpfe2SnfNLGiC4WnQk-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-122" value="Apply Present value annuity method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="880" width="120" height="40" as="geometry" />
         </mxCell>
@@ -379,6 +382,26 @@
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-139" value="&lt;div&gt;1. Let Principal be &#39;p&#39;&lt;/div&gt;&lt;div&gt;2. Let interest be i, 2i, 3i, ..n&lt;/div&gt;&lt;div&gt;`P+3i=`1st installment&lt;/div&gt;&lt;div&gt;`P+2i=`2st installment&lt;/div&gt;&lt;div&gt;`P+1i=`3st installment&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="740" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-141" target="-ecpfe2SnfNLGiC4WnQk-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-141" value="CP = Installment amt * CADF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="940" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-143" value="&lt;div&gt;note&lt;br&gt;&lt;/div&gt;&lt;div&gt;installment = amt of only 1 inst&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101.25" y="1000" width="167.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="-ecpfe2SnfNLGiC4WnQk-149" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760.5" y="362" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-146" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1. calculation of Cumulative annuity discounting factor (CADF)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-920.5" y="330" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-149" value="CADF = sum of all the discounting factors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880.5" y="390" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
