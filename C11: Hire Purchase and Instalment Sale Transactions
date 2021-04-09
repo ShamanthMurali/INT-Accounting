@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T19:40:04.286Z" agent="5.0 (X11)" etag="uD_ekLq3iue2-CZyGq1v" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T19:41:56.251Z" agent="5.0 (X11)" etag="iKiXr3zBM99frnbLMVLt" version="14.5.8" type="github">
   <diagram id="DAN6b1e57P_M77BJtaVf" name="Page-1">
     <mxGraphModel dx="2736" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-1" target="-ecpfe2SnfNLGiC4WnQk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-1" value="&lt;div&gt;Hire purchase and &lt;br&gt;&lt;/div&gt;&lt;div&gt;installment sale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" width="200" height="40" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. the owner ship is transferred on the last payment&lt;/div&gt;&lt;div&gt;2. int is accrued every year&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-6" target="-ecpfe2SnfNLGiC4WnQk-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-6" value="&lt;u&gt;&lt;b&gt;Failure of payment&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. the hire vendor can take back the goods&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="280" height="50" as="geometry" />
@@ -224,6 +230,15 @@
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-72" value="Difference in % (diff%) = 12%-8% = 4 (in our case also remember take diff as a number not percentage)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-920.5" y="829" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-85" target="-ecpfe2SnfNLGiC4WnQk-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-85" value="Accounting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-87" value="&lt;u&gt;&lt;b&gt;Cases&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="490" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
