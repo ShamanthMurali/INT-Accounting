@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T19:00:01.786Z" agent="5.0 (X11)" etag="6c6ehszlJlyINpBK3XeZ" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T19:00:18.620Z" agent="5.0 (X11)" etag="ukDegFVdPAsfVjiOeBnE" version="14.5.8" type="github">
   <diagram id="DAN6b1e57P_M77BJtaVf" name="Page-1">
     <mxGraphModel dx="2093" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-6" value="&lt;u&gt;&lt;b&gt;Failure of payment&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. the hire vendor can take back the goods&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-ecpfe2SnfNLGiC4WnQk-10" value="Important concepts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-10" value="&lt;u&gt;&lt;b&gt;Important concepts&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-12" target="-ecpfe2SnfNLGiC4WnQk-13">
