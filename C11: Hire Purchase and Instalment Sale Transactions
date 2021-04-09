@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T18:58:15.396Z" agent="5.0 (X11)" etag="PvW33t9nObPBGYrIgSOU" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T19:00:01.786Z" agent="5.0 (X11)" etag="6c6ehszlJlyINpBK3XeZ" version="14.5.8" type="github">
   <diagram id="DAN6b1e57P_M77BJtaVf" name="Page-1">
-    <mxGraphModel dx="1442" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2093" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-67" value="&lt;b&gt;Step 2&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="860" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-ecpfe2SnfNLGiC4WnQk-69" value="`IRR=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ecpfe2SnfNLGiC4WnQk-69" value="`\text(IRR)=LR+((HV-RV)/(HV-LV))*\text(diff%)`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="920" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-ecpfe2SnfNLGiC4WnQk-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ecpfe2SnfNLGiC4WnQk-71" target="-ecpfe2SnfNLGiC4WnQk-72">
