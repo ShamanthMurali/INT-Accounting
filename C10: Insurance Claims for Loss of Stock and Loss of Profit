@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T04:24:49.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="13ebMdQUTUn6AGT78VAW" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T04:27:07.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="ZTPmHlRmQkLWbqIcK-LB" version="14.6.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
-    <mxGraphModel dx="1715" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1895" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
         <mxCell id="4NdtDuvutGnWGa9YnQER-41" value="`(text\{actual loss of stock} * text\{Policy value})/text\{Total loss of stock}&lt;br&gt;`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="940" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4NdtDuvutGnWGa9YnQER-45" value="Claim = total loss of stock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4NdtDuvutGnWGa9YnQER-45" value="Claim = total loss of stock" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-110" y="940" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-49" value="Step 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
