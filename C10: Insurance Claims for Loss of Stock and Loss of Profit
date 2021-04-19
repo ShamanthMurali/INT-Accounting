@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T04:02:05.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="8OfrtQyBpGGEx_dWI0xD" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T04:04:12.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="F31RFnPm0Jcu_YH1R86y" version="14.6.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
     <mxGraphModel dx="1715" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -175,7 +175,7 @@
           <mxGeometry x="560" y="280" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-55" value="AAT = Annual turnover +/- trend in GP% of CY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="280" width="280" height="40" as="geometry" />
+          <mxGeometry x="800" y="395" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-58" value="Step 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="570" width="120" height="40" as="geometry" />
@@ -273,11 +273,17 @@
         <mxCell id="4NdtDuvutGnWGa9YnQER-90" value="`\text{GP% of Current year}=\text{Sales of last year}+-\text{%Trend in GP}&lt;br&gt;`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="1180" width="395" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4NdtDuvutGnWGa9YnQER-92" value="Step 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4NdtDuvutGnWGa9YnQER-92" value="Step 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4NdtDuvutGnWGa9YnQER-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4NdtDuvutGnWGa9YnQER-94" target="4NdtDuvutGnWGa9YnQER-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-94" value="&lt;b&gt;&lt;u&gt;Loss of profit&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="1280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4NdtDuvutGnWGa9YnQER-95" value="`\text{Loss of profit}=\text{GP% of Current year}*\text{Short sales}&lt;br&gt;`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="1330" width="395" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
