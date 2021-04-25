@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T02:12:03.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="7AXXWTqLvoXmw3uiqkn-" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T02:12:31.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="qknqLtoQ9lw9oAJCDm1o" version="14.6.6" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1889" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5786,7 +5786,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIRHEsJyIBneMaAr28Ey-15" value="&lt;div&gt;An onerous contract is a contract in which the aggregate cost required to fulfill the agreement is higher&amp;nbsp;&lt;/div&gt;&lt;div&gt;than the economic benefit to be obtained from it. AS 29 allows provisions to be created for onerous&amp;nbsp;&lt;/div&gt;&lt;div&gt;contracts.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-15" value="&lt;div&gt;An onerous contract is a contract in which the aggregate cost required to fulfill the agreement is higher&amp;nbsp;&lt;span&gt;than the economic benefit to be obtained from it. AS 29 allows provisions to be created for onerous&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;contracts.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9230" y="1040" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YIRHEsJyIBneMaAr28Ey-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-17" target="YIRHEsJyIBneMaAr28Ey-24">
