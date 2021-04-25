@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T19:42:00.136Z" agent="5.0 (X11)" etag="m9qxeFo4HR5pFCLmBoil" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T02:10:51.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="k34jg7ENCsXFR1hjoe0m" version="14.6.6" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="3350" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1889" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         <mxCell id="F1596h3UYdEcuo3h4hQy-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1596h3UYdEcuo3h4hQy-111" target="F1596h3UYdEcuo3h4hQy-119" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YYCPOrRS4QxGLrkAfvag-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1596h3UYdEcuo3h4hQy-111" target="F1596h3UYdEcuo3h4hQy-169" visible="0">
+        <mxCell id="YYCPOrRS4QxGLrkAfvag-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1596h3UYdEcuo3h4hQy-111" target="F1596h3UYdEcuo3h4hQy-169" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6815" y="1525" />
@@ -4383,7 +4383,7 @@
         <mxCell id="Ln59aV-OFLYjMNqGV-8C-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Cash&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. cash in hand&lt;/div&gt;&lt;div&gt;2. cash at bank&lt;/div&gt;&lt;div&gt;3. bank drafts&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-80" y="300" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ln59aV-OFLYjMNqGV-8C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ln59aV-OFLYjMNqGV-8C-5" target="Ln59aV-OFLYjMNqGV-8C-8" edge="1">
+        <mxCell id="Ln59aV-OFLYjMNqGV-8C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ln59aV-OFLYjMNqGV-8C-5" target="Ln59aV-OFLYjMNqGV-8C-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ln59aV-OFLYjMNqGV-8C-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;cash equivalents&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. short term investments&lt;/div&gt;&lt;div&gt;2. temporary investments&lt;/div&gt;&lt;div&gt;3. marketable investments&lt;/div&gt;&lt;div&gt;(duration less than 3 months) &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -4531,8 +4531,11 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 29&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="9400" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-14" target="YIRHEsJyIBneMaAr28Ey-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Provision, contingent liabilities, contingent assets&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="lLgTNpdpPaJ2b0qCUW8V-14">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="9300" y="120" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -5489,7 +5492,7 @@
         <mxCell id="F1596h3UYdEcuo3h4hQy-38" value="&lt;div&gt;Deferred tax asset&lt;/div&gt;(DTA)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6640" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F1596h3UYdEcuo3h4hQy-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1596h3UYdEcuo3h4hQy-39" target="F1596h3UYdEcuo3h4hQy-111" edge="1">
+        <mxCell id="F1596h3UYdEcuo3h4hQy-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1596h3UYdEcuo3h4hQy-39" target="F1596h3UYdEcuo3h4hQy-111" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6940" y="1270" />
@@ -5662,7 +5665,7 @@
         <mxCell id="jFchXzkJ7Akm9nZuozaI-1" value="In case of &lt;u&gt;&lt;b&gt;Profits&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6760" y="970" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jFchXzkJ7Akm9nZuozaI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1596h3UYdEcuo3h4hQy-32" target="jFchXzkJ7Akm9nZuozaI-1" edge="1">
+        <mxCell id="jFchXzkJ7Akm9nZuozaI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1596h3UYdEcuo3h4hQy-32" target="jFchXzkJ7Akm9nZuozaI-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6820" y="940" as="sourcePoint" />
             <mxPoint x="6700" y="1060" as="targetPoint" />
@@ -5716,6 +5719,101 @@
         </mxCell>
         <mxCell id="jFchXzkJ7Akm9nZuozaI-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6675" y="2580" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-3" target="YIRHEsJyIBneMaAr28Ey-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-3" value="&lt;div&gt;The objective of AS 29 (Revised) is to ensure that appropriate recognition criteria and measurement&amp;nbsp;&lt;/div&gt;&lt;div&gt;bases are applied to provisions and contingent liabilities and sufficient information is disclosed in the&amp;nbsp;&lt;/div&gt;&lt;div&gt;notes to the financial statements to enable users to understand their nature, timing and amount. The&amp;nbsp;&lt;/div&gt;&lt;div&gt;objective of AS 29 (Revised) is also to lay down appropriate accounting for contingent assets.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9180" y="220" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-5" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Important definitions&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;A &lt;b&gt;&lt;u&gt;Provision &lt;/u&gt;&lt;/b&gt;is a liability which can be measured only by using a substantial degree of estimation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A &lt;b&gt;&lt;u&gt;Liability &lt;/u&gt;&lt;/b&gt;is a present obligation of the enterprise arising from past events, the settlement of which&amp;nbsp;&lt;span&gt;is expected to result in an outflow from the enterprise of resources embodying economic benefits.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;An &lt;b&gt;&lt;u&gt;Obligating event&lt;/u&gt;&lt;/b&gt; is an event that creates an obligation that results in an enterprise having no&amp;nbsp;&lt;/div&gt;&lt;div&gt;realistic alternative to settling that obligation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Present obligation&lt;/u&gt;&lt;/b&gt; - an obligation is a present obligation if, based on the evidence available, its&amp;nbsp;&lt;/div&gt;&lt;div&gt;existence at the balance sheet date is considered probable, i.e., more likely than not.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Possible obligation&lt;/u&gt;&lt;/b&gt; - an obligation is a possible obligation if, based on the evidence available, its&amp;nbsp;&lt;/div&gt;&lt;div&gt;existence at the balance sheet date is considered not probable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9195" y="320" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-7" target="YIRHEsJyIBneMaAr28Ey-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-7" target="YIRHEsJyIBneMaAr28Ey-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9690" y="920" />
+              <mxPoint x="9350" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-7" target="YIRHEsJyIBneMaAr28Ey-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9690" y="920" />
+              <mxPoint x="10090" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-7" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Recognition Criteria&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;A provision should be recognised when:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) An enterprise has a present obligation as a result of a past event;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) It is probable that an outflow of resources embodying economic&amp;nbsp;&lt;/div&gt;&lt;div&gt;benefits will be required to settle the&lt;span&gt;&amp;nbsp;obligation; and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) A reliable estimate can be made of the amount of the obligation.&lt;/div&gt;&lt;div&gt;If these conditions are not met, no provision should be recognised.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9487.5" y="690" width="405" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-9" target="YIRHEsJyIBneMaAr28Ey-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-9" value="Provisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9630" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-10" value="contingent liability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9270" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-12" target="YIRHEsJyIBneMaAr28Ey-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-12" value="Provision for Onerous Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9290" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-13" target="YIRHEsJyIBneMaAr28Ey-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-13" value="Provisions for Restructuring Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9630" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-14" target="YIRHEsJyIBneMaAr28Ey-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-14" value="Provisions for expenses subject to Reimbursements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10030" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-15" target="YIRHEsJyIBneMaAr28Ey-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9350" y="1480" />
+              <mxPoint x="9690" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-15" value="&lt;div&gt;An onerous contract is a contract in which the aggregate cost required to fulfill the agreement is higher&amp;nbsp;&lt;/div&gt;&lt;div&gt;than the economic benefit to be obtained from it. AS 29 allows provisions to be created for onerous&amp;nbsp;&lt;/div&gt;&lt;div&gt;contracts.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9230" y="1040" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-17" target="YIRHEsJyIBneMaAr28Ey-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-17" value="&lt;div&gt;&lt;i&gt;A provision for restructuring costs is recognised only when the recognition criteria for&amp;nbsp;&lt;span&gt;provisions are met.&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;div&gt;A Restructuring is a programme that is planned and controlled by management, and materially changes&amp;nbsp;&lt;span&gt;either:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(a) The scope of a business undertaken by an enterprise; or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) The manner in which that business is conducted.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;The following are examples of events that may fall under the definition of restructuring:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) Sale or termination of a line of business&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) The closure of business locations in a country or region or the relocation of business activities from&lt;span&gt;&amp;nbsp;one country or region to another&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(c) Changes in management structure, for example, eliminating a layer of management&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) Fundamental re-organisations that have a material effect on the nature and focus of the&amp;nbsp;&amp;nbsp;&lt;span&gt;enterprise&#39;s operations&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9510" y="1040" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-19" target="YIRHEsJyIBneMaAr28Ey-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10090" y="1480" />
+              <mxPoint x="9690" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-19" value="&lt;div&gt;Where some or all of the expenditure required to settle a provision is expected to be&amp;nbsp;&amp;nbsp;&lt;span&gt;reimbursed by another party, the reimbursement should be recognized, when &amp;amp; only when, it is&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;virtually certain that reimbursement will be received if the enterprise settles the obligation. The&amp;nbsp;&lt;/span&gt;&lt;span&gt;reimbursement should be treated as a separate asset. The amount recognized for the&amp;nbsp;&lt;/span&gt;&lt;span&gt;reimbursement should not exceed the amount of the provision. In the statement of the P &amp;amp; L,&amp;nbsp;&lt;/span&gt;&lt;span&gt;the expense relating to a provision may be presented net of the amount recognized for a&amp;nbsp;&lt;/span&gt;&lt;span&gt;reimbursement.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9910" y="1040" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-24" target="YIRHEsJyIBneMaAr28Ey-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9630" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-25" value="&lt;div&gt;• The amount recognised as a provision should be the best estimate of the expenditure required to&amp;nbsp;&amp;nbsp;settle the present obligation at the balance sheet date.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• The amount of a provision should not be discounted to its. present value except in case of&amp;nbsp;&amp;nbsp;decommissioning, restoration and similar liabilities that are recognised as cost of Property, Plant and&amp;nbsp;&lt;/div&gt;&lt;div&gt;Equipment. The discount rate (or rates) should be a pre-tax rate (or rates) that reflect(s) current&amp;nbsp;&amp;nbsp;market assessments of the time value of money and the risks specific to the liability.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9510" y="1580" width="360" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
