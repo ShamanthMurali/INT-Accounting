@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T02:14:04.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="fpsKHf2O3Lg2HCBncItS" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T02:14:18.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="XRi86DmLJo3aQfxYsScd" version="14.6.6" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1889" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5809,7 +5809,7 @@
         <mxCell id="YIRHEsJyIBneMaAr28Ey-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-24" target="YIRHEsJyIBneMaAr28Ey-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YIRHEsJyIBneMaAr28Ey-24" value="Measurement of Provisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-24" value="Measurement of Provisions" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="9630" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YIRHEsJyIBneMaAr28Ey-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-25" target="YIRHEsJyIBneMaAr28Ey-30">
@@ -5821,7 +5821,7 @@
         <mxCell id="YIRHEsJyIBneMaAr28Ey-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-30" target="YIRHEsJyIBneMaAr28Ey-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YIRHEsJyIBneMaAr28Ey-30" value="Review of Provisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-30" value="Review of Provisions" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="9630" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YIRHEsJyIBneMaAr28Ey-32" value="&lt;div&gt;Provisions should be reviewed at each Balance Sheet date &amp;amp; adjusted to reflect the current&amp;nbsp;&lt;span&gt;best estimate. If it is no longer probable that an outflow of resources embodying economic&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;benefits will be required to settle the obligation, the provision should be reversed.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
