@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T02:15:28.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="RZ6mz_oFLnkyDjA1JM0_" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T02:19:45.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="4tCZRoGcsWPRjaflgJXc" version="14.6.6" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1889" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5827,11 +5827,23 @@
         <mxCell id="YIRHEsJyIBneMaAr28Ey-30" value="Review of Provisions" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="9630" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-32" target="YIRHEsJyIBneMaAr28Ey-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIRHEsJyIBneMaAr28Ey-32" value="&lt;div&gt;Provisions should be reviewed at each Balance Sheet date &amp;amp; adjusted to reflect the current&amp;nbsp;&lt;span&gt;best estimate. If it is no longer probable that an outflow of resources embodying economic&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;benefits will be required to settle the obligation, the provision should be reversed.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9510" y="1820" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YIRHEsJyIBneMaAr28Ey-35" value="No Provisions for Future Obligations" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="9920" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-37" target="YIRHEsJyIBneMaAr28Ey-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-37" value="Review of Provisions" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="9630" y="1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-39" value="&lt;div&gt;(a) The carrying amount at the beginning and end of the period;&lt;/div&gt;&lt;div&gt;(b) Additional provisions made in the period, including increases to existing provisions;&lt;/div&gt;&lt;div&gt;(c) Amounts used (i.e. incurred and charged against the provision) during the period; and&lt;/div&gt;&lt;div&gt;(d) Unused amounts reversed during the period.&amp;nbsp;&lt;span&gt;An enterprise should disclose the following for each class of provision:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(a) A brief description of the nature of the obligation and the expected timing of any resulting outflows&amp;nbsp;&lt;span&gt;of economic benefits;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(b) An indication of the uncertainties about those outflows. Where necessary to provide adequate&amp;nbsp;&lt;span&gt;information, an enterprise should disclose the major assumptions made concerning future events&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Note: SMCs are exempt from the above disclosure requirements of AS 29 (Revised)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9450" y="1980" width="480" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
