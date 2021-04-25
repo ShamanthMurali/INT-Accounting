@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T02:10:51.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="k34jg7ENCsXFR1hjoe0m" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T02:12:03.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="7AXXWTqLvoXmw3uiqkn-" version="14.6.6" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1889" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5809,7 +5809,7 @@
         <mxCell id="YIRHEsJyIBneMaAr28Ey-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIRHEsJyIBneMaAr28Ey-24" target="YIRHEsJyIBneMaAr28Ey-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YIRHEsJyIBneMaAr28Ey-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YIRHEsJyIBneMaAr28Ey-24" value="Measurement of Provisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9630" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YIRHEsJyIBneMaAr28Ey-25" value="&lt;div&gt;• The amount recognised as a provision should be the best estimate of the expenditure required to&amp;nbsp;&amp;nbsp;settle the present obligation at the balance sheet date.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• The amount of a provision should not be discounted to its. present value except in case of&amp;nbsp;&amp;nbsp;decommissioning, restoration and similar liabilities that are recognised as cost of Property, Plant and&amp;nbsp;&lt;/div&gt;&lt;div&gt;Equipment. The discount rate (or rates) should be a pre-tax rate (or rates) that reflect(s) current&amp;nbsp;&amp;nbsp;market assessments of the time value of money and the risks specific to the liability.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
