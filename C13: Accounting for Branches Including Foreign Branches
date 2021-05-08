@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T07:35:35.280Z" agent="5.0 (X11)" etag="CSwl1V-Eje7Ua0iDjV8q" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T07:51:27.872Z" agent="5.0 (X11)" etag="s2TjzBkd4f0LmMFzAdwi" version="14.6.9" type="github">
   <diagram id="YVkltL9pkgMq6lnIiqf7" name="Page-1">
-    <mxGraphModel dx="1250" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZffIYZJc-qdks9ka7o_v-1" target="ZffIYZJc-qdks9ka7o_v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZffIYZJc-qdks9ka7o_v-1" target="ZffIYZJc-qdks9ka7o_v-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZffIYZJc-qdks9ka7o_v-1" value="Branch accounts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZffIYZJc-qdks9ka7o_v-2" target="ZffIYZJc-qdks9ka7o_v-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-2" value="Dependent branch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZffIYZJc-qdks9ka7o_v-3" target="ZffIYZJc-qdks9ka7o_v-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-3" value="Independent branch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-6" value="Accounting and books of accounts are maintained by &lt;b&gt;HO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZffIYZJc-qdks9ka7o_v-8" value="Accounting and books of accounts are maintained by &lt;b&gt;Branch&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
