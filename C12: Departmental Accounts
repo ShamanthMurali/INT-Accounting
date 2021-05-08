@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T06:36:06.805Z" agent="5.0 (X11)" etag="H8O5r2XbNyC__m3egX13" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T06:47:46.238Z" agent="5.0 (X11)" etag="ZP7UTDRP4p-ZvVr1LzVd" version="14.6.9" type="github">
   <diagram id="NnJs8EZOmAxul6iQcTgm" name="Page-1">
-    <mxGraphModel dx="1564" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1711" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,11 @@
         <mxCell id="VrmhPXuJgty9e7OqBtXe-4" value="Manufacturing department" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-5" target="VrmhPXuJgty9e7OqBtXe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-5" value="Dependent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="350" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-6" value="1. prepare combined or consolidated departmental trading and p/l a/c.&lt;br&gt;&lt;div&gt;2. all expenses and income should be divided in department ratio&lt;/div&gt;&lt;div&gt;3. transfer the p/l to General p/l&lt;/div&gt;&lt;div&gt;4. if any expense or income cannot be divided then transfer them to general p/l&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="320" width="280" height="120" as="geometry" />
@@ -28,8 +31,43 @@
         <mxCell id="VrmhPXuJgty9e7OqBtXe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-7" target="VrmhPXuJgty9e7OqBtXe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VrmhPXuJgty9e7OqBtXe-7" value="Goods are not transferred from one dept to other" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-7" value="Goods are &lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt; transferred from one dept to other" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="260" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-10" target="VrmhPXuJgty9e7OqBtXe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-10" target="VrmhPXuJgty9e7OqBtXe-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-10" value="Goods are transferred from one dept to other" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-12" target="VrmhPXuJgty9e7OqBtXe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-12" value="&lt;div&gt;Inter departmental transfer(IDT) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;@cost&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-16" target="VrmhPXuJgty9e7OqBtXe-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-16" value="&lt;div&gt;Inter departmental transfer(IDT) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;@Invoice price&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-17" target="VrmhPXuJgty9e7OqBtXe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-17" value="&lt;div&gt;Receiving department a/c Dr.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;to supplying department a/c&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; xx&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-20" value="Just show idt in trading and nothing else" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-23" value="&lt;div&gt;when goods are sold at IP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.You have to calculate the inter departmental profits.&lt;/div&gt;&lt;div&gt;2. the inter departmental profits are called unrealized profits(URP)&lt;/div&gt;&lt;div&gt;3. current years URP must be removed in the general P/l&lt;/div&gt;&lt;div&gt;4. previous year URP, which was sold this year must be added this year in the general p/l&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
