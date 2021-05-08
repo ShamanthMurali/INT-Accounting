@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T07:10:43.495Z" agent="5.0 (X11)" etag="oHxdokA9HK_HJ1eER8SJ" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T07:23:44.745Z" agent="5.0 (X11)" etag="WPLJBvReN0qVqwMvyjN_" version="14.6.9" type="github">
   <diagram id="NnJs8EZOmAxul6iQcTgm" name="Page-1">
-    <mxGraphModel dx="3973" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="140" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-4" value="Manufacturing department" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-5" target="VrmhPXuJgty9e7OqBtXe-10">
           <mxGeometry relative="1" as="geometry" />
@@ -105,10 +105,10 @@
         <mxCell id="VrmhPXuJgty9e7OqBtXe-34" value="Content ratio of IDT in closing stock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="680" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VrmhPXuJgty9e7OqBtXe-35" value="=" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-35" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="465" y="695" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VrmhPXuJgty9e7OqBtXe-36" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-36" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="585" y="695" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-37" value="Closing stock of receiving dept" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -129,10 +129,10 @@
         <mxCell id="VrmhPXuJgty9e7OqBtXe-43" value="Content ratio of IDT in opening stock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="790" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VrmhPXuJgty9e7OqBtXe-44" value="=" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-44" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="465" y="805" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VrmhPXuJgty9e7OqBtXe-45" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VrmhPXuJgty9e7OqBtXe-45" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="585" y="805" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-46" value="opening stock of receiving dept" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
