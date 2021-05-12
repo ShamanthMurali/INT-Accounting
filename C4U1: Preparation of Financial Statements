@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T19:43:59.300Z" agent="5.0 (X11)" etag="7xXQjzy9JbMSAueLFQMV" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T19:47:44.113Z" agent="5.0 (X11)" etag="651iOg62YTgFAm0u_yd5" version="14.6.11" type="github">
   <diagram id="aMfJvMXhCiEYQdbrY_jZ" name="Page-1">
-    <mxGraphModel dx="2920" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -592,25 +592,25 @@
         <mxCell id="blk9YdcLJZOME8czDeYX-219" value="&lt;b&gt;Calculation of Effective capital&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1725" y="-740" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-259" value="Simple People Need Competition " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-259" value="&lt;u&gt;S&lt;/u&gt;imple &lt;u&gt;P&lt;/u&gt;eople &lt;u&gt;N&lt;/u&gt;eed &lt;u&gt;C&lt;/u&gt;ompetition " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-110" y="530" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-260" value="Sharesholders Require Money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-260" value="&lt;u&gt;S&lt;/u&gt;haresholders &lt;u&gt;R&lt;/u&gt;equire &lt;u&gt;M&lt;/u&gt;oney" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="590" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-261" value="Lost Differences Open Lifes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-261" value="&lt;u&gt;L&lt;/u&gt;ost &lt;u&gt;D&lt;/u&gt;ifferences &lt;u&gt;O&lt;/u&gt;pen &lt;u&gt;L&lt;/u&gt;ifes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="690" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-262" value="Straight Truths Offer Stocks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-262" value="&lt;u&gt;S&lt;/u&gt;traight &lt;u&gt;T&lt;/u&gt;ruths &lt;u&gt;O&lt;/u&gt;ffer &lt;u&gt;S&lt;/u&gt;tocks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="780" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-263" value="PNDLO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-263" value="&lt;u&gt;PNDLO&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="920" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-264" value="Truth increases wealth inside" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="960" width="160" height="40" as="geometry" />
+        <mxCell id="blk9YdcLJZOME8czDeYX-264" value="&lt;u&gt;T&lt;/u&gt;ruth &lt;u&gt;I&lt;/u&gt;ncreases &lt;u&gt;W&lt;/u&gt;ealth &lt;u&gt;I&lt;/u&gt;nside" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="960" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-265" value="C ITC Stocks OOO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-265" value="&lt;u&gt;C&lt;/u&gt; &lt;u&gt;ITC&lt;/u&gt; &lt;u&gt;S&lt;/u&gt;tocks &lt;u&gt;O&lt;/u&gt;OO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1140" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-267" value="&lt;big&gt;M&lt;/big&gt;aking &lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;big&gt;P&lt;/big&gt;olite &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Changes to&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;big&gt;E&lt;/big&gt;mployees&lt;br&gt;&lt;br&gt;&lt;big&gt;F&lt;/big&gt;old &lt;br&gt;&lt;br&gt;&lt;big&gt;D&lt;/big&gt;elightful &lt;br&gt;&lt;br&gt;&lt;big&gt;O&lt;/big&gt;nes " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
