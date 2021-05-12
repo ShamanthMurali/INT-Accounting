@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T16:01:11.795Z" agent="5.0 (X11)" etag="j6SYytxgHgP7P-Rf11j_" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T16:20:37.212Z" agent="5.0 (X11)" etag="NZJPkzf4a6FHM53YjYNG" version="14.6.11" type="github">
   <diagram id="aMfJvMXhCiEYQdbrY_jZ" name="Page-1">
-    <mxGraphModel dx="1242" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,57 @@
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-4" value="Balance sheet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-5" target="blk9YdcLJZOME8czDeYX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-5" target="blk9YdcLJZOME8czDeYX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-5" target="blk9YdcLJZOME8czDeYX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-5" value="Tax treatment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-6" value="Dividend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-7" value="Managerial remunaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-8" target="blk9YdcLJZOME8czDeYX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-8" value="Advance tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-9" target="blk9YdcLJZOME8czDeYX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-9" value="Actual tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-10" target="blk9YdcLJZOME8czDeYX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-10" value="Provision for tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-12" value="&lt;div&gt;Tax paid during FY20-21, which is calculated on estimated profits for FY20-21&lt;/div&gt;[this is paid 4 times in a year]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-820" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-14" value="&lt;div&gt;Estimated income tax on total income&lt;/div&gt;&lt;div&gt;[this is calculated by the business. later it is compared to actual tax, if any differences then IT dept. shall be challenged]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-820" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-16" value="Liability of total income assessed by IT dept. is known as gross demand which will be available in assessment year i.e FY21-22" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-820" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-21" value="If &lt;b&gt;Actual tax &amp;lt; Advance tax&lt;/b&gt;, then access advance tax shall be refunded" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-680" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-22" value="if &lt;b&gt;Actual tax &amp;gt; Advance tax&lt;/b&gt;, then there is a tax liability(can be challenged in court, but only after paying the liability)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-620" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
