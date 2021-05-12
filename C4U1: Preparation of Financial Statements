@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T17:21:20.032Z" agent="5.0 (X11)" etag="-pDOlta9ZEhnlJSeNZtm" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T17:24:25.938Z" agent="5.0 (X11)" etag="HPWd6hYxhf_4JCWtLXPH" version="14.6.11" type="github">
   <diagram id="aMfJvMXhCiEYQdbrY_jZ" name="Page-1">
-    <mxGraphModel dx="1560" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,14 @@
         <mxCell id="blk9YdcLJZOME8czDeYX-6" value="Dividend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-7" target="blk9YdcLJZOME8czDeYX-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-7" target="blk9YdcLJZOME8czDeYX-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-7" value="Managerial remunaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-970" width="120" height="40" as="geometry" />
+          <mxGeometry x="1155" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-8" target="blk9YdcLJZOME8czDeYX-12">
           <mxGeometry relative="1" as="geometry" />
@@ -219,6 +225,24 @@
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-79" value="&lt;div&gt;&lt;b&gt;Condition 3&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;General reserve-Amount of dividend out of GR &amp;gt; 15% of paid up share capital &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="-340" width="280" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-83" target="blk9YdcLJZOME8czDeYX-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-83" value="Rank A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-84" target="blk9YdcLJZOME8czDeYX-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-84" value="Rank B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-85" value="&lt;div&gt;1. Manager&lt;/div&gt;&lt;div&gt;2. MD&lt;/div&gt;&lt;div&gt;3. Whole time director&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-86" value="&lt;div&gt;1. Part time director&lt;/div&gt;&lt;div&gt;2. short time directors&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
