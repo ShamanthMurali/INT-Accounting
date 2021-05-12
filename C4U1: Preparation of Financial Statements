@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T17:15:04.291Z" agent="5.0 (X11)" etag="MXxKWg63uKkBQkOIbTQE" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T17:21:20.032Z" agent="5.0 (X11)" etag="-pDOlta9ZEhnlJSeNZtm" version="14.6.11" type="github">
   <diagram id="aMfJvMXhCiEYQdbrY_jZ" name="Page-1">
     <mxGraphModel dx="1560" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
         <mxCell id="blk9YdcLJZOME8czDeYX-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-56" target="blk9YdcLJZOME8czDeYX-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-56" value="when cos is making loass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-56" value="when cos is made loss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="-660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-59" value="&lt;div&gt;Dividend should be paid out of only&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. currents years profit after depreciation&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. previous year profit after depreciation&lt;/div&gt;&lt;div&gt;3. both 1 and 2&lt;/div&gt;&lt;div&gt;4. money given by CG and SG if guaranteed by Govt.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -199,8 +199,26 @@
         <mxCell id="blk9YdcLJZOME8czDeYX-69" value="Paid out of" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-740" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-75" target="blk9YdcLJZOME8czDeYX-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-75" value="Dividend can be paid out of General reserve if it fulfills the following conditions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="-600" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-77" target="blk9YdcLJZOME8czDeYX-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-77" value="&lt;div&gt;&lt;b&gt;Condition 1&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rate of dividend &amp;lt;= average rate dividend of past 3years or more&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-545" width="280" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-78" target="blk9YdcLJZOME8czDeYX-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-78" value="&lt;div&gt;&lt;b&gt;Condition 2&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Amt of dividend out of GR &amp;lt;= 10% of (paid up share capital + general reserve)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-440" width="280" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-79" value="&lt;div&gt;&lt;b&gt;Condition 3&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;General reserve-Amount of dividend out of GR &amp;gt; 15% of paid up share capital &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-340" width="280" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
