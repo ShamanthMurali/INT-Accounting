@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T16:50:55.596Z" agent="5.0 (X11)" etag="0tZVAWGVQ1xVvf-Yg21D" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T17:15:04.291Z" agent="5.0 (X11)" etag="MXxKWg63uKkBQkOIbTQE" version="14.6.11" type="github">
   <diagram id="aMfJvMXhCiEYQdbrY_jZ" name="Page-1">
-    <mxGraphModel dx="1707" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,49 +26,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-5" value="Tax treatment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-960" width="120" height="40" as="geometry" />
+          <mxGeometry x="-390" y="-960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-6" target="blk9YdcLJZOME8czDeYX-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-6" target="blk9YdcLJZOME8czDeYX-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-6" value="Dividend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-960" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-7" value="Managerial remunaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-960" width="120" height="40" as="geometry" />
+          <mxGeometry x="1155" y="-970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-8" target="blk9YdcLJZOME8czDeYX-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-8" value="Advance tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-880" width="120" height="40" as="geometry" />
+          <mxGeometry x="-640" y="-880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-9" target="blk9YdcLJZOME8czDeYX-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-9" value="Actual tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-880" width="120" height="40" as="geometry" />
+          <mxGeometry x="-140" y="-880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-10" target="blk9YdcLJZOME8czDeYX-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-10" value="Provision for tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-880" width="120" height="40" as="geometry" />
+          <mxGeometry x="-390" y="-880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-12" value="&lt;div&gt;Tax paid during FY20-21, which is calculated on estimated profits for FY20-21&lt;/div&gt;[this is paid 4 times in a year]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="-820" width="240" height="50" as="geometry" />
+          <mxGeometry x="-700" y="-820" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-14" value="&lt;div&gt;Estimated income tax on total income&lt;/div&gt;&lt;div&gt;[this is calculated by the business. later it is compared to actual tax, if any differences then IT dept. shall be challenged]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-820" width="240" height="70" as="geometry" />
+          <mxGeometry x="-450" y="-820" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-16" value="Liability of total income assessed by IT dept. is known as gross demand which will be available in assessment year i.e FY21-22" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-820" width="240" height="70" as="geometry" />
+          <mxGeometry x="-200" y="-820" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-21" value="If &lt;b&gt;Actual tax &amp;lt; Advance tax&lt;/b&gt;, then access advance tax shall be refunded (no set off)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-680" width="360" height="40" as="geometry" />
+          <mxGeometry x="-510" y="-680" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-22" value="if &lt;b&gt;Actual tax &amp;gt; Advance tax&lt;/b&gt;, then there is a tax liability(can be challenged in court, but only after paying the liability)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-620" width="360" height="40" as="geometry" />
+          <mxGeometry x="-510" y="-620" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-27" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-510" width="280" height="40" as="geometry" />
+          <mxGeometry x="-470" y="-510" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="blk9YdcLJZOME8czDeYX-27">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -83,10 +89,10 @@
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-32" value="Journal entry to create provision for tax" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="-540" width="200" height="30" as="geometry" />
+          <mxGeometry x="-430" y="-540" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-33" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-440" width="280" height="40" as="geometry" />
+          <mxGeometry x="-470" y="-440" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="blk9YdcLJZOME8czDeYX-33">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -101,13 +107,13 @@
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-39" value="&lt;div&gt;&lt;u&gt;Suppose&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Adv Tax=10k&lt;/div&gt;&lt;div&gt;PFT=15k&lt;/div&gt;&lt;div&gt;Gross demand = 12k&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-520" width="120" height="80" as="geometry" />
+          <mxGeometry x="-630" y="-520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-40" value="match PFT to gross demand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="-470" width="200" height="30" as="geometry" />
+          <mxGeometry x="-430" y="-470" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-41" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-370" width="280" height="40" as="geometry" />
+          <mxGeometry x="-470" y="-370" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="blk9YdcLJZOME8czDeYX-41">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -122,10 +128,10 @@
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-46" value="Transfer provision to IT liability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="-400" width="200" height="30" as="geometry" />
+          <mxGeometry x="-430" y="-400" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-47" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-300" width="280" height="40" as="geometry" />
+          <mxGeometry x="-470" y="-300" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-48" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="blk9YdcLJZOME8czDeYX-47">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -140,7 +146,61 @@
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-52" value="Set off IT liability with Advance tax" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="-330" width="200" height="30" as="geometry" />
+          <mxGeometry x="-430" y="-330" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-53" value="&lt;div&gt;If it is disputed then only the difference amount journal entry is enough&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Advance tax a/c dr.&amp;nbsp; xxx&lt;/div&gt;&lt;div&gt;to bank&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; xxx&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="-510" width="230" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-55" target="blk9YdcLJZOME8czDeYX-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-55" value="When cos is making profits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-56" target="blk9YdcLJZOME8czDeYX-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-56" value="when cos is making loass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-59" value="&lt;div&gt;Dividend should be paid out of only&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. currents years profit after depreciation&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. previous year profit after depreciation&lt;/div&gt;&lt;div&gt;3. both 1 and 2&lt;/div&gt;&lt;div&gt;4. money given by CG and SG if guaranteed by Govt.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-600" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-61" target="blk9YdcLJZOME8czDeYX-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-61" value="Final Dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-62" target="blk9YdcLJZOME8czDeYX-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-62" value="Interim dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-65" target="blk9YdcLJZOME8czDeYX-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-65" value="PY&#39;s dividend paid in CY" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-820" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-66" target="blk9YdcLJZOME8czDeYX-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-66" value="CY&#39;s dividend paid in CY" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-820" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-69" target="blk9YdcLJZOME8czDeYX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blk9YdcLJZOME8czDeYX-69" target="blk9YdcLJZOME8czDeYX-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-69" value="Paid out of" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blk9YdcLJZOME8czDeYX-75" value="Dividend can be paid out of General reserve if it fulfills the following conditions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-600" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
