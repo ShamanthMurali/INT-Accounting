@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T15:26:57.488Z" agent="5.0 (X11)" etag="JypgRo3iCLZex5bqiNBS" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T15:27:19.798Z" agent="5.0 (X11)" etag="Ea1edgpOPBDMq7UZ8phg" version="14.6.12" type="github">
   <diagram id="YVkltL9pkgMq6lnIiqf7" name="Page-1">
-    <mxGraphModel dx="3174" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4833" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,13 +11,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZffIYZJc-qdks9ka7o_v-1" value="Branch accounts" style="whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZffIYZJc-qdks9ka7o_v-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" parent="1" source="ZffIYZJc-qdks9ka7o_v-2" target="ZffIYZJc-qdks9ka7o_v-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZffIYZJc-qdks9ka7o_v-2" value="Dependent branch" style="whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-330" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZffIYZJc-qdks9ka7o_v-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" parent="1" source="ZffIYZJc-qdks9ka7o_v-3" target="ZffIYZJc-qdks9ka7o_v-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZffIYZJc-qdks9ka7o_v-6" value="Accounting and books of accounts are maintained by &lt;b&gt;HO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="140" width="200" height="40" as="geometry" />
+          <mxGeometry x="-370" y="160" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZffIYZJc-qdks9ka7o_v-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" parent="1" source="ZffIYZJc-qdks9ka7o_v-8" target="ZffIYZJc-qdks9ka7o_v-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
