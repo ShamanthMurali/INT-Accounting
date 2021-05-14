@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T18:19:57.322Z" agent="5.0 (X11)" etag="j4l4Dqa5SvUajUYOT8uG" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T18:23:48.517Z" agent="5.0 (X11)" etag="-fSCVP4qa0--jfj18-vA" version="14.6.13" type="github">
   <diagram id="NnJs8EZOmAxul6iQcTgm" name="Page-1">
-    <mxGraphModel dx="2328" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         <mxCell id="VrmhPXuJgty9e7OqBtXe-29" value="Step 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="590" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VrmhPXuJgty9e7OqBtXe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;" parent="1" source="VrmhPXuJgty9e7OqBtXe-31" target="VrmhPXuJgty9e7OqBtXe-40" edge="1">
+        <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-31" target="G_Y8ZfDQ-1Hlez-_OqU5-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-31" value="&lt;b&gt;Calculation of URP&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
@@ -97,52 +97,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-32" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="670" width="350" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VrmhPXuJgty9e7OqBtXe-33" target="G_Y8ZfDQ-1Hlez-_OqU5-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="365" y="940" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-33" value="&lt;div&gt;Profit % of supplying dept&lt;/div&gt;[loading fraction]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="680" width="100" height="50" as="geometry" />
+          <mxGeometry x="605" y="950" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-34" value="Content ratio of IDT in closing stock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="680" width="90" height="50" as="geometry" />
+          <mxGeometry x="495" y="950" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-35" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="695" width="30" height="20" as="geometry" />
+          <mxGeometry x="465" y="965" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-36" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="695" width="30" height="20" as="geometry" />
+          <mxGeometry x="585" y="965" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-37" value="Closing stock of receiving dept" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="680" width="90" height="50" as="geometry" />
+          <mxGeometry x="375" y="950" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-40" value="URP on Closing stock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="650" width="200" height="20" as="geometry" />
+          <mxGeometry x="440" y="920" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;" parent="1" source="VrmhPXuJgty9e7OqBtXe-41" target="VrmhPXuJgty9e7OqBtXe-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-41" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="780" width="350" height="70" as="geometry" />
+          <mxGeometry x="365" y="1050" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-43" value="Content ratio of IDT in opening stock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="790" width="90" height="50" as="geometry" />
+          <mxGeometry x="495" y="1060" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-44" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="805" width="30" height="20" as="geometry" />
+          <mxGeometry x="465" y="1075" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-45" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="805" width="30" height="20" as="geometry" />
+          <mxGeometry x="585" y="1075" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-46" value="opening stock of receiving dept" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="790" width="90" height="50" as="geometry" />
+          <mxGeometry x="375" y="1060" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-47" value="URP on Opening stock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="760" width="200" height="20" as="geometry" />
+          <mxGeometry x="440" y="1030" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-50" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="890" width="360" height="140" as="geometry" />
+          <mxGeometry x="360" y="1160" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="VrmhPXuJgty9e7OqBtXe-50" vertex="1">
           <mxGeometry width="360" height="60" as="geometry" />
@@ -190,16 +187,16 @@
           <mxGeometry x="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-72" value="General P/L" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="870" width="200" height="20" as="geometry" />
+          <mxGeometry x="440" y="1140" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.518;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" parent="1" source="VrmhPXuJgty9e7OqBtXe-79" target="VrmhPXuJgty9e7OqBtXe-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-79" value="Managers commission" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1080" width="120" height="40" as="geometry" />
+          <mxGeometry x="745" y="1370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-80" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="615" y="1140" width="320" height="240" as="geometry" />
+          <mxGeometry x="640" y="1430" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="VrmhPXuJgty9e7OqBtXe-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" parent="VrmhPXuJgty9e7OqBtXe-80" vertex="1">
           <mxGeometry width="320" height="40" as="geometry" />
@@ -258,8 +255,8 @@
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-1" target="G_Y8ZfDQ-1Hlez-_OqU5-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="740" />
-              <mxPoint x="890" y="740" />
+              <mxPoint x="540" y="705" />
+              <mxPoint x="340" y="705" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -269,54 +266,60 @@
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-1" target="G_Y8ZfDQ-1Hlez-_OqU5-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="740" />
-              <mxPoint x="1290" y="740" />
+              <mxPoint x="540" y="705" />
+              <mxPoint x="740" y="705" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-1" value="Loading fraction" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="685" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-2" target="G_Y8ZfDQ-1Hlez-_OqU5-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="815" />
-              <mxPoint x="760" y="705" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="480" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-2" value="&lt;div&gt;Profit % of supplying dept&lt;/div&gt;[loading fraction]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="790" width="100" height="50" as="geometry" />
+          <mxGeometry x="605" y="1060" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-5" target="G_Y8ZfDQ-1Hlez-_OqU5-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-5" value="Invoice price = Normal selling price" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="725" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-7" target="G_Y8ZfDQ-1Hlez-_OqU5-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-7" value="Invoice price &lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;≠ Normal selling price&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="725" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-8" target="G_Y8ZfDQ-1Hlez-_OqU5-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-8" value="If LF = x% on cost" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="725" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-12" value="&lt;div&gt;&lt;b&gt;Normal selling price&lt;/b&gt;&lt;/div&gt;&lt;div&gt;the price in which the good would have been sold if there were no trade discount&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e,g, &lt;br&gt;&lt;/div&gt;&lt;div&gt;actuall selling price = 8&lt;/div&gt;&lt;div&gt;trade discount = 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hence, normal selling price is 10.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="520" width="230" height="140" as="geometry" />
+          <mxGeometry x="-50" y="740" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-14" target="VrmhPXuJgty9e7OqBtXe-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-14" value="&lt;div&gt;`LF=(GP)/(\text{sales + net IDT(IP)})`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="820" width="220" height="95" as="geometry" />
+          <mxGeometry x="230" y="785" width="220" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-21" target="VrmhPXuJgty9e7OqBtXe-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-21" value="&lt;div&gt;`LF=(load)/(\text{IP})`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="820" width="120" height="95" as="geometry" />
+          <mxGeometry x="480" y="785" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-23" target="VrmhPXuJgty9e7OqBtXe-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="900" />
+              <mxPoint x="540" y="900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-23" value="&lt;div&gt;`LF=x/(100+x)`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="820" width="120" height="95" as="geometry" />
+          <mxGeometry x="680" y="785" width="120" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
