@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T18:19:44.586Z" agent="5.0 (X11)" etag="jiFZYqLjAj9z25qdiOpr" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T18:19:57.322Z" agent="5.0 (X11)" etag="j4l4Dqa5SvUajUYOT8uG" version="14.6.13" type="github">
   <diagram id="NnJs8EZOmAxul6iQcTgm" name="Page-1">
-    <mxGraphModel dx="2644" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2328" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,6 +276,14 @@
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-1" value="Loading fraction" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="685" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G_Y8ZfDQ-1Hlez-_OqU5-2" target="G_Y8ZfDQ-1Hlez-_OqU5-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="815" />
+              <mxPoint x="760" y="705" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="G_Y8ZfDQ-1Hlez-_OqU5-2" value="&lt;div&gt;Profit % of supplying dept&lt;/div&gt;[loading fraction]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="790" width="100" height="50" as="geometry" />
