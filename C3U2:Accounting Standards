@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T20:30:42.003Z" agent="5.0 (X11)" etag="GSaCmNRbkk-6uXqiqzex" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T20:41:13.362Z" agent="5.0 (X11)" etag="RyTUtd07OK_GdREIi8dF" version="14.6.13" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1897" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -6002,8 +6002,85 @@
         <mxCell id="as542Vii-vcNG0yfowSg-38" value="Objectives: To prescribe the accounting treatment for intangible assets that are not dealt with&lt;br&gt;specifically in another Accounting Standard. AS 26 requires an enterprise to recognise an intangible&lt;br&gt;asset if, and only if, recognition criteria are met. AS 26 also specifies how to measure the carrying&lt;br&gt;amount of intangible assets and requires certain disclosures about intangible assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="8080" y="190" width="600" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-40" target="as542Vii-vcNG0yfowSg-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="as542Vii-vcNG0yfowSg-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 does not apply to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(a) intangible assets held by an enterprise for sale in the ordinary course of business (AS 2 and AS 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) deferred tax assets (AS 22)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) leases that fall within the scope of AS 19&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(d) goodwill arising on an amalgamation (AS 14 (Revised)) and goodwill arising on consolidation (AS 21 (Revised))&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Financial assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. Mineral rights and expenditure on the exploration for, or development and. extraction of, minerals, oil,&lt;br&gt;&lt;div&gt;natural gas and similar non-regenerative resource and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Intangible assets arising in insurance enterprises from contracts with policyholders." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="8160" y="280" width="440" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-42" target="as542Vii-vcNG0yfowSg-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-42" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 applies to&lt;/b&gt;&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- other intangible assets used (such as computer software), and other expenditure(such as start-up costs), in extractive industries or by insurance enterprises. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 also applies to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) expenditure on advertising, training, start - up cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Research and development activities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Right under licensing agreements for items such as motion picture films, video recordings, plays,manuscripts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Patents, copyrights and trademarks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(v) goodwill" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8160" y="610" width="440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-44" target="as542Vii-vcNG0yfowSg-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-44" value="An &lt;u&gt;&lt;b&gt;intangible asset&lt;/b&gt;&lt;/u&gt; is&lt;br&gt;• an identifiable&lt;br&gt;• non-monetary asset&lt;br&gt;• without physical substance&lt;br&gt;• held for use in the production or supply of goods or services, for rental to others, or for administrative purposes." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8275" y="920" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-46" target="as542Vii-vcNG0yfowSg-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-50" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="as542Vii-vcNG0yfowSg-49">
+          <mxGeometry x="0.1788" y="-1" relative="1" as="geometry">
+            <mxPoint x="-14" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-52" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-46" target="as542Vii-vcNG0yfowSg-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Recognition Criteria&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a. It is probable that the future economic benefits that are attributable to the asset will flow to the&lt;br&gt;&lt;div&gt;enterprise;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b. The cost of the asset can be measured reliably." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8275" y="1080" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-48" value="&lt;div&gt;Not a &lt;br&gt;&lt;/div&gt;&lt;div&gt;intangible asset&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8550" y="1135" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-51" value="&lt;div&gt;Measurement of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Initial Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-53" value="Separate Acquisition" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="7930" y="1360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-54" value="Issue of shares or securities" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8190" y="1360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-55" value="Exchange for another asset" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8060" y="1360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-56" value="Acquisition through government grant." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8450" y="1360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-57" value="Internally Generated Goodwill" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8580" y="1360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-58" value="Internally Generated IA (Research &amp;amp; Development Expenses)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8710" y="1360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-59" value="IAs arising from amalgamation (in the nature of purchase)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="1360" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
