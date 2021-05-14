@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T20:28:58.941Z" agent="5.0 (X11)" etag="el0moDjGag2kJ-mkjiBb" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T20:30:42.003Z" agent="5.0 (X11)" etag="GSaCmNRbkk-6uXqiqzex" version="14.6.13" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2328" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1897" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5996,8 +5996,14 @@
         <mxCell id="as542Vii-vcNG0yfowSg-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="7617.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-38" target="as542Vii-vcNG0yfowSg-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="as542Vii-vcNG0yfowSg-38" value="Objectives: To prescribe the accounting treatment for intangible assets that are not dealt with&lt;br&gt;specifically in another Accounting Standard. AS 26 requires an enterprise to recognise an intangible&lt;br&gt;asset if, and only if, recognition criteria are met. AS 26 also specifies how to measure the carrying&lt;br&gt;amount of intangible assets and requires certain disclosures about intangible assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="8080" y="180" width="600" height="80" as="geometry" />
+          <mxGeometry x="8080" y="190" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 does not apply to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(a) intangible assets held by an enterprise for sale in the ordinary course of business (AS 2 and AS 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) deferred tax assets (AS 22)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) leases that fall within the scope of AS 19&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(d) goodwill arising on an amalgamation (AS 14 (Revised)) and goodwill arising on consolidation (AS 21 (Revised))&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Financial assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. Mineral rights and expenditure on the exploration for, or development and. extraction of, minerals, oil,&lt;br&gt;&lt;div&gt;natural gas and similar non-regenerative resource and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Intangible assets arising in insurance enterprises from contracts with policyholders." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="8160" y="280" width="440" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
