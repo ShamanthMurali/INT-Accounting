@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T20:52:35.137Z" agent="5.0 (X11)" etag="kXvpalUd5npONNNXYvtA" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-15T06:00:01.466Z" agent="5.0 (X11)" etag="OGfqUiHcXw4DC9CxzZD3" version="14.6.13" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="7130" dy="4235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2626" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -914,7 +914,7 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 26&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="8320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-54" target="as542Vii-vcNG0yfowSg-38">
+        <mxCell id="as542Vii-vcNG0yfowSg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-54" target="as542Vii-vcNG0yfowSg-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Intangible Assets&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-54">
@@ -1286,7 +1286,7 @@
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-61" target="i7AFofp_1ywYH7Vwrbwp-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-61" target="i7AFofp_1ywYH7Vwrbwp-10" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-61" target="i7AFofp_1ywYH7Vwrbwp-10" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-61" value="&lt;div&gt;Diluted Earnings&lt;/div&gt;&lt;div&gt; Per Share&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0" collapsed="1">
@@ -1319,10 +1319,10 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-67" value="$$\dfrac{\text{Net profit/loss attributable to equity shareholders}}{\text{Weighted average number of equity shares outstanding during the period(WANES)}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5837.5" y="420" width="605" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-5" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-3" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6529" y="520" />
@@ -1330,7 +1330,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-4" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6529" y="520" />
@@ -1338,7 +1338,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-6" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-68" target="as542Vii-vcNG0yfowSg-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6529" y="520" />
@@ -5908,78 +5908,78 @@
         <mxCell id="YIRHEsJyIBneMaAr28Ey-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
           <mxGeometry x="9417.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
           <mxGeometry x="6897.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
           <mxGeometry x="57.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-3" target="as542Vii-vcNG0yfowSg-17" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-3" target="as542Vii-vcNG0yfowSg-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-3" value="Share splitting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-3" value="Share splitting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6800" y="541.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-4" target="as542Vii-vcNG0yfowSg-23" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-4" target="as542Vii-vcNG0yfowSg-23" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-4" value="Reverse splitting or consolidation of shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-4" value="Reverse splitting or consolidation of shares" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6980" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-5" target="as542Vii-vcNG0yfowSg-11" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-5" target="as542Vii-vcNG0yfowSg-11" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-5" value="Bonus issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-5" value="Bonus issue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6539" y="541.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-6" target="as542Vii-vcNG0yfowSg-31" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-6" target="as542Vii-vcNG0yfowSg-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-6" value="Restatement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-6" value="Restatement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="7155" y="541.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-11" target="as542Vii-vcNG0yfowSg-13" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-11" target="as542Vii-vcNG0yfowSg-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-11" value="Wanes =number of shares + issued bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-11" value="Wanes =number of shares + issued bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6479" y="601.5" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-13" target="as542Vii-vcNG0yfowSg-15" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-13" target="as542Vii-vcNG0yfowSg-15" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-13" value="you must also show restated EPS for last year to make it comparable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-13" value="you must also show restated EPS for last year to make it comparable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6519" y="661.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-15" target="as542Vii-vcNG0yfowSg-20" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-15" target="as542Vii-vcNG0yfowSg-20" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6599" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-15" value="wanes for restated EPS&lt;br&gt;&lt;div&gt;Wanes = number of shares last year + issued bonus shares CY&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-15" value="wanes for restated EPS&lt;br&gt;&lt;div&gt;Wanes = number of shares last year + issued bonus shares CY&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6479" y="731.5" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-17" target="as542Vii-vcNG0yfowSg-20" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-17" target="as542Vii-vcNG0yfowSg-20" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-17" value="Same as bonus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-17" value="Same as bonus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6810" y="601.5" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-20" value="&lt;div&gt;e.g.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;FY19&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`eps = (6,00,000)/(1,00,000)=6`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;split 1 share into 5 shares&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;FY20&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;`eps = (8,00,000)/(5,00,000)=1.6`&lt;/div&gt;&lt;div&gt;Restated FY19&lt;/div&gt;&lt;div&gt;`eps = (6,00,000)/(5,00,000)=1.2`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-20" value="&lt;div&gt;e.g.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;FY19&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`eps = (6,00,000)/(1,00,000)=6`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;split 1 share into 5 shares&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;FY20&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;`eps = (8,00,000)/(5,00,000)=1.6`&lt;/div&gt;&lt;div&gt;Restated FY19&lt;/div&gt;&lt;div&gt;`eps = (6,00,000)/(5,00,000)=1.2`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6770" y="640" width="180" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-23" target="as542Vii-vcNG0yfowSg-20" visible="0">
+        <mxCell id="as542Vii-vcNG0yfowSg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-23" target="as542Vii-vcNG0yfowSg-20" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="7040" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-23" value="Same as splitting but reverse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-23" value="Same as splitting but reverse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="6990" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-31" value="i.e use last years Net profit/loss attributable to equity shareholders but this years WANES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-31" value="i.e use last years Net profit/loss attributable to equity shareholders but this years WANES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="7120" y="600" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7AFofp_1ywYH7Vwrbwp-9" value="Diluted EPS" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
@@ -5987,124 +5987,222 @@
             <mxRectangle x="6241.25" y="430" width="560" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-34" value="Diluted EPS will be calculated only if&lt;br&gt;there is a presence of Potential&lt;br&gt;&lt;div&gt;equity shares in the Company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A potential equity share is a financial instrument or other contract that entitles, or may entitle, its&lt;br&gt;holder to get equity shares.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Examples of potential equity shares are:&lt;/u&gt;&lt;br&gt;a. Debt instruments or preference shares, that are convertible into equity shares;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Share warrants;(Share warrants or options are financial instruments that give&lt;/div&gt;&lt;div&gt;the holder the right to acquire equity shares.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Options including employee stock option plans&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. Shares which would be issued upon the satisfaction of certain conditions resulting from&lt;br&gt;contractual arrangements (contingently issuable shares), such as the acquisition of a business or&lt;br&gt;other assets, or shares issuable under a loan contract upon default of payment of principal or&lt;br&gt;interest, if the contract so provides.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i7AFofp_1ywYH7Vwrbwp-9">
+        <mxCell id="as542Vii-vcNG0yfowSg-34" value="Diluted EPS will be calculated only if&lt;br&gt;there is a presence of Potential&lt;br&gt;&lt;div&gt;equity shares in the Company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A potential equity share is a financial instrument or other contract that entitles, or may entitle, its&lt;br&gt;holder to get equity shares.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Examples of potential equity shares are:&lt;/u&gt;&lt;br&gt;a. Debt instruments or preference shares, that are convertible into equity shares;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Share warrants;(Share warrants or options are financial instruments that give&lt;/div&gt;&lt;div&gt;the holder the right to acquire equity shares.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Options including employee stock option plans&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. Shares which would be issued upon the satisfaction of certain conditions resulting from&lt;br&gt;contractual arrangements (contingently issuable shares), such as the acquisition of a business or&lt;br&gt;other assets, or shares issuable under a loan contract upon default of payment of principal or&lt;br&gt;interest, if the contract so provides.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="i7AFofp_1ywYH7Vwrbwp-9" vertex="1">
           <mxGeometry x="-0.25" y="40" width="560.25" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
           <mxGeometry x="6177.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
           <mxGeometry x="7617.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-38" target="as542Vii-vcNG0yfowSg-40">
+        <mxCell id="as542Vii-vcNG0yfowSg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-38" target="as542Vii-vcNG0yfowSg-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-38" value="Objectives: To prescribe the accounting treatment for intangible assets that are not dealt with&lt;br&gt;specifically in another Accounting Standard. AS 26 requires an enterprise to recognise an intangible&lt;br&gt;asset if, and only if, recognition criteria are met. AS 26 also specifies how to measure the carrying&lt;br&gt;amount of intangible assets and requires certain disclosures about intangible assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-38" value="Objectives: To prescribe the accounting treatment for intangible assets that are not dealt with&lt;br&gt;specifically in another Accounting Standard. AS 26 requires an enterprise to recognise an intangible&lt;br&gt;asset if, and only if, recognition criteria are met. AS 26 also specifies how to measure the carrying&lt;br&gt;amount of intangible assets and requires certain disclosures about intangible assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="8080" y="190" width="600" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-40" target="as542Vii-vcNG0yfowSg-42">
+        <mxCell id="as542Vii-vcNG0yfowSg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-40" target="as542Vii-vcNG0yfowSg-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 does not apply to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(a) intangible assets held by an enterprise for sale in the ordinary course of business (AS 2 and AS 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) deferred tax assets (AS 22)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) leases that fall within the scope of AS 19&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(d) goodwill arising on an amalgamation (AS 14 (Revised)) and goodwill arising on consolidation (AS 21 (Revised))&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Financial assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. Mineral rights and expenditure on the exploration for, or development and. extraction of, minerals, oil,&lt;br&gt;&lt;div&gt;natural gas and similar non-regenerative resource and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Intangible assets arising in insurance enterprises from contracts with policyholders." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 does not apply to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(a) intangible assets held by an enterprise for sale in the ordinary course of business (AS 2 and AS 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) deferred tax assets (AS 22)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) leases that fall within the scope of AS 19&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(d) goodwill arising on an amalgamation (AS 14 (Revised)) and goodwill arising on consolidation (AS 21 (Revised))&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Financial assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. Mineral rights and expenditure on the exploration for, or development and. extraction of, minerals, oil,&lt;br&gt;&lt;div&gt;natural gas and similar non-regenerative resource and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Intangible assets arising in insurance enterprises from contracts with policyholders." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8160" y="280" width="440" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-42" target="as542Vii-vcNG0yfowSg-44">
+        <mxCell id="as542Vii-vcNG0yfowSg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-42" target="as542Vii-vcNG0yfowSg-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-42" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 applies to&lt;/b&gt;&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- other intangible assets used (such as computer software), and other expenditure(such as start-up costs), in extractive industries or by insurance enterprises. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 also applies to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) expenditure on advertising, training, start - up cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Research and development activities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Right under licensing agreements for items such as motion picture films, video recordings, plays,manuscripts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Patents, copyrights and trademarks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(v) goodwill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-42" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 applies to&lt;/b&gt;&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- other intangible assets used (such as computer software), and other expenditure(such as start-up costs), in extractive industries or by insurance enterprises. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 also applies to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) expenditure on advertising, training, start - up cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Research and development activities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Right under licensing agreements for items such as motion picture films, video recordings, plays,manuscripts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Patents, copyrights and trademarks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(v) goodwill" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8160" y="610" width="440" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-44" target="as542Vii-vcNG0yfowSg-46">
+        <mxCell id="as542Vii-vcNG0yfowSg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-44" target="as542Vii-vcNG0yfowSg-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-44" value="An &lt;u&gt;&lt;b&gt;intangible asset&lt;/b&gt;&lt;/u&gt; is&lt;br&gt;• an identifiable&lt;br&gt;• non-monetary asset&lt;br&gt;• without physical substance&lt;br&gt;• held for use in the production or supply of goods or services, for rental to others, or for administrative purposes." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-44" value="An &lt;u&gt;&lt;b&gt;intangible asset&lt;/b&gt;&lt;/u&gt; is&lt;br&gt;• an identifiable&lt;br&gt;• non-monetary asset&lt;br&gt;• without physical substance&lt;br&gt;• held for use in the production or supply of goods or services, for rental to others, or for administrative purposes." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8275" y="920" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-46" target="as542Vii-vcNG0yfowSg-48">
+        <mxCell id="as542Vii-vcNG0yfowSg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-46" target="as542Vii-vcNG0yfowSg-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-50" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="as542Vii-vcNG0yfowSg-49">
+        <mxCell id="as542Vii-vcNG0yfowSg-50" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="as542Vii-vcNG0yfowSg-49" vertex="1" connectable="0">
           <mxGeometry x="0.1788" y="-1" relative="1" as="geometry">
             <mxPoint x="-14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-52" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-46" target="as542Vii-vcNG0yfowSg-51">
+        <mxCell id="as542Vii-vcNG0yfowSg-52" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-46" target="as542Vii-vcNG0yfowSg-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Recognition Criteria&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a. It is probable that the future economic benefits that are attributable to the asset will flow to the&lt;br&gt;&lt;div&gt;enterprise;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b. The cost of the asset can be measured reliably." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Recognition Criteria&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a. It is probable that the future economic benefits that are attributable to the asset will flow to the&lt;br&gt;&lt;div&gt;enterprise;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b. The cost of the asset can be measured reliably." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8275" y="1080" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-48" value="&lt;div&gt;Not a &lt;br&gt;&lt;/div&gt;&lt;div&gt;intangible asset&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-48" value="&lt;div&gt;Not a &lt;br&gt;&lt;/div&gt;&lt;div&gt;intangible asset&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8550" y="1135" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-59">
+        <mxCell id="as542Vii-vcNG0yfowSg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-54">
+        <mxCell id="as542Vii-vcNG0yfowSg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-55">
+        <mxCell id="as542Vii-vcNG0yfowSg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-53">
+        <mxCell id="as542Vii-vcNG0yfowSg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-56">
+        <mxCell id="as542Vii-vcNG0yfowSg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-57">
+        <mxCell id="as542Vii-vcNG0yfowSg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-58">
+        <mxCell id="as542Vii-vcNG0yfowSg-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-51" target="as542Vii-vcNG0yfowSg-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-51" value="&lt;div&gt;Measurement of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Initial Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-51" value="&lt;div&gt;Measurement of Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8320" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-53" target="as542Vii-vcNG0yfowSg-68">
+        <mxCell id="as542Vii-vcNG0yfowSg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-53" target="as542Vii-vcNG0yfowSg-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-53" value="Separate Acquisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-53" value="Separate Acquisition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7700" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-54" target="as542Vii-vcNG0yfowSg-72">
+        <mxCell id="as542Vii-vcNG0yfowSg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-54" target="as542Vii-vcNG0yfowSg-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-54" value="Issue of shares or securities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-54" value="Issue of shares or securities" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8185" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-55" target="as542Vii-vcNG0yfowSg-70">
+        <mxCell id="as542Vii-vcNG0yfowSg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-55" target="as542Vii-vcNG0yfowSg-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-55" value="Exchange for another asset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="as542Vii-vcNG0yfowSg-55" value="Exchange for another asset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7940" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-56" value="Acquisition through government grant." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8600" y="1355" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-57" target="as542Vii-vcNG0yfowSg-74">
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-56" target="ZU0tyHilG3FVDsxp7vvo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-57" value="Internally Generated Goodwill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8810" y="1360" width="120" height="40" as="geometry" />
+        <mxCell id="as542Vii-vcNG0yfowSg-56" value="Acquisition through government grant." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8680" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-58" value="Internally Generated IA (Research &amp;amp; Development Expenses)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9080" y="1355" width="120" height="80" as="geometry" />
+        <mxCell id="as542Vii-vcNG0yfowSg-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-57" target="as542Vii-vcNG0yfowSg-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-59" value="IAs arising from amalgamation (in the nature of purchase)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8440" y="1360" width="120" height="50" as="geometry" />
+        <mxCell id="as542Vii-vcNG0yfowSg-57" value="Internally Generated Goodwill" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8910" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-68" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Purchase price &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Non Refundable tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Direct Expense &lt;br&gt;&lt;/div&gt;&lt;div&gt;(-) Trade Discount and Rebates&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7660" y="1420" width="200" height="80" as="geometry" />
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-58" target="ZU0tyHilG3FVDsxp7vvo-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-70" value="&lt;div&gt;if Fair value and commercial substance is &lt;u&gt;&lt;b&gt;Available &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = Fair value of the asset&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if Fair value and commercial substance is&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;not available&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = book value of asset + boot money(goodwill)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7880" y="1420" width="240" height="160" as="geometry" />
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-58" target="ZU0tyHilG3FVDsxp7vvo-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-72" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;fair value of the asset&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;the fair value of the securities issued, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;whichever is more clearly evident.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8140" y="1420" width="210" height="100" as="geometry" />
+        <mxCell id="as542Vii-vcNG0yfowSg-58" value="Internally Generated IA (Research &amp;amp; Development Expenses)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="9210" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-74" value="&lt;div&gt;Internally generated goodwill is &lt;u&gt;&lt;b&gt;not recognised&lt;/b&gt;&lt;/u&gt; as an asset because &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-it is not an identifiable resource&lt;/div&gt;&lt;div&gt;controlled by the enterprise&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-that cannot be measured reliably&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8765" y="1420" width="210" height="120" as="geometry" />
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-59" target="ZU0tyHilG3FVDsxp7vvo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-59" value="IAs arising from amalgamation (in the nature of purchase)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8430" y="1360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-68" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7760" y="2000" />
+              <mxPoint x="8620" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-68" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Purchase price &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Non Refundable tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Direct Expense &lt;br&gt;&lt;/div&gt;&lt;div&gt;(-) Trade Discount and Rebates&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="7660" y="1435" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-70" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8000" y="1960" />
+              <mxPoint x="8620" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-70" value="&lt;div&gt;if Fair value and commercial substance is &lt;u&gt;&lt;b&gt;Available &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = Fair value of the asset&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if Fair value and commercial substance is&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;not available&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = book value of asset + boot money(goodwill)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="7880" y="1435" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-72" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8245" y="1920" />
+              <mxPoint x="8620" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-72" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;fair value of the asset&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;the fair value of the securities issued, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;whichever is more clearly evident.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8140" y="1435" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="as542Vii-vcNG0yfowSg-74" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8970" y="1920" />
+              <mxPoint x="8620" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as542Vii-vcNG0yfowSg-74" value="&lt;div&gt;Internally generated goodwill is &lt;u&gt;&lt;b&gt;not recognised&lt;/b&gt;&lt;/u&gt; as an asset because &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-it is not an identifiable resource&lt;/div&gt;&lt;div&gt;controlled by the enterprise&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-that cannot be measured reliably&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8865" y="1435" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-1" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-1" value="&lt;div&gt;if &lt;u&gt;&lt;b&gt;FV of the IA is known&lt;/b&gt;&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;- &lt;u&gt;&lt;b&gt;record at fair value&lt;/b&gt;&lt;/u&gt; and capital reserve can be increased&lt;/div&gt;&lt;div&gt;e.g. FV of IA =15&lt;/div&gt;&lt;div&gt;net asset taken over = 65 (50+15)&lt;/div&gt;&lt;div&gt;Purchase consideration = 40&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, capital reserve = 25&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if &lt;u&gt;&lt;b&gt;FV of IA is not known&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Cost of IA &amp;lt;= to Good will&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;e.g.net assets taken over = 50&lt;/div&gt;&lt;div&gt;purchase consideration = 60&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, goodwill = 10&lt;/div&gt;&lt;div&gt;cost of IA can be 10 or less than 10 but not greater&lt;/div&gt;&lt;div&gt;(no new CR will be created)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8370" y="1435" width="240" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-3" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8740" y="1880" />
+              <mxPoint x="8620" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-3" value="&lt;div&gt;Received IA as a govt. grant&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;b&gt;free of charge&lt;/b&gt;&lt;/div&gt;&lt;div&gt;cost = nil + e&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;nominal consideration&lt;/b&gt;&lt;/div&gt;&lt;div&gt;cost = nominal consideration + e&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e=expenditure that is directly attributable to making the asset ready for its intended use)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8635" y="1435" width="210" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-5" target="ZU0tyHilG3FVDsxp7vvo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-5" value="Research Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9100" y="1480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-6" target="ZU0tyHilG3FVDsxp7vvo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-6" value="Development Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9320" y="1480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-7" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9160" y="1960" />
+              <mxPoint x="8620" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-7" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;(Expense)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9100" y="1547.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-9" target="ZU0tyHilG3FVDsxp7vvo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9380" y="2000" />
+              <mxPoint x="8620" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;should be recognised if, and only if:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. The technical feasibility of completing the intangible asset so that it will be available for use or sale.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Its intention to complete the intangible asset and use or sell it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Its ability to use or sell the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. How the intangible asset will generate probable future economic benefits. Among other things, the&lt;br&gt;enterprise should demonstrate the existence of a market for the output of the intangible asset or the&lt;br&gt;&lt;div&gt;intangible asset itself or, if it is to be used internally, the usefulness of the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. The availability of adequate technical, financial and other resources to complete the development and to use or sell the intangible asset&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;f. Its ability to measure the expenditure attributable to the intangible asset during its development&lt;br&gt;reliably." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9240" y="1547.5" width="280" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-14" value="Subsequent Expenditure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8560" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
