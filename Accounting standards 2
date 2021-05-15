@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T06:37:03.350Z" agent="5.0 (X11)" etag="jH5sgKxNi7OkmyAV0k_o" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-15T06:38:35.551Z" agent="5.0 (X11)" etag="hZn8X_wnuoVGiGBL_7UG" version="14.6.13" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="-908" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2154" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,11 +233,11 @@
         <mxCell id="O7AqYeLRrYLJZ_qffe9R-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 26&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="8320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-70" target="O7AqYeLRrYLJZ_qffe9R-275">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-70" target="O7AqYeLRrYLJZ_qffe9R-275">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Intangible Assets&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="O7AqYeLRrYLJZ_qffe9R-70">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="8220" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -914,31 +914,31 @@
         <mxCell id="O7AqYeLRrYLJZ_qffe9R-273" value="A contingent asset is a possible asset that arises from past events, the existence of which will be &lt;br&gt;confirmed only by the occurrence or non-occurrence of 1 or more uncertain future events not. &lt;br&gt;wholly within the control of the enterprise&lt;br&gt;&lt;br&gt;&lt;div&gt;An enterprise &lt;b&gt;&lt;u&gt;should not recognize a contingent asset&lt;/u&gt;&lt;/b&gt;. Where an inflow of economic benefits is&amp;nbsp;&lt;/div&gt;&lt;div&gt;probable, the contingent asset is usually disclosed in the Directors Report &amp;amp; not in the financial&amp;nbsp;&lt;/div&gt;&lt;div&gt;statements. Contingent assets are assessed continually &amp;amp; if it has become virtually certain that an&amp;nbsp;&lt;/div&gt;&lt;div&gt;inflow of economic benefits will arise, the asset &amp;amp; the related income are recognised in the financial&amp;nbsp;&lt;/div&gt;&lt;div&gt;statements of the period in which the change occurs.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="9190" y="680" width="540" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-275" target="O7AqYeLRrYLJZ_qffe9R-277">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-275" target="O7AqYeLRrYLJZ_qffe9R-277">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-275" value="Objectives: To prescribe the accounting treatment for intangible assets that are not dealt with&lt;br&gt;specifically in another Accounting Standard. AS 26 requires an enterprise to recognise an intangible&lt;br&gt;asset if, and only if, recognition criteria are met. AS 26 also specifies how to measure the carrying&lt;br&gt;amount of intangible assets and requires certain disclosures about intangible assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-275" value="Objectives: To prescribe the accounting treatment for intangible assets that are not dealt with&lt;br&gt;specifically in another Accounting Standard. AS 26 requires an enterprise to recognise an intangible&lt;br&gt;asset if, and only if, recognition criteria are met. AS 26 also specifies how to measure the carrying&lt;br&gt;amount of intangible assets and requires certain disclosures about intangible assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8080" y="190" width="600" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-277" target="O7AqYeLRrYLJZ_qffe9R-279">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-277" target="O7AqYeLRrYLJZ_qffe9R-279">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-277" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 does not apply to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(a) intangible assets held by an enterprise for sale in the ordinary course of business (AS 2 and AS 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) deferred tax assets (AS 22)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) leases that fall within the scope of AS 19&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(d) goodwill arising on an amalgamation (AS 14 (Revised)) and goodwill arising on consolidation (AS 21 (Revised))&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Financial assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. Mineral rights and expenditure on the exploration for, or development and. extraction of, minerals, oil,&lt;br&gt;&lt;div&gt;natural gas and similar non-regenerative resource and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Intangible assets arising in insurance enterprises from contracts with policyholders." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-277" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 does not apply to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(a) intangible assets held by an enterprise for sale in the ordinary course of business (AS 2 and AS 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) deferred tax assets (AS 22)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) leases that fall within the scope of AS 19&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(d) goodwill arising on an amalgamation (AS 14 (Revised)) and goodwill arising on consolidation (AS 21 (Revised))&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Financial assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c. Mineral rights and expenditure on the exploration for, or development and. extraction of, minerals, oil,&lt;br&gt;&lt;div&gt;natural gas and similar non-regenerative resource and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Intangible assets arising in insurance enterprises from contracts with policyholders." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8160" y="280" width="440" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-279" target="O7AqYeLRrYLJZ_qffe9R-281">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-279" target="O7AqYeLRrYLJZ_qffe9R-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-279" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 applies to&lt;/b&gt;&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- other intangible assets used (such as computer software), and other expenditure(such as start-up costs), in extractive industries or by insurance enterprises. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 also applies to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) expenditure on advertising, training, start - up cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Research and development activities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Right under licensing agreements for items such as motion picture films, video recordings, plays,manuscripts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Patents, copyrights and trademarks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(v) goodwill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-279" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 applies to&lt;/b&gt;&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- other intangible assets used (such as computer software), and other expenditure(such as start-up costs), in extractive industries or by insurance enterprises. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;AS 26 also applies to:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) expenditure on advertising, training, start - up cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Research and development activities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Right under licensing agreements for items such as motion picture films, video recordings, plays,manuscripts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Patents, copyrights and trademarks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(v) goodwill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8160" y="610" width="440" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-281" target="O7AqYeLRrYLJZ_qffe9R-285">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-281" target="O7AqYeLRrYLJZ_qffe9R-285">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-281" value="An &lt;u&gt;&lt;b&gt;intangible asset&lt;/b&gt;&lt;/u&gt; is&lt;br&gt;• an identifiable&lt;br&gt;• non-monetary asset&lt;br&gt;• without physical substance&lt;br&gt;• held for use in the production or supply of goods or services, for rental to others, or for administrative purposes." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-281" value="An &lt;u&gt;&lt;b&gt;intangible asset&lt;/b&gt;&lt;/u&gt; is&lt;br&gt;• an identifiable&lt;br&gt;• non-monetary asset&lt;br&gt;• without physical substance&lt;br&gt;• held for use in the production or supply of goods or services, for rental to others, or for administrative purposes." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8275" y="920" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-285" target="O7AqYeLRrYLJZ_qffe9R-286">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-285" target="O7AqYeLRrYLJZ_qffe9R-286">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O7AqYeLRrYLJZ_qffe9R-283" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O7AqYeLRrYLJZ_qffe9R-282">
@@ -946,85 +946,85 @@
             <mxPoint x="-14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-284" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-285" target="O7AqYeLRrYLJZ_qffe9R-294">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-284" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-285" target="O7AqYeLRrYLJZ_qffe9R-294">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-285" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Recognition Criteria&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a. It is probable that the future economic benefits that are attributable to the asset will flow to the&lt;br&gt;&lt;div&gt;enterprise;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b. The cost of the asset can be measured reliably." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-285" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Recognition Criteria&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;a. It is probable that the future economic benefits that are attributable to the asset will flow to the&lt;br&gt;&lt;div&gt;enterprise;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b. The cost of the asset can be measured reliably." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8275" y="1080" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-286" value="&lt;div&gt;Not a &lt;br&gt;&lt;/div&gt;&lt;div&gt;intangible asset&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-286" value="&lt;div&gt;Not a &lt;br&gt;&lt;/div&gt;&lt;div&gt;intangible asset&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8550" y="1135" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-309">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-309">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-298">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-298">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-300">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-300">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-296">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-296">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-302">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-302">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-304">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-304">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-307">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-294" target="O7AqYeLRrYLJZ_qffe9R-307">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-294" value="&lt;div&gt;Measurement of Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-294" value="&lt;div&gt;Measurement of Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8320" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-296" target="O7AqYeLRrYLJZ_qffe9R-311">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-296" target="O7AqYeLRrYLJZ_qffe9R-311">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-296" value="Separate Acquisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-296" value="Separate Acquisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7700" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-298" target="O7AqYeLRrYLJZ_qffe9R-315">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-298" target="O7AqYeLRrYLJZ_qffe9R-315">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-298" value="Issue of shares or securities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-298" value="Issue of shares or securities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8185" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-300" target="O7AqYeLRrYLJZ_qffe9R-313">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-300" target="O7AqYeLRrYLJZ_qffe9R-313">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-300" value="Exchange for another asset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-300" value="Exchange for another asset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7940" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-302" target="O7AqYeLRrYLJZ_qffe9R-321">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-302" target="O7AqYeLRrYLJZ_qffe9R-321">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-302" value="Acquisition through government grant." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-302" value="Acquisition through government grant." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8680" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-304" target="O7AqYeLRrYLJZ_qffe9R-317">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-304" target="O7AqYeLRrYLJZ_qffe9R-317">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-304" value="Internally Generated Goodwill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-304" value="Internally Generated Goodwill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8910" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-307" target="O7AqYeLRrYLJZ_qffe9R-323">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-307" target="O7AqYeLRrYLJZ_qffe9R-323">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-307" target="O7AqYeLRrYLJZ_qffe9R-325">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-307" target="O7AqYeLRrYLJZ_qffe9R-325">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-307" value="Internally Generated IA (Research &amp;amp; Development Expenses)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-307" value="Internally Generated IA (Research &amp;amp; Development Expenses)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9210" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-309" target="O7AqYeLRrYLJZ_qffe9R-319">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-309" target="O7AqYeLRrYLJZ_qffe9R-319">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-309" value="IAs arising from amalgamation (in the nature of purchase)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-309" value="IAs arising from amalgamation (in the nature of purchase)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8430" y="1360" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-310" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-311" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-310" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-311" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="7760" y="2000" />
@@ -1032,10 +1032,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-311" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Purchase price &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Non Refundable tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Direct Expense &lt;br&gt;&lt;/div&gt;&lt;div&gt;(-) Trade Discount and Rebates&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-311" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;Purchase price &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Non Refundable tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;(+) Direct Expense &lt;br&gt;&lt;/div&gt;&lt;div&gt;(-) Trade Discount and Rebates&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7660" y="1435" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-312" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-313" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-312" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-313" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8000" y="1960" />
@@ -1043,10 +1043,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-313" value="&lt;div&gt;if Fair value and commercial substance is &lt;u&gt;&lt;b&gt;Available &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = Fair value of the asset&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if Fair value and commercial substance is&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;not available&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = book value of asset + boot money(goodwill)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-313" value="&lt;div&gt;if Fair value and commercial substance is &lt;u&gt;&lt;b&gt;Available &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = Fair value of the asset&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if Fair value and commercial substance is&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;not available&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;cost = book value of asset + boot money(goodwill)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7880" y="1435" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-314" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-315" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-314" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-315" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8245" y="1920" />
@@ -1054,10 +1054,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-315" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;fair value of the asset&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;the fair value of the securities issued, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;whichever is more clearly evident.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-315" value="&lt;div&gt;Cost = &lt;br&gt;&lt;/div&gt;&lt;div&gt;fair value of the asset&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;the fair value of the securities issued, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;whichever is more clearly evident.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8140" y="1435" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-316" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-317" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-316" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-317" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8970" y="1920" />
@@ -1065,16 +1065,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-317" value="&lt;div&gt;Internally generated goodwill is &lt;u&gt;&lt;b&gt;not recognised&lt;/b&gt;&lt;/u&gt; as an asset because &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-it is not an identifiable resource&lt;/div&gt;&lt;div&gt;controlled by the enterprise&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-that cannot be measured reliably&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-317" value="&lt;div&gt;Internally generated goodwill is &lt;u&gt;&lt;b&gt;not recognised&lt;/b&gt;&lt;/u&gt; as an asset because &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-it is not an identifiable resource&lt;/div&gt;&lt;div&gt;controlled by the enterprise&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-that cannot be measured reliably&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8865" y="1435" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-318" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-319" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-318" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-319" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-319" value="&lt;div&gt;if &lt;u&gt;&lt;b&gt;FV of the IA is known&lt;/b&gt;&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;- &lt;u&gt;&lt;b&gt;record at fair value&lt;/b&gt;&lt;/u&gt; and capital reserve can be increased&lt;/div&gt;&lt;div&gt;e.g. FV of IA =15&lt;/div&gt;&lt;div&gt;net asset taken over = 65 (50+15)&lt;/div&gt;&lt;div&gt;Purchase consideration = 40&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, capital reserve = 25&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if &lt;u&gt;&lt;b&gt;FV of IA is not known&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Cost of IA &amp;lt;= to Good will&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;e.g.net assets taken over = 50&lt;/div&gt;&lt;div&gt;purchase consideration = 60&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, goodwill = 10&lt;/div&gt;&lt;div&gt;cost of IA can be 10 or less than 10 but not greater&lt;/div&gt;&lt;div&gt;(no new CR will be created)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-319" value="&lt;div&gt;if &lt;u&gt;&lt;b&gt;FV of the IA is known&lt;/b&gt;&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;- &lt;u&gt;&lt;b&gt;record at fair value&lt;/b&gt;&lt;/u&gt; and capital reserve can be increased&lt;/div&gt;&lt;div&gt;e.g. FV of IA =15&lt;/div&gt;&lt;div&gt;net asset taken over = 65 (50+15)&lt;/div&gt;&lt;div&gt;Purchase consideration = 40&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, capital reserve = 25&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if &lt;u&gt;&lt;b&gt;FV of IA is not known&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Cost of IA &amp;lt;= to Good will&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;e.g.net assets taken over = 50&lt;/div&gt;&lt;div&gt;purchase consideration = 60&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;therefore, goodwill = 10&lt;/div&gt;&lt;div&gt;cost of IA can be 10 or less than 10 but not greater&lt;/div&gt;&lt;div&gt;(no new CR will be created)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8370" y="1435" width="240" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-320" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-321" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-320" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-321" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8740" y="1880" />
@@ -1082,22 +1082,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-321" value="&lt;div&gt;Received IA as a govt. grant&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;b&gt;free of charge&lt;/b&gt;&lt;/div&gt;&lt;div&gt;cost = nil + e&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;nominal consideration&lt;/b&gt;&lt;/div&gt;&lt;div&gt;cost = nominal consideration + e&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e=expenditure that is directly attributable to making the asset ready for its intended use)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-321" value="&lt;div&gt;Received IA as a govt. grant&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;b&gt;free of charge&lt;/b&gt;&lt;/div&gt;&lt;div&gt;cost = nil + e&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;nominal consideration&lt;/b&gt;&lt;/div&gt;&lt;div&gt;cost = nominal consideration + e&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e=expenditure that is directly attributable to making the asset ready for its intended use)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8635" y="1435" width="210" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-323" target="O7AqYeLRrYLJZ_qffe9R-327">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-323" target="O7AqYeLRrYLJZ_qffe9R-327">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-323" value="Research Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-323" value="Research Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9100" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-325" target="O7AqYeLRrYLJZ_qffe9R-329">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-325" target="O7AqYeLRrYLJZ_qffe9R-329">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-325" value="Development Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-325" value="Development Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9320" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-326" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-327" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-326" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-327" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="9160" y="1960" />
@@ -1105,10 +1105,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-327" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;(Expense)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-327" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;(Expense)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9100" y="1547.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-328" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-329" target="O7AqYeLRrYLJZ_qffe9R-331">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-328" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-329" target="O7AqYeLRrYLJZ_qffe9R-331">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="9380" y="2000" />
@@ -1116,29 +1116,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-329" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;should be recognised if, and only if:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. The technical feasibility of completing the intangible asset so that it will be available for use or sale.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Its intention to complete the intangible asset and use or sell it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Its ability to use or sell the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. How the intangible asset will generate probable future economic benefits. Among other things, the&lt;br&gt;enterprise should demonstrate the existence of a market for the output of the intangible asset or the&lt;br&gt;&lt;div&gt;intangible asset itself or, if it is to be used internally, the usefulness of the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. The availability of adequate technical, financial and other resources to complete the development and to use or sell the intangible asset&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;f. Its ability to measure the expenditure attributable to the intangible asset during its development&lt;br&gt;reliably." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-329" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;should be recognised if, and only if:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. The technical feasibility of completing the intangible asset so that it will be available for use or sale.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Its intention to complete the intangible asset and use or sell it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Its ability to use or sell the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. How the intangible asset will generate probable future economic benefits. Among other things, the&lt;br&gt;enterprise should demonstrate the existence of a market for the output of the intangible asset or the&lt;br&gt;&lt;div&gt;intangible asset itself or, if it is to be used internally, the usefulness of the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. The availability of adequate technical, financial and other resources to complete the development and to use or sell the intangible asset&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;f. Its ability to measure the expenditure attributable to the intangible asset during its development&lt;br&gt;reliably." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9240" y="1547.5" width="280" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-330" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-331" target="O7AqYeLRrYLJZ_qffe9R-334">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-330" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-331" target="O7AqYeLRrYLJZ_qffe9R-334">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-331" value="Subsequent Expenditure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-331" value="Subsequent Expenditure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8560" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-332" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-334" target="O7AqYeLRrYLJZ_qffe9R-336">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-332" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-334" target="O7AqYeLRrYLJZ_qffe9R-336">
           <mxGeometry x="0.1763" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-333" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-334" target="O7AqYeLRrYLJZ_qffe9R-338">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-333" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-334" target="O7AqYeLRrYLJZ_qffe9R-338">
           <mxGeometry x="0.1252" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-334" value="&lt;div&gt;IF&lt;/div&gt;&lt;div&gt;a. It is probable that the expenditure will enable the asset to generate future economic benefits in&lt;br&gt;excess of its originally assessed standard of performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. The expenditure can be measured and attributed to the asset reliably.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-334" value="&lt;div&gt;IF&lt;/div&gt;&lt;div&gt;a. It is probable that the expenditure will enable the asset to generate future economic benefits in&lt;br&gt;excess of its originally assessed standard of performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. The expenditure can be measured and attributed to the asset reliably.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8470" y="2100" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-335" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-336" target="O7AqYeLRrYLJZ_qffe9R-340">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-335" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-336" target="O7AqYeLRrYLJZ_qffe9R-340">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8390" y="2360" />
@@ -1146,10 +1146,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-336" value="subsequent expenditure should be added to the cost of the intangible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-336" value="subsequent expenditure should be added to the cost of the intangible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8320" y="2260" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-337" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-338" target="O7AqYeLRrYLJZ_qffe9R-340">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-337" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-338" target="O7AqYeLRrYLJZ_qffe9R-340">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8840" y="2360" />
@@ -1157,50 +1157,53 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-338" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;(expense)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-338" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;(expense)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8780" y="2260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-339" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-340" target="O7AqYeLRrYLJZ_qffe9R-342">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-339" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-340" target="O7AqYeLRrYLJZ_qffe9R-342">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-340" value="Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-340" value="Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8560" y="2400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-341" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-342" target="O7AqYeLRrYLJZ_qffe9R-344">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-341" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-342" target="O7AqYeLRrYLJZ_qffe9R-344">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-342" value="&lt;div&gt;Amortization is depreciation for IA. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;allocated on a systematic basis over&lt;br&gt;the best estimate of its useful life.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/u&gt;=commence when the asset is available for use&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Useful life&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- if known then that or&lt;/div&gt;&lt;div&gt;-AS 26 adopts a presumption that the useful life of intangible assets is unlikely to exceed ten years.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Method&lt;/b&gt;&lt;/u&gt;&lt;br&gt;SLM, WDV, or on the basis of expected future economic benefits.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-342" value="&lt;div&gt;Amortization is depreciation for IA. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;allocated on a systematic basis over&lt;br&gt;the best estimate of its useful life.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/u&gt;=commence when the asset is available for use&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Useful life&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- if known then that or&lt;/div&gt;&lt;div&gt;-AS 26 adopts a presumption that the useful life of intangible assets is unlikely to exceed ten years.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Method&lt;/b&gt;&lt;/u&gt;&lt;br&gt;SLM, WDV, or on the basis of expected future economic benefits.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="8480" y="2460" width="280" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-343" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-344" target="O7AqYeLRrYLJZ_qffe9R-346">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-343" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-344" target="O7AqYeLRrYLJZ_qffe9R-346">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-344" value="Review of Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-344" value="Review of Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8560" y="2730" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-345" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-346" target="O7AqYeLRrYLJZ_qffe9R-348">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-345" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-346" target="O7AqYeLRrYLJZ_qffe9R-348">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-346" value="amortisation period and the amortisation method should be reviewed at least at each financial year&lt;br&gt;&lt;div&gt;end.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the expected useful life/pattern of economic benefits of the asset is significantly different from previous estimates. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it should be changed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Such changes should be accounted for in accordance with AS 5.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-346" value="amortisation period and the amortisation method should be reviewed at least at each financial year&lt;br&gt;&lt;div&gt;end.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the expected useful life/pattern of economic benefits of the asset is significantly different from previous estimates. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it should be changed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Such changes should be accounted for in accordance with AS 5.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="8480" y="2790" width="280" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-348" target="O7AqYeLRrYLJZ_qffe9R-350">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-348" target="O7AqYeLRrYLJZ_qffe9R-350">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-348" value="Review of Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-348" value="Review of Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8560" y="3020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="O7AqYeLRrYLJZ_qffe9R-350" target="O7AqYeLRrYLJZ_qffe9R-351">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-350" target="O7AqYeLRrYLJZ_qffe9R-351">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-350" value="An intangible asset should be derecognised (eliminated from the balance sheet) if&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• disposed or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• when no future economic benefits are expected from its use and subsequent disposal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Difference = dr to P/L&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-350" value="An intangible asset should be derecognised (eliminated from the balance sheet) if&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• disposed or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• when no future economic benefits are expected from its use and subsequent disposal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Difference = dr to P/L&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="8480" y="3080" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-351" value="Disclosure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-1164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-351" target="O7AqYeLRrYLJZ_qffe9R-352">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-351" value="Disclosure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8560" y="3250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-352" value="1. The useful lives or the amortisation rates used.&lt;br&gt;2. The amortisation methods used.&lt;br&gt;3. The gross carrying amount and the accumulated amortisation (aggregated with accumulated&lt;br&gt;impairment losses) at the beginning and end of the period.&lt;br&gt;4. A reconciliation of the carrying amount at the beginning and end of the period showing:&lt;br&gt;I. Additions, indicating separately those from internal development and through amalgamation.&lt;br&gt;II. Retirements and disposals.&lt;br&gt;III. Impairment losses recognised in the statement of profit and loss during the period.&lt;br&gt;IV. Impairment losses reversed in the statement of profit and loss during the period.&lt;br&gt;V. Amortisation recognised during the period and&lt;br&gt;VI Other changes in the carrying amount during the period.&lt;br&gt;5. If an intangible asset is amortised over more than ten years, the reasons why it is presumed that the&lt;br&gt;useful life of an intangible asset will exceed ten years from the date when the asset is available for&lt;br&gt;use." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8440" y="3320" width="360" height="160" as="geometry" />
+        <mxCell id="O7AqYeLRrYLJZ_qffe9R-352" value="&lt;div&gt;1. The useful lives or the amortisation rates used.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The amortisation methods used.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. The gross carrying amount and the accumulated amortisation (aggregated with accumulated&lt;br&gt;&lt;div&gt;impairment losses) at the beginning and end of the period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4. A reconciliation of the carrying amount at the beginning and end of the period showing:&lt;br&gt;I. Additions, indicating separately those from internal development and through amalgamation.&lt;br&gt;II. Retirements and disposals.&lt;br&gt;III. Impairment losses recognised in the statement of profit and loss during the period.&lt;br&gt;IV. Impairment losses reversed in the statement of profit and loss during the period.&lt;br&gt;V. Amortisation recognised during the period and&lt;br&gt;&lt;div&gt;VI Other changes in the carrying amount during the period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. If an intangible asset is amortised over more than ten years, the reasons why it is presumed that the&lt;br&gt;useful life of an intangible asset will exceed ten years from the date when the asset is available for&lt;br&gt;use." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8350" y="3310" width="540" height="290" as="geometry" />
         </mxCell>
         <mxCell id="O7AqYeLRrYLJZ_qffe9R-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7AqYeLRrYLJZ_qffe9R-354" target="O7AqYeLRrYLJZ_qffe9R-356">
           <mxGeometry relative="1" as="geometry">
