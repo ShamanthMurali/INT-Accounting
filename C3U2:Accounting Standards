@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T06:03:21.699Z" agent="5.0 (X11)" etag="JqRqmUFmcrJKqSHW25Ee" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-15T06:16:09.917Z" agent="5.0 (X11)" etag="aR57ZXXtUlzCjm7l1JTc" version="14.6.13" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="4993" dy="3190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2922" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3303,24 +3303,6 @@
         <mxCell id="pOvbG-Agsa79kmMgz8py-174" value="you sold the asset at a loss. but the rent you have agreed to pay is less than the market price for such rent." style="rounded=0;whiteSpace=wrap;html=1;" parent="pOvbG-Agsa79kmMgz8py-171" vertex="1">
           <mxGeometry x="0.75" y="42.5" width="249.25" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="-662.5" y="-120" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="777.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="417.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="5817.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="2937.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="iLACrTjWYaNHQRIljx-X-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="4737.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-1" target="mqCEWKj17Au6U75BQScQ-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3595,9 +3577,6 @@
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-91" value="The standard deals with the principal issue with respect to accounting for foreign operations and foreign currency transactions in deciding which exchange rate to be used and a guidance on recognizing the financial effect of changes in exchange rates in the financial statements. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2805" y="210" width="350" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mqCEWKj17Au6U75BQScQ-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="3297.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mqCEWKj17Au6U75BQScQ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mqCEWKj17Au6U75BQScQ-96" target="mqCEWKj17Au6U75BQScQ-98" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -4389,9 +4368,6 @@
         <mxCell id="AsyacBQFKjcLMjCf_pFS-92" value="&lt;div&gt;(a)The effective date of the revaluation;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Whether an independent valuer was involved;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The methods and significant assumptions applied in estimating fair values of the items;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)The&amp;nbsp; extent&amp;nbsp; to&amp;nbsp; which&amp;nbsp; fair&amp;nbsp; values&amp;nbsp; of&amp;nbsp; the&amp;nbsp; items&amp;nbsp; were&amp;nbsp; determined&amp;nbsp; directly&amp;nbsp; by reference&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; observable&amp;nbsp;&amp;nbsp; prices&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; active&amp;nbsp;&amp;nbsp; market&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; recent&amp;nbsp;&amp;nbsp; market transactions on arm’s length terms or were estimated using other valuation techniques; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The&amp;nbsp; revaluation&amp;nbsp; surplus,&amp;nbsp; indicating&amp;nbsp; the&amp;nbsp; change&amp;nbsp; for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; and&amp;nbsp; any restrictions on the distribution of the balance to shareholders.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3350" y="900" width="480" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="AsyacBQFKjcLMjCf_pFS-94" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="2580" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="Ln59aV-OFLYjMNqGV-8C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ln59aV-OFLYjMNqGV-8C-1" target="Ln59aV-OFLYjMNqGV-8C-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4909,9 +4885,6 @@
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-222" value="&lt;b&gt;Related parties&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5430" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLgTNpdpPaJ2b0qCUW8V-227" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="5457.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="lLgTNpdpPaJ2b0qCUW8V-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLgTNpdpPaJ2b0qCUW8V-228" target="lLgTNpdpPaJ2b0qCUW8V-230" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -5241,9 +5214,6 @@
         </mxCell>
         <mxCell id="1lotJMi-5iSFe4wsB69X-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(;( yes you have to apply this condition again on the the segents) &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If a business seg&#39;s&amp;nbsp; external&amp;nbsp; sales&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; external&amp;nbsp; revenue&amp;nbsp; or&amp;nbsp; Business&amp;nbsp; segment assets&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; assets&amp;nbsp; of&amp;nbsp; all&amp;nbsp; business&amp;nbsp; segs,&amp;nbsp; then&amp;nbsp; disclose&amp;nbsp; for&amp;nbsp; those business segments:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="5422" y="2660" width="318" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="1lotJMi-5iSFe4wsB69X-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="5097.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VqcVQYAzMIpbbvkTNwNH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1lotJMi-5iSFe4wsB69X-29" target="VqcVQYAzMIpbbvkTNwNH-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -5905,15 +5875,6 @@
         <mxCell id="YIRHEsJyIBneMaAr28Ey-51" value="A contingent asset is a possible asset that arises from past events, the existence of which will be &lt;br&gt;confirmed only by the occurrence or non-occurrence of 1 or more uncertain future events not. &lt;br&gt;wholly within the control of the enterprise&lt;br&gt;&lt;br&gt;&lt;div&gt;An enterprise &lt;b&gt;&lt;u&gt;should not recognize a contingent asset&lt;/u&gt;&lt;/b&gt;. Where an inflow of economic benefits is&amp;nbsp;&lt;/div&gt;&lt;div&gt;probable, the contingent asset is usually disclosed in the Directors Report &amp;amp; not in the financial&amp;nbsp;&lt;/div&gt;&lt;div&gt;statements. Contingent assets are assessed continually &amp;amp; if it has become virtually certain that an&amp;nbsp;&lt;/div&gt;&lt;div&gt;inflow of economic benefits will arise, the asset &amp;amp; the related income are recognised in the financial&amp;nbsp;&lt;/div&gt;&lt;div&gt;statements of the period in which the change occurs.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="9190" y="680" width="540" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YIRHEsJyIBneMaAr28Ey-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="9417.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="6897.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="57.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="as542Vii-vcNG0yfowSg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-3" target="as542Vii-vcNG0yfowSg-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -5989,12 +5950,6 @@
         </mxCell>
         <mxCell id="as542Vii-vcNG0yfowSg-34" value="Diluted EPS will be calculated only if&lt;br&gt;there is a presence of Potential&lt;br&gt;&lt;div&gt;equity shares in the Company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A potential equity share is a financial instrument or other contract that entitles, or may entitle, its&lt;br&gt;holder to get equity shares.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Examples of potential equity shares are:&lt;/u&gt;&lt;br&gt;a. Debt instruments or preference shares, that are convertible into equity shares;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Share warrants;(Share warrants or options are financial instruments that give&lt;/div&gt;&lt;div&gt;the holder the right to acquire equity shares.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Options including employee stock option plans&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. Shares which would be issued upon the satisfaction of certain conditions resulting from&lt;br&gt;contractual arrangements (contingently issuable shares), such as the acquisition of a business or&lt;br&gt;other assets, or shares issuable under a loan contract upon default of payment of principal or&lt;br&gt;interest, if the contract so provides.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="i7AFofp_1ywYH7Vwrbwp-9" vertex="1">
           <mxGeometry x="-0.25" y="40" width="560.25" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="6177.5" y="-110" width="85" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="as542Vii-vcNG0yfowSg-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;" parent="1" vertex="1">
-          <mxGeometry x="7617.5" y="-110" width="85" height="100" as="geometry" />
         </mxCell>
         <mxCell id="as542Vii-vcNG0yfowSg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="as542Vii-vcNG0yfowSg-38" target="as542Vii-vcNG0yfowSg-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -6220,11 +6175,48 @@
         <mxCell id="ZU0tyHilG3FVDsxp7vvo-25" value="&lt;div&gt;IF&lt;/div&gt;&lt;div&gt;a. It is probable that the expenditure will enable the asset to generate future economic benefits in&lt;br&gt;excess of its originally assessed standard of performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. The expenditure can be measured and attributed to the asset reliably.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8470" y="2100" width="300" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-27" target="ZU0tyHilG3FVDsxp7vvo-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8390" y="2360" />
+              <mxPoint x="8620" y="2360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZU0tyHilG3FVDsxp7vvo-27" value="subsequent expenditure should be added to the cost of the intangible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8320" y="2260" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-28" target="ZU0tyHilG3FVDsxp7vvo-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8840" y="2360" />
+              <mxPoint x="8620" y="2360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZU0tyHilG3FVDsxp7vvo-28" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;(expense)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8780" y="2260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-31" target="ZU0tyHilG3FVDsxp7vvo-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-31" value="Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8560" y="2400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-36" target="ZU0tyHilG3FVDsxp7vvo-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-36" value="&lt;div&gt;Amortization is depreciation for IA. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;allocated on a systematic basis over&lt;br&gt;the best estimate of its useful life.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/u&gt;=commence when the asset is available for use&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Useful life&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- if known then that or&lt;/div&gt;&lt;div&gt;-AS 26 adopts a presumption that the useful life of intangible assets is unlikely to exceed ten years.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Method&lt;/b&gt;&lt;/u&gt;&lt;br&gt;SLM, WDV, or on the basis of expected future economic benefits.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="8480" y="2460" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-39" target="ZU0tyHilG3FVDsxp7vvo-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-39" value="Review of Amortisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8560" y="2730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-40" value="amortisation period and the amortisation method should be reviewed at least at each financial year&lt;br&gt;&lt;div&gt;end.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the expected useful life/pattern of economic benefits of the asset is significantly different from previous estimates. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it should be changed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Such changes should be accounted for in accordance with AS 5.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="8480" y="2790" width="280" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
