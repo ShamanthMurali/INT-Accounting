@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T06:00:01.466Z" agent="5.0 (X11)" etag="OGfqUiHcXw4DC9CxzZD3" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-15T06:03:21.699Z" agent="5.0 (X11)" etag="JqRqmUFmcrJKqSHW25Ee" version="14.6.13" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2626" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4993" dy="3190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6201,8 +6201,30 @@
         <mxCell id="ZU0tyHilG3FVDsxp7vvo-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;should be recognised if, and only if:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. The technical feasibility of completing the intangible asset so that it will be available for use or sale.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Its intention to complete the intangible asset and use or sell it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Its ability to use or sell the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. How the intangible asset will generate probable future economic benefits. Among other things, the&lt;br&gt;enterprise should demonstrate the existence of a market for the output of the intangible asset or the&lt;br&gt;&lt;div&gt;intangible asset itself or, if it is to be used internally, the usefulness of the intangible asset.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. The availability of adequate technical, financial and other resources to complete the development and to use or sell the intangible asset&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;f. Its ability to measure the expenditure attributable to the intangible asset during its development&lt;br&gt;reliably." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9240" y="1547.5" width="280" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-14" target="ZU0tyHilG3FVDsxp7vvo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZU0tyHilG3FVDsxp7vvo-14" value="Subsequent Expenditure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8560" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-29" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-25" target="ZU0tyHilG3FVDsxp7vvo-27">
+          <mxGeometry x="0.1763" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-30" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZU0tyHilG3FVDsxp7vvo-25" target="ZU0tyHilG3FVDsxp7vvo-28">
+          <mxGeometry x="0.1252" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-25" value="&lt;div&gt;IF&lt;/div&gt;&lt;div&gt;a. It is probable that the expenditure will enable the asset to generate future economic benefits in&lt;br&gt;excess of its originally assessed standard of performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. The expenditure can be measured and attributed to the asset reliably.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8470" y="2100" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-27" value="subsequent expenditure should be added to the cost of the intangible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="2260" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU0tyHilG3FVDsxp7vvo-28" value="&lt;div&gt;Dr to P/L&lt;/div&gt;&lt;div&gt;(expense)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8780" y="2260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
