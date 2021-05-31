@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T02:02:47.028Z" agent="5.0 (Windows)" etag="vCqkak3FeDbHuC-t8atg" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T02:10:04.851Z" agent="5.0 (Windows)" etag="7LkXNoCOze7p5gBd53Cm" version="14.7.2" type="github">
   <diagram id="aMfJvMXhCiEYQdbrY_jZ" name="Page-1">
     <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -529,7 +529,7 @@
         <mxCell id="blk9YdcLJZOME8czDeYX-194" value="&lt;u&gt;&lt;b&gt;Effective capital&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="blk9YdcLJZOME8czDeYX-193" vertex="1">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blk9YdcLJZOME8czDeYX-195" value="&lt;u&gt;&lt;b&gt;Manager remuneration P.a&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="blk9YdcLJZOME8czDeYX-193" vertex="1">
+        <mxCell id="blk9YdcLJZOME8czDeYX-195" value="&lt;u&gt;&lt;b&gt;Max Manager remuneration P.a&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="blk9YdcLJZOME8czDeYX-193" vertex="1">
           <mxGeometry x="160" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-196" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="blk9YdcLJZOME8czDeYX-192" vertex="1">
