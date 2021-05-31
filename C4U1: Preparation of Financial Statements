@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T02:10:04.851Z" agent="5.0 (Windows)" etag="7LkXNoCOze7p5gBd53Cm" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T15:47:40.166Z" agent="5.0 (X11)" etag="ESh7hNeKcrmCkeUEPiqO" version="14.7.3" type="github">
   <diagram id="aMfJvMXhCiEYQdbrY_jZ" name="Page-1">
-    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,6 +693,9 @@
         </mxCell>
         <mxCell id="blk9YdcLJZOME8czDeYX-300" value="&lt;div&gt;Notes to accounts&lt;/div&gt;&lt;div&gt;Reserves and surplus&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1310" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7z0wmdC1gol8S8m22KIA-1" value="(OP stock - Cl stock)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1147.5" y="710" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
