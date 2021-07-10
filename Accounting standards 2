@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T03:18:13.004Z" agent="5.0 (Windows)" etag="owqK2fbelm1iD7SGfpAQ" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T20:12:46.456Z" agent="5.0 (X11)" etag="mLLHrP_MeSnGMfeSTSNo" version="14.8.5" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="-2292" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2732" dy="2372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3637,9 +3637,556 @@
         </mxCell>
         <UserObject label="" link="https://www.google.com/url?q=https%3A%2F%2Fviewer.diagrams.net%2F%3Fhighlight%3D0000ff%26edit%3Dhttps%253A%252F%252Fapp.diagrams.net%252F%2523HShamanthMurali%25252FINT-Accounting%25252Fmain%25252FC3U2%25253AAccounting%252520Standards%26layers%3D1%26nav%3D1%26title%3DC3U2%253AAccounting%2520Standards%23Uhttps%253A%252F%252Fraw.githubusercontent.com%252FShamanthMurali%252FINT-Accounting%252Fmain%252FC3U2%25253AAccounting%252520Standards&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG8XktkyhNm-50EcfcK4VRVZagNiQ" linkTarget="_blank" id="O7AqYeLRrYLJZ_qffe9R-1161">
           <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/arrow-circle-left-angle-back-128.png" parent="1" vertex="1">
-            <mxGeometry x="3710" y="32" width="128" height="128" as="geometry" />
+            <mxGeometry x="2310" y="32" width="128" height="128" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpAzB87NLVowfMgBwL1t-2" target="UpAzB87NLVowfMgBwL1t-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3660" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 12&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-4" target="UpAzB87NLVowfMgBwL1t-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;ACCOUNTING FOR GOVERNMENT GRANTS&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="UpAzB87NLVowfMgBwL1t-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="3500" y="120" width="320" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-7" target="UpAzB87NLVowfMgBwL1t-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-7" target="UpAzB87NLVowfMgBwL1t-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-7" value="Government grants are assistance by government in cash or kind to an enterprise for past or future compliance with certain conditions. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3440" y="210" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-11" target="UpAzB87NLVowfMgBwL1t-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-11" target="UpAzB87NLVowfMgBwL1t-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3660" y="360" />
+              <mxPoint x="4455" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-11" target="UpAzB87NLVowfMgBwL1t-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3660" y="360" />
+              <mxPoint x="4760" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-11" value="&lt;div&gt;A government grant is not recognized until there is reasonable assurance that:&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the enterprise will comply with the conditions attaching to it; and&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; the grant will be received.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3440" y="270" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-16" target="UpAzB87NLVowfMgBwL1t-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-16" target="UpAzB87NLVowfMgBwL1t-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-16" target="UpAzB87NLVowfMgBwL1t-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-16" target="UpAzB87NLVowfMgBwL1t-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-16" value="&lt;div&gt;Types of Grants&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3610" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-18" target="UpAzB87NLVowfMgBwL1t-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-18" value="Non-monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3040" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-20" target="UpAzB87NLVowfMgBwL1t-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-20" value="Monetary Government Grants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3510" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-22" target="UpAzB87NLVowfMgBwL1t-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-22" value="Promoters contribution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4100" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-24" target="UpAzB87NLVowfMgBwL1t-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-24" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;free of cost&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2960" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-26" target="UpAzB87NLVowfMgBwL1t-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-26" value="&lt;div&gt;GG received @&lt;/div&gt;&lt;div&gt;&lt;b&gt;consession&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3120" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-28" target="UpAzB87NLVowfMgBwL1t-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-28" value="Revenue Grants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3890" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-30" target="UpAzB87NLVowfMgBwL1t-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-30" value="Where a part of an expense of a company is paid by the government" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3880" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-32" target="UpAzB87NLVowfMgBwL1t-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-32" value="&lt;div&gt;where the government gives grant to the whole project or company.&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e it is not given in terms of a perticular asset, if it is given in terms of a perticular asset then it is &quot;non-monetary grant&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4060" y="540" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-33" value="Exceptions" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="3940" y="210" width="120" height="40" as="geometry">
+            <mxRectangle x="3620" y="210" width="270" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-34" value="&lt;div&gt;1. gov assistance other than in the form of gov grants&lt;/div&gt;&lt;div&gt;2. gov participation in the ownership of the enterprise&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-33">
+          <mxGeometry y="40" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-37" target="UpAzB87NLVowfMgBwL1t-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-37" target="UpAzB87NLVowfMgBwL1t-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-37" value="the grant was recived with the asset itself" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3040" y="540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-40" target="UpAzB87NLVowfMgBwL1t-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-40" target="UpAzB87NLVowfMgBwL1t-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-40" value="the grant was recived after the purchase of the asset(i.e it was recived seperatly)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3510" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-42" target="UpAzB87NLVowfMgBwL1t-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-42" value="Depreciable assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3360" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-44" target="UpAzB87NLVowfMgBwL1t-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-44" value="Non-depreciable assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3660" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-49" target="UpAzB87NLVowfMgBwL1t-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3420" y="740" />
+              <mxPoint x="3340" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-46" value="&lt;div&gt;Accounting method&lt;/div&gt;&lt;div&gt;1&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpAzB87NLVowfMgBwL1t-45">
+          <mxGeometry x="0.5588" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-49" target="UpAzB87NLVowfMgBwL1t-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3420" y="740" />
+              <mxPoint x="3500" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-48" value="&lt;div&gt;Accounting method&lt;/div&gt;&lt;div&gt;2&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpAzB87NLVowfMgBwL1t-47">
+          <mxGeometry x="0.4943" relative="1" as="geometry">
+            <mxPoint y="5.2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-49" value="e.g. mach, furniture etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3360" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-50" value="e.g. only land" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3660" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-52" target="UpAzB87NLVowfMgBwL1t-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-52" value="GG deducted form cost of asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3280" y="790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-54" target="UpAzB87NLVowfMgBwL1t-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-54" value="Deferred GG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3440" y="790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-55" value="Treatement" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="3280" y="860" width="120" height="40" as="geometry">
+            <mxRectangle x="3040" y="820" width="90" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-56" value="Treatment Disc." style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="UpAzB87NLVowfMgBwL1t-55">
+          <mxGeometry y="40" width="30" as="geometry">
+            <mxRectangle y="20" width="250" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-57" value="&lt;div&gt;&amp;gt;&amp;gt; The grant is shown as a deduction from the gross value of the asset concerned in arriving at its book value. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; The grant is thus recognised in the profit and loss statement over the useful life of a depreciable asset by way of a reduced depreciation charge&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Where the&amp;nbsp; grant&amp;nbsp; equals the&amp;nbsp; whole,&amp;nbsp; or&amp;nbsp; virtually the&amp;nbsp; whole,&amp;nbsp; of the&amp;nbsp; cost of the asset, the asset is shown in the balance sheet at a nominal value. &lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-56">
+          <mxGeometry y="20" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-58" value="Journal entries" style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="UpAzB87NLVowfMgBwL1t-55">
+          <mxGeometry x="30" y="40" width="30" as="geometry">
+            <mxRectangle x="30" y="20" width="180" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-59" value="When the asset is purchased" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-58">
+          <mxGeometry y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-60" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-58">
+          <mxGeometry y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-60">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-62" value="&lt;div&gt;Fixed asset a/c Dr.&lt;/div&gt;&lt;div&gt;To bank a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-61">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-61">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-64" value="When GG is recived" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-58">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-65" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-58">
+          <mxGeometry y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-66" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-65">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-67" value="&lt;div&gt;GG A/c Dr.&lt;/div&gt;&lt;div&gt;To Fixed Asset A/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-66">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-66">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-69" value="depreciation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-58">
+          <mxGeometry y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-70" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-58">
+          <mxGeometry y="190" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-70">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-72" value="&lt;div&gt;Fixed asset a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;to depreciation a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-71">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-71">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-74" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="UpAzB87NLVowfMgBwL1t-55">
+          <mxGeometry x="60" y="40" width="30" as="geometry">
+            <mxRectangle x="60" y="40" width="320" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-75" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-74">
+          <mxGeometry x="10" y="65" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-76" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-75">
+          <mxGeometry width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-77" value="to depreciation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-76">
+          <mxGeometry width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-78" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-76">
+          <mxGeometry x="90" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-79" value="P/L" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-74">
+          <mxGeometry x="40" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-80" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-74">
+          <mxGeometry x="160" y="65" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-80">
+          <mxGeometry width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-82" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-81">
+          <mxGeometry width="20" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-83" value="&lt;div align=&quot;left&quot;&gt;Fixed asset-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)GG-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)Depreciation-xx-XX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-81">
+          <mxGeometry x="20" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-84" value="Balsheet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-74">
+          <mxGeometry x="190" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-85" value="&lt;div&gt;Inner column = xx&lt;/div&gt;&lt;div&gt;outer column = XX&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-74">
+          <mxGeometry x="100" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-86" value="Treatement" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="3440" y="860" width="120" height="40" as="geometry">
+            <mxRectangle x="3200" y="820" width="90" height="340" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-87" value="Treatment Disc." style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="UpAzB87NLVowfMgBwL1t-86">
+          <mxGeometry y="40" width="30" as="geometry">
+            <mxRectangle y="40" width="250" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-88" value="&lt;div&gt;&amp;gt;&amp;gt; Grants related to depreciable assets are treated as deferred income which is recognised in the profit and loss statement on a systematic and rational basis over the useful life of the asset. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; a separate account for GG is maintained on the lib side of BS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-87">
+          <mxGeometry y="20" width="250" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-89" value="Journal entries" style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="UpAzB87NLVowfMgBwL1t-86">
+          <mxGeometry x="30" y="40" width="30" as="geometry">
+            <mxRectangle x="30" y="40" width="180" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-90" value="When the asset is purchased" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-91" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-92" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-91">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-93" value="&lt;div&gt;Fixed asset a/c Dr.&lt;/div&gt;&lt;div&gt;To bank a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-92">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-94" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-92">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-95" value="When GG is recived" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-96" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-96">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-98" value="&lt;div&gt;Bank A/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;to deferred GG a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-97">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-99" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-97">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-100" value="depreciation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-101" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="190" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-102" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-101">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-103" value="&lt;div&gt;Fixed asset a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;to depreciation a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-102">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-104" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-102">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-105" value="&lt;div&gt;Ammortization on Deferred GG&lt;/div&gt;&lt;div&gt;(In liabilities side of BS)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-106" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-89">
+          <mxGeometry y="260" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-107" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-106">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-108" value="&lt;div&gt;Deferred GG a/c Dr.&lt;/div&gt;&lt;div&gt;to ammortization A/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-107">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-109" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-107">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-110" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" vertex="1" collapsed="1" parent="UpAzB87NLVowfMgBwL1t-86">
+          <mxGeometry x="60" y="40" width="30" as="geometry">
+            <mxRectangle x="210" y="40" width="500" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-111" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-110">
+          <mxGeometry x="10" y="65" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-112" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-111">
+          <mxGeometry width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-113" value="To depreciation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-112">
+          <mxGeometry width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-114" value="To ammortization" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-112">
+          <mxGeometry x="80" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-115" value="P/L" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-110">
+          <mxGeometry x="40" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-116" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-110">
+          <mxGeometry x="190" y="60" width="280" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-117" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-116">
+          <mxGeometry width="280" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-118" value="&lt;div align=&quot;left&quot;&gt;GG-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)Amort-xx&lt;sup&gt;1&lt;/sup&gt;-XX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-117">
+          <mxGeometry width="146" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-119" value="&lt;div align=&quot;left&quot;&gt;Fixed asset-xx&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(-)Depreciation-(xx&lt;sup&gt;1&lt;/sup&gt;)-XX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-117">
+          <mxGeometry x="146" width="134" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-120" value="Balsheet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-110">
+          <mxGeometry x="190" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-121" value="&lt;div&gt;Inner column = xx&lt;/div&gt;&lt;div&gt;outer column = XX&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-110">
+          <mxGeometry x="110" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-122" value="&lt;font style=&quot;font-size: 8px&quot;&gt;(Note 1: the ammortization percentage/proportion is same as the depreciation rate on the FA)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-110">
+          <mxGeometry x="190" y="125" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-124" target="UpAzB87NLVowfMgBwL1t-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-124" value="Record the asset as profit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2960" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-126" target="UpAzB87NLVowfMgBwL1t-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-126" value="&lt;div align=&quot;left&quot;&gt;Asset A/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to P/L A/c&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=left;gradientColor=none;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2960" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-127" value="Since it is recived at a nominal price depreciation need not be provided" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2960" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-129" target="UpAzB87NLVowfMgBwL1t-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-129" value="Record the asset at concessional price" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3120" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-131" target="UpAzB87NLVowfMgBwL1t-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-131" value="&lt;div&gt;if we recived a 10k asset for 5k then,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Asset a/c Dr.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5k&lt;/div&gt;&lt;div&gt;to bank a/c&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5k&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=left;gradientColor=none;arcSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3120" y="730" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-132" value="Dep needs to be provided" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3120" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-133" value="&lt;b&gt;record it to P/L&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3880" y="620" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-134" value="&lt;b&gt;Credit the GG to capital reserve&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4090" y="710" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-136" target="UpAzB87NLVowfMgBwL1t-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-136" value="Refund of GG" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4405" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-139" target="UpAzB87NLVowfMgBwL1t-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-139" target="UpAzB87NLVowfMgBwL1t-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-139" value="If the conditions put by the government are not fulfilled the government may ask for a refund" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4340" y="460" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-50" target="UpAzB87NLVowfMgBwL1t-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3720.0344827586214" y="735" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3720" y="745" />
+              <mxPoint x="3640" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-141" value="&lt;div&gt;Accounting method&lt;/div&gt;&lt;div&gt;1&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpAzB87NLVowfMgBwL1t-140">
+          <mxGeometry x="0.5588" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-143" target="UpAzB87NLVowfMgBwL1t-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-143" value="Only when all the conditions of the GG are fulfilled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3580" y="795" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-50" target="UpAzB87NLVowfMgBwL1t-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3730" y="740" as="sourcePoint" />
+            <mxPoint x="3800.0344827586214" y="795" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3720" y="745" />
+              <mxPoint x="3800" y="745" />
+              <mxPoint x="3800" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-145" value="&lt;div&gt;Accounting method&lt;/div&gt;&lt;div&gt;2&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpAzB87NLVowfMgBwL1t-144">
+          <mxGeometry x="0.4943" relative="1" as="geometry">
+            <mxPoint y="5.2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-148" target="UpAzB87NLVowfMgBwL1t-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3910.0344827586214" y="835" as="sourcePoint" />
+            <mxPoint x="3910" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-147" value="Credit it to capital reserve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3580" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-148" value="When the conditions are yet to be fulfilled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3740" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-149" value="Create a deferred GG a/c and ammortize over a period of time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3740" y="860" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-151" target="UpAzB87NLVowfMgBwL1t-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-151" value="When Deferred GG is &lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt; used" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4300" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-152" value="Reverse the entry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4300" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-154" target="UpAzB87NLVowfMgBwL1t-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-154" value="When Deferred GG is used" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4460" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-156" target="UpAzB87NLVowfMgBwL1t-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-156" value="&amp;gt;&amp;gt; first the use the Remaining Deferred GG in the liabilities side of the BS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4460" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-157" value="&amp;gt;&amp;gt; if there is even more that needs to be refunded the Dr the P/L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4460" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-159" target="UpAzB87NLVowfMgBwL1t-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-159" value="Disclousers" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4710" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-160" value="&lt;div&gt;i. The accounting policy adopted for government grants, including the methods of presentation in the financial statements; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii. The&amp;nbsp; nature&amp;nbsp; and&amp;nbsp; extent&amp;nbsp; of&amp;nbsp; government&amp;nbsp; grants&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; the&amp;nbsp; financial statements, including grants of non-monetary assets given at a concessional rate or free of cost. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="4620" y="460" width="280" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
