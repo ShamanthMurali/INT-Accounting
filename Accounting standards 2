@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T20:12:46.456Z" agent="5.0 (X11)" etag="mLLHrP_MeSnGMfeSTSNo" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T20:13:27.200Z" agent="5.0 (X11)" etag="XyDFUl0lRp0VB-_mIUuv" version="14.8.5" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="2732" dy="2372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-777" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4186,6 +4186,295 @@
         </mxCell>
         <mxCell id="UpAzB87NLVowfMgBwL1t-160" value="&lt;div&gt;i. The accounting policy adopted for government grants, including the methods of presentation in the financial statements; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii. The&amp;nbsp; nature&amp;nbsp; and&amp;nbsp; extent&amp;nbsp; of&amp;nbsp; government&amp;nbsp; grants&amp;nbsp; recognised&amp;nbsp; in&amp;nbsp; the&amp;nbsp; financial statements, including grants of non-monetary assets given at a concessional rate or free of cost. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" visible="0" parent="1">
           <mxGeometry x="4620" y="460" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpAzB87NLVowfMgBwL1t-162" target="UpAzB87NLVowfMgBwL1t-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 11&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3205" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-164" target="UpAzB87NLVowfMgBwL1t-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;The effects of changes in forign exchange rates&lt;/font&gt;" treeRoot="1" id="UpAzB87NLVowfMgBwL1t-164">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="3105" y="120" width="320" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-168" target="UpAzB87NLVowfMgBwL1t-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-168" target="UpAzB87NLVowfMgBwL1t-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-168" target="UpAzB87NLVowfMgBwL1t-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-168" value="foreign currency transaction&lt;br&gt;should be Recognised in the Book&lt;br&gt;by converting or translating it into&lt;br&gt;the Reporting currency i.e. by&lt;br&gt;applying the spot Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2640" y="460" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-169" value="&lt;div&gt;Spot rate = the forign currency exchange rate at that time&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; weekly/monthly average can also be used&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2410" y="460" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-171" target="UpAzB87NLVowfMgBwL1t-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-171" value="Within FY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2690" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-174" target="UpAzB87NLVowfMgBwL1t-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-174" target="UpAzB87NLVowfMgBwL1t-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-174" value="remains unsettled at the end of the FY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3089" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-176" target="UpAzB87NLVowfMgBwL1t-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-176" value="Non monetary items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3170" y="479" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-178" target="UpAzB87NLVowfMgBwL1t-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-178" value="Monetary Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3010" y="479" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-180" target="UpAzB87NLVowfMgBwL1t-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-180" value="Pain on contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2610" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-181" value="record at spot rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2610" y="660" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-183" target="UpAzB87NLVowfMgBwL1t-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-183" value="contracted at one price but paid later" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2770" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-185" target="UpAzB87NLVowfMgBwL1t-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-185" value="&lt;div&gt;record the spot rate at the time of payment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; any P/L appearing should be adgusted to the P/L a/c&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2760" y="660" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-186" value="" style="swimlane;startSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2730" y="770" width="200" height="160" as="geometry">
+            <mxRectangle x="2900" y="690" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-187" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-186">
+          <mxGeometry width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-188" value="on sale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-186">
+          <mxGeometry x="60" y="10" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-189" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-186">
+          <mxGeometry x="10" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-190" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-189">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-191" value="&lt;div&gt;Debtors &lt;br&gt;&lt;/div&gt;&lt;div&gt;to sale&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-190">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-192" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-190">
+          <mxGeometry x="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-193" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-190">
+          <mxGeometry x="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-194" value="On reciving the payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-186">
+          <mxGeometry x="30" y="70" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-195" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-186">
+          <mxGeometry x="10" y="90" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-196" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-195">
+          <mxGeometry width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-197" value="&lt;div align=&quot;left&quot;&gt;bank a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;forex loss a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to debtors a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;to forex gain a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-196">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-198" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-196">
+          <mxGeometry x="100" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-199" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="UpAzB87NLVowfMgBwL1t-196">
+          <mxGeometry x="140" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-201" target="UpAzB87NLVowfMgBwL1t-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-201" value="They are money held &amp;amp; assets &amp;amp; liabilities to be received or paid in fixed or determinable amounts of money. E.g. : Cash, Bankbalance,Receivables, Payables, Loans" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3000" y="540" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-203" target="UpAzB87NLVowfMgBwL1t-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-203" value="They are assets &amp;amp; liabilities other than monetary items i.e. their values are not fixed they may change. .&lt;br&gt;E.g.: FAs, Inventories, Investment in&lt;br&gt;equity shares etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3160" y="540" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-205" target="UpAzB87NLVowfMgBwL1t-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-205" value="&lt;div&gt;&amp;gt; Convert to closeing rate on the B/S date&lt;/div&gt;&lt;div&gt;&amp;gt; record Gain/Loss in P/L&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3000" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-207" target="UpAzB87NLVowfMgBwL1t-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-207" value="&lt;div&gt;&amp;gt; record at &lt;u&gt;&lt;b&gt;original cost&lt;/b&gt;&lt;/u&gt; on B/S date&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3160" y="690" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-209" target="UpAzB87NLVowfMgBwL1t-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-209" value="&lt;div&gt;But if NRV is used,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; calculate NRV&lt;/div&gt;&lt;div&gt;&amp;gt; convert the NRV to the exchange in such date.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3160" y="760" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-210" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;accounts receivable and inventory are valued at NRV&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3320" y="770" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-212" target="UpAzB87NLVowfMgBwL1t-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-212" value="Long term monetary items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3010" y="950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-214" target="UpAzB87NLVowfMgBwL1t-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-214" value="e.g. loans O/S, loans recivable, creditors, debtors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2990" y="1010" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-218" target="UpAzB87NLVowfMgBwL1t-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-218" target="UpAzB87NLVowfMgBwL1t-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-217" value="Any 1 treatment - not compulsory " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpAzB87NLVowfMgBwL1t-216">
+          <mxGeometry x="-0.6506" y="2" relative="1" as="geometry">
+            <mxPoint x="6.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-218" value="&lt;div&gt;&amp;gt; on B/S date convert to exchange rate as of that day&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2990" y="1070" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-220" target="UpAzB87NLVowfMgBwL1t-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-220" value="&lt;div&gt;treatment of any P/L that arises&lt;/div&gt;&lt;div&gt;as per para 46(A)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3090" y="1160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-226" target="UpAzB87NLVowfMgBwL1t-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-226" target="UpAzB87NLVowfMgBwL1t-229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-223" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpAzB87NLVowfMgBwL1t-222">
+          <mxGeometry x="-0.4574" relative="1" as="geometry">
+            <mxPoint x="10.66" y="-0.03" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-226" target="UpAzB87NLVowfMgBwL1t-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-225" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpAzB87NLVowfMgBwL1t-224">
+          <mxGeometry x="-0.7205" y="2" relative="1" as="geometry">
+            <mxPoint x="18.310000000000002" y="1.97" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-226" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;that loan is &lt;br&gt;&lt;/div&gt;&lt;div&gt;taken for&lt;/div&gt;&lt;div&gt; a FA&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3130" y="1230" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-227" value="e.g. loan taken to acquire/construct an asset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3120" y="1360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-229" target="UpAzB87NLVowfMgBwL1t-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-229" value="&lt;div&gt;&amp;gt; if it is a gain, then subtract it from the asset&lt;/div&gt;&lt;div&gt;&amp;gt; if it is a loss, then add it to the asset&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(**any P/L arising on the settlement date should be trandfered to the P/L a/c)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2880" y="1420" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-231" target="UpAzB87NLVowfMgBwL1t-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-231" value="&lt;div&gt;&amp;gt; transfer to a new a/c &lt;br&gt;&lt;/div&gt;&lt;div&gt;FCMITD(Forign currency monetary item transulation difference) a/c&lt;/div&gt;&lt;div&gt;&amp;gt; put in the balance sheet&lt;/div&gt;&lt;div&gt;&amp;gt; ammortize over the period&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(**if it has a negetive balance it will come on the asset side of B/S)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(**it is shown under the head &quot;reserves and surplus&quot; of B/S)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3240" y="1420" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-232" value="&lt;div&gt;Why is it done?&lt;/div&gt;&lt;div&gt;&amp;gt;if there is a huge forex loss.&lt;/div&gt;&lt;div&gt;&amp;gt;there will be a sudden inpact on the profit of the firm&lt;/div&gt;&lt;div&gt;&amp;gt; so distribute the impact.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3500" y="1445" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-233" value="&lt;div&gt;Why is it done?&lt;/div&gt;&lt;div&gt;&amp;gt;if there is a huge forex loss.&lt;/div&gt;&lt;div&gt;&amp;gt;there will be a sudden inpact on the profit of the firm&lt;/div&gt;&lt;div&gt;&amp;gt; so distribute the impact it is added to the asset.&lt;/div&gt;&lt;div&gt;&amp;gt; then it is deferred in the form of higher depreciation.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2650" y="1392.5" width="210" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-234" value="transfer the P/L to P/L a/c." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2870" y="1160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-237" target="UpAzB87NLVowfMgBwL1t-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-237" target="UpAzB87NLVowfMgBwL1t-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-237" value="Forex transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2890" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-240" target="UpAzB87NLVowfMgBwL1t-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-240" target="UpAzB87NLVowfMgBwL1t-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-240" value="Accounting for Forward Exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3532.5" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-242" target="UpAzB87NLVowfMgBwL1t-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-242" value="Hedgeing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3402.5" y="399" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-244" target="UpAzB87NLVowfMgBwL1t-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-244" value="speculating" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3662.5" y="399" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-246" target="UpAzB87NLVowfMgBwL1t-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-246" value="to reduce risk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3402.5" y="461" width="120" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-248" target="UpAzB87NLVowfMgBwL1t-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-248" value="to make profit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3662.5" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-249" value="(a) The premium or discount (difference&lt;br&gt;between the value at spot rate and forward&lt;br&gt;rate) should be amortized over the life of&lt;br&gt;contract.&lt;br&gt;(b) Exchange difference (difference&lt;br&gt;between the value of settlement&lt;br&gt;date / reporting date and value at previous&lt;br&gt;reporting date / inception of the contract) be&lt;br&gt;recognized in P &amp;amp; L of the year.&lt;br&gt;(c) Profit / loss on cancellation / renewal&lt;br&gt;of forward contract be recognized in P &amp;amp; L&lt;br&gt;of the year." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3335" y="501" width="255" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-250" value="(a) No premium or discount is recognized.&lt;br&gt;(b) A gain or loss i.e. the difference between the forward rate as per contract/previous year end valuation rate and the forward rate available at the year end (reporting date) for&lt;br&gt;remaining maturity period should be recognized in the P&amp;amp;L of the period." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3595" y="501" width="255" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-253" target="UpAzB87NLVowfMgBwL1t-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="UpAzB87NLVowfMgBwL1t-253" target="UpAzB87NLVowfMgBwL1t-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpAzB87NLVowfMgBwL1t-253" value="The standard deals with the principal issue with respect to accounting for foreign operations and foreign currency transactions in deciding which exchange rate to be used and a guidance on recognizing the financial effect of changes in exchange rates in the financial statements. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3090" y="210" width="350" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
