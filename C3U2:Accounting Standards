@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T15:54:41.068Z" agent="5.0 (X11)" etag="SWPBFMrHse2DVZtNjJl9" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T15:56:22.025Z" agent="5.0 (X11)" etag="U_RXAIeUmjjBnWEGf2t9" version="14.8.5" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1446" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1565" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6071,32 +6071,50 @@
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-8" value="Enterprise earns revenue from" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2200" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TL9iMV46j5L0ygKp7Qbd-10" value="Rendering of services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TL9iMV46j5L0ygKp7Qbd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-10" target="TL9iMV46j5L0ygKp7Qbd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL9iMV46j5L0ygKp7Qbd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-10" target="TL9iMV46j5L0ygKp7Qbd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL9iMV46j5L0ygKp7Qbd-10" value="&lt;div&gt;Rendering of &lt;br&gt;&lt;/div&gt;&lt;div&gt;services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2200" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-11" target="TL9iMV46j5L0ygKp7Qbd-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-11" value="Sale of goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="1720" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-12" value="Use of enterprise resources by others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2360" y="560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TL9iMV46j5L0ygKp7Qbd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-16" target="TL9iMV46j5L0ygKp7Qbd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-16" value="Revenue can be recognized when risk and reward incidental to ownership of goods are substantial transferred to the buyer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="660" width="280" height="50" as="geometry" />
+          <mxGeometry x="1640" y="660" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-17" target="TL9iMV46j5L0ygKp7Qbd-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-17" value="&lt;u&gt;&lt;b&gt;2 Conditions have to be fulfilled&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="620" width="200" height="20" as="geometry" />
+          <mxGeometry x="1680" y="620" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL9iMV46j5L0ygKp7Qbd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-20" target="TL9iMV46j5L0ygKp7Qbd-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-20" value="AND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="710" width="40" height="20" as="geometry" />
+          <mxGeometry x="1760" y="710" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-21" value="&amp;nbsp;There is reasonable Certainty of receiving the consideration. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="730" width="280" height="40" as="geometry" />
+          <mxGeometry x="1640" y="730" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TL9iMV46j5L0ygKp7Qbd-24" value="Indivisible services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TL9iMV46j5L0ygKp7Qbd-25" value="Divisible Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
