@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T07:08:21.554Z" agent="5.0 (X11)" etag="-piVoVEKfV3oNV5Znwhq" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T07:13:52.212Z" agent="5.0 (X11)" etag="MPFhnkl0aE2e-3_9ERXj" version="14.8.5" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1565" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1713" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4424,13 +4424,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-10" value="&lt;div&gt;Rendering of &lt;br&gt;&lt;/div&gt;&lt;div&gt;services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="920" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-11" target="TL9iMV46j5L0ygKp7Qbd-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-11" value="Sale of goods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-12" target="TL9iMV46j5L0ygKp7Qbd-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4451,28 +4451,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-16" value="Revenue can be recognized when risk and reward incidental to ownership of goods are substantial transferred to the buyer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="700" width="280" height="50" as="geometry" />
+          <mxGeometry x="320" y="700" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-17" target="TL9iMV46j5L0ygKp7Qbd-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-17" value="&lt;u&gt;&lt;b&gt;2 Conditions have to be fulfilled&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="780" y="660" width="200" height="20" as="geometry" />
+          <mxGeometry x="360" y="660" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-20" target="TL9iMV46j5L0ygKp7Qbd-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-20" value="AND" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="750" width="40" height="20" as="geometry" />
+          <mxGeometry x="440" y="750" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-21" value="&amp;nbsp;There is reasonable Certainty of receiving the consideration. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="770" width="280" height="40" as="geometry" />
+          <mxGeometry x="320" y="770" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-24" target="hVwaJ4X-K8OpYtOjWtu6-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-24" value="Indivisible services" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="1030" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-25" target="hVwaJ4X-K8OpYtOjWtu6-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-25" value="Divisible Services" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-28" target="TL9iMV46j5L0ygKp7Qbd-52">
           <mxGeometry relative="1" as="geometry" />
@@ -4717,6 +4723,12 @@
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-28" value="Tuition fees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4140" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-30" value="&lt;div&gt;Revenue is recognized based on proportionate completion method&lt;/div&gt;&lt;div&gt;a. By physical observation&lt;/div&gt;&lt;div&gt;b. technical evaluation&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="740" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-32" value="&lt;div&gt;1. revenue is recognized only on completion of service&lt;/div&gt;&lt;div&gt;2. Advance received&lt;/div&gt;&lt;div&gt;a. Recognize CY&#39;s&lt;/div&gt;&lt;div&gt;b. remaining t/f to WIP services &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="740" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
