@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T07:57:24.999Z" agent="5.0 (X11)" etag="bs1Lwk8Z85CQEbAVxs7s" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T08:02:16.772Z" agent="5.0 (X11)" etag="ggq-fmp7RRhzyJ8cHia-" version="14.8.5" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="387" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6647" dy="4180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,117 +174,6 @@
         </mxCell>
         <mxCell id="O7AqYeLRrYLJZ_qffe9R-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/hot-sale-flat/64/price_down_sale_shop-128.png;" parent="O7AqYeLRrYLJZ_qffe9R-4" vertex="1">
           <mxGeometry x="200" y="170" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-54" target="O7AqYeLRrYLJZ_qffe9R-73" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6580" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-54" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 21&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="6520" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-56" target="O7AqYeLRrYLJZ_qffe9R-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 22&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="6880" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-58" target="O7AqYeLRrYLJZ_qffe9R-122" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Accounting for taxes on income&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="O7AqYeLRrYLJZ_qffe9R-58">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="6780" y="120" width="320" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-60" target="O7AqYeLRrYLJZ_qffe9R-74" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7300" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 23&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="7240" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-62" target="O7AqYeLRrYLJZ_qffe9R-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 24&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="7600" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-64" target="O7AqYeLRrYLJZ_qffe9R-85" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Discontinuing operations&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="O7AqYeLRrYLJZ_qffe9R-64">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="7500" y="120" width="320" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-66" target="O7AqYeLRrYLJZ_qffe9R-75" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8020" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 25&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="7960" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-68" target="O7AqYeLRrYLJZ_qffe9R-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 26&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="8320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-70" target="O7AqYeLRrYLJZ_qffe9R-275" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Intangible Assets&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="O7AqYeLRrYLJZ_qffe9R-70">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="8220" y="120" width="320" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-72" target="O7AqYeLRrYLJZ_qffe9R-82" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8740" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 27&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="8680" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-73" value="&lt;b&gt;Not there in inter&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="6455" y="120" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-74" value="&lt;b&gt;Not there in inter&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="7175" y="120" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-75" value="&lt;b&gt;Not there in inter&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="7895" y="120" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-77" target="O7AqYeLRrYLJZ_qffe9R-83" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9100" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-77" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 28&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="9040" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-79" target="O7AqYeLRrYLJZ_qffe9R-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-79" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 29&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="9400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-81" target="O7AqYeLRrYLJZ_qffe9R-228" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Provision, contingent liabilities, contingent assets&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="O7AqYeLRrYLJZ_qffe9R-81">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="9300" y="120" width="320" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-82" value="&lt;b&gt;Not there in inter&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="8615" y="120" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="O7AqYeLRrYLJZ_qffe9R-83" value="&lt;b&gt;Not there in inter&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="8975" y="120" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O7AqYeLRrYLJZ_qffe9R-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-85" target="O7AqYeLRrYLJZ_qffe9R-89" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -4485,6 +4374,11 @@
         <UserObject label="&lt;b&gt;Accounting for Investments&lt;/b&gt;" treeRoot="1" id="-ovA7fwRGz8A0V27au0N-6">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" vertex="1" collapsed="1" parent="1">
             <mxGeometry x="3500" y="120" width="320" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://viewer.diagrams.net/?highlight=0000ff&amp;edit=https%3A%2F%2Fapp.diagrams.net%2F%23HShamanthMurali%252FINT-Accounting%252Fmain%252FAccounting%2520Standards%25203&amp;layers=1&amp;nav=1&amp;title=Accounting%20Standards%203#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FShamanthMurali%2FINT-Accounting%2Fmain%2FAccounting%2520Standards%25203" id="-ovA7fwRGz8A0V27au0N-7">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/arrow-circle-left-angle-back-128.png;rotation=-180;" vertex="1" parent="1">
+            <mxGeometry x="6420" y="12" width="128" height="128" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
