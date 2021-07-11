@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T05:51:40.130Z" agent="5.0 (X11)" etag="1q2jhMFWeubvGUCjIl5P" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T06:41:08.943Z" agent="5.0 (X11)" etag="SfNeucxzPGRT0hh1vDlW" version="14.8.5" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="2639" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1893" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4481,7 +4481,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-28" value="Rent" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1985" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="2245" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-29" target="TL9iMV46j5L0ygKp7Qbd-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4490,7 +4490,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-29" value="Dividend" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="1885" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TL9iMV46j5L0ygKp7Qbd-30" target="hVwaJ4X-K8OpYtOjWtu6-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-30" value="Interest" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="680" width="120" height="40" as="geometry" />
@@ -4502,7 +4505,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-36" value="Interim Dividend" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="1995" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-37" target="TL9iMV46j5L0ygKp7Qbd-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4511,51 +4514,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-37" value="Final dividend" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="1775" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-40" value="Recorded on cash basics" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="820" width="120" height="40" as="geometry" />
+          <mxGeometry x="1995" y="820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-42" value="&lt;div&gt;Recorded&amp;nbsp; when the right to receive is established&lt;/div&gt;&lt;div&gt;(i.e after resolution is passed in AGM and not when declared or proposed in BM )&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="910" width="140" height="100" as="geometry" />
+          <mxGeometry x="1845" y="910" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-44" target="TL9iMV46j5L0ygKp7Qbd-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-44" value="Holding company to receive dividend from subsidiary" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="840" width="120" height="50" as="geometry" />
+          <mxGeometry x="1695" y="840" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-45" target="TL9iMV46j5L0ygKp7Qbd-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-45" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="840" width="120" height="50" as="geometry" />
+          <mxGeometry x="1855" y="840" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-49" value="&lt;div&gt;Recorded when Dividend is proposed in the BM&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="910" width="140" height="40" as="geometry" />
+          <mxGeometry x="1685" y="910" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-52" value="Recorded on Accrual Basics" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="2140" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-58" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-54" target="TL9iMV46j5L0ygKp7Qbd-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1940" y="785" />
+              <mxPoint x="2200" y="785" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-60" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-54" target="TL9iMV46j5L0ygKp7Qbd-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2150" y="785" />
+              <mxPoint x="2410" y="785" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-54" value="&lt;div&gt;Does &lt;br&gt;&lt;/div&gt;&lt;div&gt;certainty to receive revenue &lt;br&gt;&lt;/div&gt;&lt;div&gt;exist&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="740" width="130" height="90" as="geometry" />
+          <mxGeometry x="2240" y="740" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-59" value="&lt;div&gt;Postpone the &lt;br&gt;&lt;/div&gt;&lt;div&gt;revenue&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2090" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="2350" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-61" target="TL9iMV46j5L0ygKp7Qbd-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4704,6 +4707,9 @@
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-15" value="Advertising income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3160" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-16" value="Recorded on Accrual Basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
