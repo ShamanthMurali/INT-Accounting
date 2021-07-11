@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T07:01:02.515Z" agent="5.0 (X11)" etag="-FijqdBaV6qUi82cHqwI" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T07:04:20.463Z" agent="5.0 (X11)" etag="unTB0ONwq3v6c7u3xOGS" version="14.8.5" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1893" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4427" dy="2891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4401,9 +4401,6 @@
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Revenue&lt;/b&gt;&lt;/u&gt; &lt;span style=&quot;white-space: pre&quot;&gt;means gross inflow of cash, receivable &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;or other consideration arising in ordinary course of biz&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="240" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TL9iMV46j5L0ygKp7Qbd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TL9iMV46j5L0ygKp7Qbd-6" target="TL9iMV46j5L0ygKp7Qbd-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TL9iMV46j5L0ygKp7Qbd-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Does not cover the following&lt;/b&gt;&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Revenue arising from construction contracts (AS 7)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. revenue arising from hire purchase or lease agreements (AS 19)&lt;/div&gt;&lt;div&gt;3. revenue arising from govt grants and subsidies (AS 12)&lt;/div&gt;&lt;div&gt;4. revenue of insurance companies arising from insurance contracts (IRDAI)&lt;/div&gt;&lt;div&gt;5. Gain realized or unrealized on sale of Fixed assets (AS 10 &amp;amp; 26) &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="300" width="360" height="140" as="geometry" />
