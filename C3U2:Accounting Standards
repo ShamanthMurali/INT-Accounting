@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T07:22:39.527Z" agent="5.0 (X11)" etag="KFSlcTpyeXizneRE3LX2" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T07:24:50.947Z" agent="5.0 (X11)" etag="Tsl7t6gRi1bppSCO7uwa" version="14.8.5" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1565" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2937" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4679,11 +4679,10 @@
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-7" value="Recognize the revenue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2790" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hVwaJ4X-K8OpYtOjWtu6-10" target="hVwaJ4X-K8OpYtOjWtu6-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-10" value="Sale on accrual basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="1120" width="120" height="40" as="geometry" />
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hVwaJ4X-K8OpYtOjWtu6-23" target="hVwaJ4X-K8OpYtOjWtu6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3030.0344827586205" y="1160" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hVwaJ4X-K8OpYtOjWtu6-11" target="hVwaJ4X-K8OpYtOjWtu6-13">
           <mxGeometry relative="1" as="geometry" />
@@ -4698,7 +4697,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-15" value="Advertising income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3150" y="1120" width="120" height="40" as="geometry" />
+          <mxGeometry x="3330" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-16" value="Recorded on Accrual Basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="760" width="120" height="40" as="geometry" />
@@ -4710,10 +4709,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-22" value="Sale and repurchase agreements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3330" y="1120" width="120" height="40" as="geometry" />
+          <mxGeometry x="3150" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-23" value="Sale on approval basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="1100" width="120" height="40" as="geometry" />
+          <mxGeometry x="2970" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hVwaJ4X-K8OpYtOjWtu6-24" target="hVwaJ4X-K8OpYtOjWtu6-36">
           <mxGeometry relative="1" as="geometry" />
@@ -4740,7 +4739,7 @@
           <mxGeometry x="1100" y="740" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-34" value="Advertising income will be recognized when the advt&lt;br&gt;appears before public" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="1190" width="160" height="60" as="geometry" />
+          <mxGeometry x="3310" y="1190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-36" value="recognize on&lt;br&gt;the effective commencement or renewal of policies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4190" y="1170" width="160" height="60" as="geometry" />
@@ -4749,10 +4748,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-38" value="Financial arrangement not a sale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3310" y="1190" width="160" height="50" as="geometry" />
+          <mxGeometry x="3130" y="1190" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-39" value="Recognize the interest on accrual basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3330" y="1260" width="120" height="50" as="geometry" />
+          <mxGeometry x="3150" y="1260" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
