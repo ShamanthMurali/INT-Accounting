@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T08:32:08.746Z" agent="5.0 (X11)" etag="Qwh-vvbSlGblBrESPSUc" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T08:35:34.528Z" agent="5.0 (X11)" etag="-69fetkWO2VoLQNNVum6" version="14.8.5" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="3304" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-837" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4420,6 +4420,14 @@
         <mxCell id="9i0mmIJKEikvl6Flk6vY-9" value="&lt;div&gt;Long term&lt;/div&gt;&lt;div&gt;&amp;gt; 12m&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3600" y="600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9i0mmIJKEikvl6Flk6vY-13" target="o_VkY2LLd24g5W65SIT--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3825" y="630" />
+              <mxPoint x="3825" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9i0mmIJKEikvl6Flk6vY-13" value="Investment properties" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="600" width="120" height="40" as="geometry" />
         </mxCell>
@@ -4433,16 +4441,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--1" value="Valuation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3560" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="3600" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--2" value="Seperate acquisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="3440" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--3" value="Exchange of securities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3560" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="3600" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--4" value="Exchange for assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3720" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="3760" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--8" value="Pre aquisition dividend and interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3640" y="1000" width="120" height="40" as="geometry" />
@@ -4467,6 +4475,9 @@
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--16" value="Disclousers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4120" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--17" value="Gold, building etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="640" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
