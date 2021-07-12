@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T08:14:46.208Z" agent="5.0 (X11)" etag="hNh04CFnEzoreItUhPmQ" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T08:31:29.979Z" agent="5.0 (X11)" etag="2l6nt5STHlqpOBsecUC_" version="14.8.5" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
     <mxGraphModel dx="-449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4423,6 +4423,15 @@
         <mxCell id="9i0mmIJKEikvl6Flk6vY-13" value="Investment properties" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o_VkY2LLd24g5W65SIT--1" target="o_VkY2LLd24g5W65SIT--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o_VkY2LLd24g5W65SIT--1" target="o_VkY2LLd24g5W65SIT--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o_VkY2LLd24g5W65SIT--1" target="o_VkY2LLd24g5W65SIT--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--1" value="Valuation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3560" y="680" width="120" height="40" as="geometry" />
         </mxCell>
@@ -4432,8 +4441,32 @@
         <mxCell id="o_VkY2LLd24g5W65SIT--3" value="Exchange of securities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3560" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o_VkY2LLd24g5W65SIT--4" value="Exchange for securities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o_VkY2LLd24g5W65SIT--4" value="Exchange for assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3720" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--8" value="Pre aquisition dividend and interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--9" value="Bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--10" value="Right shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--11" value="Renounced Right shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--13" value="Carring amt of investments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3960" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--14" value="Profit or loss on sale of investments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3960" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--15" value="Reclassification of investments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4120" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--16" value="Disclousers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4120" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
