@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T08:12:56.390Z" agent="5.0 (X11)" etag="PFtESl7GgeEI5Y_h5WiK" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T08:14:46.208Z" agent="5.0 (X11)" etag="hNh04CFnEzoreItUhPmQ" version="14.8.5" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
     <mxGraphModel dx="-449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4424,10 +4424,16 @@
           <mxGeometry x="3760" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--1" value="Valuation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3550" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="3560" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--2" value="Seperate acquisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="3400" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--3" value="Exchange of securities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--4" value="Exchange for securities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
