@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T08:03:48.477Z" agent="5.0 (X11)" etag="wCLGhTOeGtvuWX4txEhZ" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T08:12:56.390Z" agent="5.0 (X11)" etag="PFtESl7GgeEI5Y_h5WiK" version="14.8.5" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
     <mxGraphModel dx="-449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4371,11 +4371,11 @@
         <mxCell id="-ovA7fwRGz8A0V27au0N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-ovA7fwRGz8A0V27au0N-4" target="-ovA7fwRGz8A0V27au0N-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-ovA7fwRGz8A0V27au0N-6" target="9i0mmIJKEikvl6Flk6vY-1" edge="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-ovA7fwRGz8A0V27au0N-6" target="9i0mmIJKEikvl6Flk6vY-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;Accounting for Investments&lt;/b&gt;" treeRoot="1" id="-ovA7fwRGz8A0V27au0N-6">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" parent="1" vertex="1" collapsed="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" parent="1" vertex="1">
             <mxGeometry x="3500" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4384,44 +4384,50 @@
             <mxGeometry x="6420" y="12" width="128" height="128" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9i0mmIJKEikvl6Flk6vY-1" target="9i0mmIJKEikvl6Flk6vY-3" edge="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9i0mmIJKEikvl6Flk6vY-1" target="9i0mmIJKEikvl6Flk6vY-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-1" value="Prescribes accounting treatment of investments and carrying amount of investments in the B/S" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-1" value="Prescribes accounting treatment of investments and carrying amount of investments in the B/S" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3520" y="200" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9i0mmIJKEikvl6Flk6vY-3" target="9i0mmIJKEikvl6Flk6vY-5" edge="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9i0mmIJKEikvl6Flk6vY-3" target="9i0mmIJKEikvl6Flk6vY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-3" value="Investments are assets held for earing revenue from it in the form of interest, dividend, rent and capital appreciation." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-3" value="Investments are assets held for earing revenue from it in the form of interest, dividend, rent and capital appreciation." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3520" y="260" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-5" target="9i0mmIJKEikvl6Flk6vY-7" edge="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-5" target="9i0mmIJKEikvl6Flk6vY-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Scope&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;does not cover the following:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. it does not perscribe the accounting for incomes earned out of investments (AS-9)&lt;/div&gt;&lt;div&gt;2. Investments under leases (AS-19)&lt;/div&gt;&lt;div&gt;3. Investments of Banking companies, Insurance companies, asset management companies, venture capital companies, NBFC, and Financial institutions.&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Investments of retirement benefits plans&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Scope&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;does not cover the following:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. it does not perscribe the accounting for incomes earned out of investments (AS-9)&lt;/div&gt;&lt;div&gt;2. Investments under leases (AS-19)&lt;/div&gt;&lt;div&gt;3. Investments of Banking companies, Insurance companies, asset management companies, venture capital companies, NBFC, and Financial institutions.&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Investments of retirement benefits plans&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3520" y="340" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-8" edge="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-9" edge="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-13" edge="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-7" value="Types of investments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-7" value="Types of investments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3600" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-8" value="&lt;div&gt;Short term&lt;/div&gt;&amp;lt; 12m" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-8" value="&lt;div&gt;Short term&lt;/div&gt;&amp;lt; 12m" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3440" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-9" value="&lt;div&gt;Long term&lt;/div&gt;&lt;div&gt;&amp;gt; 12m&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-9" value="&lt;div&gt;Long term&lt;/div&gt;&lt;div&gt;&amp;gt; 12m&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3600" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-13" value="Investment properties" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="9i0mmIJKEikvl6Flk6vY-13" value="Investment properties" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--1" value="Valuation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_VkY2LLd24g5W65SIT--2" value="Seperate acquisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
