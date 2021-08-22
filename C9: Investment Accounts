@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-22T11:04:31.408Z" agent="5.0 (X11)" etag="c42nKEA3kfTxC0D2pieD" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-22T11:15:56.634Z" agent="5.0 (X11)" etag="VIs2QgOHthBT6mXY1l8P" version="14.9.8" type="github">
   <diagram id="LDDKJUwFjzUOryuSNK44" name="Page-1">
-    <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1716" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,37 +113,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-1" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-2" target="p9MBsfJitbSgYu385M8h-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-2" value="Ex - Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-3" target="p9MBsfJitbSgYu385M8h-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-3" value="Cum - Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p9MBsfJitbSgYu385M8h-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-4" target="p9MBsfJitbSgYu385M8h-10">
+        <mxCell id="p9MBsfJitbSgYu385M8h-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-4" target="p9MBsfJitbSgYu385M8h-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9MBsfJitbSgYu385M8h-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-4" target="p9MBsfJitbSgYu385M8h-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-4" value="Purchase/sale price does not include interest compensation and is separate " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="540" width="200" height="50" as="geometry" />
+          <mxGeometry x="200" y="540" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p9MBsfJitbSgYu385M8h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-6" target="p9MBsfJitbSgYu385M8h-11">
+        <mxCell id="p9MBsfJitbSgYu385M8h-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-6" target="p9MBsfJitbSgYu385M8h-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p9MBsfJitbSgYu385M8h-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-6" target="p9MBsfJitbSgYu385M8h-214">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-6" value="Purchase/sale price includes interest compensation and cost price " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="540" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="p9MBsfJitbSgYu385M8h-10" value="Cost = Purchase/sale price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="610" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="p9MBsfJitbSgYu385M8h-11" value="Cost = Purchase/sale price - Interest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="610" width="200" height="50" as="geometry" />
+          <mxGeometry x="520" y="540" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;u&gt;&lt;b&gt;Important Points&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;1. MIND INTEREST PAYMENT EVERY 6 MONTHS&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. QRS, About Ex interest or cum interest, Assume Ex interest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 2018 = CY, 2018-19 = FY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. QRS, about valuation method of Closing stock, Assume FIFO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. QRS, about NV, Assume NV = 100&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. cost = purshcase price(e.g. 98) * no of securities (100) = 9.8k&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. the cos will pay 6 months interest to who ever is holding. they will not check who was holding for what period&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" width="400" height="400" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-15" value="Valuation of closing stock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="1480" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-17" target="p9MBsfJitbSgYu385M8h-21">
           <mxGeometry relative="1" as="geometry" />
@@ -164,22 +164,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-17" value="&lt;u&gt;&lt;b&gt;Methods&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="460" width="80" height="20" as="geometry" />
+          <mxGeometry x="1500" y="460" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-19" value="WAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="1740" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-20" value="FIFO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="1220" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-21" value="LIFO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="1480" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-20" target="p9MBsfJitbSgYu385M8h-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-44" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="420" y="580" width="240" height="380" as="geometry" />
+          <mxGeometry x="1160" y="580" width="240" height="380" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p9MBsfJitbSgYu385M8h-44">
           <mxGeometry width="240" height="40" as="geometry" />
@@ -281,28 +281,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-71" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="630" width="20" height="20" as="geometry" />
+          <mxGeometry x="1300" y="630" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-72" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="630" width="20" height="20" as="geometry" />
+          <mxGeometry x="1360" y="630" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-73" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="770" width="20" height="20" as="geometry" />
+          <mxGeometry x="1300" y="770" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-74" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="770" width="20" height="20" as="geometry" />
+          <mxGeometry x="1360" y="770" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-76" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-73" target="p9MBsfJitbSgYu385M8h-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="690" as="sourcePoint" />
-            <mxPoint x="560" y="640" as="targetPoint" />
+            <mxPoint x="1250" y="690" as="sourcePoint" />
+            <mxPoint x="1300" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-167" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-19" target="p9MBsfJitbSgYu385M8h-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-128" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="940" y="580" width="240" height="380" as="geometry" />
+          <mxGeometry x="1680" y="580" width="240" height="380" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-129" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p9MBsfJitbSgYu385M8h-128">
           <mxGeometry width="240" height="40" as="geometry" />
@@ -404,28 +404,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-162" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="730" width="20" height="20" as="geometry" />
+          <mxGeometry x="1820" y="730" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-163" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="730" width="20" height="20" as="geometry" />
+          <mxGeometry x="1880" y="730" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-164" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="770" width="20" height="20" as="geometry" />
+          <mxGeometry x="1820" y="770" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-165" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="770" width="20" height="20" as="geometry" />
+          <mxGeometry x="1880" y="770" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-166" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" source="p9MBsfJitbSgYu385M8h-164" target="p9MBsfJitbSgYu385M8h-163" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="690" as="sourcePoint" />
-            <mxPoint x="1080" y="640" as="targetPoint" />
+            <mxPoint x="1770" y="690" as="sourcePoint" />
+            <mxPoint x="1820" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-207" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-21" target="p9MBsfJitbSgYu385M8h-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-168" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="680" y="580" width="240" height="380" as="geometry" />
+          <mxGeometry x="1420" y="580" width="240" height="380" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-169" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p9MBsfJitbSgYu385M8h-168">
           <mxGeometry width="240" height="40" as="geometry" />
@@ -527,21 +527,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-202" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="690" width="20" height="20" as="geometry" />
+          <mxGeometry x="1560" y="690" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-203" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="690" width="20" height="20" as="geometry" />
+          <mxGeometry x="1620" y="690" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-204" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="770" width="20" height="20" as="geometry" />
+          <mxGeometry x="1560" y="770" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-205" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="770" width="20" height="20" as="geometry" />
+          <mxGeometry x="1620" y="770" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-206" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" source="p9MBsfJitbSgYu385M8h-204" target="p9MBsfJitbSgYu385M8h-203" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="690" as="sourcePoint" />
-            <mxPoint x="820" y="640" as="targetPoint" />
+            <mxPoint x="1510" y="690" as="sourcePoint" />
+            <mxPoint x="1560" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-210" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p9MBsfJitbSgYu385M8h-208" target="p9MBsfJitbSgYu385M8h-209">
@@ -552,6 +552,18 @@
         </mxCell>
         <mxCell id="p9MBsfJitbSgYu385M8h-209" value="&lt;div&gt;Cost of Closing stock &lt;br&gt;&lt;/div&gt;&lt;div&gt;should be valued on&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cost price or Market price&lt;/div&gt;&lt;div&gt;[&lt;u&gt;&lt;b&gt;Which ever is lower&lt;/b&gt;&lt;/u&gt;]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="220" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p9MBsfJitbSgYu385M8h-211" value="Purchase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p9MBsfJitbSgYu385M8h-212" value="Sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p9MBsfJitbSgYu385M8h-213" value="Purchase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p9MBsfJitbSgYu385M8h-214" value="Sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="630" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
