@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T22:24:46.220Z" agent="5.0 (X11)" etag="Tsv7sMQj90imjhirLwII" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T23:25:02.562Z" agent="5.0 (X11)" etag="Q9eRGU847NQq6qGINgVM" version="14.9.8" type="github">
   <diagram id="6LBHzrnkjy0Y2CAQVVT9" name="Page-1">
-    <mxGraphModel dx="2109" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5047" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,9 @@
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-14" value="done by lottery" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="2697" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Psn-Js9f3CVQt8E8Ed-15" target="1hl7WfvUnwUw59ODorNT-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-15" value="done by Market operations" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="2697" width="120" height="40" as="geometry" />
@@ -256,6 +259,143 @@
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-60" value="&lt;div&gt;why bonus shares are issued?&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving dividend there will &lt;br&gt;&lt;/div&gt;&lt;div&gt;be an outflow of cash.&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving bonus shares there is &lt;br&gt;&lt;/div&gt;&lt;div&gt;no out flow of cash&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; but the SH can sell it and recover money&lt;/div&gt;&lt;div&gt;so cos and SH win&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So why on redemption?&lt;/div&gt;&lt;div&gt;due do redemption there will be a lot of cash outflow &lt;br&gt;&lt;/div&gt;&lt;div&gt;cos would not prefer to give dividend during the year.&lt;/div&gt;&lt;div&gt;so cos issues bonus shares instead of dividend, and there be no cash outflow due to dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-59">
           <mxGeometry y="40" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hl7WfvUnwUw59ODorNT-62" target="1hl7WfvUnwUw59ODorNT-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hl7WfvUnwUw59ODorNT-62" target="1hl7WfvUnwUw59ODorNT-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="2860" />
+              <mxPoint x="1705" y="2860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-62" value="&lt;div&gt;In case of open market operation, company purchases its own debentures from open market for immediate cancellation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cos pays deb int to the deb only up to the date of purchase and cancellation&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2760" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-64" value="&lt;div&gt;Method 1&lt;/div&gt;&lt;div&gt;Direct cancellation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-65" value="&lt;div&gt;Method 2&lt;/div&gt;cancellation through own debenture a/c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="2880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1hl7WfvUnwUw59ODorNT-64" target="1hl7WfvUnwUw59ODorNT-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-66" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="2940" width="390.0000000000009" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-67" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-66">
+          <mxGeometry width="390.0000000000009" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-68" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(a) Int upto date of purchase and cancellation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Debenture int&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Bank&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;[NV of deb pur x ROI x Period/12]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-67">
+          <mxGeometry width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-69" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-67">
+          <mxGeometry x="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-70" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-67">
+          <mxGeometry x="330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-71" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-66">
+          <mxGeometry y="80" width="390.0000000000009" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-72" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(b) cancellation&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;x% deb(NV of deb pur)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To bank(EIP or CIP - Interest)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Profit On Cancellation(NV - zzz)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-71">
+          <mxGeometry width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-73" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;x&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-71">
+          <mxGeometry x="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-74" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;zzz&lt;br&gt;&lt;/div&gt;&lt;div&gt;x&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-71">
+          <mxGeometry x="330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hl7WfvUnwUw59ODorNT-87" target="1hl7WfvUnwUw59ODorNT-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-87" value="Debenture a/c" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="960" y="3120" width="520" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-88" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-87">
+          <mxGeometry y="30" width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-89" value="&lt;div&gt;To bank&lt;/div&gt;&lt;div&gt;(For EIP&lt;/div&gt;&lt;div&gt;NV of pur x x% of purchase price&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For EIP&lt;div&gt;NV of pur * x% of purchase price - Interest)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-88">
+          <mxGeometry width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-90" value="&lt;div&gt;yyy&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-88">
+          <mxGeometry x="220" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-91" value="&lt;div&gt;By bal b/d&lt;/div&gt;&lt;div&gt;(Existing debenture)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-88">
+          <mxGeometry x="260" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-92" value="&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-88">
+          <mxGeometry x="480" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-93" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-87">
+          <mxGeometry y="140" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-94" value="&lt;div&gt;To Profit On Cancellation&lt;/div&gt;&lt;div&gt;(NV of pur - yyy)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-93">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-95" value="xxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-93">
+          <mxGeometry x="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-96" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-93">
+          <mxGeometry x="260" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-93">
+          <mxGeometry x="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1hl7WfvUnwUw59ODorNT-71" target="1hl7WfvUnwUw59ODorNT-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-99" value="Debenture interest a/c" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="960" y="3320" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-99">
+          <mxGeometry y="30" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-101" value="&lt;div&gt;To bank&lt;/div&gt;&lt;div&gt;(NV of pur * ROI * period/12)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-100">
+          <mxGeometry width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-102" value="&lt;div&gt;yyy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-100">
+          <mxGeometry x="220" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-103" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-100">
+          <mxGeometry x="260" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-104" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-100">
+          <mxGeometry x="480" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1hl7WfvUnwUw59ODorNT-65" target="1hl7WfvUnwUw59ODorNT-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-111" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="2960" width="390.0000000000009" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-112" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-111">
+          <mxGeometry width="390.0000000000009" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-113" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(a) Purchase of own deb&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Own debentures (EIP)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Interest (Upto date of purchase)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Bank (CIP)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;[NV of deb pur x ROI x Period/12]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-112">
+          <mxGeometry width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-114" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-112">
+          <mxGeometry x="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-115" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-112">
+          <mxGeometry x="330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-116" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-111">
+          <mxGeometry y="80" width="390.0000000000009" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-117" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(b) cancellation&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;x% deb(NV of deb pur)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Own debentures (EIP)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Profit/loss On Cancellation(NV - zzz)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[POC should be transferred to Capital &lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;reserve&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;LOC should be &lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;transferred to P/L a/c]&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-116">
+          <mxGeometry width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-118" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-116">
+          <mxGeometry x="270" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-119" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;zzz&lt;br&gt;&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-116">
+          <mxGeometry x="330" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
