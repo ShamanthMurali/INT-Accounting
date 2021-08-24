@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T13:37:59.123Z" agent="5.0 (X11)" etag="aeztu2VrCdIk3BZaaxvW" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T13:39:13.445Z" agent="5.0 (X11)" etag="8Bav7X2fukwKgP3b_vXE" version="14.9.8" type="github">
   <diagram id="6LBHzrnkjy0Y2CAQVVT9" name="Page-1">
-    <mxGraphModel dx="2948" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1899" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,10 +248,10 @@
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-59" value="Why" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="680" y="2945" width="60" height="20" as="geometry">
-            <mxRectangle x="1380" y="2610" width="300" height="250" as="alternateBounds" />
+            <mxRectangle x="680" y="2945" width="300" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1hl7WfvUnwUw59ODorNT-60" value="&lt;div&gt;why bonus shares are issued?&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving dividend there will &lt;br&gt;&lt;/div&gt;&lt;div&gt;be an outflow of cash.&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving bonus shares there is &lt;br&gt;&lt;/div&gt;&lt;div&gt;no out flow of cash&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; but the SH can sell it and recover money&lt;/div&gt;&lt;div&gt;so cos and SH win&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So why on redemption?&lt;/div&gt;&lt;div&gt;due do redemption there will be a lot of cash outflow &lt;br&gt;&lt;/div&gt;&lt;div&gt;cos would not prefer to give dividend during the year.&lt;/div&gt;&lt;div&gt;so cos issues bonus shares instead of dividend, and there be no cash outflow for dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-59">
+        <mxCell id="1hl7WfvUnwUw59ODorNT-60" value="&lt;div&gt;why bonus shares are issued?&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving dividend there will &lt;br&gt;&lt;/div&gt;&lt;div&gt;be an outflow of cash.&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving bonus shares there is &lt;br&gt;&lt;/div&gt;&lt;div&gt;no out flow of cash&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; but the SH can sell it and recover money&lt;/div&gt;&lt;div&gt;so cos and SH win&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So why on redemption?&lt;/div&gt;&lt;div&gt;due do redemption there will be a lot of cash outflow &lt;br&gt;&lt;/div&gt;&lt;div&gt;cos would not prefer to give dividend during the year.&lt;/div&gt;&lt;div&gt;so cos issues bonus shares instead of dividend, and there be no cash outflow due to dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-59">
           <mxGeometry y="40" width="300" height="210" as="geometry" />
         </mxCell>
       </root>
