@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T09:28:10.792Z" agent="5.0 (X11)" etag="qqOvF8eA3MQXYMHxMne5" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T11:45:56.576Z" agent="5.0 (X11)" etag="kyJntCUY-zKUEswny0Gs" version="14.9.8" type="github">
   <diagram id="6LBHzrnkjy0Y2CAQVVT9" name="Page-1">
-    <mxGraphModel dx="4447" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2948" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="720" y="80" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-2" value="After allotment of debentures" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="250" y="660" width="400" height="900" as="geometry" />
+          <mxGeometry x="250" y="660" width="400" height="920" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WsZgN_12qPc8Sy1jw0cf-2" vertex="1">
           <mxGeometry y="30" width="400" height="90" as="geometry" />
@@ -98,16 +98,16 @@
           <mxGeometry x="340" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-24" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WsZgN_12qPc8Sy1jw0cf-2">
-          <mxGeometry y="670" width="400" height="230" as="geometry" />
+          <mxGeometry y="670" width="400" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="1hl7WfvUnwUw59ODorNT-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;(f) Conversion from deb to ES&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(1) Due for conversion&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;x% debenture a/c Dr.&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Debenture holder&lt;/div&gt;&lt;div&gt;[deb x convertible portion %]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(2) NOES issued&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;=(deb * convertible portion%) / FV of ES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Debenture holder a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Securities premium a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To ESC a/c (NOES issues x FV)&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-24">
-          <mxGeometry width="280" height="230" as="geometry" />
+        <mxCell id="1hl7WfvUnwUw59ODorNT-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;(f) Conversion from deb to ES&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(1) Due for conversion&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;x% debenture a/c Dr.&lt;/div&gt;&lt;div&gt;Premium on redemption&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Debenture holder&lt;/div&gt;&lt;div&gt;[deb x convertible portion %]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(2) NOES issued&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;=(deb * convertible portion%) / FV of ES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Debenture holder a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Securities premium a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To ESC a/c (NOES issues x FV)&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-24">
+          <mxGeometry width="280" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-24">
-          <mxGeometry x="280" width="60" height="230" as="geometry" />
+          <mxGeometry x="280" width="60" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-27" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-24">
-          <mxGeometry x="340" width="60" height="230" as="geometry" />
+          <mxGeometry x="340" width="60" height="250" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-32" value="At the time of redemption of debentures" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="670" y="660" width="400" height="350" as="geometry" />
