@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T11:45:56.576Z" agent="5.0 (X11)" etag="kyJntCUY-zKUEswny0Gs" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T13:37:59.123Z" agent="5.0 (X11)" etag="aeztu2VrCdIk3BZaaxvW" version="14.9.8" type="github">
   <diagram id="6LBHzrnkjy0Y2CAQVVT9" name="Page-1">
     <mxGraphModel dx="2948" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,13 +11,13 @@
           <mxGeometry x="240" y="80" width="360" height="440" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-4" value="Methods of redemption" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="2370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-6" value="By cash" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="2450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-7" value="By conversion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="17.5" y="2440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t-Psn-Js9f3CVQt8E8Ed-8" target="t-Psn-Js9f3CVQt8E8Ed-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,40 +26,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-8" value="&lt;div&gt;Installment &lt;br&gt;&lt;/div&gt;&lt;div&gt;repayment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="750" y="2517" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-9" value="&lt;div&gt;Lump-sum &lt;br&gt;&lt;/div&gt;&lt;div&gt;repayment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="2519.5" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t-Psn-Js9f3CVQt8E8Ed-10" target="t-Psn-Js9f3CVQt8E8Ed-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t-Psn-Js9f3CVQt8E8Ed-10" target="t-Psn-Js9f3CVQt8E8Ed-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010.0000000000005" y="2696.9999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-10" value="&lt;div&gt;Way 2&lt;/div&gt;&lt;div&gt;Redeem some debentures &lt;br&gt;&lt;/div&gt;&lt;div&gt;of entire amount&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="340" width="160" height="60" as="geometry" />
+          <mxGeometry x="850" y="2597" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t-Psn-Js9f3CVQt8E8Ed-11" target="t-Psn-Js9f3CVQt8E8Ed-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-11" value="&lt;div&gt;Way 1&lt;/div&gt;Redeem some amount from all debentures" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="340" width="160" height="60" as="geometry" />
+          <mxGeometry x="610" y="2597" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-14" value="done by lottery" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1910" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="790" y="2697" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-15" value="done by Market operations" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="950" y="2697" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t-Psn-Js9f3CVQt8E8Ed-18" value="Not allowed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="2677" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-1" value="&lt;div&gt;Important points&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. DRR and DRRI should be created on date on date of allotment&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;4. debenture interest&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;a. it should be first calculated from date of allotment to date of interest&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;b. should be paid on convertable debentures upto date of conversion&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;c. at the year end entire deb int should be transfered to P/L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. bonus shares&lt;/div&gt;&lt;div&gt;a. bonus declared&lt;/div&gt;&lt;div&gt;CRR &lt;br&gt;&lt;/div&gt;&lt;div&gt;SP&lt;/div&gt;&lt;div&gt;CR&lt;/div&gt;&lt;div&gt;DP&lt;/div&gt;&lt;div&gt;To bonus to ESH&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Bonus distribution&lt;/div&gt;&lt;div&gt;bonus to ESH&lt;/div&gt;&lt;div&gt;To ESH&lt;/div&gt;&lt;div&gt;note: bonus shares can only be issued at par&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="80" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-2" value="After allotment of debentures" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="250" y="660" width="400" height="920" as="geometry" />
+          <mxGeometry x="225" y="910" width="400" height="920" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WsZgN_12qPc8Sy1jw0cf-2" vertex="1">
           <mxGeometry y="30" width="400" height="90" as="geometry" />
@@ -100,7 +102,7 @@
         <mxCell id="1hl7WfvUnwUw59ODorNT-24" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WsZgN_12qPc8Sy1jw0cf-2">
           <mxGeometry y="670" width="400" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="1hl7WfvUnwUw59ODorNT-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;(f) Conversion from deb to ES&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(1) Due for conversion&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;x% debenture a/c Dr.&lt;/div&gt;&lt;div&gt;Premium on redemption&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Debenture holder&lt;/div&gt;&lt;div&gt;[deb x convertible portion %]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(2) NOES issued&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;=(deb * convertible portion%) / FV of ES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Debenture holder a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Securities premium a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To ESC a/c (NOES issues x FV)&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-24">
+        <mxCell id="1hl7WfvUnwUw59ODorNT-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;(f) Conversion from deb to ES&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(1) Due for conversion&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;x% debenture a/c Dr.&lt;/div&gt;&lt;div&gt;Premium on redemption&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Debenture holder&lt;/div&gt;&lt;div&gt;[deb x convertible portion %]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(2) NOES issued&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;=(deb * convertible portion%) / FV of ES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Debenture holder a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To Securities premium a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;To ESC a/c (NOES issues x FV)&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-24">
           <mxGeometry width="280" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-24">
@@ -110,7 +112,7 @@
           <mxGeometry x="340" width="60" height="250" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-32" value="At the time of redemption of debentures" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="670" y="660" width="400" height="350" as="geometry" />
+          <mxGeometry x="225" y="1870" width="400" height="350" as="geometry" />
         </mxCell>
         <mxCell id="WsZgN_12qPc8Sy1jw0cf-33" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WsZgN_12qPc8Sy1jw0cf-32" vertex="1">
           <mxGeometry y="30" width="400" height="90" as="geometry" />
@@ -161,7 +163,7 @@
           <mxGeometry x="340" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-1" value="On application" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="660" width="400" height="350" as="geometry" />
+          <mxGeometry x="225" y="560" width="400" height="350" as="geometry" />
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-1">
           <mxGeometry y="30" width="400" height="90" as="geometry" />
@@ -210,6 +212,47 @@
         </mxCell>
         <mxCell id="1hl7WfvUnwUw59ODorNT-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-14">
           <mxGeometry x="340" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t-Psn-Js9f3CVQt8E8Ed-7" target="1hl7WfvUnwUw59ODorNT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-28" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="2500" width="405" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-28">
+          <mxGeometry width="405" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-30" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;Conversion from deb to ES&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&lt;u&gt;&lt;b&gt;(1) Amounts payable&lt;/b&gt;&lt;/u&gt;&lt;br&gt;x% debenture a/c Dr.&lt;br&gt;Premium on redemption a/c Dr.&lt;br&gt;&amp;nbsp;To Debenture holder a/c&lt;br&gt;[deb x convertible portion %]&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;(2) NOES issued&lt;/b&gt;&lt;/u&gt;&lt;br&gt;=(deb * convertible portion%) / FV of ES&lt;br&gt;&lt;br&gt;Debenture holder a/c Dr.&lt;br&gt;&amp;nbsp;To Securities premium a/c&lt;br&gt;&amp;nbsp;To ESC a/c (NOES issues x FV)&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;(3) Close PRD a/c t/fing to P/L&lt;/b&gt;&lt;/u&gt;&lt;br&gt;P/L a/c Dr.&lt;br&gt;To PRD a/c&lt;br&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-29">
+          <mxGeometry width="285" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-31" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-29">
+          <mxGeometry x="285" width="60" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-29">
+          <mxGeometry x="345" width="60" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2770" width="500" height="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-40" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-39">
+          <mxGeometry width="500" height="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-41" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Step1: Arranging money for repayment&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(a) By fresh issue of ES&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Bank a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;&lt;/span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To ESC a/c&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Securities premium a/c&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(b) sale of Fixed assets&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;bank a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To fixed assets a/c&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;step 2: issue of bonus shares&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(a) Declare&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Capital Redemption Reserve a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Securities Premium a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Capital Reserve a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Divisible Profits a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Bonus to ESH a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(b) Distribute bonus&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;bonus to ESH &lt;/span&gt;a/c Dr.&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To ESC&lt;/span&gt; a/c&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3: check and create&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(a) DRR&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;DP a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To DRR a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;[10% of total nv of deb - &lt;u&gt;existing DRR&lt;/u&gt;]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(b) DRRI&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;DRRI a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To bank a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;[15% of total NV of deb - &lt;u&gt;existing DRRI&lt;/u&gt;]&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;step 4: At the time of Redemption&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(a) Sell DRRI&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Bank  a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To DRRI a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;[if only a portion of deb is redeemed the sell equivalent&lt;/div&gt;&lt;div&gt; &lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;portion of DRRI (find out by &lt;span&gt;&lt;/span&gt;cross multiplying)]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(b) Payable to deb holders&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;x% debentures  a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;PRD a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Debenture holder a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(c) Paid to Deb holder&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;deb holder  a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To bank&lt;span&gt; a/c&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;span&gt;Step 5: After redemption&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;span&gt;(a) Close DRR by t/fing to GR&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;DRR&lt;/span&gt; a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To GR&lt;/span&gt; a/c&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;span&gt;(b) Close PRD by t/f to P/L&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;P/L&lt;/span&gt; a/c Dr.&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To PRD&lt;/span&gt; a/c&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;span&gt;Step 6: Notes to a/c&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;span&gt;(a) share capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;(b) Reserves and surplus&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;(c) CCE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;(d) Any if required&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;span&gt;Step 7: B/S as per sch III&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-40">
+          <mxGeometry width="400" height="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-40">
+          <mxGeometry x="400" width="50" height="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-43" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-40">
+          <mxGeometry x="450" width="50" height="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-59" value="Why" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="680" y="2945" width="60" height="20" as="geometry">
+            <mxRectangle x="1380" y="2610" width="300" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1hl7WfvUnwUw59ODorNT-60" value="&lt;div&gt;why bonus shares are issued?&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving dividend there will &lt;br&gt;&lt;/div&gt;&lt;div&gt;be an outflow of cash.&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if you are giving bonus shares there is &lt;br&gt;&lt;/div&gt;&lt;div&gt;no out flow of cash&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; but the SH can sell it and recover money&lt;/div&gt;&lt;div&gt;so cos and SH win&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So why on redemption?&lt;/div&gt;&lt;div&gt;due do redemption there will be a lot of cash outflow &lt;br&gt;&lt;/div&gt;&lt;div&gt;cos would not prefer to give dividend during the year.&lt;/div&gt;&lt;div&gt;so cos issues bonus shares instead of dividend, and there be no cash outflow for dividend&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1hl7WfvUnwUw59ODorNT-59">
+          <mxGeometry y="40" width="300" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
