@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T20:06:21.408Z" agent="5.0 (X11)" version="14.9.9" etag="6b9ODmEkiEiWaSDYYtA5" type="github"><diagram id="kWNjaML-fits-LTZLQbX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-25T23:23:47.227Z" agent="5.0 (X11)" etag="adD7Uj1QHFhKqt9ZxAS8" version="14.9.9" type="github">
+  <diagram id="kWNjaML-fits-LTZLQbX" name="Page-1">
+    <mxGraphModel dx="1045" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-1" target="igYmjVa_Mxe0zANB_HV1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-1" value="redemption of preference shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-3" value="&lt;div&gt;These are those shares which have a - &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Priority in payment of dividend&lt;/div&gt;&lt;div&gt;b. priority in repayment of capital&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Redemption means cancellation of rights by conversion to equity shares or&lt;br&gt;by repayment in cash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;as per cos act, bonus shares must be redeemed with in 20 years&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-9" value="&lt;u&gt;&lt;b&gt;Conditions for redemption&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-10" value="&lt;u&gt;&lt;b&gt;1. Only fully paid up preference shares can be redeemed&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;shares can be partly paid for the following reasons&lt;/div&gt;a. uncalled capital - entire shares cannot be redeemed&lt;br&gt;b. calls in arrears - only shares with CIA cannot be redeemed, rest can be redeemed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-11" target="igYmjVa_Mxe0zANB_HV1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-11" value="&lt;u&gt;&lt;b&gt;2. preference shares cannot be redeemed at discount&lt;/b&gt;&lt;/u&gt;&lt;br&gt;i.e PS can only be redeemed at par or premium&lt;br&gt;or&lt;br&gt;redemption price &amp;gt; nominal value&lt;br&gt;and premium is known as &quot;premium on redemption of preference shares(PRPD)&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-14" target="igYmjVa_Mxe0zANB_HV1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-14" target="igYmjVa_Mxe0zANB_HV1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-14" value="PRPD should be written off against" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-16" target="igYmjVa_Mxe0zANB_HV1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-16" value="&lt;div&gt;For big companies&lt;br&gt;&lt;/div&gt;&lt;div&gt;i.e cos covered u/s 133&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="660" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-17" target="igYmjVa_Mxe0zANB_HV1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-17" value="&lt;div&gt;For Small companies&lt;/div&gt;&lt;div&gt;i.e cos not covered u/s 133&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="660" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-18" target="igYmjVa_Mxe0zANB_HV1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-18" value="Should be written off against &lt;b&gt;divisible profits only&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-21" value="&lt;div&gt;should be written off against&lt;/div&gt;&lt;div&gt;1st pref - securities premium&lt;/div&gt;&lt;div&gt;2nd pref - divisible profits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="720" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-25" value="QRS = big co" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-27" value="&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Due to redemption of preference shares&lt;/b&gt;&lt;/u&gt; share capital of the company decrease &lt;br&gt;&lt;/div&gt;&lt;div&gt;and hence there is a &lt;u&gt;&lt;b&gt;capital gap created in the capital structure&lt;/b&gt;&lt;/u&gt; of the company such capital&amp;nbsp; gap &lt;u&gt;&lt;b&gt;should be filled by&lt;/b&gt;&lt;/u&gt; either by - &lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) Fresh issue of shares, or&lt;/div&gt;&lt;div&gt;(b) Creation of CRR, or&lt;/div&gt;&lt;div&gt;(c) combination of both&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="860" width="480" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
