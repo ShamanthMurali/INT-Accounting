@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T23:23:47.227Z" agent="5.0 (X11)" etag="adD7Uj1QHFhKqt9ZxAS8" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T23:49:46.237Z" agent="5.0 (X11)" etag="jkaMeokvoxqCEN6ub3UB" version="14.9.9" type="github">
   <diagram id="kWNjaML-fits-LTZLQbX" name="Page-1">
-    <mxGraphModel dx="1045" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="520" height="720" as="geometry" />
+        </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-1" target="igYmjVa_Mxe0zANB_HV1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -14,16 +17,16 @@
           <mxGeometry x="280" y="80" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-9" value="&lt;u&gt;&lt;b&gt;Conditions for redemption&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="280" width="160" height="40" as="geometry" />
+          <mxGeometry x="340" y="280" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-10" value="&lt;u&gt;&lt;b&gt;1. Only fully paid up preference shares can be redeemed&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;shares can be partly paid for the following reasons&lt;/div&gt;a. uncalled capital - entire shares cannot be redeemed&lt;br&gt;b. calls in arrears - only shares with CIA cannot be redeemed, rest can be redeemed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="480" height="80" as="geometry" />
+          <mxGeometry x="180" y="360" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-11" target="igYmjVa_Mxe0zANB_HV1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-11" value="&lt;u&gt;&lt;b&gt;2. preference shares cannot be redeemed at discount&lt;/b&gt;&lt;/u&gt;&lt;br&gt;i.e PS can only be redeemed at par or premium&lt;br&gt;or&lt;br&gt;redemption price &amp;gt; nominal value&lt;br&gt;and premium is known as &quot;premium on redemption of preference shares(PRPD)&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="480" height="80" as="geometry" />
+          <mxGeometry x="180" y="480" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-14" target="igYmjVa_Mxe0zANB_HV1-16">
           <mxGeometry relative="1" as="geometry" />
@@ -32,34 +35,94 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-14" value="PRPD should be written off against" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-16" target="igYmjVa_Mxe0zANB_HV1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-16" value="&lt;div&gt;For big companies&lt;br&gt;&lt;/div&gt;&lt;div&gt;i.e cos covered u/s 133&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="660" width="160" height="40" as="geometry" />
+          <mxGeometry x="250" y="660" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-17" target="igYmjVa_Mxe0zANB_HV1-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-17" value="&lt;div&gt;For Small companies&lt;/div&gt;&lt;div&gt;i.e cos not covered u/s 133&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="660" width="160" height="40" as="geometry" />
+          <mxGeometry x="430" y="660" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-18" target="igYmjVa_Mxe0zANB_HV1-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-18" value="Should be written off against &lt;b&gt;divisible profits only&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="720" width="160" height="40" as="geometry" />
+          <mxGeometry x="250" y="720" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-21" value="&lt;div&gt;should be written off against&lt;/div&gt;&lt;div&gt;1st pref - securities premium&lt;/div&gt;&lt;div&gt;2nd pref - divisible profits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="720" width="160" height="50" as="geometry" />
+          <mxGeometry x="430" y="720" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-25" value="QRS = big co" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="780" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-27" value="&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Due to redemption of preference shares&lt;/b&gt;&lt;/u&gt; share capital of the company decrease &lt;br&gt;&lt;/div&gt;&lt;div&gt;and hence there is a &lt;u&gt;&lt;b&gt;capital gap created in the capital structure&lt;/b&gt;&lt;/u&gt; of the company such capital&amp;nbsp; gap &lt;u&gt;&lt;b&gt;should be filled by&lt;/b&gt;&lt;/u&gt; either by - &lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) Fresh issue of shares, or&lt;/div&gt;&lt;div&gt;(b) Creation of CRR, or&lt;/div&gt;&lt;div&gt;(c) combination of both&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="860" width="480" height="100" as="geometry" />
+          <mxGeometry x="180" y="860" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-29" target="igYmjVa_Mxe0zANB_HV1-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-29" value="CRR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-31" target="igYmjVa_Mxe0zANB_HV1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-31" value="1. CRR = NV of PS redeemed - NV of fresh issue of shares&lt;br&gt;&lt;br&gt;2. if fresh issue of shares are partly paid up, then instead of NV of fresh issue of shares use paid up value of fresh issued shares&lt;br&gt;&lt;br&gt;3. CRR should also be created on&lt;br&gt;a. PS with calls in arrears&lt;br&gt;b. share forfeited but not re-issued&lt;br&gt;&lt;br&gt;4. CRR is created out of divisible profits&lt;br&gt;&lt;br&gt;5. CRR can only be used for issue of bonus shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1080" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-32" value="CRR = " style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1310" width="320" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-33" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-32">
+          <mxGeometry y="30" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-34" value="NV of PS redeemed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-33">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-35" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-33">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-32">
+          <mxGeometry y="70" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-37" value="NV of Shares in CIA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-36">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-38" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-36">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-32">
+          <mxGeometry y="110" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-40" value="NV of shares forfeitured but not reissued" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-39">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-41" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-39">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-32">
+          <mxGeometry y="150" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-43" value="&lt;div&gt;(-) NV or paid up value of equity shares&lt;/div&gt;&lt;div&gt;[which ever is lower]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-42">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-44" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-42">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-32">
+          <mxGeometry y="190" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-46" value="CRR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-45">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-47" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-45">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
