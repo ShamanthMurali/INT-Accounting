@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T00:16:17.912Z" agent="5.0 (X11)" etag="__N4lemFHaj-RBoQ71pQ" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T00:26:33.625Z" agent="5.0 (X11)" etag="eo-FssEl8YtTBvrfM93q" version="14.9.9" type="github">
   <diagram id="kWNjaML-fits-LTZLQbX" name="Page-1">
-    <mxGraphModel dx="717" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2104" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,6 +183,120 @@
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-71" value="&lt;div&gt;Those SH who could not &lt;span style=&quot;white-space: pre&quot;&gt;be found at the time of redemption&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; transfer them to other current liabilities&lt;/div&gt;&lt;div&gt;&amp;gt; if they cannot be found, its profit for the cos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="2020" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-73" target="igYmjVa_Mxe0zANB_HV1-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-73" target="igYmjVa_Mxe0zANB_HV1-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-73" target="igYmjVa_Mxe0zANB_HV1-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-73" target="igYmjVa_Mxe0zANB_HV1-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-73" target="igYmjVa_Mxe0zANB_HV1-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-73" target="igYmjVa_Mxe0zANB_HV1-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-73" value="&lt;div&gt;Step 1&lt;/div&gt;&lt;div&gt;Arranging money&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-74" value="sale of FA or investments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-75" value="Share call" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-76" value="issue of ES or right shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-77" value="Issue of debentures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-78" value="Recovery of CIA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-79" value="&lt;div&gt;share forfeiture&lt;/div&gt;&lt;div&gt;&amp;nbsp;and re-issue&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-74" target="igYmjVa_Mxe0zANB_HV1-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-80" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2300" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-81" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-80">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-82" value="&lt;div align=&quot;left&quot;&gt;Bank&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To FA or investment&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-81">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-83" value="&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-81">
+          <mxGeometry x="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-84" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-81">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-76" target="igYmjVa_Mxe0zANB_HV1-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-86" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="2300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-87" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-86">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-88" value="&lt;div align=&quot;left&quot;&gt;Bank&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To ESC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To Securities prem&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-87">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-89" value="&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-87">
+          <mxGeometry x="120" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-90" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-87">
+          <mxGeometry x="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-77" target="igYmjVa_Mxe0zANB_HV1-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-92" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-93" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-92">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-94" value="&lt;div align=&quot;left&quot;&gt;Bank&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To x% deb&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To Securities prem&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-93">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-95" value="&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-93">
+          <mxGeometry x="120" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-96" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-93">
+          <mxGeometry x="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-75" target="igYmjVa_Mxe0zANB_HV1-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-98" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2300" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-99" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-98">
+          <mxGeometry width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-100" value="&lt;div align=&quot;left&quot;&gt;(a) made due&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;share call&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To share capital&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(b) Received&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Bank&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To share call&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-99">
+          <mxGeometry width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-101" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-99">
+          <mxGeometry x="120" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-102" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;xx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="igYmjVa_Mxe0zANB_HV1-99">
+          <mxGeometry x="160" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-110" value="&lt;div&gt;Step 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;CRR&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
