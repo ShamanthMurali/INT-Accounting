@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T08:03:59.124Z" agent="5.0 (X11)" etag="pKXbeHEwCPqRaBQfOaMB" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T00:54:08.774Z" agent="5.0 (X11)" etag="Jh6uV6ea1wNv8CxB10ja" version="15.0.2" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5289" dy="2891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -924,8 +924,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-320" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-12">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-12" target="pxmkQ-oCzDpBry00P6ab-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;Valuation of Inventories&lt;/b&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" parent="1" vertex="1">
             <mxGeometry x="-420" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -5616,6 +5619,222 @@
         </mxCell>
         <mxCell id="8OMPYJSG5cPUa__PFV5K-229" value="&lt;div&gt;(a)The effective date of the revaluation;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Whether an independent valuer was involved;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The methods and significant assumptions applied in estimating fair values of the items;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)The&amp;nbsp; extent&amp;nbsp; to&amp;nbsp; which&amp;nbsp; fair&amp;nbsp; values&amp;nbsp; of&amp;nbsp; the&amp;nbsp; items&amp;nbsp; were&amp;nbsp; determined&amp;nbsp; directly&amp;nbsp; by reference&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; observable&amp;nbsp;&amp;nbsp; prices&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; active&amp;nbsp;&amp;nbsp; market&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; recent&amp;nbsp;&amp;nbsp; market transactions on arm’s length terms or were estimated using other valuation techniques; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The&amp;nbsp; revaluation&amp;nbsp; surplus,&amp;nbsp; indicating&amp;nbsp; the&amp;nbsp; change&amp;nbsp; for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; and&amp;nbsp; any restrictions on the distribution of the balance to shareholders.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3330" y="900" width="480" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-1" target="pxmkQ-oCzDpBry00P6ab-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-1" value="Objective: To prescribe the computational method to calculate cost method to calculate cost of the inventory and the value of closing stock as on the above B/S date." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="180" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Applicability&lt;/b&gt;&lt;/u&gt;: To all enterprises.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;excludes the following&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) WIP of services (As 9)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) WIP of construction contracts (As 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) Securities held for sale i.e Current investments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) Natural resources, minerals, quaries.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(e) Livestock agricultural produces etc&lt;br&gt;(normally valued at NRV, so AS 2 NA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="260" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-4" target="pxmkQ-oCzDpBry00P6ab-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-6" target="pxmkQ-oCzDpBry00P6ab-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="500" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-6">
+          <mxGeometry width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-8" value="Inventory" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-7">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-9" value="Stock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-7">
+          <mxGeometry x="180" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-6">
+          <mxGeometry y="40" width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-11" value="&lt;div&gt;An asset,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a.) held for sale in ordinary course of business(FG)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b.) In process of production(WIP)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c.) Held as supplies to be consumed in production process(RM)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d.) spare parts and loose tools(other than PPE)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;inventory = stock in trade&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-10">
+          <mxGeometry width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-12" value="&lt;div&gt;collection of items&lt;/div&gt;&lt;div&gt;i.e stock of RM/WIP/FG, stock&lt;/div&gt;&lt;div&gt; of stationary, stock of old news paper etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;stock is wider scope than inventory&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;stock need not be always in the &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;course of business&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-10">
+          <mxGeometry x="180" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-14" target="pxmkQ-oCzDpBry00P6ab-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Valuation principle of Inventory&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 18px&quot;&gt;Lower of cost or NRV&lt;/font&gt;&lt;/div&gt;&lt;div&gt;for FG &amp;amp; WIP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="780" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disclosures&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;• Accounting policy adopted in measuring inventories.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Cost formula used.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• Classification of Inventories. As raw materials, WIP, finished goods, stock in trade,&lt;br&gt;stores and spare parts, loose tools, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="780" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-17" value="cost of Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-19" target="pxmkQ-oCzDpBry00P6ab-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-19" value="Other cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-20" target="pxmkQ-oCzDpBry00P6ab-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-20" value="Conversion cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-21" value="Purchase cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-21" target="pxmkQ-oCzDpBry00P6ab-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-25" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="1080" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-25">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-27" value="Purchase price" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-26">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-28" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-26">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-25">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-30" value="(-) Trade discount" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-29">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-31" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-29">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-25">
+          <mxGeometry y="80" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-33" value="&lt;div&gt;(+)&lt;/div&gt;&lt;div&gt;1. non refundable Taxes(i.e. other than ITC in GST)&lt;/div&gt;&lt;div&gt; 2. Loading charges&lt;/div&gt;&lt;div&gt;3. Transportation (including transit insurance)&lt;/div&gt;&lt;div&gt;4. Tolls&lt;/div&gt;&lt;div&gt;5. any other incurred until the goods reach the godown / Factory &lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-32">
+          <mxGeometry width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-34" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-32">
+          <mxGeometry x="220" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-35" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-25">
+          <mxGeometry y="240" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-36" value="Purchase cost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-35">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-37" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pxmkQ-oCzDpBry00P6ab-35">
+          <mxGeometry x="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-52" target="pxmkQ-oCzDpBry00P6ab-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-52" target="pxmkQ-oCzDpBry00P6ab-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-52" value="Processing cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-53" value="&lt;div&gt;Cost incurred to bring the goods to current location and condition&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* primary packing is cost of goods&lt;/div&gt;&lt;div&gt;secondary packing is selling and distribution expense&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* unloading charges and transport cost from factory to Point of sale&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1080" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-55" target="pxmkQ-oCzDpBry00P6ab-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-55" value="Variable cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-58" target="pxmkQ-oCzDpBry00P6ab-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-58" target="pxmkQ-oCzDpBry00P6ab-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-58" value="Fixed cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-59" target="pxmkQ-oCzDpBry00P6ab-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-59" value="Absorbed on the basics of normal production" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-64" value="&lt;div&gt;`=Cost/\text{actual production qty}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-67" target="pxmkQ-oCzDpBry00P6ab-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-67" value="Actual production &amp;lt; normal production" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-68" target="pxmkQ-oCzDpBry00P6ab-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-68" value="Actual production &amp;lt; normal production" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-69" value="Under absorption debited to P/L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-72" value="&lt;div&gt;`=Cost/\text{actual production qty}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-73" target="pxmkQ-oCzDpBry00P6ab-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-73" value="&lt;div&gt;Over absorption&lt;/div&gt;&lt;div&gt;use actually production for absorption&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-79" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exclusions from cost of inventory&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. admin costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. selling and distribution cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. storage cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. abnormal cost&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Abnormal loss to be excluded from value of inventory &amp;amp; Dr to PIL Alc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt; But Normal Loss to remain in value of inventory)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;5. interest and finance charges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="1600" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-80" target="pxmkQ-oCzDpBry00P6ab-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-80" target="pxmkQ-oCzDpBry00P6ab-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-80" value="&lt;div&gt;Cost Formula &lt;br&gt;&lt;/div&gt;&lt;div&gt;(used to value cost of closing inventory)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-81" target="pxmkQ-oCzDpBry00P6ab-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-81" value="Non-interchangeable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-82" target="pxmkQ-oCzDpBry00P6ab-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-82" value="Interchangeable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-83" target="pxmkQ-oCzDpBry00P6ab-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-83" value="Goods which are high in value low in volume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1680" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-84" value="specific Identification method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-87" target="pxmkQ-oCzDpBry00P6ab-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-87" value="Goods which are high in volume low in value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1680" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-88" value="FITO &amp;amp; Wtd Avg cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1740" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
