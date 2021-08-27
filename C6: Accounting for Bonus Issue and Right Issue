@@ -1,110 +1,197 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T22:51:21.147Z" agent="5.0 (X11)" etag="fOUFLYp_vppAz8Ku82M_" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-27T16:12:38.315Z" agent="5.0 (X11)" etag="jwEhcuPIXgu4V38pMhb_" version="14.9.9" type="github">
   <diagram id="tjUwSddMv80rMGcgYvxO" name="Page-1">
-    <mxGraphModel dx="1894" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4421" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k1crxEmskDX8GykCvBFa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-1" target="k1crxEmskDX8GykCvBFa-3">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-1" target="5uIC8NiV8JnR1f9D3R8S-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-1" target="k1crxEmskDX8GykCvBFa-2">
+        <mxCell id="k1crxEmskDX8GykCvBFa-1" value="Bonus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k1crxEmskDX8GykCvBFa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k1crxEmskDX8GykCvBFa-2" target="k1crxEmskDX8GykCvBFa-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-1" value="Capitalization of reserves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" width="120" height="40" as="geometry" />
+        <mxCell id="k1crxEmskDX8GykCvBFa-2" value="conversion of party paid up ES to to fully Paid up ES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="140" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-2" target="k1crxEmskDX8GykCvBFa-16">
+        <mxCell id="k1crxEmskDX8GykCvBFa-3" value="issue of fully paid bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k1crxEmskDX8GykCvBFa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k1crxEmskDX8GykCvBFa-3" target="k1crxEmskDX8GykCvBFa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-2" value="conversion of party paid up ES to to fully Paid up ES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="80" width="160" height="40" as="geometry" />
+        <mxCell id="k1crxEmskDX8GykCvBFa-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="190" y="200" width="400" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-3" value="issue of fully paid bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-3" target="k1crxEmskDX8GykCvBFa-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="400" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k1crxEmskDX8GykCvBFa-4">
+        <mxCell id="k1crxEmskDX8GykCvBFa-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="k1crxEmskDX8GykCvBFa-4" vertex="1">
           <mxGeometry width="400" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-6" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(a) Declare Bonus&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;Capital redemption reserve a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;securities premium a/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;capital reserve a/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Divisible profits a/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Bonus shares to ESH a/c&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="k1crxEmskDX8GykCvBFa-5">
+        <mxCell id="k1crxEmskDX8GykCvBFa-6" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(a) Declare Bonus&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;Capital redemption reserve a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;securities premium a/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;capital reserve a/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Divisible profits a/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;To Bonus shares to ESH a/c&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="k1crxEmskDX8GykCvBFa-5" vertex="1">
           <mxGeometry width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-5">
+        <mxCell id="k1crxEmskDX8GykCvBFa-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-5" vertex="1">
           <mxGeometry x="280" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-5">
+        <mxCell id="k1crxEmskDX8GykCvBFa-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-5" vertex="1">
           <mxGeometry x="340" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k1crxEmskDX8GykCvBFa-4">
+        <mxCell id="k1crxEmskDX8GykCvBFa-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="k1crxEmskDX8GykCvBFa-4" vertex="1">
           <mxGeometry y="120" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-10" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(b) Distribution of bonus shares&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;Bonus to Shareholders Account&amp;nbsp; Dr. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Share Capital Account. &lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="k1crxEmskDX8GykCvBFa-9">
+        <mxCell id="k1crxEmskDX8GykCvBFa-10" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(b) Distribution of bonus shares&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;Bonus to Shareholders Account&amp;nbsp; Dr. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;To Share Capital Account. &lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="k1crxEmskDX8GykCvBFa-9" vertex="1">
           <mxGeometry width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-9">
+        <mxCell id="k1crxEmskDX8GykCvBFa-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-9" vertex="1">
           <mxGeometry x="280" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-9">
+        <mxCell id="k1crxEmskDX8GykCvBFa-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-9" vertex="1">
           <mxGeometry x="340" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-13" target="k1crxEmskDX8GykCvBFa-5">
+        <mxCell id="k1crxEmskDX8GykCvBFa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k1crxEmskDX8GykCvBFa-13" target="k1crxEmskDX8GykCvBFa-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Priority Order&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Capital redemption reserve&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. securites premium&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. capital reserve&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. divisible profits&lt;/div&gt;&lt;div&gt;a. reserve fund&lt;/div&gt;&lt;div&gt;b.General reserve&lt;/div&gt;&lt;div&gt;c. Revenue reserve&lt;/div&gt;&lt;div&gt;d. dividend equalization reserve&lt;/div&gt;&lt;div&gt;e. P/L&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="140" width="200" height="240" as="geometry" />
+        <mxCell id="k1crxEmskDX8GykCvBFa-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Priority Order&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Capital redemption reserve&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. securites premium&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. capital reserve&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. divisible profits&lt;/div&gt;&lt;div&gt;a. reserve fund&lt;/div&gt;&lt;div&gt;b.General reserve&lt;/div&gt;&lt;div&gt;c. Revenue reserve&lt;/div&gt;&lt;div&gt;d. dividend equalization reserve&lt;/div&gt;&lt;div&gt;e. P/L&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="200" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-16" value="If there are partly paid up shares then bonus shares cannot be given on partly paid up shares. so first make them fully paid up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="140" width="400" height="60" as="geometry" />
+        <mxCell id="k1crxEmskDX8GykCvBFa-16" value="If there are partly paid up shares then bonus shares cannot be given on partly paid up shares. so first make them fully paid up" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="200" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-16" target="k1crxEmskDX8GykCvBFa-18">
+        <mxCell id="k1crxEmskDX8GykCvBFa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k1crxEmskDX8GykCvBFa-16" target="k1crxEmskDX8GykCvBFa-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="480" y="220" width="400" height="240" as="geometry" />
+        <mxCell id="k1crxEmskDX8GykCvBFa-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="630" y="280" width="400" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k1crxEmskDX8GykCvBFa-18">
+        <mxCell id="k1crxEmskDX8GykCvBFa-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="k1crxEmskDX8GykCvBFa-18" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-20" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(a) making the final call due &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Share Final Call Account Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Share Capital Account.&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="k1crxEmskDX8GykCvBFa-19">
+        <mxCell id="k1crxEmskDX8GykCvBFa-20" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(a) making the final call due &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Share Final Call Account Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;To Share Capital Account.&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="k1crxEmskDX8GykCvBFa-19" vertex="1">
           <mxGeometry width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-19">
+        <mxCell id="k1crxEmskDX8GykCvBFa-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-19" vertex="1">
           <mxGeometry x="280" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-19">
+        <mxCell id="k1crxEmskDX8GykCvBFa-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-19" vertex="1">
           <mxGeometry x="340" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-23" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k1crxEmskDX8GykCvBFa-18">
+        <mxCell id="k1crxEmskDX8GykCvBFa-23" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="k1crxEmskDX8GykCvBFa-18" vertex="1">
           <mxGeometry y="80" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-24" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(b) bonus declared&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Divisible profits Account Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Bonus to Shareholders Account &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="k1crxEmskDX8GykCvBFa-23">
+        <mxCell id="k1crxEmskDX8GykCvBFa-24" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(b) bonus declared&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Divisible profits Account Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;To Bonus to Shareholders Account &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="k1crxEmskDX8GykCvBFa-23" vertex="1">
           <mxGeometry width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-23">
+        <mxCell id="k1crxEmskDX8GykCvBFa-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-23" vertex="1">
           <mxGeometry x="280" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-23">
+        <mxCell id="k1crxEmskDX8GykCvBFa-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-23" vertex="1">
           <mxGeometry x="340" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k1crxEmskDX8GykCvBFa-18">
+        <mxCell id="k1crxEmskDX8GykCvBFa-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="k1crxEmskDX8GykCvBFa-18" vertex="1">
           <mxGeometry y="160" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-28" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(c) adjusting bonus to final call&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Bonus to Shareholders Account&amp;nbsp; Dr. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To Share Final Call Account &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="k1crxEmskDX8GykCvBFa-27">
+        <mxCell id="k1crxEmskDX8GykCvBFa-28" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(c) adjusting bonus to final call&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Bonus to Shareholders Account&amp;nbsp; Dr. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;To Share Final Call Account &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="k1crxEmskDX8GykCvBFa-27" vertex="1">
           <mxGeometry width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-27">
+        <mxCell id="k1crxEmskDX8GykCvBFa-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-27" vertex="1">
           <mxGeometry x="280" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="k1crxEmskDX8GykCvBFa-27">
+        <mxCell id="k1crxEmskDX8GykCvBFa-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="k1crxEmskDX8GykCvBFa-27" vertex="1">
           <mxGeometry x="340" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k1crxEmskDX8GykCvBFa-34" value="&lt;div&gt;1. issued bonus shares in 2:1, means 2 bonus shares for every shares&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. cos can issue bonus shares are par only&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="80" width="360" height="90" as="geometry" />
+        <mxCell id="k1crxEmskDX8GykCvBFa-34" value="&lt;div&gt;1. issued bonus shares in 2:1, means 2 bonus shares for every shares&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. cos can issue bonus shares are par only&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="550" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-2" target="k1crxEmskDX8GykCvBFa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-2" target="k1crxEmskDX8GykCvBFa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-2" value="Capitalization of reserves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-6" target="5uIC8NiV8JnR1f9D3R8S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-6" value="Right shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-7" target="5uIC8NiV8JnR1f9D3R8S-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-7" target="5uIC8NiV8JnR1f9D3R8S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions to the rights of existing equity shareholders&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The shares can be offered, without being offered to the existing shareholders, in the following cases&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. ESOP.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. To any persons if the price &lt;br&gt;of such shares is determined by a registered valuer subject &lt;br&gt;to certain specified conditions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. company gives their creditor an option to buy equity shares of a company. Provided option have been approved by a SR passed by the company in GM.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. where the loan has been obtained from government, &lt;br&gt;and government direct that such deb or loans be converted into shares in the company.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="180" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-8" target="5uIC8NiV8JnR1f9D3R8S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-8" value="Whenever a company intends to issue new shares, the voting and governance rights of the existing SH may be diluted, hence allows existing SH to preserve their position by offering those newly issued shares at the first instance to them." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="80" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-13" target="5uIC8NiV8JnR1f9D3R8S-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-13" value="Acquired" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1194" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-14" value="&lt;div&gt;If Right shares are acquired then the cost of right shares will be added&lt;/div&gt;&lt;div&gt; to the cost of original &lt;br&gt;&lt;/div&gt;&lt;div&gt;shares &amp;amp; hence reducing the &lt;br&gt;&lt;/div&gt;&lt;div&gt;overall weighted avg cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-16" target="5uIC8NiV8JnR1f9D3R8S-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-16" value="&lt;div&gt;&amp;nbsp;Ex Right Price*&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-19" target="5uIC8NiV8JnR1f9D3R8S-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-19" value="Renounced" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-21" target="5uIC8NiV8JnR1f9D3R8S-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-21" value="&lt;div&gt;Renouncement price received should be credited to PIL Alc&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-23" target="5uIC8NiV8JnR1f9D3R8S-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-23" value="&lt;div&gt;Cum Right Price**&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-25" target="5uIC8NiV8JnR1f9D3R8S-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-25" value="Renouncement price received should be deducted from cost of original shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-26" value="&lt;div&gt;** CRP = market &lt;br&gt;&lt;/div&gt;&lt;div&gt;price before right issue &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-27" value="* ERP market price after right issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-28" target="5uIC8NiV8JnR1f9D3R8S-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-28" value="Value of right = Cum-right value of share – Ex-right value of share " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-30" target="5uIC8NiV8JnR1f9D3R8S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-30" target="5uIC8NiV8JnR1f9D3R8S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-30" value="`\text{Ex-right value of the shares}=&amp;nbsp; [(\text{Cum-right value}xx \text{Number of existing shares})&amp;nbsp; +&amp;nbsp; (\text{Number of Rights shares} xx \text{Issue Price})] / (\text{ Number of Existing shares} + \text{Number of right shares})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="700" width="890" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
