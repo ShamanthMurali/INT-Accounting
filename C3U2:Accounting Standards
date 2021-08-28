@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T10:41:20.069Z" agent="5.0 (X11)" etag="73N-5wr36h9Sb2V3PcKA" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T11:19:08.437Z" agent="5.0 (X11)" etag="tKv3Pv_G5IWLaRarc846" version="15.0.2" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="3348" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1891" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -569,7 +569,7 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aUA01yDdBmGF5Haiwjqg-2" target="aUA01yDdBmGF5Haiwjqg-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Net&amp;nbsp; Profit&amp;nbsp; or&amp;nbsp; Loss&amp;nbsp; for&amp;nbsp; the&amp;nbsp; Period,&amp;nbsp; Prior&amp;nbsp; Period&amp;nbsp; Items&amp;nbsp; and Changes in Accounting Policies&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="aUA01yDdBmGF5Haiwjqg-2">
+        <UserObject label="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Net Profit or Loss for the Period, &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Prior Period Items and Changes in Accounting Policies&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="aUA01yDdBmGF5Haiwjqg-2">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="660" y="120" width="320" height="90" as="geometry" />
           </mxCell>
@@ -924,11 +924,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-12" target="pxmkQ-oCzDpBry00P6ab-1" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-12" target="pxmkQ-oCzDpBry00P6ab-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;Valuation of Inventories&lt;/b&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-12">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="-420" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -946,8 +946,11 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 7&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1480" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-16">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-16" target="-WtXLLydbNnoVJfI_DHs-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;Construction Contracts &lt;/b&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-16">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="1380" y="120" width="320" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -5620,22 +5623,22 @@
         <mxCell id="8OMPYJSG5cPUa__PFV5K-229" value="&lt;div&gt;(a)The effective date of the revaluation;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Whether an independent valuer was involved;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)The methods and significant assumptions applied in estimating fair values of the items;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)The&amp;nbsp; extent&amp;nbsp; to&amp;nbsp; which&amp;nbsp; fair&amp;nbsp; values&amp;nbsp; of&amp;nbsp; the&amp;nbsp; items&amp;nbsp; were&amp;nbsp; determined&amp;nbsp; directly&amp;nbsp; by reference&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; observable&amp;nbsp;&amp;nbsp; prices&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; active&amp;nbsp;&amp;nbsp; market&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; recent&amp;nbsp;&amp;nbsp; market transactions on arm’s length terms or were estimated using other valuation techniques; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)The&amp;nbsp; revaluation&amp;nbsp; surplus,&amp;nbsp; indicating&amp;nbsp; the&amp;nbsp; change&amp;nbsp; for&amp;nbsp; the&amp;nbsp; period&amp;nbsp; and&amp;nbsp; any restrictions on the distribution of the balance to shareholders.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;align=left;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3330" y="900" width="480" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-1" target="pxmkQ-oCzDpBry00P6ab-4" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-1" target="pxmkQ-oCzDpBry00P6ab-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-1" value="Objective: To prescribe the computational method to calculate cost method to calculate cost of the inventory and the value of closing stock as on the above B/S date." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-1" value="Objective: To prescribe the computational method to calculate cost method to calculate cost of the inventory and the value of closing stock as on the above B/S date." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-440" y="180" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Applicability&lt;/b&gt;&lt;/u&gt;: To all enterprises.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;excludes the following&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) WIP of services (As 9)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) WIP of construction contracts (As 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) Securities held for sale i.e Current investments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) Natural resources, minerals, quaries.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(e) Livestock agricultural produces etc&lt;br&gt;(normally valued at NRV, so AS 2 NA)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Applicability&lt;/b&gt;&lt;/u&gt;: To all enterprises.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;excludes the following&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) WIP of services (As 9)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) WIP of construction contracts (As 7)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) Securities held for sale i.e Current investments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) Natural resources, minerals, quaries.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(e) Livestock agricultural produces etc&lt;br&gt;(normally valued at NRV, so AS 2 NA)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-400" y="260" width="280" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-4" target="pxmkQ-oCzDpBry00P6ab-6" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-4" target="pxmkQ-oCzDpBry00P6ab-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-6" target="pxmkQ-oCzDpBry00P6ab-14" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-6" target="pxmkQ-oCzDpBry00P6ab-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-440" y="500" width="360" height="260" as="geometry" />
         </mxCell>
         <mxCell id="pxmkQ-oCzDpBry00P6ab-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pxmkQ-oCzDpBry00P6ab-6" vertex="1">
@@ -5656,46 +5659,46 @@
         <mxCell id="pxmkQ-oCzDpBry00P6ab-12" value="&lt;div&gt;collection of items&lt;/div&gt;&lt;div&gt;i.e stock of RM/WIP/FG, stock&lt;/div&gt;&lt;div&gt; of stationary, stock of old news paper etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;stock is wider scope than inventory&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;stock need not be always in the &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;course of business&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="pxmkQ-oCzDpBry00P6ab-10" vertex="1">
           <mxGeometry x="180" width="180" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-14" target="pxmkQ-oCzDpBry00P6ab-17" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-14" target="pxmkQ-oCzDpBry00P6ab-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Valuation principle of Inventory&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 18px&quot;&gt;Lower of cost or NRV&lt;/font&gt;&lt;/div&gt;&lt;div&gt;for FG &amp;amp; WIP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Valuation principle of Inventory&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 18px&quot;&gt;Lower of cost or NRV&lt;/font&gt;&lt;/div&gt;&lt;div&gt;for FG &amp;amp; WIP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-400" y="780" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disclosures&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;• Accounting policy adopted in measuring inventories.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Cost formula used.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• Classification of Inventories. As raw materials, WIP, finished goods, stock in trade,&lt;br&gt;stores and spare parts, loose tools, etc." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-16" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disclosures&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;• Accounting policy adopted in measuring inventories.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Cost formula used.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• Classification of Inventories. As raw materials, WIP, finished goods, stock in trade,&lt;br&gt;stores and spare parts, loose tools, etc." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-400" y="3190" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-20" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-20" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-21" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-19" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-17" target="pxmkQ-oCzDpBry00P6ab-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-17" value="cost of Inventory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-17" value="cost of Inventory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-320" y="940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-19" target="pxmkQ-oCzDpBry00P6ab-53" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-19" target="pxmkQ-oCzDpBry00P6ab-53" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-19" value="Other cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-19" value="Other cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="80" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-20" target="pxmkQ-oCzDpBry00P6ab-52" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-20" target="pxmkQ-oCzDpBry00P6ab-52" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-20" value="Conversion cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-20" value="Conversion cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-320" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-21" value="Purchase cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-21" value="Purchase cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-720" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-21" target="pxmkQ-oCzDpBry00P6ab-25" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-21" target="pxmkQ-oCzDpBry00P6ab-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-25" target="-WtXLLydbNnoVJfI_DHs-1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-25" target="-WtXLLydbNnoVJfI_DHs-1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-660" y="1490" />
@@ -5703,7 +5706,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-25" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-25" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-800" y="1080" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="pxmkQ-oCzDpBry00P6ab-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pxmkQ-oCzDpBry00P6ab-25" vertex="1">
@@ -5742,16 +5745,16 @@
         <mxCell id="pxmkQ-oCzDpBry00P6ab-37" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="pxmkQ-oCzDpBry00P6ab-35" vertex="1">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-52" target="pxmkQ-oCzDpBry00P6ab-55" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-52" target="pxmkQ-oCzDpBry00P6ab-55" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-52" target="pxmkQ-oCzDpBry00P6ab-58" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-52" target="pxmkQ-oCzDpBry00P6ab-58" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-52" value="Processing cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-52" value="Processing cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-320" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-53" target="-WtXLLydbNnoVJfI_DHs-1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-53" target="-WtXLLydbNnoVJfI_DHs-1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="1490" />
@@ -5759,31 +5762,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-53" value="&lt;div&gt;Cost incurred to bring the goods to current location and condition&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* primary packing is cost of goods&lt;/div&gt;&lt;div&gt;secondary packing is selling and distribution expense&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* unloading charges and transport cost from factory to Point of sale&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-53" value="&lt;div&gt;Cost incurred to bring the goods to current location and condition&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* primary packing is cost of goods&lt;/div&gt;&lt;div&gt;secondary packing is selling and distribution expense&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* unloading charges and transport cost from factory to Point of sale&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="40" y="1080" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-55" target="pxmkQ-oCzDpBry00P6ab-59" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-55" target="pxmkQ-oCzDpBry00P6ab-59" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-55" value="Variable cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-55" value="Variable cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-460" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-58" target="pxmkQ-oCzDpBry00P6ab-67" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-58" target="pxmkQ-oCzDpBry00P6ab-67" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-58" target="pxmkQ-oCzDpBry00P6ab-68" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-58" target="pxmkQ-oCzDpBry00P6ab-68" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-58" value="Fixed cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-58" value="Fixed cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-180" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-59" target="pxmkQ-oCzDpBry00P6ab-64" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-59" target="pxmkQ-oCzDpBry00P6ab-64" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-59" value="Absorbed on the basics of normal production" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-59" value="Absorbed on the basics of normal production" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-460" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-64" target="-WtXLLydbNnoVJfI_DHs-1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-64" target="-WtXLLydbNnoVJfI_DHs-1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-400" y="1480" />
@@ -5791,22 +5794,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-64" value="&lt;div&gt;`=Cost/\text{actual production qty}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-64" value="&lt;div&gt;`=Cost/\text{actual production qty}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-500" y="1300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-67" target="pxmkQ-oCzDpBry00P6ab-69" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-67" target="pxmkQ-oCzDpBry00P6ab-69" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-67" value="Actual production &amp;lt; normal production" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-67" value="Actual production &amp;lt; normal production" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-260" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-68" target="pxmkQ-oCzDpBry00P6ab-73" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-68" target="pxmkQ-oCzDpBry00P6ab-73" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-68" value="Actual production &amp;lt; normal production" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-68" value="Actual production &amp;lt; normal production" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-100" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-69" target="-WtXLLydbNnoVJfI_DHs-1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-69" target="-WtXLLydbNnoVJfI_DHs-1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-200" y="1470" />
@@ -5814,10 +5817,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-69" value="Under absorption debited to P/L" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-69" value="Under absorption debited to P/L" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-260" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-72" target="-WtXLLydbNnoVJfI_DHs-1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-72" target="-WtXLLydbNnoVJfI_DHs-1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-40" y="1480" />
@@ -5825,67 +5828,67 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-72" value="&lt;div&gt;`=Cost/\text{actual production qty}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-72" value="&lt;div&gt;`=Cost/\text{actual production qty}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-140" y="1390" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-73" target="pxmkQ-oCzDpBry00P6ab-72" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-73" target="pxmkQ-oCzDpBry00P6ab-72" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-73" value="&lt;div&gt;Over absorption&lt;/div&gt;&lt;div&gt;use actually production for absorption&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-73" value="&lt;div&gt;Over absorption&lt;/div&gt;&lt;div&gt;use actually production for absorption&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-100" y="1300" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-79" target="pxmkQ-oCzDpBry00P6ab-16">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-79" target="pxmkQ-oCzDpBry00P6ab-16" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-79" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exclusions from cost of inventory&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. admin costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. selling and distribution cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. storage cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. abnormal cost&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Abnormal loss to be excluded from value of inventory &amp;amp; Dr to PIL Alc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt; But Normal Loss to remain in value of inventory)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;5. interest and finance charges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-79" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exclusions from cost of inventory&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. admin costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. selling and distribution cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. storage cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. abnormal cost&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Abnormal loss to be excluded from value of inventory &amp;amp; Dr to PIL Alc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt; But Normal Loss to remain in value of inventory)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;5. interest and finance charges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-400" y="2970" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-80" target="pxmkQ-oCzDpBry00P6ab-81" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-80" target="pxmkQ-oCzDpBry00P6ab-81" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-80" target="pxmkQ-oCzDpBry00P6ab-82" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxmkQ-oCzDpBry00P6ab-80" target="pxmkQ-oCzDpBry00P6ab-82" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-80" value="&lt;div&gt;Cost Formula &lt;br&gt;&lt;/div&gt;&lt;div&gt;(used to value cost of closing inventory)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-80" value="&lt;div&gt;Cost Formula &lt;br&gt;&lt;/div&gt;&lt;div&gt;(used to value cost of closing inventory)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-360" y="1800" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-81" target="pxmkQ-oCzDpBry00P6ab-83" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-81" target="pxmkQ-oCzDpBry00P6ab-83" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-81" value="Non-interchangeable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-81" value="Non-interchangeable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-430" y="1900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-82" target="pxmkQ-oCzDpBry00P6ab-87" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-82" target="pxmkQ-oCzDpBry00P6ab-87" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-82" value="Interchangeable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-82" value="Interchangeable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-210" y="1900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-83" target="pxmkQ-oCzDpBry00P6ab-84" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-83" target="pxmkQ-oCzDpBry00P6ab-84" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-83" value="Goods which are high in value low in volume" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-83" value="Goods which are high in value low in volume" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-470" y="1960" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-84" target="-WtXLLydbNnoVJfI_DHs-15">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-84" target="-WtXLLydbNnoVJfI_DHs-15" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-84" value="specific Identification method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-84" value="specific Identification method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-430" y="2020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-87" target="pxmkQ-oCzDpBry00P6ab-88" edge="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxmkQ-oCzDpBry00P6ab-87" target="pxmkQ-oCzDpBry00P6ab-88" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-87" value="Goods which are high in volume low in value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-87" value="Goods which are high in volume low in value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-250" y="1960" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-88" target="-WtXLLydbNnoVJfI_DHs-15">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxmkQ-oCzDpBry00P6ab-88" target="-WtXLLydbNnoVJfI_DHs-15" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxmkQ-oCzDpBry00P6ab-88" value="FITO &amp;amp; Wtd Avg cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pxmkQ-oCzDpBry00P6ab-88" value="FITO &amp;amp; Wtd Avg cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-210" y="2020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-1" target="-WtXLLydbNnoVJfI_DHs-2">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-1" target="-WtXLLydbNnoVJfI_DHs-2" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-240" y="1540" />
@@ -5893,64 +5896,64 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-1" value="Joint products and by products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-1" value="Joint products and by products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-340" y="1520" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-2" target="-WtXLLydbNnoVJfI_DHs-4">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-2" target="-WtXLLydbNnoVJfI_DHs-4" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-2" target="-WtXLLydbNnoVJfI_DHs-5">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-2" target="-WtXLLydbNnoVJfI_DHs-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-2" value="Refer costing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-2" value="Refer costing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-305" y="1560" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-4" target="pxmkQ-oCzDpBry00P6ab-80">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-4" target="pxmkQ-oCzDpBry00P6ab-80" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Joint products&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Joint cost should be split among Joint products on a Reasonable &amp;amp; consistent basis&lt;/div&gt;&lt;div&gt;NRV of Joint products at split off point&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Joint products&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Joint cost should be split among Joint products on a Reasonable &amp;amp; consistent basis&lt;/div&gt;&lt;div&gt;NRV of Joint products at split off point&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-470" y="1620" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-5" target="pxmkQ-oCzDpBry00P6ab-80">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-5" target="pxmkQ-oCzDpBry00P6ab-80" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;By broducts&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By Product is valued at NRV &amp;amp; main&lt;/div&gt;&lt;div&gt;product is valued at &lt;br&gt;&lt;/div&gt;&lt;div&gt;Total cost (-) NRV of By product&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;By broducts&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By Product is valued at NRV &amp;amp; main&lt;/div&gt;&lt;div&gt;product is valued at &lt;br&gt;&lt;/div&gt;&lt;div&gt;Total cost (-) NRV of By product&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-250" y="1620" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-15" target="-WtXLLydbNnoVJfI_DHs-16">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-15" target="-WtXLLydbNnoVJfI_DHs-16" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-15" value="Techniques of Measurement of cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-15" value="Techniques of Measurement of cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-320" y="2100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-16" target="-WtXLLydbNnoVJfI_DHs-18">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-16" target="-WtXLLydbNnoVJfI_DHs-18" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-16" value="&lt;span&gt;1. Standard cost = cost of Purchase&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;(+) cost of conversion&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;   &lt;/span&gt;(+) other cost&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-16" value="&lt;span&gt;1. Standard cost = cost of Purchase&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;(+) cost of conversion&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;   &lt;/span&gt;(+) other cost&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-380" y="2160" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-18" target="-WtXLLydbNnoVJfI_DHs-20">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-18" target="-WtXLLydbNnoVJfI_DHs-20" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-18" value="&lt;div&gt;2. Retail method&lt;/div&gt;&lt;div&gt;cost = selling price - G.P&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-18" value="&lt;div&gt;2. Retail method&lt;/div&gt;&lt;div&gt;cost = selling price - G.P&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-380" y="2240" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-20" target="-WtXLLydbNnoVJfI_DHs-52">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-20" target="-WtXLLydbNnoVJfI_DHs-52" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-20" value="Net Realisable value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-20" value="Net Realisable value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-320" y="2340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-21" target="-WtXLLydbNnoVJfI_DHs-36">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-21" target="-WtXLLydbNnoVJfI_DHs-36" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-21" value="&lt;div&gt;&lt;b&gt;1.  Finished Goods&lt;/b&gt;&lt;/div&gt;&lt;div&gt;NRV = Est selling price (-) Estimated selling expenses&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-21" value="&lt;div&gt;&lt;b&gt;1.  Finished Goods&lt;/b&gt;&lt;/div&gt;&lt;div&gt;NRV = Est selling price (-) Estimated selling expenses&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-380" y="2460" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-36" target="-WtXLLydbNnoVJfI_DHs-50">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-36" target="-WtXLLydbNnoVJfI_DHs-50" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-36" value="2. WIP" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-36" value="2. WIP" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" visible="0" parent="1">
           <mxGeometry x="-400" y="2540" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-37" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-WtXLLydbNnoVJfI_DHs-36">
@@ -5989,17 +5992,89 @@
         <mxCell id="-WtXLLydbNnoVJfI_DHs-48" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-WtXLLydbNnoVJfI_DHs-46">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-50" target="pxmkQ-oCzDpBry00P6ab-79">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-50" target="pxmkQ-oCzDpBry00P6ab-79" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-50" value="&lt;div&gt;&lt;b&gt;3. Raw material &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No NRV as no intention to&lt;/div&gt;sell So we have to consider replacement&lt;br&gt;&lt;div&gt;cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the NRV of FG in which RM is used&lt;br&gt;is &amp;gt; than cost of FG, the Rm to be valued&lt;br&gt;at cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the NRV of FG in which RM is used&lt;br&gt;is &amp;lt; than cost of FG the RM to be valued&lt;br&gt;at Replacement cost&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-50" value="&lt;div&gt;&lt;b&gt;3. Raw material &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No NRV as no intention to&lt;/div&gt;sell So we have to consider replacement&lt;br&gt;&lt;div&gt;cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the NRV of FG in which RM is used&lt;br&gt;is &amp;gt; than cost of FG, the Rm to be valued&lt;br&gt;at cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the NRV of FG in which RM is used&lt;br&gt;is &amp;lt; than cost of FG the RM to be valued&lt;br&gt;at Replacement cost&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-380" y="2750" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-52" target="-WtXLLydbNnoVJfI_DHs-21">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-52" target="-WtXLLydbNnoVJfI_DHs-21" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-52" value="Price you will get if sold the goods immediately in the market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-52" value="Price you will get if sold the goods immediately in the market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-360" y="2400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-60" target="-WtXLLydbNnoVJfI_DHs-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-60" value="prescribes the principles of accounting for construction contracts in&lt;br&gt;&lt;div&gt;the financial statements of contractors. The focus of the standard is&lt;/div&gt;&lt;div&gt;on principles of revenue recognition by the contractors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="180" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-62" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disclosure&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Amount of contract revenue recognized during the period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Contract cost incurred &amp;amp; recognition of profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Advance received&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d. Gross amount due to / from customers (Costs Incurred + Recognized profits - Recognized&lt;br&gt;&lt;div&gt;losses - Progress Billings)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. Gross amount due to customers (Progress Billings + Recognized losses - Recognized profits &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cost Incurred)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;f. Retention&#39;s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="430" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-63" target="-WtXLLydbNnoVJfI_DHs-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-63" value="Definition: A construction contract is a contract specifically negotiated for the construction of an asset&lt;br&gt;or a combination of assets that are closely interrelated or interdependent in terms of their design,&lt;br&gt;technology and function for their ultimate purpose or use. E.g. construction of building, dams, roadways,&lt;br&gt;railways, sewage pipeline, etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="250" width="610" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-64" target="-WtXLLydbNnoVJfI_DHs-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-64" target="-WtXLLydbNnoVJfI_DHs-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-64" value="Types of Contracts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-65" target="-WtXLLydbNnoVJfI_DHs-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-65" value="&lt;u&gt;&lt;b&gt;Percentage Completion Method&lt;/b&gt;&lt;/u&gt;&lt;br&gt;recognize revenue annually in proportion of progress of work to be matched with corresponding&lt;br&gt;&lt;div&gt;construction costs incurred in that year. This &lt;br&gt;&lt;/div&gt;&lt;div&gt;method of accounting, called the stage of completion method (percentage completion &lt;br&gt;&lt;/div&gt;&lt;div&gt;method)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="700" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-66" value="Combining and Segmenting Construction Contracts&lt;br&gt;A contractor may undertake a number of contracts. The standard identifies certain cases where for the&lt;br&gt;purposes of accounting, (i) More than one contract can be taken as one and (ii) a single contract can be&lt;br&gt;taken as to comprise of more than one contract.&lt;br&gt;(a) When a contract covers a number of assets, the construction of each asset should be treated as a&lt;br&gt;separate construction contract when:&lt;br&gt;(i) separate proposals have been submitted for each asset;&lt;br&gt;&lt;div&gt;(ii) each asset has been subject to separate negotiation and the contractor and customer have been able&lt;/div&gt;&lt;div&gt;to accept or reject that part of the contract relating to each asset; and&lt;br&gt;(iii) the costs and revenues of each asset can be identified.&lt;br&gt;(b) A group of contracts, whether with a single customer or with several customers, should be treated as&lt;br&gt;a single construction contract when:&lt;br&gt;(i) the group of contracts is negotiated as a single package;&lt;br&gt;(ii) the contracts are so closely interrelated that they are, in effect, part of. a single project with an overall&lt;br&gt;profit margin; and&lt;br&gt;(iii) the contracts are performed concurrently or in a continuous sequence.&lt;br&gt;(c) A contract may provide for the construction of an additional asset at the option of the customer or&lt;br&gt;may be amended to include the construction of an additional asset. The construction of the additional&lt;br&gt;asset should be treated as a separate construction contract when:&lt;br&gt;(i) the asset differs significantly in design, technology or function from the asset or assets covered by the&lt;br&gt;original contract; or&lt;br&gt;&amp;nbsp;(ii) the price of the asset is negotiated without regard to the original contract price.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1530" width="610" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-67" value="PROFIT OR LOSS ON CONTRACT :&lt;br&gt;Profit / Loss is to be calculated for each contract separately but when a group of contracts&lt;br&gt;have been negotiated as a single package with an overall profit margin then all such contracts&lt;br&gt;put together would be treated as a single contract. To calculate the contract profit/loss, contract&lt;br&gt;revenue &amp;amp; costs must be calculated.&lt;br&gt;Contract revenue consists of :&lt;br&gt;a. Agreed price&lt;br&gt;b. Claims arising due to escalation clause&lt;br&gt;c. Claims for re-imbursement of costs not included in the contract price&lt;br&gt;d. Increase or decrease in revenue due to change or variation in scope of work to be performed&lt;br&gt;e. Incentives (additional amounts paid if performance exceeds agreed targets)&lt;br&gt;Contract costs consists of the following :&lt;br&gt;a. Direct or specific costs : Direct materials, direct labour &amp;amp; direct expenses&lt;br&gt;b. Allocable costs : Insurance, design &amp;amp; technical assistance expenditure etc. specifically&lt;br&gt;chargeable under the contract.&lt;br&gt;&lt;div&gt;Following costs are excluded from contract costs :&lt;/div&gt;&lt;div&gt;a. General administration cost&lt;br&gt;b. Selling costs&lt;br&gt;c. R &amp;amp; D costs&lt;br&gt;d. Depreciation on idle plant &amp;amp; equipment&lt;br&gt;• Costs incurred in securing contracts &amp;amp; pre-contract costs are included in the contract costs if&lt;br&gt;it is probable that contract will be obtained. Otherwise they should be charged to the P &amp;amp; L A/c.&lt;br&gt;• Interest cost can be included in contract costs if the asset is a qualifying asset as per AS – 16.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1900" width="610" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-68" value="Recognition Criteria&lt;br&gt;When the outcome of the contract can be estimated reliably then contract revenue &amp;amp; related&lt;br&gt;costs are recognized as revenue &amp;amp; costs by reference to the stage of completion of the&lt;br&gt;contract activity at the Balance Sheet date. This is also called Percentage Completion Method&lt;br&gt;(PCM). The stage of completion can be determined in a variety of ways:&lt;br&gt;a. Cost to cost method: Compare the total cost incurred to date with the total estimated cost&lt;br&gt;of the contract. Therefore, % of completion = [cost incurred till date / (cost incurred till date&lt;br&gt;+ cost likely to be incurred for completion)] x 100.&lt;br&gt;b. Survey of work performed&lt;br&gt;c. Completion of a physical proportion of the contract work.&lt;br&gt;• Contract revenue recognition = Contract price x % of completion – Revenue recognized earlier.&lt;br&gt;• When it is probable that total contract costs will exceed total contract revenue, expected loss&lt;br&gt;should be recognized as an expense immediately irrespective of&lt;br&gt;a. Whether or not work has commenced&lt;br&gt;b. The stage of completion&lt;br&gt;c. The amount of profit on other contracts which are not treated as a single contract&lt;br&gt;• When the outcome of a contract cannot be reliably estimated then revenue should be&lt;br&gt;recognized only to the extent of costs incurred &amp;amp; of which recovery is possible. Recognition&lt;br&gt;of revenue &amp;amp; expenditure in construction contracts is based on estimates. Changes in estimates in&lt;br&gt;year-to-year are accounted as a change in accounting estimate as per AS 5. This change&lt;br&gt;will neither be a PPI nor an extra-ordinary item.&lt;br&gt;• Where revenue is already recognised but now its ultimate collection is not certain then bad debts should&lt;br&gt;be recorded for the same. If in future again the amount is recovered then it should be recognised as a&lt;br&gt;recovery of bad debts." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="2270" width="610" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-70" target="-WtXLLydbNnoVJfI_DHs-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-70" value="cost plus contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-71" target="-WtXLLydbNnoVJfI_DHs-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-71" value="fixed price contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-73" value="&lt;div&gt;price is agreed as fixed sum or a fixed&lt;/div&gt;&lt;div&gt; rate per unit of output. In some&lt;/div&gt;cases, the contract may require the customer to pay additional sums to compensate the contractor&lt;br&gt;against cost escalations." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="490" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-75" value="contractor is reimbursed for allowable&lt;br&gt;or otherwise defined costs, plus percentage of these costs or a fixed fee." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="490" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-80" target="-WtXLLydbNnoVJfI_DHs-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-80" value="&lt;div&gt;How much revenue&lt;/div&gt;&lt;div&gt; to recognize&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-82" target="-WtXLLydbNnoVJfI_DHs-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-82" value="`\text{% of completion}=\text{cost incurred till date}/\text{Total estimated cost}xx100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="840" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-83" value="&lt;div&gt;Revenue to recognized for the year&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`=\text{contract price}xx\text{% of completion}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="940" width="300" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
