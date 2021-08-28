@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T11:19:08.437Z" agent="5.0 (X11)" etag="tKv3Pv_G5IWLaRarc846" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T11:43:23.479Z" agent="5.0 (X11)" etag="aL64phdsU2CmAkRntN0u" version="15.0.2" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1891" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2932" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6032,13 +6032,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-65" value="&lt;u&gt;&lt;b&gt;Percentage Completion Method&lt;/b&gt;&lt;/u&gt;&lt;br&gt;recognize revenue annually in proportion of progress of work to be matched with corresponding&lt;br&gt;&lt;div&gt;construction costs incurred in that year. This &lt;br&gt;&lt;/div&gt;&lt;div&gt;method of accounting, called the stage of completion method (percentage completion &lt;br&gt;&lt;/div&gt;&lt;div&gt;method)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="700" width="280" height="120" as="geometry" />
+          <mxGeometry x="1400" y="700" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-66" value="Combining and Segmenting Construction Contracts&lt;br&gt;A contractor may undertake a number of contracts. The standard identifies certain cases where for the&lt;br&gt;purposes of accounting, (i) More than one contract can be taken as one and (ii) a single contract can be&lt;br&gt;taken as to comprise of more than one contract.&lt;br&gt;(a) When a contract covers a number of assets, the construction of each asset should be treated as a&lt;br&gt;separate construction contract when:&lt;br&gt;(i) separate proposals have been submitted for each asset;&lt;br&gt;&lt;div&gt;(ii) each asset has been subject to separate negotiation and the contractor and customer have been able&lt;/div&gt;&lt;div&gt;to accept or reject that part of the contract relating to each asset; and&lt;br&gt;(iii) the costs and revenues of each asset can be identified.&lt;br&gt;(b) A group of contracts, whether with a single customer or with several customers, should be treated as&lt;br&gt;a single construction contract when:&lt;br&gt;(i) the group of contracts is negotiated as a single package;&lt;br&gt;(ii) the contracts are so closely interrelated that they are, in effect, part of. a single project with an overall&lt;br&gt;profit margin; and&lt;br&gt;(iii) the contracts are performed concurrently or in a continuous sequence.&lt;br&gt;(c) A contract may provide for the construction of an additional asset at the option of the customer or&lt;br&gt;may be amended to include the construction of an additional asset. The construction of the additional&lt;br&gt;asset should be treated as a separate construction contract when:&lt;br&gt;(i) the asset differs significantly in design, technology or function from the asset or assets covered by the&lt;br&gt;original contract; or&lt;br&gt;&amp;nbsp;(ii) the price of the asset is negotiated without regard to the original contract price.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1530" width="610" height="350" as="geometry" />
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-66" target="-WtXLLydbNnoVJfI_DHs-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-67" value="PROFIT OR LOSS ON CONTRACT :&lt;br&gt;Profit / Loss is to be calculated for each contract separately but when a group of contracts&lt;br&gt;have been negotiated as a single package with an overall profit margin then all such contracts&lt;br&gt;put together would be treated as a single contract. To calculate the contract profit/loss, contract&lt;br&gt;revenue &amp;amp; costs must be calculated.&lt;br&gt;Contract revenue consists of :&lt;br&gt;a. Agreed price&lt;br&gt;b. Claims arising due to escalation clause&lt;br&gt;c. Claims for re-imbursement of costs not included in the contract price&lt;br&gt;d. Increase or decrease in revenue due to change or variation in scope of work to be performed&lt;br&gt;e. Incentives (additional amounts paid if performance exceeds agreed targets)&lt;br&gt;Contract costs consists of the following :&lt;br&gt;a. Direct or specific costs : Direct materials, direct labour &amp;amp; direct expenses&lt;br&gt;b. Allocable costs : Insurance, design &amp;amp; technical assistance expenditure etc. specifically&lt;br&gt;chargeable under the contract.&lt;br&gt;&lt;div&gt;Following costs are excluded from contract costs :&lt;/div&gt;&lt;div&gt;a. General administration cost&lt;br&gt;b. Selling costs&lt;br&gt;c. R &amp;amp; D costs&lt;br&gt;d. Depreciation on idle plant &amp;amp; equipment&lt;br&gt;• Costs incurred in securing contracts &amp;amp; pre-contract costs are included in the contract costs if&lt;br&gt;it is probable that contract will be obtained. Otherwise they should be charged to the P &amp;amp; L A/c.&lt;br&gt;• Interest cost can be included in contract costs if the asset is a qualifying asset as per AS – 16.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1900" width="610" height="350" as="geometry" />
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-66" target="-WtXLLydbNnoVJfI_DHs-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-66" value="A contractor may undertake a number of contracts. for the&lt;br&gt;&lt;div&gt;purposes of accounting the contractor may -&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-67" value="&lt;div&gt;PROFIT OR LOSS ON CONTRACT :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Profit / Loss is to be calculated for each contract separately but when a group of contracts&lt;br&gt;have been negotiated as a single package with an overall profit margin then all such contracts&lt;br&gt;put together would be treated as a single contract. To calculate the contract profit/loss, contract&lt;br&gt;&lt;div&gt;revenue &amp;amp; costs must be calculated.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Contract revenue consists of :&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;a. Agreed price&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Claims arising due to escalation clause&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. Claims for re-imbursement of costs not included in the contract price&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. Increase or decrease in revenue due to change or variation in scope of work to be performed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. Incentives (additional amounts paid if performance exceeds agreed targets)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Contract costs consists of the following :&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;a. Direct or specific costs : Direct materials, direct labour &amp;amp; direct expenses&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b. Allocable costs : Insurance, design &amp;amp; technical assistance expenditure etc. specifically&lt;br&gt;&lt;div&gt;chargeable under the contract, *, **.&lt;/div&gt;&lt;div&gt;* Costs incurred in securing contracts &amp;amp; pre-contract costs are included in the contract costs if&lt;br&gt;it is probable that contract will be obtained. Otherwise they should be charged to the P &amp;amp; L A/c.&lt;br&gt;** Interest cost can be included in contract costs if the asset is a qualifying asset as per AS – 16&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Following costs are excluded from contract costs :&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;a. General administration cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. Selling costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. R &amp;amp; D costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. Depreciation on idle plant &amp;amp; equipment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1840" width="610" height="580" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-68" value="Recognition Criteria&lt;br&gt;When the outcome of the contract can be estimated reliably then contract revenue &amp;amp; related&lt;br&gt;costs are recognized as revenue &amp;amp; costs by reference to the stage of completion of the&lt;br&gt;contract activity at the Balance Sheet date. This is also called Percentage Completion Method&lt;br&gt;(PCM). The stage of completion can be determined in a variety of ways:&lt;br&gt;a. Cost to cost method: Compare the total cost incurred to date with the total estimated cost&lt;br&gt;of the contract. Therefore, % of completion = [cost incurred till date / (cost incurred till date&lt;br&gt;+ cost likely to be incurred for completion)] x 100.&lt;br&gt;b. Survey of work performed&lt;br&gt;c. Completion of a physical proportion of the contract work.&lt;br&gt;• Contract revenue recognition = Contract price x % of completion – Revenue recognized earlier.&lt;br&gt;• When it is probable that total contract costs will exceed total contract revenue, expected loss&lt;br&gt;should be recognized as an expense immediately irrespective of&lt;br&gt;a. Whether or not work has commenced&lt;br&gt;b. The stage of completion&lt;br&gt;c. The amount of profit on other contracts which are not treated as a single contract&lt;br&gt;• When the outcome of a contract cannot be reliably estimated then revenue should be&lt;br&gt;recognized only to the extent of costs incurred &amp;amp; of which recovery is possible. Recognition&lt;br&gt;of revenue &amp;amp; expenditure in construction contracts is based on estimates. Changes in estimates in&lt;br&gt;year-to-year are accounted as a change in accounting estimate as per AS 5. This change&lt;br&gt;will neither be a PPI nor an extra-ordinary item.&lt;br&gt;• Where revenue is already recognised but now its ultimate collection is not certain then bad debts should&lt;br&gt;be recorded for the same. If in future again the amount is recovered then it should be recognised as a&lt;br&gt;recovery of bad debts." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="2270" width="610" height="350" as="geometry" />
@@ -6055,26 +6061,75 @@
         <mxCell id="-WtXLLydbNnoVJfI_DHs-71" value="fixed price contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="430" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-73" target="-WtXLLydbNnoVJfI_DHs-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="620" />
+              <mxPoint x="1540" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-73" value="&lt;div&gt;price is agreed as fixed sum or a fixed&lt;/div&gt;&lt;div&gt; rate per unit of output. In some&lt;/div&gt;cases, the contract may require the customer to pay additional sums to compensate the contractor&lt;br&gt;against cost escalations." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="490" width="210" height="100" as="geometry" />
+          <mxGeometry x="1310" y="490" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-75" target="-WtXLLydbNnoVJfI_DHs-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="620" />
+              <mxPoint x="1540" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-75" value="contractor is reimbursed for allowable&lt;br&gt;or otherwise defined costs, plus percentage of these costs or a fixed fee." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="490" width="240" height="60" as="geometry" />
+          <mxGeometry x="1550" y="490" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-80" target="-WtXLLydbNnoVJfI_DHs-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-80" value="&lt;div&gt;How much revenue&lt;/div&gt;&lt;div&gt; to recognize&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1480" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-82" target="-WtXLLydbNnoVJfI_DHs-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-82" value="`\text{% of completion}=\text{cost incurred till date}/\text{Total estimated cost}xx100`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="840" width="360" height="80" as="geometry" />
+          <mxGeometry x="1360" y="840" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-83" target="-WtXLLydbNnoVJfI_DHs-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-83" value="&lt;div&gt;Revenue to recognized for the year&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`=\text{contract price}xx\text{% of completion}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="940" width="300" height="80" as="geometry" />
+          <mxGeometry x="1390" y="940" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-86" target="-WtXLLydbNnoVJfI_DHs-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-86" value="&lt;b&gt;(a) When a contract covers construction of multiple assets, the construction of each asset should be treated as a separate construction contract when:&lt;/b&gt;&lt;br&gt;&lt;br&gt;(i) separate proposals have been submitted for each asset&lt;br&gt;&lt;br&gt;(ii) each asset has been subject to separate negotiation and the contractor and customer have been able to accept or reject that part of the contract relating to each asset&lt;br&gt;&lt;br&gt;(iii) the costs and revenues of each asset can be identified." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1260" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-87" value="&lt;b&gt;(b) A group of contracts, whether with a single customer or with several customers, should be treated as a single construction contract when:&lt;/b&gt;&lt;br&gt;&lt;br&gt;(i) the group of contracts is negotiated as a single package;&lt;br&gt;&lt;br&gt;&lt;div&gt;(ii) the contracts are so closely interrelated that they are, in effect, part of&lt;/div&gt;&lt;div&gt; a single project with an overall profit margin&lt;/div&gt;&lt;br&gt;(iii) the contracts are performed concurrently or in a continuous sequence." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1460" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-88" value="&lt;div&gt;&lt;b&gt;(c) A contract may provide for the construction of an additional &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;asset at the option of the customer. The construction of the additional&lt;/b&gt;&lt;b&gt; asset should be treated as a separate construction contract when:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;(i) the asset differs significantly in design, technology or function from the assets covered by the original contract&lt;br&gt;&lt;br&gt;&amp;nbsp;(ii) the price of the asset is negotiated without regard to the original contract price." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1260" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-91" target="-WtXLLydbNnoVJfI_DHs-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-91" value="Combining and Segmenting Construction Contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1060" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-98" target="-WtXLLydbNnoVJfI_DHs-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-98" value="&lt;div&gt;(i) More than one contract can be&lt;/div&gt;&lt;div&gt; taken as one&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-101" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-WtXLLydbNnoVJfI_DHs-99" target="-WtXLLydbNnoVJfI_DHs-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-99" value="(ii) a single contract can be taken as to comprise of more than one contract." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1200" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
