@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T15:41:51.222Z" agent="5.0 (X11)" etag="OcKUCaHu7en-vvwz-A9p" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T16:22:28.269Z" agent="5.0 (X11)" etag="WhVGvywpXvyUVttoCeAm" version="15.4.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
-    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1483" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,6 +486,9 @@
           <mxGeometry x="320" width="40" height="180" as="geometry">
             <mxRectangle width="40" height="180" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-26" value="&lt;div&gt;Process to remember&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;insurance will only be available on the loss on profits due to loss on sale.&lt;/div&gt;&lt;div&gt;so first you have to find out short sales which is the sales that was lost due to disruption of business by fire. to find it we find sales in the same period last year and then add trend(growth) to it. then calculate gp(also adjusted to CY) on that. which will give us the profit lost.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="280" width="440" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
