@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T16:46:58.545Z" agent="5.0 (X11)" etag="XV-lKt5F9S1jS5e35owj" version="14.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T15:39:06.461Z" agent="5.0 (X11)" etag="Y1BtbW0Q8ExbEsevhazo" version="15.4.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
-    <mxGraphModel dx="1483" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-2" value="For&lt;br&gt;&lt;b&gt;&lt;u&gt;Loss of Stock&lt;/u&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="-150" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-3" target="4NdtDuvutGnWGa9YnQER-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,96 +29,123 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-6" value="Step 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="-150" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-7" target="4NdtDuvutGnWGa9YnQER-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4NdtDuvutGnWGa9YnQER-7" target="y37NV1_tSAyn2Tpx5IFl-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-330" y="260" />
+              <mxPoint x="-330" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-7" value="Make trading account of previous year and find &lt;b&gt;&lt;u&gt;closing stock and gross profit of last year&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="280" height="40" as="geometry" />
+          <mxGeometry x="-230" y="240" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-11" target="4NdtDuvutGnWGa9YnQER-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-11" value="Step 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="-150" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-13" target="4NdtDuvutGnWGa9YnQER-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4NdtDuvutGnWGa9YnQER-13" target="y37NV1_tSAyn2Tpx5IFl-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-360" y="380" />
+              <mxPoint x="-360" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-13" value="&lt;b&gt;&lt;u&gt;Calculate GP%&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="360" width="280" height="40" as="geometry" />
+          <mxGeometry x="-150" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-15" target="4NdtDuvutGnWGa9YnQER-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-15" value="Step 3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4NdtDuvutGnWGa9YnQER-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-17" target="4NdtDuvutGnWGa9YnQER-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-150" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-17" value="Make memorandum trading a/c (MTA) for this year.&lt;br&gt;&lt;b&gt;calculate closing stock&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="480" width="280" height="40" as="geometry" />
+          <mxGeometry x="-230" y="480" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4NdtDuvutGnWGa9YnQER-19" target="4NdtDuvutGnWGa9YnQER-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-19" value="Step 4" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="-195" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-21" value="Statement of claim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="40" y="600" width="280" height="30" as="geometry" />
+          <mxGeometry x="-275" y="1300" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4NdtDuvutGnWGa9YnQER-22" target="4NdtDuvutGnWGa9YnQER-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-22" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="80" y="630" width="200" height="83" as="geometry" />
+          <mxGeometry x="-235" y="1330" width="200" height="83" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4NdtDuvutGnWGa9YnQER-22" vertex="1">
           <mxGeometry width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-24" value="Total Loss of stock&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Closing stock of MTA)&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4NdtDuvutGnWGa9YnQER-23" vertex="1">
-          <mxGeometry width="140" height="30" as="geometry" />
+          <mxGeometry width="140" height="30" as="geometry">
+            <mxRectangle width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-25" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4NdtDuvutGnWGa9YnQER-23" vertex="1">
-          <mxGeometry x="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4NdtDuvutGnWGa9YnQER-22" vertex="1">
           <mxGeometry y="30" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-27" value="(-) Salvage value" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4NdtDuvutGnWGa9YnQER-26" vertex="1">
-          <mxGeometry width="140" height="26" as="geometry" />
+          <mxGeometry width="140" height="26" as="geometry">
+            <mxRectangle width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-28" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4NdtDuvutGnWGa9YnQER-26" vertex="1">
-          <mxGeometry x="140" width="60" height="26" as="geometry" />
+          <mxGeometry x="140" width="60" height="26" as="geometry">
+            <mxRectangle width="60" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4NdtDuvutGnWGa9YnQER-22" vertex="1">
           <mxGeometry y="56" width="200" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-30" value="Actual Loss of stock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4NdtDuvutGnWGa9YnQER-29" vertex="1">
-          <mxGeometry width="140" height="27" as="geometry" />
+          <mxGeometry width="140" height="27" as="geometry">
+            <mxRectangle width="140" height="27" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-31" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4NdtDuvutGnWGa9YnQER-29" vertex="1">
-          <mxGeometry x="140" width="60" height="27" as="geometry" />
+          <mxGeometry x="140" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-33" target="4NdtDuvutGnWGa9YnQER-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-33" value="Step 5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="-195" y="1430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4NdtDuvutGnWGa9YnQER-34" target="4NdtDuvutGnWGa9YnQER-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-34" value="Calculate claim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="40" y="790" width="280" height="30" as="geometry" />
+          <mxGeometry x="-275" y="1490" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-39" target="4NdtDuvutGnWGa9YnQER-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="865" />
+              <mxPoint x="25" y="1565" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -135,7 +162,7 @@
         <mxCell id="4NdtDuvutGnWGa9YnQER-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-39" target="4NdtDuvutGnWGa9YnQER-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="865" />
+              <mxPoint x="-295" y="1565" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -145,13 +172,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-39" value="If&amp;nbsp;&lt;br&gt;policy value &amp;lt; Total loss of stock&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Insured value)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="840" width="200" height="50" as="geometry" />
+          <mxGeometry x="-235" y="1540" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-41" value="`(text\{actual loss of stock} * text\{Policy value})/text\{Total loss of stock}&lt;br&gt;`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="940" width="260" height="50" as="geometry" />
+          <mxGeometry x="-105" y="1640" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-45" value="Claim = total loss of stock" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-110" y="940" width="260" height="50" as="geometry" />
+          <mxGeometry x="-425" y="1640" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-49" value="Step 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="180" width="120" height="40" as="geometry" />
@@ -410,6 +437,55 @@
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-140" value="`\text{Claim}=\text{Policy value}&lt;br&gt;+\text{Fire fighting expenses}&lt;br&gt;`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="491.57" y="2150" width="353.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-12" value="memorandum trading a/c" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="540" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-12">
+          <mxGeometry y="30" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-13">
+          <mxGeometry width="140" height="30" as="geometry">
+            <mxRectangle width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-13">
+          <mxGeometry x="140" width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-13">
+          <mxGeometry x="180" width="140" height="30" as="geometry">
+            <mxRectangle width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-13">
+          <mxGeometry x="320" width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-12">
+          <mxGeometry y="60" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-19" value="&lt;div&gt;To opening stock&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To purchases&lt;/div&gt;&lt;div&gt;[purchases - returns - any items in godown during fire but not included]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To GP &lt;br&gt;&lt;/div&gt;&lt;div&gt;[GP% on sales]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-18">
+          <mxGeometry width="140" height="180" as="geometry">
+            <mxRectangle width="140" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-18">
+          <mxGeometry x="140" width="40" height="180" as="geometry">
+            <mxRectangle width="40" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-21" value="&lt;div&gt;To sales&lt;/div&gt;&lt;div&gt;[sales - returns - any items in godown during fire but not included]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To closing stock&lt;/div&gt;&lt;div&gt;[bal fig.]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-18">
+          <mxGeometry x="180" width="140" height="180" as="geometry">
+            <mxRectangle width="140" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y37NV1_tSAyn2Tpx5IFl-18">
+          <mxGeometry x="320" width="40" height="180" as="geometry">
+            <mxRectangle width="40" height="180" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
