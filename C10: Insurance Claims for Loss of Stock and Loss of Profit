@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T16:18:49.115Z" agent="5.0 (X11)" etag="48DNfQmdcfkmUYL63h0T" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T16:19:55.522Z" agent="5.0 (X11)" etag="MOrYP2-vL3CJ7buEoy0n" version="15.4.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
-    <mxGraphModel dx="7110" dy="2965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3980" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-1" value="&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; ; font-size: 17.3333px&quot;&gt;Insurance Claims&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-2" target="4NdtDuvutGnWGa9YnQER-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
