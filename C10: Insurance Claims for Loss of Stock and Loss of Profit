@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T16:22:09.888Z" agent="5.0 (X11)" etag="KdrKzRz4Lukg-_UXnLC6" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T16:22:15.856Z" agent="5.0 (X11)" etag="KxueHoooWgEAhOL9Momk" version="15.4.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
     <mxGraphModel dx="4427" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -516,9 +516,6 @@
           <mxGeometry x="320" width="40" height="180" as="geometry">
             <mxRectangle width="40" height="180" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="y37NV1_tSAyn2Tpx5IFl-26" value="&lt;div&gt;Process to remember&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;insurance will only be available on the loss on profits due to loss on sale.&lt;/div&gt;&lt;div&gt;so first you have to find out short sales which is the sales that was lost due to disruption of business by fire. to find it we find sales in the same period last year and then add trend(growth) to it. then calculate gp(also adjusted to CY) on that. which will give us the profit lost.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="280" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="y37NV1_tSAyn2Tpx5IFl-27" value="Indy had a biz. Indy&#39;s &lt;u&gt;&lt;b&gt;trend in sales&lt;/b&gt;&lt;/u&gt; was disturbed by &lt;u&gt;&lt;b&gt;police&lt;/b&gt;&lt;/u&gt;, they said it was relevant. but because of it her &lt;u&gt;&lt;b&gt;trend in GP&lt;/b&gt;&lt;/u&gt; also fell. there was a &lt;u&gt;&lt;b&gt;standing insurance&lt;/b&gt;&lt;/u&gt; agent in police station. in &lt;u&gt;&lt;b&gt;addition&lt;/b&gt;&lt;/u&gt; she thought doing some &lt;u&gt;&lt;b&gt;savings&lt;/b&gt;&lt;/u&gt; with that &lt;u&gt;&lt;b&gt;standing&lt;/b&gt;&lt;/u&gt; &lt;u&gt;&lt;b&gt;insurance&lt;/b&gt;&lt;/u&gt; agent. additionally she wanted the &lt;u&gt;&lt;b&gt;sales of CY&lt;/b&gt;&lt;/u&gt; same as the &lt;u&gt;&lt;b&gt;sale of LY&lt;/b&gt;&lt;/u&gt;. so she told the &lt;u&gt;&lt;b&gt;total sales of LY&lt;/b&gt;&lt;/u&gt; and what should have been her &lt;u&gt;&lt;b&gt;additional sales&lt;/b&gt;&lt;/u&gt;. and the insurance agent said &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;iyo &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;b&gt;djust&lt;/b&gt;&lt;/u&gt; madi &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;ake it." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="305" width="240" height="180" as="geometry" />
