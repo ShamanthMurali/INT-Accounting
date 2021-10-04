@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T15:28:30.320Z" agent="5.0 (X11)" etag="ujd_wBkbdzUhLMTE3Cpa" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T16:17:44.708Z" agent="5.0 (X11)" etag="nSBYRzQme4oZ9eMs2sLR" version="15.4.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
     <mxGraphModel dx="1446" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -497,7 +497,7 @@
         <mxCell id="y37NV1_tSAyn2Tpx5IFl-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y37NV1_tSAyn2Tpx5IFl-12" vertex="1">
           <mxGeometry y="60" width="360" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="y37NV1_tSAyn2Tpx5IFl-19" value="&lt;div&gt;To opening stock&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To purchases&lt;/div&gt;&lt;div&gt;[purchases - returns - any items in godown during fire but not included]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To GP &lt;br&gt;&lt;/div&gt;&lt;div&gt;[GP% on sales]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y37NV1_tSAyn2Tpx5IFl-18" vertex="1">
+        <mxCell id="y37NV1_tSAyn2Tpx5IFl-19" value="&lt;div&gt;To opening stock&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To purchases&lt;/div&gt;&lt;div&gt;[purchases - returns - any items in godown during fire but not included]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To GP**&lt;br&gt;&lt;/div&gt;&lt;div&gt;[GP% on sales]&lt;/div&gt;&lt;div&gt;(** subject to trend)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y37NV1_tSAyn2Tpx5IFl-18" vertex="1">
           <mxGeometry width="140" height="180" as="geometry">
             <mxRectangle width="140" height="180" as="alternateBounds" />
           </mxGeometry>
