@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T16:22:15.856Z" agent="5.0 (X11)" etag="KxueHoooWgEAhOL9Momk" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T16:22:31.592Z" agent="5.0 (X11)" etag="qxbe-IAZmFv8DOQ9VEwf" version="15.4.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
-    <mxGraphModel dx="4427" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,13 +390,13 @@
           <mxGeometry x="511.25" y="1740" width="249.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-120" value="Step 8" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="606.25" y="1820" width="120" height="40" as="geometry" />
+          <mxGeometry x="576.25" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-122" target="4NdtDuvutGnWGa9YnQER-137" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-122" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="566.25" y="1890" width="200" height="110" as="geometry" />
+          <mxGeometry x="536.25" y="1870" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-123" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4NdtDuvutGnWGa9YnQER-122" vertex="1">
           <mxGeometry width="200" height="30" as="geometry" />
@@ -451,22 +451,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-132" value="Statement of claim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" parent="1" vertex="1">
-          <mxGeometry x="526.25" y="1860" width="280" height="30" as="geometry" />
+          <mxGeometry x="496.25" y="1840" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-136" value="claim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" parent="1" vertex="1">
-          <mxGeometry x="606.25" y="2060" width="123.75" height="30" as="geometry" />
+          <mxGeometry x="576.25" y="2040" width="123.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-137" value="Step 9" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="606.25" y="2020" width="120" height="40" as="geometry" />
+          <mxGeometry x="576.25" y="2000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NdtDuvutGnWGa9YnQER-139" target="4NdtDuvutGnWGa9YnQER-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-139" value="`\text{Claim}=\text{Actual loss}/\text{GP on AAT}*\text{policy value}&lt;br&gt;`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="533.75" y="2090" width="268.75" height="40" as="geometry" />
+          <mxGeometry x="503.75" y="2070" width="268.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4NdtDuvutGnWGa9YnQER-140" value="`\text{Claim}=\text{Policy value}&lt;br&gt;+\text{Fire fighting expenses}&lt;br&gt;`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="491.57" y="2150" width="353.12" height="40" as="geometry" />
+          <mxGeometry x="461.57" y="2130" width="353.12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y37NV1_tSAyn2Tpx5IFl-12" value="memorandum trading a/c" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="-275" y="540" width="360" height="240" as="geometry" />
