@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T16:22:31.592Z" agent="5.0 (X11)" etag="qxbe-IAZmFv8DOQ9VEwf" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T16:23:07.342Z" agent="5.0 (X11)" etag="Z6l6ngvHLL4rLVExqN54" version="15.4.1" type="github">
   <diagram id="TKd9Yq6o26cXEbdu7HhV" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1893" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -518,7 +518,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y37NV1_tSAyn2Tpx5IFl-27" value="Indy had a biz. Indy&#39;s &lt;u&gt;&lt;b&gt;trend in sales&lt;/b&gt;&lt;/u&gt; was disturbed by &lt;u&gt;&lt;b&gt;police&lt;/b&gt;&lt;/u&gt;, they said it was relevant. but because of it her &lt;u&gt;&lt;b&gt;trend in GP&lt;/b&gt;&lt;/u&gt; also fell. there was a &lt;u&gt;&lt;b&gt;standing insurance&lt;/b&gt;&lt;/u&gt; agent in police station. in &lt;u&gt;&lt;b&gt;addition&lt;/b&gt;&lt;/u&gt; she thought doing some &lt;u&gt;&lt;b&gt;savings&lt;/b&gt;&lt;/u&gt; with that &lt;u&gt;&lt;b&gt;standing&lt;/b&gt;&lt;/u&gt; &lt;u&gt;&lt;b&gt;insurance&lt;/b&gt;&lt;/u&gt; agent. additionally she wanted the &lt;u&gt;&lt;b&gt;sales of CY&lt;/b&gt;&lt;/u&gt; same as the &lt;u&gt;&lt;b&gt;sale of LY&lt;/b&gt;&lt;/u&gt;. so she told the &lt;u&gt;&lt;b&gt;total sales of LY&lt;/b&gt;&lt;/u&gt; and what should have been her &lt;u&gt;&lt;b&gt;additional sales&lt;/b&gt;&lt;/u&gt;. and the insurance agent said &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;iyo &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;b&gt;djust&lt;/b&gt;&lt;/u&gt; madi &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt;ake it." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="305" width="240" height="180" as="geometry" />
+          <mxGeometry x="240" y="380" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="y37NV1_tSAyn2Tpx5IFl-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4NdtDuvutGnWGa9YnQER-51" target="y37NV1_tSAyn2Tpx5IFl-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
