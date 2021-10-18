@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T15:14:23.961Z" agent="5.0 (X11)" etag="YINrgGLfQnpN6WTWneei" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T15:39:35.374Z" agent="5.0 (X11)" etag="9CWeYAyOX0litw1c5iCG" version="15.5.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="7020" dy="4235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -975,9 +975,6 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-1" target="FC5-m9Qr8p2ZbiSkgRJ7-39" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-1" target="OoX-HEwOeC7CQ54famQ6-1" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-1" target="FC5-m9Qr8p2ZbiSkgRJ7-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -989,21 +986,21 @@
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-2" target="FC5-m9Qr8p2ZbiSkgRJ7-22" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="360" />
-              <mxPoint x="100" y="360" />
+              <mxPoint x="380" y="360" />
+              <mxPoint x="180" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-2" target="FC5-m9Qr8p2ZbiSkgRJ7-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="360" />
-              <mxPoint x="500" y="360" />
+              <mxPoint x="380" y="360" />
+              <mxPoint x="580" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-2" value="Contingencies" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-3" target="FC5-m9Qr8p2ZbiSkgRJ7-42" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -1012,37 +1009,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-3" value="Adjusting events" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="110" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-4" target="FC5-m9Qr8p2ZbiSkgRJ7-44" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-4" value="Non-adjusting events" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="400" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-5" target="FC5-m9Qr8p2ZbiSkgRJ7-37" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-5" value="&lt;u&gt;Probable&lt;/u&gt;&lt;br&gt;&lt;div&gt;&amp;gt;=70%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-90" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="-10" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-6" target="FC5-m9Qr8p2ZbiSkgRJ7-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-6" value="&lt;u&gt;Possible&lt;/u&gt;&lt;br&gt;&lt;div&gt;&amp;gt;=30% or &amp;lt;=69%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="50" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-7" target="FC5-m9Qr8p2ZbiSkgRJ7-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-7" value="&lt;u&gt;Remote&lt;/u&gt;&lt;br&gt;&lt;div&gt;&amp;lt;=29%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="190" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-8" target="FC5-m9Qr8p2ZbiSkgRJ7-10" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-8" value="The&amp;nbsp; accounting&amp;nbsp; treatment&amp;nbsp; of&amp;nbsp; a&amp;nbsp; contingent&amp;nbsp; loss&amp;nbsp; is&amp;nbsp; determined&amp;nbsp; by&amp;nbsp; the&amp;nbsp; expected&amp;nbsp; outcome of the contingency." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-30" y="470" width="280" height="50" as="geometry" />
+          <mxGeometry x="50" y="470" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-10" target="FC5-m9Qr8p2ZbiSkgRJ7-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -1054,13 +1051,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-10" value="When probability of the event occuring is..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="15" y="540" width="190" height="40" as="geometry" />
+          <mxGeometry x="95" y="540" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-17" value="Ignore it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="190" y="700" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-19" value="&lt;div&gt;Disclosure to be &lt;br&gt;&lt;/div&gt;&lt;div&gt;given in the notes to accounts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="50" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-21" target="FC5-m9Qr8p2ZbiSkgRJ7-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -1069,40 +1066,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-21" value="Contingent &lt;u&gt;&lt;b&gt;gains&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="440" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-22" target="FC5-m9Qr8p2ZbiSkgRJ7-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-22" value="Contingent &lt;u&gt;&lt;b&gt;losses&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="50" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-25" target="FC5-m9Qr8p2ZbiSkgRJ7-30" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-25" value="the gain is not yet realised" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="360" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-26" target="FC5-m9Qr8p2ZbiSkgRJ7-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-26" value="gain is realised" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="520" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-30" value="Ignore it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="360" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-33" value="Account the gain" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="520" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-37" value="create a provision in the accounts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-90" y="700" width="120" height="40" as="geometry" />
+          <mxGeometry x="-10" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-39" target="FC5-m9Qr8p2ZbiSkgRJ7-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="370" />
-              <mxPoint x="170" y="370" />
+              <mxPoint x="540" y="370" />
+              <mxPoint x="250" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1112,70 +1109,73 @@
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-39" target="FC5-m9Qr8p2ZbiSkgRJ7-52" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="370" />
-              <mxPoint x="700" y="370" />
+              <mxPoint x="540" y="370" />
+              <mxPoint x="780" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-39" value="Events Occurring after the Balance Sheet Date " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-42" target="FC5-m9Qr8p2ZbiSkgRJ7-48" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-42" value="those&amp;nbsp; which&amp;nbsp; provide&amp;nbsp; further&amp;nbsp; evidence&amp;nbsp; of&amp;nbsp; conditions&amp;nbsp; that existed&amp;nbsp; at&amp;nbsp; the&amp;nbsp; balance&amp;nbsp; sheet&amp;nbsp; date.&amp;nbsp; For&amp;nbsp; example,&amp;nbsp; a&amp;nbsp; trade&amp;nbsp; receivable&amp;nbsp; declared insolvent&amp;nbsp; after&amp;nbsp; reporting&amp;nbsp; date&amp;nbsp; and&amp;nbsp; unable to&amp;nbsp; pay&amp;nbsp; full&amp;nbsp; amount&amp;nbsp; against&amp;nbsp; whom provision for doubtful debt was created." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="30" y="480" width="280" height="80" as="geometry" />
+          <mxGeometry x="110" y="480" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-44" target="FC5-m9Qr8p2ZbiSkgRJ7-50" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-44" value="&amp;nbsp;those&amp;nbsp; which&amp;nbsp; are&amp;nbsp; indicative&amp;nbsp; of&amp;nbsp; conditions&amp;nbsp; that&amp;nbsp; arose subsequent to the balance sheet date. For example, plant got damaged due to occurrence of fire." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="480" width="280" height="80" as="geometry" />
+          <mxGeometry x="400" y="480" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-45" value="&lt;div&gt;condition??&lt;/div&gt;&lt;div&gt;it meas the circumstances of that event happening that already exsisted in the balance sheet&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-110" y="365" width="120" height="110" as="geometry" />
+          <mxGeometry y="365" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-48" value="&lt;div&gt;&amp;gt; Adjustment in the accounts is &lt;u&gt;&lt;b&gt;required&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; disclosure needs to be provided materially&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="70" y="600" width="200" height="70" as="geometry" />
+          <mxGeometry x="150" y="600" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6rU3c06O2Rh-svaOK1KS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-50" target="OoX-HEwOeC7CQ54famQ6-1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-50" value="&lt;div&gt;&amp;gt; Adjustment to accounts &lt;u&gt;&lt;b&gt;should not be done&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; disclosure neednot be provided unless significant&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="360" y="600" width="200" height="70" as="geometry" />
+          <mxGeometry x="440" y="600" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-52" target="FC5-m9Qr8p2ZbiSkgRJ7-55" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-52" value="events occuring after boards approval" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="640" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FC5-m9Qr8p2ZbiSkgRJ7-55" value="should be disclose in directors report" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="640" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-1" target="OoX-HEwOeC7CQ54famQ6-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoX-HEwOeC7CQ54famQ6-1" value="Exceptions" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="560" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="OoX-HEwOeC7CQ54famQ6-1" value="Exceptions" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="480" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-3" target="OoX-HEwOeC7CQ54famQ6-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-3" value="&lt;div&gt;Even if it is a non adjusting event, the adjustment should be made in financial statements &lt;br&gt;&lt;/div&gt;when..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="485" y="360" width="270" height="50" as="geometry" />
+          <mxGeometry x="405" y="750" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-4" target="OoX-HEwOeC7CQ54famQ6-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-4" value="&lt;div&gt;a) Event occurring after B/S date which may indicate that the enterprise may cease to be going concern then the financial statements should be brought down to NRV.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="485" y="430" width="270" height="70" as="geometry" />
+          <mxGeometry x="405" y="820" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-7" target="OoX-HEwOeC7CQ54famQ6-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-7" value="b) changes in tax rates after B/S date&lt;br&gt;having a significant effect on current Deferred Tax Asset(DTA) or &lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;Deferred Tax Liability(&lt;/span&gt;&lt;/span&gt;DTL) should be measured using the new enacted rates" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="485" y="520" width="270" height="70" as="geometry" />
+          <mxGeometry x="405" y="910" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-9" value="c) If an enterprise declares dividend to Share holders after the B/S date then it should not be recognised as a Liability in the B/s date unless a statute requires Such dividend should be disclosed in Notes." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="485" y="610" width="270" height="80" as="geometry" />
+          <mxGeometry x="405" y="1000" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OoX-HEwOeC7CQ54famQ6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OoX-HEwOeC7CQ54famQ6-54" target="OoX-HEwOeC7CQ54famQ6-57" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -6213,7 +6213,7 @@
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j1IQx6dp2NBMvODi_UVL-1" value="&lt;div&gt;Provision&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The&amp;nbsp; standard&amp;nbsp; states,&amp;nbsp; “at&amp;nbsp; certain&amp;nbsp; stages&amp;nbsp; in&amp;nbsp; specific&amp;nbsp; industries,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; when&amp;nbsp; agricultural&amp;nbsp; crops&amp;nbsp; have&amp;nbsp; been&amp;nbsp; harvested&amp;nbsp; or&amp;nbsp; mineral&amp;nbsp; ores&amp;nbsp; have&amp;nbsp; been&amp;nbsp; extracted,&amp;nbsp; performance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; substantially&amp;nbsp; complete prior to the execution of the transaction generating revenue. In such cases,&amp;nbsp; when&amp;nbsp; sale&amp;nbsp; is&amp;nbsp; assured&amp;nbsp; under&amp;nbsp; forward&amp;nbsp; contract&amp;nbsp; or&amp;nbsp; a&amp;nbsp; government&amp;nbsp; guarantee&amp;nbsp; or&amp;nbsp; when market exists and there is a negligible risk of failure to sell, the goods are often valued&amp;nbsp; at net realizable value at certain stages of production.” &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="j1IQx6dp2NBMvODi_UVL-1" value="&lt;div&gt;Provision&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The&amp;nbsp; standard&amp;nbsp; states,&amp;nbsp; “at&amp;nbsp; certain&amp;nbsp; stages&amp;nbsp; in&amp;nbsp; specific&amp;nbsp; industries,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; when&amp;nbsp; agricultural&amp;nbsp; crops&amp;nbsp; have&amp;nbsp; been&amp;nbsp; harvested&amp;nbsp; or&amp;nbsp; mineral&amp;nbsp; ores&amp;nbsp; have&amp;nbsp; been&amp;nbsp; extracted,&amp;nbsp; performance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; substantially&amp;nbsp; complete prior to the execution of the transaction generating revenue. In such cases,&amp;nbsp; when&amp;nbsp; sale&amp;nbsp; is&amp;nbsp; assured&amp;nbsp; under&amp;nbsp; forward&amp;nbsp; contract&amp;nbsp; or&amp;nbsp; a&amp;nbsp; government&amp;nbsp; guarantee&amp;nbsp; or&amp;nbsp; when market exists and there is a negligible risk of failure to sell, the goods are often valued&amp;nbsp; at net realizable value at certain stages of production.” &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="-590" y="-410" width="570" height="200" as="geometry" />
         </mxCell>
       </root>
