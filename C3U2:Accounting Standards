@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T12:01:45.230Z" agent="5.0 (X11)" etag="6_r5XgaC1IFL7wyv9qKA" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T15:14:23.961Z" agent="5.0 (X11)" etag="YINrgGLfQnpN6WTWneei" version="15.5.4" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1449" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="7020" dy="4235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6212,6 +6212,9 @@
         </mxCell>
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j1IQx6dp2NBMvODi_UVL-1" value="&lt;div&gt;Provision&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The&amp;nbsp; standard&amp;nbsp; states,&amp;nbsp; “at&amp;nbsp; certain&amp;nbsp; stages&amp;nbsp; in&amp;nbsp; specific&amp;nbsp; industries,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; when&amp;nbsp; agricultural&amp;nbsp; crops&amp;nbsp; have&amp;nbsp; been&amp;nbsp; harvested&amp;nbsp; or&amp;nbsp; mineral&amp;nbsp; ores&amp;nbsp; have&amp;nbsp; been&amp;nbsp; extracted,&amp;nbsp; performance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; substantially&amp;nbsp; complete prior to the execution of the transaction generating revenue. In such cases,&amp;nbsp; when&amp;nbsp; sale&amp;nbsp; is&amp;nbsp; assured&amp;nbsp; under&amp;nbsp; forward&amp;nbsp; contract&amp;nbsp; or&amp;nbsp; a&amp;nbsp; government&amp;nbsp; guarantee&amp;nbsp; or&amp;nbsp; when market exists and there is a negligible risk of failure to sell, the goods are often valued&amp;nbsp; at net realizable value at certain stages of production.” &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-410" width="570" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
