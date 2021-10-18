@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T15:49:54.425Z" agent="5.0 (X11)" etag="H-j73bHXnKouHG1tSaw4" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T16:23:30.095Z" agent="5.0 (X11)" etag="r89J-c8uBwGQMNgpCkSL" version="15.5.5" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1614" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,10 +559,10 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aUA01yDdBmGF5Haiwjqg-1" target="aUA01yDdBmGF5Haiwjqg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 5&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="760" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aUA01yDdBmGF5Haiwjqg-2" target="aUA01yDdBmGF5Haiwjqg-5" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WtJdB36HHvOcN5GB7c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUA01yDdBmGF5Haiwjqg-2" target="Z1WtJdB36HHvOcN5GB7c-1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Net Profit or Loss for the Period, &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Prior Period Items and Changes in Accounting Policies&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="aUA01yDdBmGF5Haiwjqg-2">
@@ -917,7 +917,7 @@
         <mxCell id="pxmkQ-oCzDpBry00P6ab-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-12" target="pxmkQ-oCzDpBry00P6ab-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYo-C9mS6PUQsOqOWaz9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-12" target="j1IQx6dp2NBMvODi_UVL-1" visible="0">
+        <mxCell id="hYo-C9mS6PUQsOqOWaz9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-DXxzPPNvHtWj_lPQ7dt-12" target="j1IQx6dp2NBMvODi_UVL-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;Valuation of Inventories&lt;/b&gt;" treeRoot="1" id="-DXxzPPNvHtWj_lPQ7dt-12">
@@ -975,7 +975,7 @@
         <mxCell id="OoX-HEwOeC7CQ54famQ6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-1" target="FC5-m9Qr8p2ZbiSkgRJ7-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYo-C9mS6PUQsOqOWaz9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-1" target="hYo-C9mS6PUQsOqOWaz9-2" visible="0">
+        <mxCell id="hYo-C9mS6PUQsOqOWaz9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FC5-m9Qr8p2ZbiSkgRJ7-1" target="hYo-C9mS6PUQsOqOWaz9-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Contingencies and Events Occurring After the Balance Sheet Date &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" treeRoot="1" id="FC5-m9Qr8p2ZbiSkgRJ7-1">
@@ -6219,11 +6219,17 @@
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hYo-C9mS6PUQsOqOWaz9-2" value="&lt;div&gt;Provision&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;According to AS 4 on ‘Contingencies and Events Occurring after the Balance Sheet &lt;br&gt;Date’, adjustments to assets and liabilities are required for events occurring after the &lt;br&gt;balance sheet date that provide additional information materially affecting the &lt;br&gt;determination of the amounts relating to conditions existing at the balance sheet date. &amp;nbsp;&lt;br&gt;However, adjustments to assets and liabilities are not appropriate for events occurring &lt;br&gt;after the balance sheet date, if such events do not relate to conditions existing at the &lt;br&gt;balance sheet date.&amp;nbsp; “Contingencies” used in the Standard is restricted to conditions &lt;br&gt;or&amp;nbsp; situations&amp;nbsp; at&amp;nbsp; the&amp;nbsp; balance&amp;nbsp; sheet&amp;nbsp; date,&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; effect&amp;nbsp; of&amp;nbsp; which&amp;nbsp; is&amp;nbsp; to&amp;nbsp; be &lt;br&gt;determined by future events which may or may not occur. &amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" visible="0" parent="1">
+        <mxCell id="hYo-C9mS6PUQsOqOWaz9-2" value="&lt;div&gt;Provision&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;According to AS 4 on ‘Contingencies and Events Occurring after the Balance Sheet &lt;br&gt;Date’, adjustments to assets and liabilities are required for events occurring after the &lt;br&gt;balance sheet date that provide additional information materially affecting the &lt;br&gt;determination of the amounts relating to conditions existing at the balance sheet date. &amp;nbsp;&lt;br&gt;However, adjustments to assets and liabilities are not appropriate for events occurring &lt;br&gt;after the balance sheet date, if such events do not relate to conditions existing at the &lt;br&gt;balance sheet date.&amp;nbsp; “Contingencies” used in the Standard is restricted to conditions &lt;br&gt;or&amp;nbsp; situations&amp;nbsp; at&amp;nbsp; the&amp;nbsp; balance&amp;nbsp; sheet&amp;nbsp; date,&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; effect&amp;nbsp; of&amp;nbsp; which&amp;nbsp; is&amp;nbsp; to&amp;nbsp; be &lt;br&gt;determined by future events which may or may not occur. &amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1" visible="0">
           <mxGeometry x="175" y="-240" width="570" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-DXxzPPNvHtWj_lPQ7dt-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 4&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WtJdB36HHvOcN5GB7c-1" value="&lt;div&gt;Provision&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As per AS 5 “Net&amp;nbsp; Profit&amp;nbsp; or&amp;nbsp; Loss&amp;nbsp; for&amp;nbsp; the&amp;nbsp; Period,&amp;nbsp; Prior&amp;nbsp; Period&amp;nbsp; Items&amp;nbsp; and&amp;nbsp; Changes&amp;nbsp; in &lt;br&gt;Accounting Policies” Extraordinary items should be disclosed in the statement of profit &lt;br&gt;and loss as a part of net profit or loss for the period. The nature and the amount of &lt;br&gt;each extraordinary item should be separately disclosed in the statement of profit and &lt;br&gt;loss in a manner that its impact on current profit or loss can be perceived. &lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="535" y="-190" width="570" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 5&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="760" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
