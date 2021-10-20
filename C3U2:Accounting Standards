@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T12:25:52.724Z" agent="5.0 (X11)" etag="GlZmKt6K2kZuWU-3cqM5" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T05:22:46.562Z" agent="5.0 (X11)" etag="LiFjOiJNT5X-ckVqk3Y9" version="15.5.7" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2856,22 +2856,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ln59aV-OFLYjMNqGV-8C-22" value="activity list" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="-120" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="-120" y="580" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ln59aV-OFLYjMNqGV-8C-23" value="1. cash recived from customers&lt;br&gt;2. cash paid to suppliers, wages&lt;br&gt;3. cash paid for administration, selling and distribution expenses" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ln59aV-OFLYjMNqGV-8C-22" vertex="1">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Ln59aV-OFLYjMNqGV-8C-24" value="activity list" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="40" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="40" y="580" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ln59aV-OFLYjMNqGV-8C-25" value="&lt;div&gt;1. purchase of FA&lt;/div&gt;&lt;div&gt;2. sale of FA&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(102 , 178 , 255)&quot;&gt;3. interest on dividend recieved&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ln59aV-OFLYjMNqGV-8C-24" vertex="1">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="Ln59aV-OFLYjMNqGV-8C-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ln59aV-OFLYjMNqGV-8C-26" target="Ln59aV-OFLYjMNqGV-8C-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2879,14 +2863,6 @@
               <mxPoint x="100" y="640" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ln59aV-OFLYjMNqGV-8C-26" value="activity list" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="200" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="200" y="580" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ln59aV-OFLYjMNqGV-8C-27" value="&lt;div&gt;1. issue of shares/debentures/bonds/bank loan etc.&lt;/div&gt;&lt;div&gt;2. redemption of shares/debentures/bonds/bank loan repaid etc.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(102 , 178 , 255)&quot;&gt;3. interest on dividend paid&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ln59aV-OFLYjMNqGV-8C-26" vertex="1">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ln59aV-OFLYjMNqGV-8C-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ln59aV-OFLYjMNqGV-8C-29" target="Ln59aV-OFLYjMNqGV-8C-34" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
@@ -6230,6 +6206,30 @@
         </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 5&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln59aV-OFLYjMNqGV-8C-26" value="activity list" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
+          <mxGeometry x="200" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="200" y="580" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ln59aV-OFLYjMNqGV-8C-27" value="&lt;div&gt;1. issue of shares/debentures/bonds/bank loan etc.&lt;/div&gt;&lt;div&gt;2. redemption of shares/debentures/bonds/bank loan repaid etc.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(102 , 178 , 255)&quot;&gt;3. interest on dividend paid&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ln59aV-OFLYjMNqGV-8C-26" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln59aV-OFLYjMNqGV-8C-24" value="activity list" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
+          <mxGeometry x="40" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="40" y="580" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ln59aV-OFLYjMNqGV-8C-25" value="&lt;div&gt;1. purchase of FA&lt;/div&gt;&lt;div&gt;2. sale of FA&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(102 , 178 , 255)&quot;&gt;3. interest on dividend recieved&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ln59aV-OFLYjMNqGV-8C-24" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln59aV-OFLYjMNqGV-8C-22" value="activity list" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
+          <mxGeometry x="-120" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="-120" y="580" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ln59aV-OFLYjMNqGV-8C-23" value="1. cash recived from customers&lt;br&gt;2. cash paid to suppliers, wages&lt;br&gt;3. cash paid for administration, selling and distribution expenses" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ln59aV-OFLYjMNqGV-8C-22" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
