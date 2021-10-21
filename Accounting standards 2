@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T04:14:28.073Z" agent="5.0 (X11)" etag="L-RzDqVFFRCmYHZRcFRC" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T04:30:15.059Z" agent="5.0 (X11)" etag="cEbLsvQlauXLKofD4Rnj" version="15.5.8" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
     <mxGraphModel dx="258" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4542,20 +4542,20 @@
         </mxCell>
         <mxCell id="UpAzB87NLVowfMgBwL1t-86" value="Treatement" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="3130" y="860" width="120" height="40" as="geometry">
-            <mxRectangle x="3130" y="860" width="90" height="340" as="alternateBounds" />
+            <mxRectangle x="3130" y="860" width="930" height="340" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpAzB87NLVowfMgBwL1t-87" value="Treatment Disc." style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-86" vertex="1" collapsed="1">
-          <mxGeometry y="40" width="30" as="geometry">
-            <mxRectangle y="40" width="250" height="300" as="alternateBounds" />
+        <mxCell id="UpAzB87NLVowfMgBwL1t-87" value="Treatment Disc." style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-86" vertex="1">
+          <mxGeometry y="40" width="250" as="geometry">
+            <mxRectangle y="40" width="30" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UpAzB87NLVowfMgBwL1t-88" value="&lt;div&gt;&amp;gt;&amp;gt; Grants related to depreciable assets are treated as deferred income which is recognised in the profit and loss statement on a systematic and rational basis over the useful life of the asset. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; a separate account for GG is maintained on the lib side of BS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="UpAzB87NLVowfMgBwL1t-87" vertex="1">
           <mxGeometry y="20" width="250" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="UpAzB87NLVowfMgBwL1t-89" value="Journal entries" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-86" vertex="1" collapsed="1">
-          <mxGeometry x="30" y="40" width="30" as="geometry">
-            <mxRectangle x="30" y="40" width="180" height="300" as="alternateBounds" />
+        <mxCell id="UpAzB87NLVowfMgBwL1t-89" value="Journal entries" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-86" vertex="1">
+          <mxGeometry x="250" y="40" width="180" as="geometry">
+            <mxRectangle x="250" y="40" width="30" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UpAzB87NLVowfMgBwL1t-90" value="When the asset is purchased" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" parent="UpAzB87NLVowfMgBwL1t-89" vertex="1">
@@ -4618,9 +4618,9 @@
         <mxCell id="UpAzB87NLVowfMgBwL1t-109" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="UpAzB87NLVowfMgBwL1t-107" vertex="1">
           <mxGeometry x="140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UpAzB87NLVowfMgBwL1t-110" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-86" vertex="1" collapsed="1">
-          <mxGeometry x="60" y="40" width="30" as="geometry">
-            <mxRectangle x="60" y="40" width="500" height="300" as="alternateBounds" />
+        <mxCell id="UpAzB87NLVowfMgBwL1t-110" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-86" vertex="1">
+          <mxGeometry x="430" y="40" width="500" as="geometry">
+            <mxRectangle x="430" y="40" width="30" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BsZA4jeMMNxRgiB84GWb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="UpAzB87NLVowfMgBwL1t-110" vertex="1">
@@ -4664,20 +4664,20 @@
         </mxCell>
         <mxCell id="UpAzB87NLVowfMgBwL1t-55" value="Treatement" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2970" y="860" width="120" height="40" as="geometry">
-            <mxRectangle x="2970" y="860" width="90" height="270" as="alternateBounds" />
+            <mxRectangle x="2970" y="860" width="750" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UpAzB87NLVowfMgBwL1t-56" value="Treatment Disc." style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-55" vertex="1" collapsed="1">
-          <mxGeometry y="40" width="30" as="geometry">
-            <mxRectangle y="40" width="250" height="210" as="alternateBounds" />
+        <mxCell id="UpAzB87NLVowfMgBwL1t-56" value="Treatment Disc." style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-55" vertex="1">
+          <mxGeometry y="40" width="250" as="geometry">
+            <mxRectangle y="40" width="30" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UpAzB87NLVowfMgBwL1t-57" value="&lt;div&gt;&amp;gt;&amp;gt; The grant is shown as a deduction from the gross value of the asset concerned in arriving at its book value. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; The grant is thus recognised in the profit and loss statement over the useful life of a depreciable asset by way of a reduced depreciation charge&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Where the&amp;nbsp; grant&amp;nbsp; equals the&amp;nbsp; whole,&amp;nbsp; or&amp;nbsp; virtually the&amp;nbsp; whole,&amp;nbsp; of the&amp;nbsp; cost of the asset, the asset is shown in the balance sheet at a nominal value. &lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="UpAzB87NLVowfMgBwL1t-56" vertex="1">
           <mxGeometry y="20" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UpAzB87NLVowfMgBwL1t-58" value="Journal entries" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-55" vertex="1" collapsed="1">
-          <mxGeometry x="30" y="40" width="30" as="geometry">
-            <mxRectangle x="30" y="40" width="180" height="230" as="alternateBounds" />
+        <mxCell id="UpAzB87NLVowfMgBwL1t-58" value="Journal entries" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-55" vertex="1">
+          <mxGeometry x="250" y="40" width="180" as="geometry">
+            <mxRectangle x="250" y="40" width="30" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UpAzB87NLVowfMgBwL1t-59" value="When the asset is purchased" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" parent="UpAzB87NLVowfMgBwL1t-58" vertex="1">
@@ -4725,9 +4725,9 @@
         <mxCell id="UpAzB87NLVowfMgBwL1t-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="UpAzB87NLVowfMgBwL1t-71" vertex="1">
           <mxGeometry x="140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UpAzB87NLVowfMgBwL1t-74" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-55" vertex="1" collapsed="1">
-          <mxGeometry x="60" y="40" width="30" as="geometry">
-            <mxRectangle x="60" y="40" width="320" height="230" as="alternateBounds" />
+        <mxCell id="UpAzB87NLVowfMgBwL1t-74" value="P/L &amp;amp; Balance sheet" style="swimlane;html=1;startSize=20;" parent="UpAzB87NLVowfMgBwL1t-55" vertex="1">
+          <mxGeometry x="430" y="40" width="320" as="geometry">
+            <mxRectangle x="430" y="40" width="30" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BsZA4jeMMNxRgiB84GWb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="UpAzB87NLVowfMgBwL1t-74" vertex="1">
