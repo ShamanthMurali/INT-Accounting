@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T21:27:27.942Z" agent="5.0 (X11)" etag="nUKGL0w-w4Zx-KNmHtTi" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T17:33:53.473Z" agent="5.0 (X11)" etag="iyxwEbSBWi7Ihz0uiYnV" version="15.5.7" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="1070" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-592" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4518,7 +4518,7 @@
           <mxGeometry x="3600" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--15" value="Reclassification of investments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3600" y="1680" width="120" height="40" as="geometry" />
+          <mxGeometry x="3600" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_VkY2LLd24g5W65SIT--17" target="o_VkY2LLd24g5W65SIT--1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
@@ -4614,7 +4614,7 @@
           <mxGeometry x="4510" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disclosures&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. Accounting policies followed for valuation&lt;br&gt;&lt;div&gt;of investments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. classification of investments into current and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Long term Investments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. Aggregate amount of Quoted and unquoted&lt;br&gt;&lt;div&gt;securities separately&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 4. Any significant restriction on investments &lt;br&gt;Like, minimum holding period or restriction on utilization&lt;/div&gt;&lt;div&gt; of sale proceeds should be disclosed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3500" y="2000" width="320" height="220" as="geometry" />
+          <mxGeometry x="3500" y="1960" width="320" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7nCRGYHBSB2GdviSriHI-22" target="7nCRGYHBSB2GdviSriHI-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -4663,25 +4663,33 @@
           <mxGeometry width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-35" value="Current Investments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-34" vertex="1">
-          <mxGeometry width="180" height="40" as="geometry" />
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-36" value="Long Term Investments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-34" vertex="1">
-          <mxGeometry x="180" width="180" height="40" as="geometry" />
+          <mxGeometry x="180" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-37" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7nCRGYHBSB2GdviSriHI-33" vertex="1">
           <mxGeometry y="40" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-38" value="&lt;div&gt;As on balance sheet date c&lt;span style=&quot;white-space: pre&quot;&gt;urrent investments are &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;carried at lower of cost or FV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Any loss arising if investments &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;are carried at FV, should be &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;recognized in the P/L&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&amp;nbsp;a/c" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-37" vertex="1">
-          <mxGeometry width="180" height="140" as="geometry" />
+          <mxGeometry width="180" height="140" as="geometry">
+            <mxRectangle width="180" height="140" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-39" value="&lt;div&gt;Generally carried at cost unless there is a permanent reduction in it value&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Any loss arising due to permanent reduction should be charged to P/L a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-37" vertex="1">
-          <mxGeometry x="180" width="180" height="140" as="geometry" />
+          <mxGeometry x="180" width="180" height="140" as="geometry">
+            <mxRectangle width="180" height="140" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7nCRGYHBSB2GdviSriHI-44" target="o_VkY2LLd24g5W65SIT--15" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7nCRGYHBSB2GdviSriHI-44" value="Profit / loss on sale of Investments Any profit or Loss on sale or disposal of investments should be recognised in the&lt;br&gt;PIL Afc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3480" y="1580" width="360" height="60" as="geometry" />
+        <mxCell id="7nCRGYHBSB2GdviSriHI-44" value="Any profit or Loss on sale or disposal of investments should be recognised in the P/L A/c" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="3480" y="1580" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="o_VkY2LLd24g5W65SIT--15" target="7nCRGYHBSB2GdviSriHI-46" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -4690,25 +4698,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-46" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3480" y="1740" width="360" height="220" as="geometry" />
+          <mxGeometry x="3480" y="1700" width="360" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-47" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7nCRGYHBSB2GdviSriHI-46" vertex="1">
           <mxGeometry width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-48" value="Current Investments to long term investments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-47" vertex="1">
-          <mxGeometry width="180" height="40" as="geometry" />
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-49" value="&lt;div&gt;Long Term Investments to&lt;/div&gt;&lt;div&gt; short term investments&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-47" vertex="1">
-          <mxGeometry x="180" width="180" height="40" as="geometry" />
+          <mxGeometry x="180" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7nCRGYHBSB2GdviSriHI-46" vertex="1">
           <mxGeometry y="40" width="360" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-51" value="&lt;div&gt;Transfer from Current investment to long term investment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;will be made @ cost or FV&lt;/div&gt;&lt;div&gt;[Which ever is lower]&lt;/div&gt;&lt;div&gt;on the date of re-classification&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;any loss arising due to re-classification to be Debited to P/L&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-50" vertex="1">
-          <mxGeometry width="180" height="180" as="geometry" />
+          <mxGeometry width="180" height="180" as="geometry">
+            <mxRectangle width="180" height="180" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-52" value="&lt;div&gt;Transfer from LT to ST will be made at lower of :-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a) book value*&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;b) Cost*&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[*cost or BV will be same unless no permanent reduction had taken place]&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7nCRGYHBSB2GdviSriHI-50" vertex="1">
-          <mxGeometry x="180" width="180" height="180" as="geometry" />
+          <mxGeometry x="180" width="180" height="180" as="geometry">
+            <mxRectangle width="180" height="180" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
