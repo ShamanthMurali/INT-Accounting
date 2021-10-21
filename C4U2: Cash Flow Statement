@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T08:25:37.833Z" agent="5.0 (X11)" etag="wtWnF3xMfNYvsfzMskAv" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T08:29:51.073Z" agent="5.0 (X11)" etag="LLqYHlfRuBC6H4bpcnFB" version="15.5.7" type="github">
   <diagram id="1HoI6zDrcJbQT7nyzsD3" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="x2lBY9uAA2yYrli3BdDl-37" value="Cash Flow Statement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TLWuQkkKd4EkTolRpREw-1" value="&lt;div&gt;Be careful&lt;/div&gt;&lt;div&gt;1. dividend on ES and PS do not come here because they are not an expense to the company.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Premium of ES / PS do not come here because they are adjusted through CR&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="730" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
