@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T17:46:04.755Z" agent="5.0 (X11)" etag="PsCi17PRJ5Gd12ZSLJiL" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T18:43:56.693Z" agent="5.0 (X11)" etag="1YInpwCWW4ywDdNRD8yt" version="15.5.7" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="-936" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-834" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4408,39 +4408,25 @@
         <mxCell id="9i0mmIJKEikvl6Flk6vY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-7" target="9i0mmIJKEikvl6Flk6vY-13" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9i0mmIJKEikvl6Flk6vY-7" value="Types of investments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3600" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-8" target="o_VkY2LLd24g5W65SIT--1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3500" y="700" />
+              <mxPoint x="3580" y="700" />
               <mxPoint x="3660" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9i0mmIJKEikvl6Flk6vY-8" value="&lt;div&gt;Short term&lt;/div&gt;&amp;lt; 12m" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3440" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="3520" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9i0mmIJKEikvl6Flk6vY-9" target="o_VkY2LLd24g5W65SIT--1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9i0mmIJKEikvl6Flk6vY-9" value="&lt;div&gt;Long term&lt;/div&gt;&lt;div&gt;&amp;gt; 12m&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3600" y="620" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o_VkY2LLd24g5W65SIT--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9i0mmIJKEikvl6Flk6vY-13" target="o_VkY2LLd24g5W65SIT--17" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3825" y="650" />
-              <mxPoint x="3825" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9i0mmIJKEikvl6Flk6vY-13" value="Investment properties" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3760" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="3680" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_VkY2LLd24g5W65SIT--1" target="o_VkY2LLd24g5W65SIT--3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -4519,17 +4505,6 @@
         </mxCell>
         <mxCell id="o_VkY2LLd24g5W65SIT--15" value="Reclassification of investments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="3600" y="1660" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7nCRGYHBSB2GdviSriHI-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_VkY2LLd24g5W65SIT--17" target="o_VkY2LLd24g5W65SIT--1" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3820" y="700" />
-              <mxPoint x="3660" y="700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o_VkY2LLd24g5W65SIT--17" value="Gold, building etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="3760" y="660" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7nCRGYHBSB2GdviSriHI-1" target="o_VkY2LLd24g5W65SIT--13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
