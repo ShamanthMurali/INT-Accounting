@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T17:33:53.473Z" agent="5.0 (X11)" etag="iyxwEbSBWi7Ihz0uiYnV" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T17:40:15.804Z" agent="5.0 (X11)" etag="8xb9HoAkvkYw8EXK_Pzu" version="15.5.7" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
     <mxGraphModel dx="-592" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4610,7 +4610,7 @@
         <mxCell id="7nCRGYHBSB2GdviSriHI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7nCRGYHBSB2GdviSriHI-18" target="7nCRGYHBSB2GdviSriHI-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7nCRGYHBSB2GdviSriHI-18" value="&lt;div&gt;Renouncement price received should be credited to PIL Alc&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="7nCRGYHBSB2GdviSriHI-18" value="&lt;div&gt;Renouncement price received should be credited to P/L Alc&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="4510" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disclosures&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. Accounting policies followed for valuation&lt;br&gt;&lt;div&gt;of investments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. classification of investments into current and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Long term Investments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. Aggregate amount of Quoted and unquoted&lt;br&gt;&lt;div&gt;securities separately&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 4. Any significant restriction on investments &lt;br&gt;Like, minimum holding period or restriction on utilization&lt;/div&gt;&lt;div&gt; of sale proceeds should be disclosed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
