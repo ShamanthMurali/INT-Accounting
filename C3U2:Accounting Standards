@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T13:03:36.354Z" agent="5.0 (X11)" etag="7AUME2XyvghunqK1audp" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T13:15:27.817Z" agent="5.0 (X11)" etag="Y-HFVq3Fm0m3U4vU0ZxU" version="15.5.7" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
     <mxGraphModel dx="1614" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -214,7 +214,7 @@
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hVwaJ4X-K8OpYtOjWtu6-60" source="hVwaJ4X-K8OpYtOjWtu6-26" target="hVwaJ4X-K8OpYtOjWtu6-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-55" value="Recognize Revenue over life&lt;br&gt;expectany of member for life membership&lt;br&gt;fees. If periodic fees is collected Recognize&lt;br&gt;on yearly basis." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="hVwaJ4X-K8OpYtOjWtu6-60" vertex="1">
+        <mxCell id="hVwaJ4X-K8OpYtOjWtu6-55" value="Recognize Revenue over life&lt;br&gt;&lt;div&gt;expectancy of member for life membership fees.&lt;/div&gt;&lt;div&gt; If periodic fees is collected Recognize on yearly basis.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="hVwaJ4X-K8OpYtOjWtu6-60" vertex="1">
           <mxGeometry x="2385" y="130" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hVwaJ4X-K8OpYtOjWtu6-60" source="hVwaJ4X-K8OpYtOjWtu6-27" target="hVwaJ4X-K8OpYtOjWtu6-55" edge="1">
