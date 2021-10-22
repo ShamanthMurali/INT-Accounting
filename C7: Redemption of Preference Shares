@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T16:23:57.579Z" agent="5.0 (X11)" etag="HQxBgZoNwRbILrOpqQER" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T01:06:12.739Z" agent="5.0 (X11)" etag="mJR10q5lVtqQ0T5YZK5W" version="15.5.8" type="github">
   <diagram id="kWNjaML-fits-LTZLQbX" name="Page-1">
-    <mxGraphModel dx="1663" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="igYmjVa_Mxe0zANB_HV1-1" value="redemption of preference shares" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="igYmjVa_Mxe0zANB_HV1-3" value="&lt;div&gt;These are those shares which have a - &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Priority in payment of dividend&lt;/div&gt;&lt;div&gt;b. priority in repayment of capital&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Redemption means cancellation of rights by conversion to equity shares or&lt;br&gt;by repayment in cash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;as per cos act, bonus shares must be redeemed with in 20 years&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
+        <mxCell id="igYmjVa_Mxe0zANB_HV1-3" value="&lt;div&gt;PS are those shares which have a - &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Priority in payment of dividend&lt;/div&gt;&lt;div&gt;b. priority in repayment of capital&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Redemption means cancellation of rights by conversion to equity shares or&lt;br&gt;by repayment in cash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;as per cos act, Preference shares must be redeemed with in 20 years&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="280" y="640" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-9" value="&lt;u&gt;&lt;b&gt;Conditions for redemption&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -244,7 +244,7 @@
         <mxCell id="igYmjVa_Mxe0zANB_HV1-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="igYmjVa_Mxe0zANB_HV1-76" target="igYmjVa_Mxe0zANB_HV1-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igYmjVa_Mxe0zANB_HV1-86" target="_ZeI35rSjr5xGFWZcmTE-1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="igYmjVa_Mxe0zANB_HV1-86" target="_ZeI35rSjr5xGFWZcmTE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igYmjVa_Mxe0zANB_HV1-86" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
@@ -396,94 +396,94 @@
         <mxCell id="s8mrxDClnrSJpOJuDymM-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" parent="1" vertex="1">
           <mxGeometry x="770" y="3060" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZeI35rSjr5xGFWZcmTE-1" target="_ZeI35rSjr5xGFWZcmTE-3">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ZeI35rSjr5xGFWZcmTE-1" target="_ZeI35rSjr5xGFWZcmTE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZeI35rSjr5xGFWZcmTE-1" target="_ZeI35rSjr5xGFWZcmTE-4">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ZeI35rSjr5xGFWZcmTE-1" target="_ZeI35rSjr5xGFWZcmTE-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-1" value="When NOES for fresh issue is not given" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-1" value="When NOES for fresh issue is not given" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="2180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZeI35rSjr5xGFWZcmTE-3" target="_ZeI35rSjr5xGFWZcmTE-8">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ZeI35rSjr5xGFWZcmTE-3" target="_ZeI35rSjr5xGFWZcmTE-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-3" value="But Cl.Bal of bank is given" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-3" value="But Cl.Bal of bank is given" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZeI35rSjr5xGFWZcmTE-4" target="_ZeI35rSjr5xGFWZcmTE-10">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ZeI35rSjr5xGFWZcmTE-4" target="_ZeI35rSjr5xGFWZcmTE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-4" value="But Cl.Bal of bank is also not given" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-4" value="But Cl.Bal of bank is also not given" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-8" value="in this case prepare bank a/c as usual and (bal.fig)/issue price = NOES issued" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-8" value="in this case prepare bank a/c as usual and (bal.fig)/issue price = NOES issued" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="2300" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-10" value="Calculate maximum possible CRR that can be created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-10" value="Calculate maximum possible CRR that can be created" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="2300" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZeI35rSjr5xGFWZcmTE-10" target="_ZeI35rSjr5xGFWZcmTE-11">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_ZeI35rSjr5xGFWZcmTE-10" target="_ZeI35rSjr5xGFWZcmTE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZeI35rSjr5xGFWZcmTE-11" target="_ZeI35rSjr5xGFWZcmTE-28">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ZeI35rSjr5xGFWZcmTE-11" target="_ZeI35rSjr5xGFWZcmTE-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-11" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-11" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="80" y="2360" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-11">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_ZeI35rSjr5xGFWZcmTE-11" vertex="1">
           <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-13" value="(+) All divisible profits" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-12">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-13" value="(+) All divisible profits" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-12" vertex="1">
           <mxGeometry width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-14" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-12">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-14" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-12" vertex="1">
           <mxGeometry x="190" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-11">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_ZeI35rSjr5xGFWZcmTE-11" vertex="1">
           <mxGeometry y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-16" value="(+)Profit or loss on sale" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-15">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-16" value="(+)Profit or loss on sale" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-15" vertex="1">
           <mxGeometry width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-17" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-15">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-17" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-15" vertex="1">
           <mxGeometry x="190" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-11">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_ZeI35rSjr5xGFWZcmTE-11" vertex="1">
           <mxGeometry y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-19" value="(-) Premium on Redemption of PS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-18">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-19" value="(-) Premium on Redemption of PS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-18" vertex="1">
           <mxGeometry width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-20" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-18">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-20" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-18" vertex="1">
           <mxGeometry x="190" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-11">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_ZeI35rSjr5xGFWZcmTE-11" vertex="1">
           <mxGeometry y="120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-22" value="(-) Retained profits" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-21">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-22" value="(-) Retained profits" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-21" vertex="1">
           <mxGeometry width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-23" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-21">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-23" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-21" vertex="1">
           <mxGeometry x="190" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-11">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_ZeI35rSjr5xGFWZcmTE-11" vertex="1">
           <mxGeometry y="160" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-25" value="CRR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-24">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-25" value="CRR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-24" vertex="1">
           <mxGeometry width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-26" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_ZeI35rSjr5xGFWZcmTE-24">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-26" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="_ZeI35rSjr5xGFWZcmTE-24" vertex="1">
           <mxGeometry x="190" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ZeI35rSjr5xGFWZcmTE-28" target="_ZeI35rSjr5xGFWZcmTE-32">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ZeI35rSjr5xGFWZcmTE-28" target="_ZeI35rSjr5xGFWZcmTE-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-28" value="NV of Fresh issue = NV of PSR - CRR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-28" value="NV of Fresh issue = NV of PSR - CRR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="2580" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ZeI35rSjr5xGFWZcmTE-32" value="NOES = NV of Fresh issue/NV per share" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZeI35rSjr5xGFWZcmTE-32" value="NOES = NV of Fresh issue/NV per share" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="2640" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
