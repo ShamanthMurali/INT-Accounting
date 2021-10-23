@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T16:12:38.315Z" agent="5.0 (X11)" etag="jwEhcuPIXgu4V38pMhb_" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T07:10:56.225Z" agent="5.0 (X11)" etag="Kerrx6SJ0W0Pw-CB9b4M" version="15.5.8" type="github">
   <diagram id="tjUwSddMv80rMGcgYvxO" name="Page-1">
-    <mxGraphModel dx="4421" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k1crxEmskDX8GykCvBFa-1" target="5uIC8NiV8JnR1f9D3R8S-2">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k1crxEmskDX8GykCvBFa-1" target="5uIC8NiV8JnR1f9D3R8S-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1crxEmskDX8GykCvBFa-1" value="Bonus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -103,95 +103,95 @@
         <mxCell id="k1crxEmskDX8GykCvBFa-34" value="&lt;div&gt;1. issued bonus shares in 2:1, means 2 bonus shares for every shares&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. cos can issue bonus shares are par only&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="550" width="360" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-2" target="k1crxEmskDX8GykCvBFa-3">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-2" target="k1crxEmskDX8GykCvBFa-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-2" target="k1crxEmskDX8GykCvBFa-2">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-2" target="k1crxEmskDX8GykCvBFa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-2" value="Capitalization of reserves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-2" value="Capitalization of reserves" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-6" target="5uIC8NiV8JnR1f9D3R8S-8">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-6" target="5uIC8NiV8JnR1f9D3R8S-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-6" value="Right shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-6" value="Right shares" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-7" target="5uIC8NiV8JnR1f9D3R8S-13">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-7" target="5uIC8NiV8JnR1f9D3R8S-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-7" target="5uIC8NiV8JnR1f9D3R8S-19">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-7" target="5uIC8NiV8JnR1f9D3R8S-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions to the rights of existing equity shareholders&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The shares can be offered, without being offered to the existing shareholders, in the following cases&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. ESOP.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. To any persons if the price &lt;br&gt;of such shares is determined by a registered valuer subject &lt;br&gt;to certain specified conditions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. company gives their creditor an option to buy equity shares of a company. Provided option have been approved by a SR passed by the company in GM.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. where the loan has been obtained from government, &lt;br&gt;and government direct that such deb or loans be converted into shares in the company.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions to the rights of existing equity shareholders&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The shares can be offered, without being offered to the existing shareholders, in the following cases&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. ESOP.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. To any persons if the price &lt;br&gt;of such shares is determined by a registered valuer subject &lt;br&gt;to certain specified conditions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. company gives their creditor an option to buy equity shares of a company. Provided option have been approved by a SR passed by the company in GM.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. where the loan has been obtained from government, &lt;br&gt;and government direct that such deb or loans be converted into shares in the company.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="180" width="360" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-8" target="5uIC8NiV8JnR1f9D3R8S-7">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-8" target="5uIC8NiV8JnR1f9D3R8S-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-8" value="Whenever a company intends to issue new shares, the voting and governance rights of the existing SH may be diluted, hence allows existing SH to preserve their position by offering those newly issued shares at the first instance to them." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-8" value="Whenever a company intends to issue new shares, the voting and governance rights of the existing SH may be diluted, hence allows existing SH to preserve their position by offering those newly issued shares at the first instance to them." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="80" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-13" target="5uIC8NiV8JnR1f9D3R8S-14">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-13" target="5uIC8NiV8JnR1f9D3R8S-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-13" value="Acquired" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-13" value="Acquired" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1194" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-14" value="&lt;div&gt;If Right shares are acquired then the cost of right shares will be added&lt;/div&gt;&lt;div&gt; to the cost of original &lt;br&gt;&lt;/div&gt;&lt;div&gt;shares &amp;amp; hence reducing the &lt;br&gt;&lt;/div&gt;&lt;div&gt;overall weighted avg cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-14" value="&lt;div&gt;If Right shares are acquired then the cost of right shares will be added&lt;/div&gt;&lt;div&gt; to the cost of original &lt;br&gt;&lt;/div&gt;&lt;div&gt;shares &amp;amp; hence reducing the &lt;br&gt;&lt;/div&gt;&lt;div&gt;overall weighted avg cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1154" y="560" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-16" target="5uIC8NiV8JnR1f9D3R8S-21">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-16" target="5uIC8NiV8JnR1f9D3R8S-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-16" value="&lt;div&gt;&amp;nbsp;Ex Right Price*&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1366" y="820" width="120" height="40" as="geometry" />
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-16" value="&lt;div&gt;&amp;nbsp;Ex Right Price*&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1365" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-19" target="5uIC8NiV8JnR1f9D3R8S-28">
+        <mxCell id="cPG1BIOSbzKX_kda3Fvg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-19" target="5uIC8NiV8JnR1f9D3R8S-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-19" value="Renounced" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-19" value="Renounced" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1445" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-21" target="5uIC8NiV8JnR1f9D3R8S-27">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-21" target="5uIC8NiV8JnR1f9D3R8S-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-21" value="&lt;div&gt;Renouncement price received should be credited to PIL Alc&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1366" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-21" value="&lt;div&gt;Renouncement price received should be credited to PIL Alc&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1365" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-23" target="5uIC8NiV8JnR1f9D3R8S-25">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-23" target="5uIC8NiV8JnR1f9D3R8S-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-23" value="&lt;div&gt;Cum Right Price**&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1526" y="820" width="120" height="40" as="geometry" />
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-23" value="&lt;div&gt;Cum Right Price**&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1525" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-25" target="5uIC8NiV8JnR1f9D3R8S-26">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5uIC8NiV8JnR1f9D3R8S-25" target="5uIC8NiV8JnR1f9D3R8S-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-25" value="Renouncement price received should be deducted from cost of original shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1526" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-25" value="Renouncement price received should be deducted from cost of original shares" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1525" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-26" value="&lt;div&gt;** CRP = market &lt;br&gt;&lt;/div&gt;&lt;div&gt;price before right issue &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1526" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-26" value="&lt;div&gt;** CRP = market &lt;br&gt;&lt;/div&gt;&lt;div&gt;price before right issue &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1525" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-27" value="* ERP market price after right issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1366" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-27" value="* ERP market price after right issue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1365" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-28" target="5uIC8NiV8JnR1f9D3R8S-30">
+        <mxCell id="cPG1BIOSbzKX_kda3Fvg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-28" target="5uIC8NiV8JnR1f9D3R8S-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-28" value="Value of right = Cum-right value of share – Ex-right value of share " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="560" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-30" target="5uIC8NiV8JnR1f9D3R8S-16">
+        <mxCell id="cPG1BIOSbzKX_kda3Fvg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-28" target="5uIC8NiV8JnR1f9D3R8S-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-30" target="5uIC8NiV8JnR1f9D3R8S-23">
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-28" value="Value of right = Cum-right value of share – Ex-right value of share " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1385" y="760" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cPG1BIOSbzKX_kda3Fvg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5uIC8NiV8JnR1f9D3R8S-30" target="5uIC8NiV8JnR1f9D3R8S-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uIC8NiV8JnR1f9D3R8S-30" value="`\text{Ex-right value of the shares}=&amp;nbsp; [(\text{Cum-right value}xx \text{Number of existing shares})&amp;nbsp; +&amp;nbsp; (\text{Number of Rights shares} xx \text{Issue Price})] / (\text{ Number of Existing shares} + \text{Number of right shares})`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="700" width="890" height="60" as="geometry" />
+        <mxCell id="5uIC8NiV8JnR1f9D3R8S-30" value="`\text{Ex-right value of the shares}=&amp;nbsp; [(\text{Cum-right value(MP)}xx \text{Number of existing shares})&amp;nbsp; +&amp;nbsp; (\text{Number of Rights shares} xx \text{Issue Price})] / (\text{ Number of Existing shares} + \text{Number of right shares})`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="680" width="890" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
