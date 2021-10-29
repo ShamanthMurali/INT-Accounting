@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T04:00:49.873Z" agent="5.0 (X11)" etag="pQaia7Qljs69TkIXZm_-" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T08:31:00.622Z" agent="5.0 (X11)" etag="5LgnWylMBHIXJFaeVP83" version="15.6.2" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="4397" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3658" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -717,7 +717,7 @@
         <mxCell id="aUA01yDdBmGF5Haiwjqg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aUA01yDdBmGF5Haiwjqg-41" target="aUA01yDdBmGF5Haiwjqg-63" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aUA01yDdBmGF5Haiwjqg-41" value="2.Effect of changes in accounting policies are also &lt;u&gt;&lt;b&gt;not a prior period item&lt;/b&gt;&lt;/u&gt; [because it is mistake /error]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="aUA01yDdBmGF5Haiwjqg-41" value="2.Effect of changes in accounting policies are also &lt;u&gt;&lt;b&gt;not a prior period item&lt;/b&gt;&lt;/u&gt; [because it is not a mistake /error]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="500" y="720" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aUA01yDdBmGF5Haiwjqg-43" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="aUA01yDdBmGF5Haiwjqg-9" edge="1">
