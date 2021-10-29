@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T08:31:00.622Z" agent="5.0 (X11)" etag="5LgnWylMBHIXJFaeVP83" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T09:15:08.843Z" agent="5.0 (X11)" etag="wpRXuRmWJMQwf9J_Qm25" version="15.6.2" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="3658" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3179" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4528,7 +4528,7 @@
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-62" value="Enterprise earns &#xa;revenue from" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2200" y="590" width="120" height="40" as="geometry">
-            <mxRectangle x="2210" y="590" width="1540" height="500" as="alternateBounds" />
+            <mxRectangle x="2200" y="590" width="1540" height="500" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="hVwaJ4X-K8OpYtOjWtu6-62" vertex="1">
@@ -4876,7 +4876,7 @@
         <mxCell id="8OMPYJSG5cPUa__PFV5K-59" value="+ planting cost (plowing, digging holes etc.)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2855" y="1150" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8OMPYJSG5cPUa__PFV5K-60" value="**do not consider the cost required to make the plant grow its revenue exp." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+        <mxCell id="8OMPYJSG5cPUa__PFV5K-60" value="**do not consider the cost required to make the plant grow, it is a revenue exp." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2859.5" y="1210" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8OMPYJSG5cPUa__PFV5K-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8OMPYJSG5cPUa__PFV5K-62" target="8OMPYJSG5cPUa__PFV5K-35" edge="1" visible="0">
@@ -5256,12 +5256,12 @@
           <mxGeometry x="2450" y="960" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8OMPYJSG5cPUa__PFV5K-167" value="&lt;div&gt;&amp;gt; dont capitalize&lt;/div&gt;&lt;div&gt;&amp;gt; Dr. to P/L&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="2470" y="1060" width="140" height="40" as="geometry" />
+          <mxGeometry x="2480" y="1060" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8OMPYJSG5cPUa__PFV5K-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8OMPYJSG5cPUa__PFV5K-169" target="8OMPYJSG5cPUa__PFV5K-170" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8OMPYJSG5cPUa__PFV5K-169" value="If the If it increases the efficiency of the asset beyond its original performance and the cost should also be measured reliably.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="8OMPYJSG5cPUa__PFV5K-169" value="If it increases the efficiency of the asset beyond its original performance and the cost should also be measured reliably.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2670" y="960" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8OMPYJSG5cPUa__PFV5K-170" value="&amp;gt; capitalize it" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -6006,7 +6006,7 @@
         <mxCell id="-WtXLLydbNnoVJfI_DHs-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-WtXLLydbNnoVJfI_DHs-83" target="-WtXLLydbNnoVJfI_DHs-91" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WtXLLydbNnoVJfI_DHs-83" value="&lt;div&gt;Revenue to recognized for the year&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`=\text{contract price}xx\text{% of completion}-\text{Revenue recognized earlier}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="-WtXLLydbNnoVJfI_DHs-83" value="&lt;div&gt;Revenue to be recognized for the year&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`=\text{contract price}xx\text{% of completion}-\text{Revenue recognized earlier}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1300" y="940" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-WtXLLydbNnoVJfI_DHs-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-WtXLLydbNnoVJfI_DHs-86" target="-WtXLLydbNnoVJfI_DHs-87" edge="1" visible="0">
