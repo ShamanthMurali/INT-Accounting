@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T08:33:56.725Z" agent="5.0 (X11)" etag="zPLziH631C1kyDIzpKfx" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T08:34:51.514Z" agent="5.0 (X11)" etag="I-VAO2W7jpPkzgp_j1DY" version="15.6.2" type="github">
   <diagram id="IiWK_mqkVkSH2zdGOpN8" name="Page-1">
-    <mxGraphModel dx="997" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="73" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7nCRGYHBSB2GdviSriHI-25" value="As per AS 13, where the investments are acquired on cum-right basis and the market value &lt;br&gt;of investments immediately after their becoming ex -right is lower than the cost for which &lt;br&gt;they were acquired, it may be appropriate to apply the sale proceeds of rights to reduce &lt;br&gt;&lt;div&gt;the carrying amount of such investments to the market value.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;for example, Mr.X acquires 200 shares on cum-right basis for 60k. He receives right shares in the company at 1:1 at 105&amp;nbsp; each. He does not subscribe but sells all the rights for 15k. The market value of the shares after their becoming ex-rights has gone down to 50,000. What should be the accounting treatment in this case? &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In&amp;nbsp; this&amp;nbsp; case,&amp;nbsp; out&amp;nbsp; of&amp;nbsp; sale&amp;nbsp; proceeds(from sale of right shares) of 15k, 10k&amp;nbsp; may&amp;nbsp; be &lt;br&gt;&lt;/div&gt;applied to reduce the carrying amount to bring the investment it to the market value 50 from 60k and remaining 5k&lt;br&gt;would be credited to the p/l a/c.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4545" y="1080" width="340" height="170" as="geometry" />
+        <mxCell id="7nCRGYHBSB2GdviSriHI-25" value="As per AS 13, where the investments are acquired on cum-right basis and the market value&amp;nbsp; of investments immediately after their becoming ex -right is lower than the cost for which&amp;nbsp; they were acquired, it may be appropriate to apply the sale proceeds of rights to reduce&amp;nbsp; the carrying amount of such investments to the market value.&amp;nbsp; &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;for example&lt;/b&gt;, Mr.X acquires 200 shares on cum-right basis for 60k. He receives right shares in the company at 1:1 at 105&amp;nbsp; each. He does not subscribe but sells all the rights for 15k. The market value of the shares after their becoming ex-rights has gone down to 50,000. What should be the accounting treatment in this case? &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In&amp;nbsp; this&amp;nbsp; case,&amp;nbsp; out&amp;nbsp; of&amp;nbsp; sale&amp;nbsp; proceeds(from sale of right shares) of 15k, 10k&amp;nbsp; may&amp;nbsp; be&amp;nbsp; applied to reduce the carrying amount to bring the investment it to the market value 50 from 60k and remaining 5k would be credited to the p/l a/c.&amp;nbsp; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4545" y="1080" width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="O7AqYeLRrYLJZ_qffe9R-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O7AqYeLRrYLJZ_qffe9R-4" target="O7AqYeLRrYLJZ_qffe9R-181" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
@@ -4437,7 +4437,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-22" value="&lt;div&gt;Renounced @ &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cum Right Price**&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4370" y="970" width="120" height="40" as="geometry" />
+          <mxGeometry x="4500" y="970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nCRGYHBSB2GdviSriHI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7nCRGYHBSB2GdviSriHI-25" target="7nCRGYHBSB2GdviSriHI-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
