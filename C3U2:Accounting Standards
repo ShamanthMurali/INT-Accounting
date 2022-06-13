@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T09:15:08.843Z" agent="5.0 (X11)" etag="wpRXuRmWJMQwf9J_Qm25" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T11:19:32.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="7R_-qRUhcTkI0SlC6alG" version="20.0.1" type="github">
   <diagram id="Xaiu3GVk35by8MaD2y5A" name="Page-1">
-    <mxGraphModel dx="3179" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3436" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Change in accounting policy vs accounting estimate&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="-440" y="410" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AZR4yMhGMulzrJFEDDSg-1" value="&lt;div&gt;When an accounting policy has been changed, its&lt;/div&gt;&lt;div&gt;1) Fact of change&lt;/div&gt;&lt;div&gt;2) Reason for change&lt;/div&gt;&lt;div&gt;3)quantifiable effect of change(only if ascertainable)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;must be disclosed in the following manner...&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-500" y="410" width="280" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="hVwaJ4X-K8OpYtOjWtu6-60" value="Special cases" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2200" y="670" width="120" height="40" as="geometry">
             <mxRectangle x="2200" y="670" width="2730" height="420" as="alternateBounds" />
@@ -485,6 +491,9 @@
         <mxCell id="AZR4yMhGMulzrJFEDDSg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-22" target="1LN1yMJUp_J7Lrd1q6oo-40" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1LN1yMJUp_J7Lrd1q6oo-22" target="Ir3X5OraNT4esSzbt5Mr-2" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1LN1yMJUp_J7Lrd1q6oo-22" value="Change in accounting policy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-420" y="210" width="120" height="40" as="geometry" />
         </mxCell>
@@ -541,9 +550,6 @@
         </mxCell>
         <mxCell id="AZR4yMhGMulzrJFEDDSg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AZR4yMhGMulzrJFEDDSg-1" target="AZR4yMhGMulzrJFEDDSg-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AZR4yMhGMulzrJFEDDSg-1" value="&lt;div&gt;When an accounting policy has been changed, its&lt;/div&gt;&lt;div&gt;1) Fact of change&lt;/div&gt;&lt;div&gt;2) Reason for change&lt;/div&gt;&lt;div&gt;3)quantifiable effect of change(only if ascertainable)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;must be disclosed in the following manner...&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-500" y="410" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AZR4yMhGMulzrJFEDDSg-3" value="Example" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="-420" y="530" width="120" height="40" as="geometry">
@@ -6108,6 +6114,24 @@
         </mxCell>
         <mxCell id="aUcm2l_JUN0dF-gKE2F_-4" value="&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1200" y="-760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ir3X5OraNT4esSzbt5Mr-2" target="Ir3X5OraNT4esSzbt5Mr-4" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ir3X5OraNT4esSzbt5Mr-4" target="Ir3X5OraNT4esSzbt5Mr-5" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-4" value="1. provision for doubtful debts was change from 2% to 3%&lt;br&gt;2. life of an asset was changed from 2 years to 3 years&lt;br&gt;&lt;br&gt;In the above examples it is an change in the accounting estimates and not a change in accounting policy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-480" y="480" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ir3X5OraNT4esSzbt5Mr-5" target="Ir3X5OraNT4esSzbt5Mr-6" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-5" value="&lt;div&gt;1. management has introduced a formal gratuity scheme in&amp;nbsp;&lt;/div&gt;&lt;div&gt;place of ad-hoc ex-gratia payments to employees on retirement.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In this case it is an&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;adoption of an accounting policy for events or transactions that differ substance from&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;previously occurring events or transactions, will not be considered as a change in accounting policy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-480" y="630" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir3X5OraNT4esSzbt5Mr-6" value="In the case of adoption of a new policy will not be treated as a change in accounting policy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-480" y="830" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
